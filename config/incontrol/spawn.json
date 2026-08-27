@@ -1,0 +1,8 @@
+[
+  {
+    "mobs": ["alexsmobs:stradpole"],
+    "biomes": ["#minecraft:is_nether"],
+    "random": 0.7,
+    "action": "deny"
+  }
+]
