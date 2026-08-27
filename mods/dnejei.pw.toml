@@ -1,25 +1,25 @@
-filename = 'ftb-teams-neoforge-2101.1.11.jar'
-name = 'FTB Teams (NeoForge)'
+filename = 'halcyonjei-1.21.1-0.5.0.jar'
+name = 'Halcyon JEI Plugin'
 side = 'server'
 x-prismlauncher-loaders = [ 'neoforge' ]
 x-prismlauncher-mc-versions = [ '1.21.1' ]
 x-prismlauncher-release-type = 'release'
-x-prismlauncher-version-number = '[NEOFORGE][1.21.1] FTB Teams 2101.1.11'
+x-prismlauncher-version-number = 'halcyonjei-1.21.1-0.5.0.jar'
 
 [download]
-hash = '62b65f752d0326edd13244e58d5f2aec035da4e9'
+hash = '91b90c194459495de6c217184fdcabe6e734ab1b'
 hash-format = 'sha1'
 mode = 'metadata:curseforge'
 url = ''
 
 [update.curseforge]
-file-id = 8724782
-project-id = 404468
+file-id = 8589780
+project-id = 1224607
 
 [[x-prismlauncher-dependencies]]
-addonId = '404465'
+addonId = '238222'
 type = 'REQUIRED'
 
 [[x-prismlauncher-dependencies]]
-addonId = '419699'
+addonId = '1189360'
 type = 'REQUIRED'

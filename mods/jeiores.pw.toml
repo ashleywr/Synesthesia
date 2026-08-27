@@ -1,0 +1,21 @@
+filename = 'JEI Ores-1.21.1-1.0.0.jar'
+name = 'JEIOres'
+side = 'server'
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = 'JEI Ores-1.21.1-1.0.0.jar'
+
+[download]
+hash = '6dc68da22265851f3c5e9e5fefb6e4288550ec08'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 8581545
+project-id = 1425991
+
+[[x-prismlauncher-dependencies]]
+addonId = '238222'
+type = 'REQUIRED'

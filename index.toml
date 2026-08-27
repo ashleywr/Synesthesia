@@ -96,7 +96,7 @@ metafile = true
 
 [[files]]
 file = "mods/amendments.pw.toml"
-hash = "143d91a757232bbb06619fb244cbc3510bad745db1692155025f41ebe43f1842"
+hash = "89301781b74634f6974e85d36c60a8e46199eb0a322da3a38f55d016e71b6238"
 metafile = true
 
 [[files]]
@@ -111,7 +111,7 @@ metafile = true
 
 [[files]]
 file = "mods/architectury-api.pw.toml"
-hash = "657a01a86bbf8617e4726c77df08f708e43a3db12db74b837eebd8eb1d93faae"
+hash = "55e3bbb3e105edb82c65e8556121ded13e0a25f9768c779fc0ab358680cdb402"
 metafile = true
 
 [[files]]
@@ -121,7 +121,7 @@ metafile = true
 
 [[files]]
 file = "mods/asyncparticles.pw.toml"
-hash = "459d6d1fb209ec82ad8a94c7b44687c9adc8d9ecabc32b2c115264e62825e38d"
+hash = "35533db3ea57be023ccc013a9248b7df89cb5510002850608df3f0826d79e3f4"
 metafile = true
 
 [[files]]
@@ -305,6 +305,11 @@ hash = "a0334bc3ef1ceee7b2ec84ab4999923d7007695fef410b78948c57a6cb006441"
 metafile = true
 
 [[files]]
+file = "mods/compat-api.pw.toml"
+hash = "70fdce283bcf45962d24f5d4b22aa4aac3fd39c43cbc3be6a4e131e4db75d29b"
+metafile = true
+
+[[files]]
 file = "mods/compat-structure.pw.toml"
 hash = "d47440b3f83577c379a37d1c6a0c066087ecb2a061c50cc0785921f281f954b3"
 metafile = true
@@ -391,7 +396,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-integrated-farming.pw.toml"
-hash = "8bbb0ceefa030d10e8cb028b38f660af791ad2d3a07b0f4d622ed2126f978a56"
+hash = "7452e99f449d2f9a8859414481bfbc55dc66e41c70661e61a59a61b87fad3d30"
 metafile = true
 
 [[files]]
@@ -575,13 +580,13 @@ hash = "8c5d9811e64114a5834032929d1f83deab82aafd49cafd52d6426919352d5d20"
 metafile = true
 
 [[files]]
-file = "mods/deployer.pw.toml"
-hash = "b567ae5fa0c5eb4a5021a1fe679f20315ec5081b08119763deb63b52f6b6e8eb"
+file = "mods/distanthorizons.pw.toml"
+hash = "87e9637f02d5660fde865376c1928ce66cdfdd2fd9a252e973c7343c6701988f"
 metafile = true
 
 [[files]]
-file = "mods/distanthorizons.pw.toml"
-hash = "87e9637f02d5660fde865376c1928ce66cdfdd2fd9a252e973c7343c6701988f"
+file = "mods/dnejei.pw.toml"
+hash = "a83297388e0f04cd59445bef68aa75de31cbf21b24eed5cdc2daa9cd6d7783b3"
 metafile = true
 
 [[files]]
@@ -725,11 +730,6 @@ hash = "0aeff91a45a777823a244bb39aa82f23b4ec681798e479bc351318e26db4490a"
 metafile = true
 
 [[files]]
-file = "mods/extra-gauges.pw.toml"
-hash = "f18c32e2e7ee01bbc3bff611c21ada838be934389f2241273a0f51c092ea46c1"
-metafile = true
-
-[[files]]
 file = "mods/fallingleavesforge.pw.toml"
 hash = "ddf64aedd278a93c2a84d4c67dffec2198b12495c65084de4abdaa1db76c4322"
 metafile = true
@@ -771,17 +771,17 @@ metafile = true
 
 [[files]]
 file = "mods/ftb-library-forge.pw.toml"
-hash = "276e79d919c3a698ab2881d784544b7e60bef69b43f44808353bb65d38633cb3"
+hash = "e4d9252217aa87cccc69ea8b60b6036c828b038240eeec85ebee7716621dcce5"
 metafile = true
 
 [[files]]
 file = "mods/ftb-quests-forge.pw.toml"
-hash = "6a451ba7022f1afab59b6884ded7e2c533f7d4279738477030d6de496e3de1a4"
+hash = "7ed632ba22e90f99011e6a27755c15e3018df2a6215364a5df5ced7b1dda769d"
 metafile = true
 
 [[files]]
 file = "mods/ftb-teams-forge.pw.toml"
-hash = "c21c2308684a75cda7dd9d557d129c9f89f49be527da3d5aa675fff444c11f5e"
+hash = "cd1bb0ea09e5ae27f0c29f460ea5ec41e327298a256dd00a7fd2f002f2c40bfe"
 metafile = true
 
 [[files]]
@@ -931,7 +931,12 @@ metafile = true
 
 [[files]]
 file = "mods/jei.pw.toml"
-hash = "ef6a0106d24f61daa3f02668690d984c2dfe294a0c1153f573673a626c2b5ce8"
+hash = "cf35f4005c6bfac7f0e8658b41c448a331e325c84fe0960039e3cf7a764982ad"
+metafile = true
+
+[[files]]
+file = "mods/jeiores.pw.toml"
+hash = "d8e28cc5a2411881391791ef3eb98c716088f59f753d4223e5965a5186a85791"
 metafile = true
 
 [[files]]
@@ -941,7 +946,7 @@ metafile = true
 
 [[files]]
 file = "mods/just-another-witchery-remake.pw.toml"
-hash = "32bac0ab54ef965ff753233596ae1e601b9897d838fec896fd3f7c048bd91870"
+hash = "591d6b6d1a8ed2b1168b1b7a01834db094a456ce5da290ad66bd857be402d47c"
 metafile = true
 
 [[files]]
@@ -952,6 +957,11 @@ metafile = true
 [[files]]
 file = "mods/just-enough-professions-jep.pw.toml"
 hash = "ad83f3f9258842e79160ba550d2377f947d7630183eef2fec0ef499f143c2641"
+metafile = true
+
+[[files]]
+file = "mods/just-enough-spirits.pw.toml"
+hash = "881fa56ca53b6ca677138d68d6b12fd2d24a8c3184e0281e94e65a54fa5bc4a7"
 metafile = true
 
 [[files]]
@@ -1421,7 +1431,7 @@ metafile = true
 
 [[files]]
 file = "mods/power-grid.pw.toml"
-hash = "f1723e7a08b9b1c9d201cc434dfaa440712036f19b537877f4277c322970000f"
+hash = "39b08c486ac6aeae13e1d364c16d5286f2434259478d21ee0990d40bce52036b"
 metafile = true
 
 [[files]]
@@ -1832,6 +1842,11 @@ metafile = true
 [[files]]
 file = "mods/yacl.pw.toml"
 hash = "2c3c1a470e0aadb71f40f2eade67760b9452b3d6c23e039239aeeded0e72c5ca"
+metafile = true
+
+[[files]]
+file = "mods/yagm.pw.toml"
+hash = "f8422f30cfc6fbf5c16644f3fc0aa4b39c0409f4680a6f185409f12c34d1f741"
 metafile = true
 
 [[files]]

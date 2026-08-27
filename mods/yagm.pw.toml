@@ -1,0 +1,25 @@
+filename = 'yagm-1.21.1-0.1.2-NEOFORGE.jar'
+name = 'Yet Another Gravestone Mod [YAGM]'
+side = 'both'
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = '0.1.2'
+
+[download]
+hash = '76225e7a91cdd7446399c9d956616abbab732a5e602951e82492adee00f358903bd0db5959f3687d011f7053e0cb7dcec9751bcfa412d95fe1708b8fcc4fd6ce'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/lkwjObIy/versions/fw4slQNW/yagm-1.21.1-0.1.2-NEOFORGE.jar'
+
+[update.modrinth]
+mod-id = 'lkwjObIy'
+version = 'fw4slQNW'
+
+[[x-prismlauncher-dependencies]]
+addonId = 'RH2KUdKJ'
+type = 'REQUIRED'
+
+[[x-prismlauncher-dependencies]]
+addonId = 'lhGA9TYQ'
+type = 'REQUIRED'
