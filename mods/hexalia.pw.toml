@@ -1,0 +1,41 @@
+filename = 'hexalia-neoforge-1.3.6.jar'
+name = 'Hexalia'
+side = 'both'
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = '1.3.6'
+
+[download]
+hash = '37859df25faf7905477fdc8031985e9761e57106a14d58ebc410a9da1e9d92e806b2d147463e67d727ade5a1fcc563b14eadb6bd3a9243d21ecd49151e683581'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/bkz5C0dQ/versions/wOxPMEyl/hexalia-neoforge-1.3.6.jar'
+
+[update.modrinth]
+mod-id = 'bkz5C0dQ'
+version = 'wOxPMEyl'
+
+[[x-prismlauncher-dependencies]]
+addonId = '8BmcQJ2H'
+type = 'REQUIRED'
+
+[[x-prismlauncher-dependencies]]
+addonId = 'u6dRKJwZ'
+type = 'OPTIONAL'
+
+[[x-prismlauncher-dependencies]]
+addonId = 'nfn13YXA'
+type = 'OPTIONAL'
+
+[[x-prismlauncher-dependencies]]
+addonId = 'fRiHVvU7'
+type = 'OPTIONAL'
+
+[[x-prismlauncher-dependencies]]
+addonId = 'lhGA9TYQ'
+type = 'REQUIRED'
+
+[[x-prismlauncher-dependencies]]
+addonId = 'nU0bVIaL'
+type = 'OPTIONAL'

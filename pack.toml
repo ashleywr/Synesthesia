@@ -1,0 +1,13 @@
+name = "Synesthesia"
+author = "Ashley"
+version = "0.1.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "2a4a98320e9f4512202d5a1ad8749b205cb4eeb72338b5d0bf1ae820d63722dd"
+
+[versions]
+minecraft = "1.21.1"
+neoforge = "21.1.248"

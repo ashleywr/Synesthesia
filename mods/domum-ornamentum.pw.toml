@@ -1,0 +1,18 @@
+filename = 'domum-ornamentum-1.0.234-snapshot-main.jar'
+name = 'Domum Ornamentum'
+side = ''
+x-prismlauncher-dependencies = []
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21.1' ]
+x-prismlauncher-release-type = 'beta'
+x-prismlauncher-version-number = 'domum-ornamentum - 1.0.234-snapshot - beta'
+
+[download]
+hash = 'e9564ce1269840b4e70791b79c83716a972618df'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 8311478
+project-id = 527361

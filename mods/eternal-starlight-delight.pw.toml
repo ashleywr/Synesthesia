@@ -1,0 +1,25 @@
+filename = 'eternal_starlight_delight-neoforge-1.3.0.jar'
+name = "Eternal Starlight's Delight"
+side = 'both'
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = '1.3.0'
+
+[download]
+hash = '581b3d79ebebf83a087dbd90ec01e15eb6ae00191dc8925f159a778d70f4a7a6e4bd3bd77507a49d3661262eeb26e1cbdfbcf3bc8b33e7ffab2ef947e56f3238'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/YylITkmH/versions/TAxZLsgW/eternal_starlight_delight-neoforge-1.3.0.jar'
+
+[update.modrinth]
+mod-id = 'YylITkmH'
+version = 'TAxZLsgW'
+
+[[x-prismlauncher-dependencies]]
+addonId = 'R2OftAxM'
+type = 'REQUIRED'
+
+[[x-prismlauncher-dependencies]]
+addonId = 'XvcfUGfB'
+type = 'REQUIRED'

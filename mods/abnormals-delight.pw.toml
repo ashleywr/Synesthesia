@@ -1,0 +1,65 @@
+filename = 'abnormals_delight-1.21.1-6.0.2.jar'
+name = 'Abnormals Delight'
+side = 'both'
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = '6.0.2'
+
+[download]
+hash = '69c555f14a6d6659a135b16afc1d8e57bd8246c22693ff147f02605c7559aa2b639b835a6c4abab5b25edc0ae68cc84c2db079d33c47000fa8a682c7121a3a21'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/ts3qjo5t/versions/FTg86KNz/abnormals_delight-1.21.1-6.0.2.jar'
+
+[update.modrinth]
+mod-id = 'ts3qjo5t'
+version = 'FTg86KNz'
+
+[[x-prismlauncher-dependencies]]
+addonId = 'OqtiAZcV'
+type = 'OPTIONAL'
+
+[[x-prismlauncher-dependencies]]
+addonId = 'R2OftAxM'
+type = 'REQUIRED'
+
+[[x-prismlauncher-dependencies]]
+addonId = 'b7vOFSIp'
+type = 'OPTIONAL'
+
+[[x-prismlauncher-dependencies]]
+addonId = 'InYMuiQt'
+type = 'OPTIONAL'
+
+[[x-prismlauncher-dependencies]]
+addonId = 'tfjmPSbI'
+type = 'OPTIONAL'
+
+[[x-prismlauncher-dependencies]]
+addonId = 'U9sJOFmJ'
+type = 'OPTIONAL'
+
+[[x-prismlauncher-dependencies]]
+addonId = 'VsM5EDoI'
+type = 'REQUIRED'
+
+[[x-prismlauncher-dependencies]]
+addonId = 'cRh6MJ6n'
+type = 'OPTIONAL'
+
+[[x-prismlauncher-dependencies]]
+addonId = 'M6tSWZ4N'
+type = 'OPTIONAL'
+
+[[x-prismlauncher-dependencies]]
+addonId = 'gTuTFFyz'
+type = 'OPTIONAL'
+
+[[x-prismlauncher-dependencies]]
+addonId = 'cPle5Z8G'
+type = 'OPTIONAL'
+
+[[x-prismlauncher-dependencies]]
+addonId = 'A4Xrv60A'
+type = 'OPTIONAL'

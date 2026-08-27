@@ -1,0 +1,21 @@
+filename = 'stylecolonies-1.15.58-1.21.1.jar'
+name = 'Stylecolonies'
+side = 'server'
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21', '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = 'stylecolonies-1.15.58-1.21.1.jar'
+
+[download]
+hash = '0f8209836b05dec7ee14a58d1d50653156c80faf'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 8688839
+project-id = 827507
+
+[[x-prismlauncher-dependencies]]
+addonId = '245506'
+type = 'REQUIRED'

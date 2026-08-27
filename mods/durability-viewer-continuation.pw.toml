@@ -1,0 +1,18 @@
+filename = 'durabilityviewer-1.1.2-neoforge-1.21.1.jar'
+name = 'Durability Viewer Continuation'
+side = 'client'
+x-prismlauncher-dependencies = []
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = '1.1.2-neoforge-1.21.1'
+
+[download]
+hash = '518e9b299d96a52a41fe2f1023bf175264b2304fb09873b4d1c0935dc4428e4a6d817b3c5269d3ef2c3a040112fced85786be3d7daaf3043e9a1a36977e48980'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/t3pe6TOk/versions/Akx0pRId/durabilityviewer-1.1.2-neoforge-1.21.1.jar'
+
+[update.modrinth]
+mod-id = 't3pe6TOk'
+version = 'Akx0pRId'

@@ -1,0 +1,18 @@
+filename = 'DTNPaletteOfPaws-1.21-1.2.7.jar'
+name = "Doggy Talents Next's Palette Of Paws"
+side = 'both'
+x-prismlauncher-dependencies = []
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21', '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = '1.2.7'
+
+[download]
+hash = '8e8a9542260a821b64bc03f609f10ed1c4e9ae1b9dd2a701e21e815d571ab8f51953cbced3629e2dd13fa58c78add5c9bc032a83744831406d739227f2201282'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/sToyLl7P/versions/r7XqX2Wr/DTNPaletteOfPaws-1.21-1.2.7.jar'
+
+[update.modrinth]
+mod-id = 'sToyLl7P'
+version = 'r7XqX2Wr'

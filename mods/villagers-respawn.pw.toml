@@ -1,0 +1,18 @@
+filename = 'neo_21.1_VillagersRespawn_CC-0.7.1.jar'
+name = 'Villagers Respawn  (for Forge, Fabric,NeoForge)'
+side = ''
+x-prismlauncher-dependencies = []
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = 'neo_21.1_VillagersRespawn_CC-0.7.1.jar'
+
+[download]
+hash = '8315f01df54515e32e175c3148e351df070ff328'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 7543738
+project-id = 396041

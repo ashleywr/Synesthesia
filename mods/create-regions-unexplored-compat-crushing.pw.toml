@@ -1,0 +1,27 @@
+filename = 'create_ru_compat-1.0.0.jar'
+name = 'Create Regions Unexplored Compat: Crushing'
+side = 'server'
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = '1.0.0'
+
+[download]
+hash = '39e1696dd0f665a278b0c51e81f6b8a8ff7881ebc75a2f17137dcba51e35b38c6aef3ae1d54856142a334299e82f2d3a508599808789f8c295e15ea98473d862'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/bdR5T71y/versions/2JgMnuog/create_ru_compat-1.0.0.jar'
+
+[update.modrinth]
+mod-id = 'bdR5T71y'
+version = '2JgMnuog'
+
+[[x-prismlauncher-dependencies]]
+addonId = 'Tkikq67H'
+type = 'REQUIRED'
+version = 'KrbwbPuJ'
+
+[[x-prismlauncher-dependencies]]
+addonId = 'LNytGWDc'
+type = 'REQUIRED'
+version = 'n7NADxiG'

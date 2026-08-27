@@ -1,0 +1,21 @@
+filename = 'silent-gear-1.21.1-neoforge-4.2.1.1.jar'
+name = 'Silent Gear'
+side = 'both'
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21', '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = '4.2.1.1'
+
+[download]
+hash = 'a9760a18eb1564c546376deb475cd84f668aa76f4b947420902949f5014b675292f7fd808fe51dcfcb915ccebbf4e55f77c9865a013b74034b827dafa7564a98'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/73mSSnCf/versions/VRVOMdub/silent-gear-1.21.1-neoforge-4.2.1.1.jar'
+
+[update.modrinth]
+mod-id = '73mSSnCf'
+version = 'VRVOMdub'
+
+[[x-prismlauncher-dependencies]]
+addonId = 'BQhuHQo4'
+type = 'REQUIRED'

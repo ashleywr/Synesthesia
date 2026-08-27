@@ -1,0 +1,21 @@
+filename = 'incontrol-1.21-10.2.7.jar'
+name = 'In Control!'
+side = 'server'
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21.1' ]
+x-prismlauncher-release-type = 'beta'
+x-prismlauncher-version-number = '1.21-10.2.7'
+
+[download]
+hash = '1f710665df092147d845b69ea7c0d5c1290218870999446f7595b7b0abfa743a6759de77baa7b443a303ed5f103d39b9188c1b4405babbfbcc36737bfe0f1f22'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/KpICtuVx/versions/gsy3YqYj/incontrol-1.21-10.2.7.jar'
+
+[update.modrinth]
+mod-id = 'KpICtuVx'
+version = 'gsy3YqYj'
+
+[[x-prismlauncher-dependencies]]
+addonId = '8VDCUS3b'
+type = 'OPTIONAL'

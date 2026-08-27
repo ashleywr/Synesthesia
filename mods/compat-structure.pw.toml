@@ -1,0 +1,18 @@
+filename = 'compatstructures-1.0.3.jar'
+name = 'Compat Structure'
+side = 'both'
+x-prismlauncher-dependencies = []
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = '1.0.3'
+
+[download]
+hash = 'b6a8994b22542cbcccbdc90d95b9612330c49c9197e65a8ca4db362b08bbc26051caffae167ba2dc250558b1c850ea6093d5fdca3e684cf64300f8f8cb58443e'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/6VNEemoI/versions/AZBjZf96/compatstructures-1.0.3.jar'
+
+[update.modrinth]
+mod-id = '6VNEemoI'
+version = 'AZBjZf96'

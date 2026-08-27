@@ -1,0 +1,49 @@
+filename = "Alex's Mobs Music Mod 1.20-26.1.2 v1.1.0.jar"
+name = "Alex's Mobs Extra Music"
+side = 'server'
+x-prismlauncher-loaders = [ 'neoforge', 'forge', 'quilt', 'fabric' ]
+x-prismlauncher-mc-versions = [
+    '1.20',
+    '1.20.1',
+    '1.20.4',
+    '1.20.6',
+    '1.21',
+    '1.21.1',
+    '1.21.2',
+    '1.21.3',
+    '1.21.4',
+    '1.21.5',
+    '1.21.6',
+    '1.21.7',
+    '1.21.8',
+    '1.21.9',
+    '1.21.10',
+    '1.21.11',
+    '26.1',
+    '26.1.1',
+    '26.1.2'
+]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = '1.1.1'
+
+[download]
+hash = 'aaddddfa366e13039b12b0f4c732f4ad628b21c8746951342006db028f353c979ebe153f9f2f00974f03070f0d08f69fc5a1436ffde5f0391d273ebd2750f9f9'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/ynxotL0Y/versions/hdWRNCLk/Alex%27s Mobs Music Mod 1.20-26.1.2 v1.1.0.jar'
+
+[update.modrinth]
+mod-id = 'ynxotL0Y'
+version = 'hdWRNCLk'
+
+[[x-prismlauncher-dependencies]]
+addonId = '2cMuAZAp'
+type = 'OPTIONAL'
+
+[[x-prismlauncher-dependencies]]
+addonId = 'kYIaHHfw'
+type = 'OPTIONAL'
+
+[[x-prismlauncher-dependencies]]
+addonId = 'EmNhnNnt'
+type = 'OPTIONAL'

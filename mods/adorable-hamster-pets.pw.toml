@@ -1,0 +1,45 @@
+filename = 'adorablehamsterpets-3.6.1-1.21.1+neoforge.jar'
+name = 'Adorable Hamster Pets'
+side = 'both'
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21.1' ]
+x-prismlauncher-release-type = 'beta'
+x-prismlauncher-version-number = '3.6.1-1.21.1+neoforge'
+
+[download]
+hash = '48eb5c0e79b960bf4ff9cdace8040fc2be7fbbef77ce1bddf975fb4626b271e61da2aff8a989c8490b623bd3eaa5781a411deaa554fa6684a7e726a616877bf9'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/LmrhZdK2/versions/bQbvxMXO/adorablehamsterpets-3.6.1-1.21.1%2Bneoforge.jar'
+
+[update.modrinth]
+mod-id = 'LmrhZdK2'
+version = 'bQbvxMXO'
+
+[[x-prismlauncher-dependencies]]
+addonId = '8BmcQJ2H'
+type = 'REQUIRED'
+
+[[x-prismlauncher-dependencies]]
+addonId = 'nU0bVIaL'
+type = 'REQUIRED'
+
+[[x-prismlauncher-dependencies]]
+addonId = '8aoMKplv'
+type = 'OPTIONAL'
+
+[[x-prismlauncher-dependencies]]
+addonId = 'lhGA9TYQ'
+type = 'REQUIRED'
+
+[[x-prismlauncher-dependencies]]
+addonId = 'ordsPcFz'
+type = 'REQUIRED'
+
+[[x-prismlauncher-dependencies]]
+addonId = 'hYykXjDp'
+type = 'REQUIRED'
+
+[[x-prismlauncher-dependencies]]
+addonId = 'nvQzSEkH'
+type = 'OPTIONAL'

@@ -1,0 +1,18 @@
+filename = 'storagedelight-26.07.01a-1.21-neoforge.jar'
+name = 'Storage Delight'
+side = 'both'
+x-prismlauncher-dependencies = []
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21', '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = '26.07.01a-1.21-neoforge'
+
+[download]
+hash = '2160c9fa415d5db9baf52922b2ad11753823e81431586b59a41b6d64ac7fc8ed2dfb07e10f307913467ed47284894edee40d3977e25b38664856356088e1cf52'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/LTTvOp5L/versions/zuWePqzc/storagedelight-26.07.01a-1.21-neoforge.jar'
+
+[update.modrinth]
+mod-id = 'LTTvOp5L'
+version = 'zuWePqzc'

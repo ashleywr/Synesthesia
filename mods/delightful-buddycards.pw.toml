@@ -1,0 +1,32 @@
+filename = 'delightfulbuddycards-1.21.1-2.0.0.jar'
+name = 'Delightful Buddycards'
+side = 'both'
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = '1.21.1-2.0.0'
+
+[download]
+hash = '05652daa801639192512345731aa66647c7e4fa1db529766e0a6f56a37c34589752d444fb684dab70550ea1c547c74dd41ba6284728a4bec40771db70db04e06'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/F9iAh283/versions/xXMPD82o/delightfulbuddycards-1.21.1-2.0.0.jar'
+
+[update.modrinth]
+mod-id = 'F9iAh283'
+version = 'xXMPD82o'
+
+[[x-prismlauncher-dependencies]]
+addonId = 'vvuO3ImH'
+type = 'REQUIRED'
+version = 'IPQlZkz1'
+
+[[x-prismlauncher-dependencies]]
+addonId = 'R2OftAxM'
+type = 'REQUIRED'
+version = 'ugqnwJ4j'
+
+[[x-prismlauncher-dependencies]]
+addonId = 'GGGjHC5t'
+type = 'REQUIRED'
+version = 'tr2KQtRb'

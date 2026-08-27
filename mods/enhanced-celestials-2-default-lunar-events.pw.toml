@@ -1,0 +1,29 @@
+filename = 'Enhanced-Celestials-2-Default-Lunar-Events-NeoForge-1.21.1-2.0.1.1.jar'
+name = 'Enhanced Celestials 2: Default Lunar Events'
+side = ''
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = '2.0.1.1-neoforge'
+
+[download]
+hash = '6ba601b8e062c2fb8f3cdf9c87f294fa970a23c0751683f70130f711d0fd49a6dd09983816c5bcadec3c2d39c58520d5701e1c6c201fcb9aaa73fc9475151510'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/19P0GlZk/versions/JEsPJAr0/Enhanced-Celestials-2-Default-Lunar-Events-NeoForge-1.21.1-2.0.1.1.jar'
+
+[update.modrinth]
+mod-id = '19P0GlZk'
+version = 'JEsPJAr0'
+
+[[x-prismlauncher-dependencies]]
+addonId = 'ziOp6EO8'
+type = 'REQUIRED'
+
+[[x-prismlauncher-dependencies]]
+addonId = 'ugCWUHV9'
+type = 'REQUIRED'
+
+[[x-prismlauncher-dependencies]]
+addonId = 'z2XEADmE'
+type = 'REQUIRED'

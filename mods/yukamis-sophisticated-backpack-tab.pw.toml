@@ -1,0 +1,18 @@
+filename = 'yukamibackpacktab-1.21.1-2.0.0-neoforge.jar'
+name = "Yukami's Sophisticated Backpack Tab"
+side = 'client'
+x-prismlauncher-dependencies = []
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = '2.0.0'
+
+[download]
+hash = '5b177412091411f65d5e34b1df6110fcbaef57481bb0fc8a6cc227747c7ffadf9694936684927813307acf721cab5b60a2331a585ff55e74ecd62a235a9052be'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/bibWUguy/versions/YbgqlWVg/yukamibackpacktab-1.21.1-2.0.0-neoforge.jar'
+
+[update.modrinth]
+mod-id = 'bibWUguy'
+version = 'YbgqlWVg'

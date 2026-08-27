@@ -1,0 +1,18 @@
+filename = 'swashbucklers! 2.6.6C 1.21.1 neoforge.jar'
+name = 'Swashbucklers'
+side = 'both'
+x-prismlauncher-dependencies = []
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = '2.6.6'
+
+[download]
+hash = '62410d930b8f62bb0bb582c88fd9fbf0381813925340e83ebd8b34af25439cbe505a514c55fd1dbd184a3e839a913eba395f8f8374f836de6403e5dddfaf9e7a'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/g6bnDQis/versions/Htp11AjW/swashbucklers%21 2.6.6C 1.21.1 neoforge.jar'
+
+[update.modrinth]
+mod-id = 'g6bnDQis'
+version = 'Htp11AjW'

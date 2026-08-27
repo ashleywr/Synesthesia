@@ -1,0 +1,21 @@
+filename = 'buddycards-1.21.1-5.0.4.jar'
+name = 'Buddycards'
+side = 'both'
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = '1.21.1-5.0.4'
+
+[download]
+hash = 'b1601479d83ea76a1718c28c3ea75ee8368e228e75c3d8a9c8ecb180f1d536ebe99e0e6ecd783b262a21ba3a80bc78821e4640f2336d508984321759a73cf4a3'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/GGGjHC5t/versions/58fUHDvy/buddycards-1.21.1-5.0.4.jar'
+
+[update.modrinth]
+mod-id = 'GGGjHC5t'
+version = '58fUHDvy'
+
+[[x-prismlauncher-dependencies]]
+addonId = 'vvuO3ImH'
+type = 'REQUIRED'

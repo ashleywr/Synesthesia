@@ -1,0 +1,21 @@
+filename = 'supplementaries-1.21.1-3.9.3-neoforge.jar'
+name = 'Supplementaries'
+side = ''
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = '1.21.1-3.9.3'
+
+[download]
+hash = '00bcb50e8b48c80bc982fd62e6deab705a8f76f48ca2a2b72bab439c141b3ff6ed52c0e62983bd5201e1b38202e612691f7dc9ccf7c7690e3af49f6bdef008a9'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/fFEIiSDQ/versions/ZeuZfae2/supplementaries-1.21.1-3.9.3-neoforge.jar'
+
+[update.modrinth]
+mod-id = 'fFEIiSDQ'
+version = 'ZeuZfae2'
+
+[[x-prismlauncher-dependencies]]
+addonId = 'twkfQtEc'
+type = 'REQUIRED'
