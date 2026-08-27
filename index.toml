@@ -6,7 +6,7 @@ hash = "b52da47f6540e4e506534d57ee41bf399be71fc4f95fefa21b97fc905aec8393"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/halcyon.snbt"
-hash = "73e72c8909100c53228c3be41bf915c0111091dcaf12bd704ab30f168beef033"
+hash = "8c5a7b0f532f3879a960f179b2b2d92544fe8bfb3b52cfba042d0a5e219522f5"
 
 [[files]]
 file = "defaultconfigs/biolith/general.json"
@@ -22,7 +22,7 @@ hash = "05b46d22c756513726e81deddead65ceb53d8d22eb4a2473d8cc5c7f69c6c048"
 
 [[files]]
 file = "kubejs/server_scripts/plushie_drops.js"
-hash = "972ee2b777a44cd2a0ea6928798c91c6749ee2daf69193954a6d90a477aa3f39"
+hash = "bf9e415be31e56d70c6cdc68f38c6e01d821b7ebed16b9006a3f04564bcda2e0"
 
 [[files]]
 file = "kubejs/startup_scripts/main.js"

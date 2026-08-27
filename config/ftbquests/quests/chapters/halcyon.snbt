@@ -187,8 +187,6 @@
 			title: "Powering the Rest of the World"
 			description: [
 				"An RF Node turns Tidal Energy into ordinary FE - the same energy every incubator, mixer, and machine in the rest of the pack runs on. Wire it up and Halcyon stops being its own island."
-				""
-				"(Verify the exact item id for this one in-game or via JEI before relying on this task - it wasn't confirmed against the item registry directly, only the loot table filename.)"
 			]
 			x: 0.0d
 			y: 10.0d
@@ -199,7 +197,7 @@
 			tasks: [
 				{
 					id: "cc9e25a639f1d228"
-					item: "pastel:amethyst_shard"
+					item: "pastel:amethyst_powder"
 					type: "item"
 				}
 			]
@@ -212,7 +210,7 @@
 			]
 			title: "Petrified Light"
 			description: [
-				"Halcyon's Entropic Processor already knows how to break down Pastel's amethyst line - shard, buds, cluster, block. Feed it one and see what comes out the other side."
+				"Halcyon's Entropic Processor already knows how to break down amethyst into Pastel's Amethyst Powder - shard, cluster, or block, no Pastel items needed as input at all, just ordinary amethyst you'd have from mining anyway."
 				""
 				"This is a real, mod-native integration - not something bolted on for this quest."
 			]
@@ -225,7 +223,7 @@
 			tasks: [
 				{
 					id: "e47b497261b011cb"
-					item: "malum:runewood_planks"
+					item: "malum:arcane_charcoal"
 					type: "item"
 				}
 			]
@@ -238,9 +236,7 @@
 			]
 			title: "Ashes of the Arcane"
 			description: [
-				"Halcyon's infusion process turns Malum's runewood and soulwood into Arcane Charcoal. Bring some of either and put the infusion setup to work."
-				""
-				"(The exact output item id wasn't confirmed - only the recipe file names, 'arcane_charcoal_runewood' and 'arcane_charcoal_soulwood'. Check JEI once this quest is in front of you.)"
+				"Halcyon's infusion process turns a pile of Runewood or Soulwood - logs, stripped logs, and the raw log-block form, six items at once - into Malum's own Arcane Charcoal. Bring a set of either wood and put the infusion setup to work."
 			]
 			x: 2.0d
 			y: 10.0d

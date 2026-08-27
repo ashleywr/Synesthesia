@@ -10,11 +10,9 @@
 // This is purely additive - it never cancels the event or consumes the item, so
 // normal taming/breeding/bartering/brushing still happens exactly as vanilla intends.
 //
-// NEEDS IN-GAME VERIFICATION: EntityEvents.rightClicked's exact property names
-// weren't confirmed against this KubeJS version before writing this, since there
-// was no way to check docs or test in-game. Test with /reload, then a few actual
-// interactions, before assuming this works. The fallback chains below
-// (event.item || event.itemStack, etc.) exist because of that uncertainty.
+// KubeJS 2101.7.2 exposes this as ItemEvents.entityInteracted. It carries the
+// player, the target entity, and the actual item used, so normal interactions
+// remain intact and this script only adds the independent plushie roll.
 
 const INTERACT_CHANCE = 0.02; // chance per interaction with the correct item
 
@@ -55,22 +53,20 @@ function givePlushie(player, mob) {
   player.give('plushie_buddies:plushie_' + mob);
 }
 
-const rightClickedSource = typeof EntityEvents !== 'undefined' ? EntityEvents : PlayerEvents;
-
-rightClickedSource.rightClicked(event => {
-  const level = event.level || event.world;
-  if (!level || level.isClientSide()) return;
-
-  const player = event.player;
+ItemEvents.entityInteracted(event => {
+  const player = event.player || event.entity;
   if (!player) return;
 
-  const entity = event.entity || event.target;
+  const level = event.level || event.world || player.level;
+  if (!level || level.isClientSide()) return;
+
+  const entity = event.target;
   if (!entity) return;
 
   const itemMob = ITEM_MOBS[entity.type];
   if (!itemMob) return;
 
-  const heldItem = event.item || event.itemStack;
+  const heldItem = event.item;
   if (!heldItem || !itemMob.items.includes(heldItem.id)) return;
 
   if (Math.random() < INTERACT_CHANCE) givePlushie(player, itemMob.plushie);
