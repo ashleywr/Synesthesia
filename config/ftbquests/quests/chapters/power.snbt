@@ -1,0 +1,133 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "power"
+	group: ""
+	icon: "minecraft:redstone"
+	id: "c5a27b9bf44be67c"
+	images: []
+	order_index: 1
+	quest_links: []
+	quests: [
+		{
+			id: "8074c8512b74ca7e"
+			tasks: [
+				{
+					id: "60ba0e7711bcbec9"
+					type: "checkmark"
+					title: "Acknowledged"
+				}
+			]
+			title: "Running Dry"
+			description: [
+				"Half the machines worth having in this pack - the Productive Bees incubator among them - want ordinary FE, not something exotic. There's more than one real way to get it here, and neither of them is a plain coal generator."
+				""
+				"Pick a path below. You only need to finish one to move on, but nothing stops you from doing both."
+			]
+			x: 0.0d
+			y: 0.0d
+		}
+		{
+			id: "747b6e721bc0cba9"
+			dependencies: ["8074c8512b74ca7e"]
+			tasks: [
+				{
+					id: "1d6a05224842eb2c"
+					type: "checkmark"
+					title: "Wired In"
+				}
+			]
+			title: "Tidal Current"
+			description: [
+				"The Halcyon path. Work through the Halcyon chapter up to its RF Node - that's Tidal Energy converted straight into FE. See the Halcyon chapter for the actual build order; this is just the checkpoint."
+				""
+				"Marks itself done once the RF Node quest over there is complete."
+			]
+			x: -1.5d
+			y: 2.0d
+		}
+		{
+			id: "a4ea307221cb9e5e"
+			dependencies: ["8074c8512b74ca7e"]
+			tasks: [
+				{
+					id: "9a334e20588eeeef"
+					item: "createdieselgenerators:crude_oil_bucket"
+					type: "item"
+				}
+			]
+			title: "Crude Beginnings"
+			description: [
+				"The Create Diesel Generators path. Source some Crude Oil - this mod builds out a whole refining chain (distillation, fermenting, cracking) on top of Create's own kinetic machines, not a bolt-on generator block."
+			]
+			x: 1.5d
+			y: 2.0d
+		}
+		{
+			id: "1bfd69e35416360e"
+			dependencies: ["a4ea307221cb9e5e"]
+			tasks: [
+				{
+					id: "a1509a060ea1b4d5"
+					item: "createdieselgenerators:diesel_bucket"
+					type: "item"
+				}
+			]
+			title: "Refined"
+			description: [
+				"Run the crude oil through the distillation setup. The exact fractional breakdown wasn't checked in detail here - the mod handles it with its own recipe type the tooling on hand couldn't fully introspect - but Diesel is the fuel the engines actually want."
+			]
+			x: 1.5d
+			y: 4.0d
+		}
+		{
+			id: "c72710a5894399ac"
+			dependencies: ["1bfd69e35416360e"]
+			tasks: [
+				{
+					id: "b7182679467fe297"
+					item: "createdieselgenerators:diesel_engine"
+					type: "item"
+				}
+			]
+			title: "Ignition"
+			description: [
+				"Build a Diesel Engine - Create brass and a fluid tank at its core, plus the mod's own engine pistons. Feed it Diesel and it makes FE."
+			]
+			x: 1.5d
+			y: 6.0d
+		}
+		{
+			id: "314849d1f8af7232"
+			dependencies: ["747b6e721bc0cba9", "c72710a5894399ac"]
+			dependency_requirement: "one_completed"
+			tasks: [
+				{
+					id: "222c14b644adb982"
+					type: "checkmark"
+					title: "Power Secured"
+				}
+			]
+			rewards: [
+				{
+					id: "291d84fff333ba09"
+					type: "xp"
+					xp: 250
+				}
+				{
+					id: "aa4a25ec5dffa29c"
+					count: 1
+					item: "productivebees:incubator"
+					type: "item"
+				}
+			]
+			title: "Keep the Bees Warm"
+			description: [
+				"Either path is enough. Whichever one you finished, you've got real FE now - enough to run a Productive Bees incubator, or anything else in the pack that wants it."
+			]
+			x: 0.0d
+			y: 8.0d
+		}
+	]
+	title: "Power"
+}

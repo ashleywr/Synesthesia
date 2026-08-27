@@ -9,6 +9,10 @@ file = "config/ftbquests/quests/chapters/halcyon.snbt"
 hash = "8c5a7b0f532f3879a960f179b2b2d92544fe8bfb3b52cfba042d0a5e219522f5"
 
 [[files]]
+file = "config/ftbquests/quests/chapters/power.snbt"
+hash = "6f53b82a99b40e034458170daa336a02815edb35d8924c0c7879faf99179487e"
+
+[[files]]
 file = "defaultconfigs/biolith/general.json"
 hash = "7f1e58be2cf7db18181869804bb09823ee93a4ea863d560036e8a05954bcf806"
 
