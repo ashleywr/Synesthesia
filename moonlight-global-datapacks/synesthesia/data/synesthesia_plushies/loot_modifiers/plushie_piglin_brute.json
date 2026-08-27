@@ -1,0 +1,10 @@
+{
+  "type": "neoforge:add_table",
+  "table": "synesthesia_plushies:inject/plushie_piglin_brute",
+  "conditions": [
+    {
+      "condition": "neoforge:loot_table_id",
+      "loot_table_id": "minecraft:entities/piglin_brute"
+    }
+  ]
+}

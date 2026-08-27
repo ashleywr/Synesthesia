@@ -1,0 +1,10 @@
+{
+  "type": "neoforge:add_table",
+  "table": "synesthesia_plushies:inject/plushie_warden",
+  "conditions": [
+    {
+      "condition": "neoforge:loot_table_id",
+      "loot_table_id": "minecraft:entities/warden"
+    }
+  ]
+}
