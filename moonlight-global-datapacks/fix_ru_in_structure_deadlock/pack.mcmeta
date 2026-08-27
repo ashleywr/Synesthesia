@@ -1,0 +1,6 @@
+{
+  "pack": {
+    "description": "Worldgen deadlock fixes: strip lithostitched:in_structure filter (regions_unexplored) and disable bountifulfares wild_vine features. Both call getChunk synchronously during feature placement, deadlocking Chunky pregen.",
+    "pack_format": 48
+  }
+}

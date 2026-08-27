@@ -1,6 +1,26 @@
 hash-format = "sha256"
 
 [[files]]
+file = "README.md"
+hash = "0068af0b1e2b8898bde1ef5f887530cce0ae3c7ffcdb30c30bc8825eaad716a5"
+
+[[files]]
+file = "defaultconfigs/biolith/general.json"
+hash = "7f1e58be2cf7db18181869804bb09823ee93a4ea863d560036e8a05954bcf806"
+
+[[files]]
+file = "kubejs/client_scripts/main.js"
+hash = "3df46f0add819bf2602642215b5c62f0581ffdaaf97e77c80a8c4d966e05adcf"
+
+[[files]]
+file = "kubejs/server_scripts/main.js"
+hash = "05b46d22c756513726e81deddead65ceb53d8d22eb4a2473d8cc5c7f69c6c048"
+
+[[files]]
+file = "kubejs/startup_scripts/main.js"
+hash = "94cef43904b10ae4414e4e6eb62e9dd423e87a0dc1faeca491c6b7d71bf9ff37"
+
+[[files]]
 file = "mods/abnormals-delight.pw.toml"
 hash = "a9753702facbd7e420e9d880d41fe23f7353783f797af0a5967fac4b4d42d06a"
 metafile = true
@@ -1826,5 +1846,53 @@ hash = "24eb6789043d62dc1c39553ffc9fea31282dbe7ae74dbc5b6f9415b9c6d40406"
 metafile = true
 
 [[files]]
-file = "side-overrides.toml"
-hash = "2ca068fe5f7b36db5441aae2141c8554c530211bbd8aecbf04be6a980b705766"
+file = "moonlight-global-datapacks/fix_ru_in_structure_deadlock/data/bountifulfares/neoforge/biome_modifier/wild_elderberries_placed.json"
+hash = "99b969132018e9da1071065a8593ba9564928b1ed0aa5ae3ab45f9dac071f7d5"
+
+[[files]]
+file = "moonlight-global-datapacks/fix_ru_in_structure_deadlock/data/bountifulfares/neoforge/biome_modifier/wild_passion_fruit_placed.json"
+hash = "99b969132018e9da1071065a8593ba9564928b1ed0aa5ae3ab45f9dac071f7d5"
+
+[[files]]
+file = "moonlight-global-datapacks/fix_ru_in_structure_deadlock/data/regions_unexplored/worldgen/placed_feature/patch/ash_vents_inferno.json"
+hash = "5b233c601237d279bf51ee4f86e521dd7aa6167d3a6c9f9578de51944e84f3e1"
+
+[[files]]
+file = "moonlight-global-datapacks/fix_ru_in_structure_deadlock/data/regions_unexplored/worldgen/placed_feature/patch/cave_bioshrooms.json"
+hash = "af085a7f131df8c6b9793439d8108d8608066fe1acca4d189a4785e75bf324c9"
+
+[[files]]
+file = "moonlight-global-datapacks/fix_ru_in_structure_deadlock/data/regions_unexplored/worldgen/placed_feature/patch/dropleaf.json"
+hash = "e0c7744b046b213198c0a2523221b17d9fd0996f88789464d1993555fcba3b5f"
+
+[[files]]
+file = "moonlight-global-datapacks/fix_ru_in_structure_deadlock/data/regions_unexplored/worldgen/placed_feature/patch/prismarite_cluster.json"
+hash = "7e664e84da3781666cb01f99d59c42b359d7156eac4696c598980560bc8d6557"
+
+[[files]]
+file = "moonlight-global-datapacks/fix_ru_in_structure_deadlock/data/regions_unexplored/worldgen/placed_feature/patch/redstone_bud.json"
+hash = "b27c14f4a9bb8d7aebafb112ad2ffb74867e429a0a0a39888943fb39f6321da5"
+
+[[files]]
+file = "moonlight-global-datapacks/fix_ru_in_structure_deadlock/data/regions_unexplored/worldgen/placed_feature/patch/redstone_bulb.json"
+hash = "0cac1a0b0ff9080f69b95c66674bfadbf719c44801131d317dd7a99d74ec3d66"
+
+[[files]]
+file = "moonlight-global-datapacks/fix_ru_in_structure_deadlock/data/regions_unexplored/worldgen/placed_feature/special/lava_fall.json"
+hash = "6b77aa6d6d6979e4858418b7fd61f06c9e9f92225704c9a1d4bd754a6e7468c7"
+
+[[files]]
+file = "moonlight-global-datapacks/fix_ru_in_structure_deadlock/data/regions_unexplored/worldgen/placed_feature/special/overworld_lava_delta.json"
+hash = "f3b403c26d5e96cd20fd51f459bfc64bd11ed817c7a59bd1c10e7f3aa70e3bba"
+
+[[files]]
+file = "moonlight-global-datapacks/fix_ru_in_structure_deadlock/pack.mcmeta"
+hash = "3eb4ecdf354747892aed9e25de3e7d3818d70170c527b2bc86a9cf56fc840064"
+
+[[files]]
+file = "moonlight-global-datapacks/no_cnc_rat_spawns/data/caverns_and_chasms/neoforge/biome_modifier/add_spawn/rat.json"
+hash = "99b969132018e9da1071065a8593ba9564928b1ed0aa5ae3ab45f9dac071f7d5"
+
+[[files]]
+file = "moonlight-global-datapacks/no_cnc_rat_spawns/pack.mcmeta"
+hash = "ac89d18fd2335104938412b2f49d0e1bc98e3b3862e9abdf351303faff772179"
