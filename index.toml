@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "README.md"
-hash = "0068af0b1e2b8898bde1ef5f887530cce0ae3c7ffcdb30c30bc8825eaad716a5"
+hash = "b52da47f6540e4e506534d57ee41bf399be71fc4f95fefa21b97fc905aec8393"
 
 [[files]]
 file = "defaultconfigs/biolith/general.json"
@@ -1846,53 +1846,1509 @@ hash = "24eb6789043d62dc1c39553ffc9fea31282dbe7ae74dbc5b6f9415b9c6d40406"
 metafile = true
 
 [[files]]
-file = "moonlight-global-datapacks/fix_ru_in_structure_deadlock/data/bountifulfares/neoforge/biome_modifier/wild_elderberries_placed.json"
+file = "moonlight-global-datapacks/synesthesia/data/accessories/accessories/slot/back.json"
+hash = "e54d46134dbccd8fe2f1fd875320a2bc9f849099466440777625b9abcc6ed6a3"
+
+[[files]]
+file = "moonlight-global-datapacks/synesthesia/data/accessories/accessories/slot/charm.json"
+hash = "2fe73908569ce3eb5a5e255809a98123302dd55169e0e000f7d0df8008ca5b85"
+
+[[files]]
+file = "moonlight-global-datapacks/synesthesia/data/accessories/accessories/slot/necklace.json"
+hash = "f405fbef8e1e7cb9174dbd5e4bf42ae76f60e01acb5feaf833b9c4a8f615c098"
+
+[[files]]
+file = "moonlight-global-datapacks/synesthesia/data/accessories/accessories/slot/ring.json"
+hash = "f1c4423ca43a05c5fe967a06cd6aef2d49a5a8358dc218cce7b4186ed362284b"
+
+[[files]]
+file = "moonlight-global-datapacks/synesthesia/data/alexscaves/tags/worldgen/biome/trench_ignores_stone_in.json"
+hash = "51748cdd95402428302d978e81b98467108390ade980854d6f94c386042997cc"
+
+[[files]]
+file = "moonlight-global-datapacks/synesthesia/data/alexsmobs/tags/worldgen/biome/spawns_murmurs_ignore_height.json"
+hash = "51748cdd95402428302d978e81b98467108390ade980854d6f94c386042997cc"
+
+[[files]]
+file = "moonlight-global-datapacks/synesthesia/data/alexsmobs/tags/worldgen/biome/spawns_soul_gusters.json"
+hash = "b56bcdf883ec51926746d379b8ece0e14191a190bfc44ba8744f277ab050aaf2"
+
+[[files]]
+file = "moonlight-global-datapacks/synesthesia/data/alexsmobs/tags/worldgen/biome/spawns_white_mantis_shrimp.json"
+hash = "51748cdd95402428302d978e81b98467108390ade980854d6f94c386042997cc"
+
+[[files]]
+file = "moonlight-global-datapacks/synesthesia/data/autumnity/tags/worldgen/biome/has_feature/maple_tree.json"
+hash = "51748cdd95402428302d978e81b98467108390ade980854d6f94c386042997cc"
+
+[[files]]
+file = "moonlight-global-datapacks/synesthesia/data/autumnity/tags/worldgen/biome/has_feature/spotted_maple_tree/orange.json"
+hash = "51748cdd95402428302d978e81b98467108390ade980854d6f94c386042997cc"
+
+[[files]]
+file = "moonlight-global-datapacks/synesthesia/data/autumnity/tags/worldgen/biome/has_feature/spotted_maple_tree/red.json"
+hash = "51748cdd95402428302d978e81b98467108390ade980854d6f94c386042997cc"
+
+[[files]]
+file = "moonlight-global-datapacks/synesthesia/data/bakery/tags/worldgen/biome/has_structure/bakery.json"
+hash = "51748cdd95402428302d978e81b98467108390ade980854d6f94c386042997cc"
+
+[[files]]
+file = "moonlight-global-datapacks/synesthesia/data/bakery/tags/worldgen/biome/has_structure/oat_field.json"
+hash = "51748cdd95402428302d978e81b98467108390ade980854d6f94c386042997cc"
+
+[[files]]
+file = "moonlight-global-datapacks/synesthesia/data/beachparty/tags/worldgen/biome/beach.json"
+hash = "51748cdd95402428302d978e81b98467108390ade980854d6f94c386042997cc"
+
+[[files]]
+file = "moonlight-global-datapacks/synesthesia/data/betterarcheology/tags/worldgen/biome/collections/taigas.json"
+hash = "c859ab39fb8a6b735ef53ddc01e684b56712a20c7081db02b0d26ab6d416f8d5"
+
+[[files]]
+file = "moonlight-global-datapacks/synesthesia/data/bountifulfares/neoforge/biome_modifier/wild_elderberries_placed.json"
 hash = "99b969132018e9da1071065a8593ba9564928b1ed0aa5ae3ab45f9dac071f7d5"
 
 [[files]]
-file = "moonlight-global-datapacks/fix_ru_in_structure_deadlock/data/bountifulfares/neoforge/biome_modifier/wild_passion_fruit_placed.json"
+file = "moonlight-global-datapacks/synesthesia/data/bountifulfares/neoforge/biome_modifier/wild_passion_fruit_placed.json"
 hash = "99b969132018e9da1071065a8593ba9564928b1ed0aa5ae3ab45f9dac071f7d5"
 
 [[files]]
-file = "moonlight-global-datapacks/fix_ru_in_structure_deadlock/data/regions_unexplored/worldgen/placed_feature/patch/ash_vents_inferno.json"
+file = "moonlight-global-datapacks/synesthesia/data/bountifulfares/tags/worldgen/biome/has_apple_trees.json"
+hash = "51748cdd95402428302d978e81b98467108390ade980854d6f94c386042997cc"
+
+[[files]]
+file = "moonlight-global-datapacks/synesthesia/data/bountifulfares/tags/worldgen/biome/has_chamomile.json"
+hash = "51748cdd95402428302d978e81b98467108390ade980854d6f94c386042997cc"
+
+[[files]]
+file = "moonlight-global-datapacks/synesthesia/data/bountifulfares/tags/worldgen/biome/has_grassy_dirt.json"
+hash = "51748cdd95402428302d978e81b98467108390ade980854d6f94c386042997cc"
+
+[[files]]
+file = "moonlight-global-datapacks/synesthesia/data/bountifulfares/tags/worldgen/biome/has_grassy_dirt_patches.json"
+hash = "51748cdd95402428302d978e81b98467108390ade980854d6f94c386042997cc"
+
+[[files]]
+file = "moonlight-global-datapacks/synesthesia/data/bountifulfares/tags/worldgen/biome/has_large_wild_beetroot.json"
+hash = "51748cdd95402428302d978e81b98467108390ade980854d6f94c386042997cc"
+
+[[files]]
+file = "moonlight-global-datapacks/synesthesia/data/bountifulfares/tags/worldgen/biome/has_large_wild_carrots.json"
+hash = "51748cdd95402428302d978e81b98467108390ade980854d6f94c386042997cc"
+
+[[files]]
+file = "moonlight-global-datapacks/synesthesia/data/bountifulfares/tags/worldgen/biome/has_large_wild_potatoes.json"
+hash = "51748cdd95402428302d978e81b98467108390ade980854d6f94c386042997cc"
+
+[[files]]
+file = "moonlight-global-datapacks/synesthesia/data/bountifulfares/tags/worldgen/biome/has_orange_trees.json"
+hash = "51748cdd95402428302d978e81b98467108390ade980854d6f94c386042997cc"
+
+[[files]]
+file = "moonlight-global-datapacks/synesthesia/data/bountifulfares/tags/worldgen/biome/has_palm_trees.json"
+hash = "51748cdd95402428302d978e81b98467108390ade980854d6f94c386042997cc"
+
+[[files]]
+file = "moonlight-global-datapacks/synesthesia/data/bountifulfares/tags/worldgen/biome/has_plum_trees.json"
+hash = "51748cdd95402428302d978e81b98467108390ade980854d6f94c386042997cc"
+
+[[files]]
+file = "moonlight-global-datapacks/synesthesia/data/bountifulfares/tags/worldgen/biome/has_tea_shrub.json"
+hash = "51748cdd95402428302d978e81b98467108390ade980854d6f94c386042997cc"
+
+[[files]]
+file = "moonlight-global-datapacks/synesthesia/data/bountifulfares/tags/worldgen/biome/has_violet_bellflower.json"
+hash = "51748cdd95402428302d978e81b98467108390ade980854d6f94c386042997cc"
+
+[[files]]
+file = "moonlight-global-datapacks/synesthesia/data/bountifulfares/tags/worldgen/biome/has_walnut_trees.json"
+hash = "51748cdd95402428302d978e81b98467108390ade980854d6f94c386042997cc"
+
+[[files]]
+file = "moonlight-global-datapacks/synesthesia/data/bountifulfares/tags/worldgen/biome/has_wild_carrots.json"
+hash = "51748cdd95402428302d978e81b98467108390ade980854d6f94c386042997cc"
+
+[[files]]
+file = "moonlight-global-datapacks/synesthesia/data/bountifulfares/tags/worldgen/biome/has_wild_elderberries.json"
+hash = "51748cdd95402428302d978e81b98467108390ade980854d6f94c386042997cc"
+
+[[files]]
+file = "moonlight-global-datapacks/synesthesia/data/bountifulfares/tags/worldgen/biome/has_wild_maize.json"
+hash = "51748cdd95402428302d978e81b98467108390ade980854d6f94c386042997cc"
+
+[[files]]
+file = "moonlight-global-datapacks/synesthesia/data/bountifulfares/tags/worldgen/biome/has_wild_passion_fruit.json"
+hash = "51748cdd95402428302d978e81b98467108390ade980854d6f94c386042997cc"
+
+[[files]]
+file = "moonlight-global-datapacks/synesthesia/data/buddycards_more_loot/loot_modifiers/alexscaves_cave.json"
+hash = "7338aeabe1c00a6fb07e7d27602d954e1c5b216af982c185c589bdf31e9751da"
+
+[[files]]
+file = "moonlight-global-datapacks/synesthesia/data/buddycards_more_loot/loot_modifiers/cnc_remolder_ancient_city.json"
+hash = "1aa9fae6856d242e9b34d1bc63ed0d6224dd978f0aa44afbf1922526f8180e56"
+
+[[files]]
+file = "moonlight-global-datapacks/synesthesia/data/buddycards_more_loot/loot_modifiers/cnc_remolder_bastion.json"
+hash = "6e814247e564ec43664fb41acde217b5c598a32ccbad4a1be7a4feacc64d4f33"
+
+[[files]]
+file = "moonlight-global-datapacks/synesthesia/data/buddycards_more_loot/loot_modifiers/cnc_remolder_bastion_other.json"
+hash = "e90ca6208b078c3b3efd331e767362858b37ac99b1dca06659fdd4cb857d4190"
+
+[[files]]
+file = "moonlight-global-datapacks/synesthesia/data/buddycards_more_loot/loot_modifiers/cnc_remolder_bastion_treasure.json"
+hash = "5d321a638debd492ff5a625f3030d008fc6772f0f7ba8adb64fd418b26f5c057"
+
+[[files]]
+file = "moonlight-global-datapacks/synesthesia/data/buddycards_more_loot/loot_modifiers/cnc_remolder_buried_treasure.json"
+hash = "7f1f18efe6a8ccef735825934263856f4dfbf2878592e9e29266e553e66f4dae"
+
+[[files]]
+file = "moonlight-global-datapacks/synesthesia/data/buddycards_more_loot/loot_modifiers/cnc_remolder_cave.json"
+hash = "5994f2b4f9ee5118b24841ef0d06a452d1643b85204f749dd5db9365c70b7010"
+
+[[files]]
+file = "moonlight-global-datapacks/synesthesia/data/buddycards_more_loot/loot_modifiers/cnc_remolder_desert_pyramid.json"
+hash = "0ccddff223b29fe0645ca84aeadc9fa5bb2864bd8b6cdda740b9ac3c8105018b"
+
+[[files]]
+file = "moonlight-global-datapacks/synesthesia/data/buddycards_more_loot/loot_modifiers/cnc_remolder_end_city.json"
+hash = "2ab768248e6076b2806c895fb3b7027e3e95c02d6195931821e005d8484c90f9"
+
+[[files]]
+file = "moonlight-global-datapacks/synesthesia/data/buddycards_more_loot/loot_modifiers/cnc_remolder_nether.json"
+hash = "b02f33130e6246a32429d1f995aa587150329a113bffc1f8f4f8d417b848fdb8"
+
+[[files]]
+file = "moonlight-global-datapacks/synesthesia/data/buddycards_more_loot/loot_modifiers/cnc_remolder_ruined_portal.json"
+hash = "c6b7fc8369e53ca1e11646a50cbc427051dad5e67359373afad485f6fa9c0e7d"
+
+[[files]]
+file = "moonlight-global-datapacks/synesthesia/data/buddycards_more_loot/loot_modifiers/cnc_remolder_shipwreck.json"
+hash = "0cc2d92a45cc4a0bf60e5b9b65dc96c4e2957bd2236b3ede6c6800eebb44665a"
+
+[[files]]
+file = "moonlight-global-datapacks/synesthesia/data/buddycards_more_loot/loot_modifiers/cnc_remolder_village.json"
+hash = "753d8b373c6e768d5ddb65941526e35755945fa17835a203a3e6d8efdf537728"
+
+[[files]]
+file = "moonlight-global-datapacks/synesthesia/data/buddycards_more_loot/loot_modifiers/create_pack_rare.json"
+hash = "3cac6f6067498c08ad1f4ce98db1f35361a866d50a6c288cfcc8b4aee7251242"
+
+[[files]]
+file = "moonlight-global-datapacks/synesthesia/data/buddycards_more_loot/loot_modifiers/delightful_pack_rare.json"
+hash = "18fa5bdc58890e420653a4d67f67bf12a74e734a08417e43b43310d0e04e0fb8"
+
+[[files]]
+file = "moonlight-global-datapacks/synesthesia/data/buddycards_more_loot/loot_modifiers/dungeonsarise_cave_common.json"
+hash = "aebf28a311540a97ed3d96a87cb84c127122d52cb9e4b9c72f9564e0c7b1663d"
+
+[[files]]
+file = "moonlight-global-datapacks/synesthesia/data/buddycards_more_loot/loot_modifiers/dungeonsarise_cave_treasure.json"
+hash = "16e3da3bd640463f1be91a1fecdc0f42188b5c21bda5002ec2794f458dab43c5"
+
+[[files]]
+file = "moonlight-global-datapacks/synesthesia/data/buddycards_more_loot/loot_modifiers/ruined_portal.json"
+hash = "900336f146e1d6cdb5e70f7e09defd8417ca04c98877963131dfb398d14848d7"
+
+[[files]]
+file = "moonlight-global-datapacks/synesthesia/data/buddycards_more_loot/loot_modifiers/shipwreck_treasure.json"
+hash = "138cfa8384e015712179ae7addb6cc63dab558e8d409cf4bbc57ac4c6635c99e"
+
+[[files]]
+file = "moonlight-global-datapacks/synesthesia/data/buddycards_more_loot/loot_table/inject/create_rare.json"
+hash = "e736ce2f608ac4c876ebdf29ee50fc4790fca847be20e0355d13343cbff77223"
+
+[[files]]
+file = "moonlight-global-datapacks/synesthesia/data/buddycards_more_loot/loot_table/inject/delightful_rare.json"
+hash = "b4ff3db9cbbbfb5a3f810734ecbad90fe9a6224c8fd89bbc2ea4fba076786efe"
+
+[[files]]
+file = "moonlight-global-datapacks/synesthesia/data/buzzier_bees/tags/worldgen/biome/has_feature/buttercup.json"
+hash = "51748cdd95402428302d978e81b98467108390ade980854d6f94c386042997cc"
+
+[[files]]
+file = "moonlight-global-datapacks/synesthesia/data/buzzier_bees/tags/worldgen/biome/has_feature/pink_clover.json"
+hash = "51748cdd95402428302d978e81b98467108390ade980854d6f94c386042997cc"
+
+[[files]]
+file = "moonlight-global-datapacks/synesthesia/data/buzzier_bees/tags/worldgen/biome/has_feature/white_clover.json"
+hash = "51748cdd95402428302d978e81b98467108390ade980854d6f94c386042997cc"
+
+[[files]]
+file = "moonlight-global-datapacks/synesthesia/data/candlelight/tags/worldgen/biome/has_structure/tree.json"
+hash = "51748cdd95402428302d978e81b98467108390ade980854d6f94c386042997cc"
+
+[[files]]
+file = "moonlight-global-datapacks/synesthesia/data/candlelight/tags/worldgen/biome/spawns_rose.json"
+hash = "51748cdd95402428302d978e81b98467108390ade980854d6f94c386042997cc"
+
+[[files]]
+file = "moonlight-global-datapacks/synesthesia/data/cataclysm/tags/worldgen/biome/amethyst_crab_spawn.json"
+hash = "c1aca4636b108db919f22bf5f0df5650d13b82f6a6663b8f3aa4d52096fd4897"
+
+[[files]]
+file = "moonlight-global-datapacks/synesthesia/data/cataclysm/tags/worldgen/biome/deeplings_spawn.json"
+hash = "51748cdd95402428302d978e81b98467108390ade980854d6f94c386042997cc"
+
+[[files]]
+file = "moonlight-global-datapacks/synesthesia/data/cataclysm/tags/worldgen/biome/has_structure/acropolis_biomes.json"
+hash = "51748cdd95402428302d978e81b98467108390ade980854d6f94c386042997cc"
+
+[[files]]
+file = "moonlight-global-datapacks/synesthesia/data/cataclysm/tags/worldgen/biome/has_structure/burning_arena_biomes.json"
+hash = "b56bcdf883ec51926746d379b8ece0e14191a190bfc44ba8744f277ab050aaf2"
+
+[[files]]
+file = "moonlight-global-datapacks/synesthesia/data/cataclysm/tags/worldgen/biome/has_structure/cursed_pyramid_biomes.json"
+hash = "51748cdd95402428302d978e81b98467108390ade980854d6f94c386042997cc"
+
+[[files]]
+file = "moonlight-global-datapacks/synesthesia/data/cataclysm/tags/worldgen/biome/has_structure/frosted_prison_biomes.json"
+hash = "51748cdd95402428302d978e81b98467108390ade980854d6f94c386042997cc"
+
+[[files]]
+file = "moonlight-global-datapacks/synesthesia/data/cataclysm/tags/worldgen/biome/has_structure/ruined_citadel_biomes.json"
+hash = "6ddf517f6d4b65c795bddcf7c1cbb5368793c280b9e9bb080ab2df50cbc7030b"
+
+[[files]]
+file = "moonlight-global-datapacks/synesthesia/data/cataclysm/tags/worldgen/biome/has_structure/soul_black_smith_biomes.json"
+hash = "b56bcdf883ec51926746d379b8ece0e14191a190bfc44ba8744f277ab050aaf2"
+
+[[files]]
+file = "moonlight-global-datapacks/synesthesia/data/cataclysm/tags/worldgen/biome/has_structure/sunken_city_biomes.json"
+hash = "51748cdd95402428302d978e81b98467108390ade980854d6f94c386042997cc"
+
+[[files]]
+file = "moonlight-global-datapacks/synesthesia/data/caverns_and_chasms/neoforge/biome_modifier/add_spawn/rat.json"
+hash = "99b969132018e9da1071065a8593ba9564928b1ed0aa5ae3ab45f9dac071f7d5"
+
+[[files]]
+file = "moonlight-global-datapacks/synesthesia/data/caverns_and_chasms/tags/worldgen/biome/has_animal/glare.json"
+hash = "c1aca4636b108db919f22bf5f0df5650d13b82f6a6663b8f3aa4d52096fd4897"
+
+[[files]]
+file = "moonlight-global-datapacks/synesthesia/data/caverns_and_chasms/tags/worldgen/biome/has_feature/extra_silver_ore.json"
+hash = "51748cdd95402428302d978e81b98467108390ade980854d6f94c386042997cc"
+
+[[files]]
+file = "moonlight-global-datapacks/synesthesia/data/caverns_and_chasms/tags/worldgen/biome/has_feature/soul_silver_ore.json"
+hash = "b56bcdf883ec51926746d379b8ece0e14191a190bfc44ba8744f277ab050aaf2"
+
+[[files]]
+file = "moonlight-global-datapacks/synesthesia/data/caverns_and_chasms/tags/worldgen/biome/has_feature/spinel_ore.json"
+hash = "c1aca4636b108db919f22bf5f0df5650d13b82f6a6663b8f3aa4d52096fd4897"
+
+[[files]]
+file = "moonlight-global-datapacks/synesthesia/data/caverns_and_chasms/tags/worldgen/biome/has_structure/mineshaft_lush.json"
+hash = "c1aca4636b108db919f22bf5f0df5650d13b82f6a6663b8f3aa4d52096fd4897"
+
+[[files]]
+file = "moonlight-global-datapacks/synesthesia/data/crittersandcompanions/tags/worldgen/biome/silk_cocoon_lush_spawns.json"
+hash = "c1aca4636b108db919f22bf5f0df5650d13b82f6a6663b8f3aa4d52096fd4897"
+
+[[files]]
+file = "moonlight-global-datapacks/synesthesia/data/dungeons_arise/tags/worldgen/biome/has_structure/aviary_biomes.json"
+hash = "6ddf517f6d4b65c795bddcf7c1cbb5368793c280b9e9bb080ab2df50cbc7030b"
+
+[[files]]
+file = "moonlight-global-datapacks/synesthesia/data/dungeons_arise/tags/worldgen/biome/has_structure/giant_mushroom_biomes.json"
+hash = "51748cdd95402428302d978e81b98467108390ade980854d6f94c386042997cc"
+
+[[files]]
+file = "moonlight-global-datapacks/synesthesia/data/dungeons_arise/tags/worldgen/biome/has_structure/small_prairie_house_biomes.json"
+hash = "51748cdd95402428302d978e81b98467108390ade980854d6f94c386042997cc"
+
+[[files]]
+file = "moonlight-global-datapacks/synesthesia/data/ecologics/tags/worldgen/biome/has_structure/desert_ruin.json"
+hash = "51748cdd95402428302d978e81b98467108390ade980854d6f94c386042997cc"
+
+[[files]]
+file = "moonlight-global-datapacks/synesthesia/data/explorify/tags/worldgen/biome/has_structure/badlands_pyramid.json"
+hash = "51748cdd95402428302d978e81b98467108390ade980854d6f94c386042997cc"
+
+[[files]]
+file = "moonlight-global-datapacks/synesthesia/data/explorify/tags/worldgen/biome/has_structure/dark_forest_settlement.json"
+hash = "51748cdd95402428302d978e81b98467108390ade980854d6f94c386042997cc"
+
+[[files]]
+file = "moonlight-global-datapacks/synesthesia/data/explorify/tags/worldgen/biome/has_structure/guide_post_cold.json"
+hash = "51748cdd95402428302d978e81b98467108390ade980854d6f94c386042997cc"
+
+[[files]]
+file = "moonlight-global-datapacks/synesthesia/data/explorify/tags/worldgen/biome/has_structure/guide_post_warm.json"
+hash = "51748cdd95402428302d978e81b98467108390ade980854d6f94c386042997cc"
+
+[[files]]
+file = "moonlight-global-datapacks/synesthesia/data/explorify/tags/worldgen/biome/has_structure/mangrove_hut.json"
+hash = "51748cdd95402428302d978e81b98467108390ade980854d6f94c386042997cc"
+
+[[files]]
+file = "moonlight-global-datapacks/synesthesia/data/explorify/tags/worldgen/biome/has_structure/supply_cache/birch.json"
+hash = "51748cdd95402428302d978e81b98467108390ade980854d6f94c386042997cc"
+
+[[files]]
+file = "moonlight-global-datapacks/synesthesia/data/explorify/tags/worldgen/biome/has_structure/supply_cache/dark.json"
+hash = "51748cdd95402428302d978e81b98467108390ade980854d6f94c386042997cc"
+
+[[files]]
+file = "moonlight-global-datapacks/synesthesia/data/explorify/tags/worldgen/biome/has_structure/supply_cache/forest.json"
+hash = "51748cdd95402428302d978e81b98467108390ade980854d6f94c386042997cc"
+
+[[files]]
+file = "moonlight-global-datapacks/synesthesia/data/explorify/tags/worldgen/biome/has_structure/supply_cache/jungle.json"
+hash = "51748cdd95402428302d978e81b98467108390ade980854d6f94c386042997cc"
+
+[[files]]
+file = "moonlight-global-datapacks/synesthesia/data/explorify/tags/worldgen/biome/has_structure/supply_cache/mangrove.json"
+hash = "51748cdd95402428302d978e81b98467108390ade980854d6f94c386042997cc"
+
+[[files]]
+file = "moonlight-global-datapacks/synesthesia/data/explorify/tags/worldgen/biome/has_structure/supply_cache/taiga.json"
+hash = "51748cdd95402428302d978e81b98467108390ade980854d6f94c386042997cc"
+
+[[files]]
+file = "moonlight-global-datapacks/synesthesia/data/fetzisasiandeco/tags/worldgen/biome/swamp_biomes.json"
+hash = "51748cdd95402428302d978e81b98467108390ade980854d6f94c386042997cc"
+
+[[files]]
+file = "moonlight-global-datapacks/synesthesia/data/galosphere/tags/worldgen/biome/all_galosphere_biomes.json"
+hash = "5147d6e7c2ebef23cfb80eaeba58c38006220db28ae187b2c5d7fbc1ab2ad9ef"
+
+[[files]]
+file = "moonlight-global-datapacks/synesthesia/data/hexalia/tags/worldgen/biome/has_cool_biome_vegetation.json"
+hash = "51748cdd95402428302d978e81b98467108390ade980854d6f94c386042997cc"
+
+[[files]]
+file = "moonlight-global-datapacks/synesthesia/data/hexalia/tags/worldgen/biome/has_decorative_flowers.json"
+hash = "51748cdd95402428302d978e81b98467108390ade980854d6f94c386042997cc"
+
+[[files]]
+file = "moonlight-global-datapacks/synesthesia/data/hexalia/tags/worldgen/biome/has_dry_biome_vegetation.json"
+hash = "51748cdd95402428302d978e81b98467108390ade980854d6f94c386042997cc"
+
+[[files]]
+file = "moonlight-global-datapacks/synesthesia/data/hexalia/tags/worldgen/biome/has_floral_vegetation.json"
+hash = "51748cdd95402428302d978e81b98467108390ade980854d6f94c386042997cc"
+
+[[files]]
+file = "moonlight-global-datapacks/synesthesia/data/hexalia/tags/worldgen/biome/has_shaded_vegetation.json"
+hash = "51748cdd95402428302d978e81b98467108390ade980854d6f94c386042997cc"
+
+[[files]]
+file = "moonlight-global-datapacks/synesthesia/data/hexalia/tags/worldgen/biome/has_shrooms.json"
+hash = "51748cdd95402428302d978e81b98467108390ade980854d6f94c386042997cc"
+
+[[files]]
+file = "moonlight-global-datapacks/synesthesia/data/hexalia/tags/worldgen/biome/has_swamp_vegetation.json"
+hash = "51748cdd95402428302d978e81b98467108390ade980854d6f94c386042997cc"
+
+[[files]]
+file = "moonlight-global-datapacks/synesthesia/data/hexerei/tags/worldgen/biome/all_hexerei_biomes.json"
+hash = "682832208b2714a934ce2118c0fd7571f861cd259966172a5908df8cbd304872"
+
+[[files]]
+file = "moonlight-global-datapacks/synesthesia/data/hexerei/tags/worldgen/biome/has_structure/dark_coven_biomes.json"
+hash = "51748cdd95402428302d978e81b98467108390ade980854d6f94c386042997cc"
+
+[[files]]
+file = "moonlight-global-datapacks/synesthesia/data/hexerei/tags/worldgen/biome/has_structure/nature_coven_biomes.json"
+hash = "51748cdd95402428302d978e81b98467108390ade980854d6f94c386042997cc"
+
+[[files]]
+file = "moonlight-global-datapacks/synesthesia/data/hexerei/tags/worldgen/biome/has_structure/witch_hut_biomes.json"
+hash = "51748cdd95402428302d978e81b98467108390ade980854d6f94c386042997cc"
+
+[[files]]
+file = "moonlight-global-datapacks/synesthesia/data/hybrid_beta/tags/worldgen/biome/all_hybrid_beta_biomes.json"
+hash = "4a270f965e9a0194eed156a48ba292163807d4df4357d0167dc0a15828e78b2b"
+
+[[files]]
+file = "moonlight-global-datapacks/synesthesia/data/illagerinvasion/tags/worldgen/biome/has_structure/illusioner_tower.json"
+hash = "51748cdd95402428302d978e81b98467108390ade980854d6f94c386042997cc"
+
+[[files]]
+file = "moonlight-global-datapacks/synesthesia/data/illagerinvasion/tags/worldgen/biome/has_structure/sorcerer_hut.json"
+hash = "51748cdd95402428302d978e81b98467108390ade980854d6f94c386042997cc"
+
+[[files]]
+file = "moonlight-global-datapacks/synesthesia/data/incendium/tags/worldgen/biome/structure/has_reactor.json"
+hash = "4359ad7ee04a2307402a711cae85a6fc8b0cacb0a0bfedec7ce5991095e8ecfc"
+
+[[files]]
+file = "moonlight-global-datapacks/synesthesia/data/malum/tags/worldgen/biome/has_azure_runewood.json"
+hash = "51748cdd95402428302d978e81b98467108390ade980854d6f94c386042997cc"
+
+[[files]]
+file = "moonlight-global-datapacks/synesthesia/data/malum/tags/worldgen/biome/has_rare_azure_runewood.json"
+hash = "51748cdd95402428302d978e81b98467108390ade980854d6f94c386042997cc"
+
+[[files]]
+file = "moonlight-global-datapacks/synesthesia/data/meadow/tags/worldgen/biome/has_structure/bench.json"
+hash = "51748cdd95402428302d978e81b98467108390ade980854d6f94c386042997cc"
+
+[[files]]
+file = "moonlight-global-datapacks/synesthesia/data/meadow/tags/worldgen/biome/has_structure/chalet.json"
+hash = "51748cdd95402428302d978e81b98467108390ade980854d6f94c386042997cc"
+
+[[files]]
+file = "moonlight-global-datapacks/synesthesia/data/meadow/tags/worldgen/biome/has_structure/chapel.json"
+hash = "51748cdd95402428302d978e81b98467108390ade980854d6f94c386042997cc"
+
+[[files]]
+file = "moonlight-global-datapacks/synesthesia/data/meadow/tags/worldgen/biome/has_structure/logging_camp.json"
+hash = "51748cdd95402428302d978e81b98467108390ade980854d6f94c386042997cc"
+
+[[files]]
+file = "moonlight-global-datapacks/synesthesia/data/meadow/tags/worldgen/biome/has_structure/monument.json"
+hash = "51748cdd95402428302d978e81b98467108390ade980854d6f94c386042997cc"
+
+[[files]]
+file = "moonlight-global-datapacks/synesthesia/data/meadow/tags/worldgen/biome/has_structure/observation_post.json"
+hash = "51748cdd95402428302d978e81b98467108390ade980854d6f94c386042997cc"
+
+[[files]]
+file = "moonlight-global-datapacks/synesthesia/data/meadow/tags/worldgen/biome/is_meadow.json"
+hash = "51748cdd95402428302d978e81b98467108390ade980854d6f94c386042997cc"
+
+[[files]]
+file = "moonlight-global-datapacks/synesthesia/data/meadow/tags/worldgen/biome/spawns_meadow_wooly_cows.json"
+hash = "51748cdd95402428302d978e81b98467108390ade980854d6f94c386042997cc"
+
+[[files]]
+file = "moonlight-global-datapacks/synesthesia/data/meadow/tags/worldgen/biome/spawns_warped_cow.json"
+hash = "b56bcdf883ec51926746d379b8ece0e14191a190bfc44ba8744f277ab050aaf2"
+
+[[files]]
+file = "moonlight-global-datapacks/synesthesia/data/minecolonies/tags/worldgen/biome/has_structure/warpednetherlands_colony.json"
+hash = "b56bcdf883ec51926746d379b8ece0e14191a190bfc44ba8744f277ab050aaf2"
+
+[[files]]
+file = "moonlight-global-datapacks/synesthesia/data/mmv/tags/worldgen/biome/has_structure/dark_forest_biomes.json"
+hash = "51748cdd95402428302d978e81b98467108390ade980854d6f94c386042997cc"
+
+[[files]]
+file = "moonlight-global-datapacks/synesthesia/data/mns/tags/worldgen/biome/has_structure/crimson_biomes.json"
+hash = "b56bcdf883ec51926746d379b8ece0e14191a190bfc44ba8744f277ab050aaf2"
+
+[[files]]
+file = "moonlight-global-datapacks/synesthesia/data/mns/tags/worldgen/biome/has_structure/nether_wastes_biomes.json"
+hash = "b56bcdf883ec51926746d379b8ece0e14191a190bfc44ba8744f277ab050aaf2"
+
+[[files]]
+file = "moonlight-global-datapacks/synesthesia/data/mns/tags/worldgen/biome/has_structure/soul_biomes.json"
+hash = "b56bcdf883ec51926746d379b8ece0e14191a190bfc44ba8744f277ab050aaf2"
+
+[[files]]
+file = "moonlight-global-datapacks/synesthesia/data/mns/tags/worldgen/biome/has_structure/warped_biomes.json"
+hash = "b56bcdf883ec51926746d379b8ece0e14191a190bfc44ba8744f277ab050aaf2"
+
+[[files]]
+file = "moonlight-global-datapacks/synesthesia/data/mowziesmobs/tags/worldgen/biome/is_magical.json"
+hash = "51748cdd95402428302d978e81b98467108390ade980854d6f94c386042997cc"
+
+[[files]]
+file = "moonlight-global-datapacks/synesthesia/data/mss/tags/worldgen/biome/has_structure/mangrove_biomes.json"
+hash = "51748cdd95402428302d978e81b98467108390ade980854d6f94c386042997cc"
+
+[[files]]
+file = "moonlight-global-datapacks/synesthesia/data/mtr/tags/worldgen/biome/has_structure/acacia_biomes.json"
+hash = "51748cdd95402428302d978e81b98467108390ade980854d6f94c386042997cc"
+
+[[files]]
+file = "moonlight-global-datapacks/synesthesia/data/mtr/tags/worldgen/biome/has_structure/birch_biomes.json"
+hash = "51748cdd95402428302d978e81b98467108390ade980854d6f94c386042997cc"
+
+[[files]]
+file = "moonlight-global-datapacks/synesthesia/data/mtr/tags/worldgen/biome/has_structure/cherry_biomes.json"
+hash = "51748cdd95402428302d978e81b98467108390ade980854d6f94c386042997cc"
+
+[[files]]
+file = "moonlight-global-datapacks/synesthesia/data/mtr/tags/worldgen/biome/has_structure/crimson_biomes.json"
+hash = "b56bcdf883ec51926746d379b8ece0e14191a190bfc44ba8744f277ab050aaf2"
+
+[[files]]
+file = "moonlight-global-datapacks/synesthesia/data/mtr/tags/worldgen/biome/has_structure/dark_oak_biomes.json"
+hash = "51748cdd95402428302d978e81b98467108390ade980854d6f94c386042997cc"
+
+[[files]]
+file = "moonlight-global-datapacks/synesthesia/data/mtr/tags/worldgen/biome/has_structure/end_biomes.json"
+hash = "6ddf517f6d4b65c795bddcf7c1cbb5368793c280b9e9bb080ab2df50cbc7030b"
+
+[[files]]
+file = "moonlight-global-datapacks/synesthesia/data/mtr/tags/worldgen/biome/has_structure/flower_biomes.json"
+hash = "51748cdd95402428302d978e81b98467108390ade980854d6f94c386042997cc"
+
+[[files]]
+file = "moonlight-global-datapacks/synesthesia/data/mtr/tags/worldgen/biome/has_structure/mangrove_biomes.json"
+hash = "51748cdd95402428302d978e81b98467108390ade980854d6f94c386042997cc"
+
+[[files]]
+file = "moonlight-global-datapacks/synesthesia/data/mtr/tags/worldgen/biome/has_structure/mushroom_island_biomes.json"
+hash = "51748cdd95402428302d978e81b98467108390ade980854d6f94c386042997cc"
+
+[[files]]
+file = "moonlight-global-datapacks/synesthesia/data/mtr/tags/worldgen/biome/has_structure/nether_wastes_biomes.json"
+hash = "b56bcdf883ec51926746d379b8ece0e14191a190bfc44ba8744f277ab050aaf2"
+
+[[files]]
+file = "moonlight-global-datapacks/synesthesia/data/mtr/tags/worldgen/biome/has_structure/oak_biomes.json"
+hash = "51748cdd95402428302d978e81b98467108390ade980854d6f94c386042997cc"
+
+[[files]]
+file = "moonlight-global-datapacks/synesthesia/data/mtr/tags/worldgen/biome/has_structure/plains_and_oak_biomes.json"
+hash = "51748cdd95402428302d978e81b98467108390ade980854d6f94c386042997cc"
+
+[[files]]
+file = "moonlight-global-datapacks/synesthesia/data/mtr/tags/worldgen/biome/has_structure/snowy_biomes.json"
+hash = "51748cdd95402428302d978e81b98467108390ade980854d6f94c386042997cc"
+
+[[files]]
+file = "moonlight-global-datapacks/synesthesia/data/mtr/tags/worldgen/biome/has_structure/stony_shore_biomes.json"
+hash = "51748cdd95402428302d978e81b98467108390ade980854d6f94c386042997cc"
+
+[[files]]
+file = "moonlight-global-datapacks/synesthesia/data/mvs/tags/worldgen/biome/is_dark_forest.json"
+hash = "51748cdd95402428302d978e81b98467108390ade980854d6f94c386042997cc"
+
+[[files]]
+file = "moonlight-global-datapacks/synesthesia/data/mvs/tags/worldgen/biome/primary_wood_type/cherry.json"
+hash = "51748cdd95402428302d978e81b98467108390ade980854d6f94c386042997cc"
+
+[[files]]
+file = "moonlight-global-datapacks/synesthesia/data/mvs/tags/worldgen/biome/primary_wood_type/crimson.json"
+hash = "b56bcdf883ec51926746d379b8ece0e14191a190bfc44ba8744f277ab050aaf2"
+
+[[files]]
+file = "moonlight-global-datapacks/synesthesia/data/mvs/tags/worldgen/biome/primary_wood_type/mangrove.json"
+hash = "51748cdd95402428302d978e81b98467108390ade980854d6f94c386042997cc"
+
+[[files]]
+file = "moonlight-global-datapacks/synesthesia/data/neoforge/loot_modifiers/global_loot_modifiers.json"
+hash = "3a22c38c69c922af910d96e8017cb5b5b279e60179bb55c6fc7c1cc90adc0f97"
+
+[[files]]
+file = "moonlight-global-datapacks/synesthesia/data/nova_structures/tags/worldgen/biome/collections/cherry_forests.json"
+hash = "c859ab39fb8a6b735ef53ddc01e684b56712a20c7081db02b0d26ab6d416f8d5"
+
+[[files]]
+file = "moonlight-global-datapacks/synesthesia/data/nova_structures/tags/worldgen/biome/collections/end_voids.json"
+hash = "6ddf517f6d4b65c795bddcf7c1cbb5368793c280b9e9bb080ab2df50cbc7030b"
+
+[[files]]
+file = "moonlight-global-datapacks/synesthesia/data/nova_structures/tags/worldgen/biome/collections/mangroves.json"
+hash = "51748cdd95402428302d978e81b98467108390ade980854d6f94c386042997cc"
+
+[[files]]
+file = "moonlight-global-datapacks/synesthesia/data/nova_structures/tags/worldgen/biome/collections/meadows.json"
+hash = "51748cdd95402428302d978e81b98467108390ade980854d6f94c386042997cc"
+
+[[files]]
+file = "moonlight-global-datapacks/synesthesia/data/nova_structures/tags/worldgen/biome/collections/nether_basalts.json"
+hash = "4359ad7ee04a2307402a711cae85a6fc8b0cacb0a0bfedec7ce5991095e8ecfc"
+
+[[files]]
+file = "moonlight-global-datapacks/synesthesia/data/nova_structures/tags/worldgen/biome/collections/nether_crimson_forests.json"
+hash = "6ea2867eb79a90366d2fc0cd861fc1147720dbf5cad46588bb3387c7d8b13018"
+
+[[files]]
+file = "moonlight-global-datapacks/synesthesia/data/nova_structures/tags/worldgen/biome/collections/regular_forests.json"
+hash = "51748cdd95402428302d978e81b98467108390ade980854d6f94c386042997cc"
+
+[[files]]
+file = "moonlight-global-datapacks/synesthesia/data/nova_structures/tags/worldgen/biome/collections/snowy_forests.json"
+hash = "51748cdd95402428302d978e81b98467108390ade980854d6f94c386042997cc"
+
+[[files]]
+file = "moonlight-global-datapacks/synesthesia/data/nova_structures/tags/worldgen/biome/collections/snowy_mountains.json"
+hash = "51748cdd95402428302d978e81b98467108390ade980854d6f94c386042997cc"
+
+[[files]]
+file = "moonlight-global-datapacks/synesthesia/data/nova_structures/tags/worldgen/biome/collections/taiga.json"
+hash = "51748cdd95402428302d978e81b98467108390ade980854d6f94c386042997cc"
+
+[[files]]
+file = "moonlight-global-datapacks/synesthesia/data/primal/tags/worldgen/biome/has_flora/cattails.json"
+hash = "51748cdd95402428302d978e81b98467108390ade980854d6f94c386042997cc"
+
+[[files]]
+file = "moonlight-global-datapacks/synesthesia/data/primal/tags/worldgen/biome/has_flora/has_variant/seashells/cold_seashells.json"
+hash = "51748cdd95402428302d978e81b98467108390ade980854d6f94c386042997cc"
+
+[[files]]
+file = "moonlight-global-datapacks/synesthesia/data/primal/tags/worldgen/biome/has_flora/has_variant/seashells/temperate_seashells.json"
+hash = "51748cdd95402428302d978e81b98467108390ade980854d6f94c386042997cc"
+
+[[files]]
+file = "moonlight-global-datapacks/synesthesia/data/primal/tags/worldgen/biome/has_flora/thorned_acacia.json"
+hash = "51748cdd95402428302d978e81b98467108390ade980854d6f94c386042997cc"
+
+[[files]]
+file = "moonlight-global-datapacks/synesthesia/data/primal/tags/worldgen/biome/has_mob/has_habitat/walrus/ocean.json"
+hash = "51748cdd95402428302d978e81b98467108390ade980854d6f94c386042997cc"
+
+[[files]]
+file = "moonlight-global-datapacks/synesthesia/data/primal/tags/worldgen/biome/has_mob/has_variant/bear/black.json"
+hash = "51748cdd95402428302d978e81b98467108390ade980854d6f94c386042997cc"
+
+[[files]]
+file = "moonlight-global-datapacks/synesthesia/data/primal/tags/worldgen/biome/has_mob/has_variant/cassowary/sunset.json"
+hash = "51748cdd95402428302d978e81b98467108390ade980854d6f94c386042997cc"
+
+[[files]]
+file = "moonlight-global-datapacks/synesthesia/data/primal/tags/worldgen/biome/has_mob/has_variant/crocodile/black.json"
+hash = "51748cdd95402428302d978e81b98467108390ade980854d6f94c386042997cc"
+
+[[files]]
+file = "moonlight-global-datapacks/synesthesia/data/primal/tags/worldgen/biome/has_mob/has_variant/crocodile/brown.json"
+hash = "51748cdd95402428302d978e81b98467108390ade980854d6f94c386042997cc"
+
+[[files]]
+file = "moonlight-global-datapacks/synesthesia/data/primal/tags/worldgen/biome/has_mob/has_variant/deer/musk.json"
+hash = "51748cdd95402428302d978e81b98467108390ade980854d6f94c386042997cc"
+
+[[files]]
+file = "moonlight-global-datapacks/synesthesia/data/primal/tags/worldgen/biome/has_mob/has_variant/deer/reindeer.json"
+hash = "51748cdd95402428302d978e81b98467108390ade980854d6f94c386042997cc"
+
+[[files]]
+file = "moonlight-global-datapacks/synesthesia/data/primal/tags/worldgen/biome/has_mob/has_variant/deer/whitetail.json"
+hash = "51748cdd95402428302d978e81b98467108390ade980854d6f94c386042997cc"
+
+[[files]]
+file = "moonlight-global-datapacks/synesthesia/data/primal/tags/worldgen/biome/has_mob/has_variant/dolphin/cold.json"
+hash = "51748cdd95402428302d978e81b98467108390ade980854d6f94c386042997cc"
+
+[[files]]
+file = "moonlight-global-datapacks/synesthesia/data/primal/tags/worldgen/biome/has_mob/has_variant/dolphin/warm.json"
+hash = "51748cdd95402428302d978e81b98467108390ade980854d6f94c386042997cc"
+
+[[files]]
+file = "moonlight-global-datapacks/synesthesia/data/primal/tags/worldgen/biome/has_mob/has_variant/eagle/golden.json"
+hash = "51748cdd95402428302d978e81b98467108390ade980854d6f94c386042997cc"
+
+[[files]]
+file = "moonlight-global-datapacks/synesthesia/data/primal/tags/worldgen/biome/has_mob/has_variant/eagle/harpy.json"
+hash = "51748cdd95402428302d978e81b98467108390ade980854d6f94c386042997cc"
+
+[[files]]
+file = "moonlight-global-datapacks/synesthesia/data/primal/tags/worldgen/biome/has_mob/has_variant/eagle/philippine.json"
+hash = "51748cdd95402428302d978e81b98467108390ade980854d6f94c386042997cc"
+
+[[files]]
+file = "moonlight-global-datapacks/synesthesia/data/primal/tags/worldgen/biome/has_mob/has_variant/lion/caramel.json"
+hash = "51748cdd95402428302d978e81b98467108390ade980854d6f94c386042997cc"
+
+[[files]]
+file = "moonlight-global-datapacks/synesthesia/data/primal/tags/worldgen/biome/has_mob/has_variant/lion/cave.json"
+hash = "51748cdd95402428302d978e81b98467108390ade980854d6f94c386042997cc"
+
+[[files]]
+file = "moonlight-global-datapacks/synesthesia/data/primal/tags/worldgen/biome/has_mob/has_variant/shark/hammerhead.json"
+hash = "51748cdd95402428302d978e81b98467108390ade980854d6f94c386042997cc"
+
+[[files]]
+file = "moonlight-global-datapacks/synesthesia/data/primal/tags/worldgen/biome/has_mob/has_variant/shark/mackerel.json"
+hash = "51748cdd95402428302d978e81b98467108390ade980854d6f94c386042997cc"
+
+[[files]]
+file = "moonlight-global-datapacks/synesthesia/data/primal/tags/worldgen/biome/has_mob/has_variant/shark/sleeper.json"
+hash = "51748cdd95402428302d978e81b98467108390ade980854d6f94c386042997cc"
+
+[[files]]
+file = "moonlight-global-datapacks/synesthesia/data/primal/tags/worldgen/biome/has_mob/has_variant/shark/tiger.json"
+hash = "51748cdd95402428302d978e81b98467108390ade980854d6f94c386042997cc"
+
+[[files]]
+file = "moonlight-global-datapacks/synesthesia/data/primal/tags/worldgen/biome/has_mob/has_variant/snake/aposematic.json"
+hash = "51748cdd95402428302d978e81b98467108390ade980854d6f94c386042997cc"
+
+[[files]]
+file = "moonlight-global-datapacks/synesthesia/data/primal/tags/worldgen/biome/has_mob/has_variant/snake/brackish.json"
+hash = "51748cdd95402428302d978e81b98467108390ade980854d6f94c386042997cc"
+
+[[files]]
+file = "moonlight-global-datapacks/synesthesia/data/primal/tags/worldgen/biome/has_mob/has_variant/snake/browed.json"
+hash = "51748cdd95402428302d978e81b98467108390ade980854d6f94c386042997cc"
+
+[[files]]
+file = "moonlight-global-datapacks/synesthesia/data/primal/tags/worldgen/biome/has_mob/has_variant/snake/cerulean.json"
+hash = "51748cdd95402428302d978e81b98467108390ade980854d6f94c386042997cc"
+
+[[files]]
+file = "moonlight-global-datapacks/synesthesia/data/primal/tags/worldgen/biome/has_mob/has_variant/snake/lumber.json"
+hash = "51748cdd95402428302d978e81b98467108390ade980854d6f94c386042997cc"
+
+[[files]]
+file = "moonlight-global-datapacks/synesthesia/data/primal/tags/worldgen/biome/has_mob/has_variant/walrus/sunburnt.json"
+hash = "51748cdd95402428302d978e81b98467108390ade980854d6f94c386042997cc"
+
+[[files]]
+file = "moonlight-global-datapacks/synesthesia/data/productivebees/tags/worldgen/biome/warm_ocean.json"
+hash = "51748cdd95402428302d978e81b98467108390ade980854d6f94c386042997cc"
+
+[[files]]
+file = "moonlight-global-datapacks/synesthesia/data/quark/tags/worldgen/biome/all_quark_biomes.json"
+hash = "25a34783f3473f34345a5b1eebdcf3057b1ef989c482d3d421fab4793958f278"
+
+[[files]]
+file = "moonlight-global-datapacks/synesthesia/data/quark/tags/worldgen/biome/has_fallen_acacia.json"
+hash = "51748cdd95402428302d978e81b98467108390ade980854d6f94c386042997cc"
+
+[[files]]
+file = "moonlight-global-datapacks/synesthesia/data/quark/tags/worldgen/biome/has_fallen_birch.json"
+hash = "51748cdd95402428302d978e81b98467108390ade980854d6f94c386042997cc"
+
+[[files]]
+file = "moonlight-global-datapacks/synesthesia/data/quark/tags/worldgen/biome/has_fallen_cherry.json"
+hash = "51748cdd95402428302d978e81b98467108390ade980854d6f94c386042997cc"
+
+[[files]]
+file = "moonlight-global-datapacks/synesthesia/data/quark/tags/worldgen/biome/has_fallen_jungle.json"
+hash = "51748cdd95402428302d978e81b98467108390ade980854d6f94c386042997cc"
+
+[[files]]
+file = "moonlight-global-datapacks/synesthesia/data/quark/tags/worldgen/biome/has_fallen_oak.json"
+hash = "51748cdd95402428302d978e81b98467108390ade980854d6f94c386042997cc"
+
+[[files]]
+file = "moonlight-global-datapacks/synesthesia/data/quark/tags/worldgen/biome/has_fallen_spruce.json"
+hash = "51748cdd95402428302d978e81b98467108390ade980854d6f94c386042997cc"
+
+[[files]]
+file = "moonlight-global-datapacks/synesthesia/data/quark/tags/worldgen/biome/has_lower_fallen_tree_density.json"
+hash = "51748cdd95402428302d978e81b98467108390ade980854d6f94c386042997cc"
+
+[[files]]
+file = "moonlight-global-datapacks/synesthesia/data/recovery/function/give_items.mcfunction"
+hash = "c21d08bb2676fd2d5854746454606fa12f479f72c31d72e81d1f377164179b52"
+
+[[files]]
+file = "moonlight-global-datapacks/synesthesia/data/regions_unexplored/worldgen/placed_feature/patch/ash_vents_inferno.json"
 hash = "5b233c601237d279bf51ee4f86e521dd7aa6167d3a6c9f9578de51944e84f3e1"
 
 [[files]]
-file = "moonlight-global-datapacks/fix_ru_in_structure_deadlock/data/regions_unexplored/worldgen/placed_feature/patch/cave_bioshrooms.json"
+file = "moonlight-global-datapacks/synesthesia/data/regions_unexplored/worldgen/placed_feature/patch/cave_bioshrooms.json"
 hash = "af085a7f131df8c6b9793439d8108d8608066fe1acca4d189a4785e75bf324c9"
 
 [[files]]
-file = "moonlight-global-datapacks/fix_ru_in_structure_deadlock/data/regions_unexplored/worldgen/placed_feature/patch/dropleaf.json"
+file = "moonlight-global-datapacks/synesthesia/data/regions_unexplored/worldgen/placed_feature/patch/dropleaf.json"
 hash = "e0c7744b046b213198c0a2523221b17d9fd0996f88789464d1993555fcba3b5f"
 
 [[files]]
-file = "moonlight-global-datapacks/fix_ru_in_structure_deadlock/data/regions_unexplored/worldgen/placed_feature/patch/prismarite_cluster.json"
+file = "moonlight-global-datapacks/synesthesia/data/regions_unexplored/worldgen/placed_feature/patch/prismarite_cluster.json"
 hash = "7e664e84da3781666cb01f99d59c42b359d7156eac4696c598980560bc8d6557"
 
 [[files]]
-file = "moonlight-global-datapacks/fix_ru_in_structure_deadlock/data/regions_unexplored/worldgen/placed_feature/patch/redstone_bud.json"
+file = "moonlight-global-datapacks/synesthesia/data/regions_unexplored/worldgen/placed_feature/patch/redstone_bud.json"
 hash = "b27c14f4a9bb8d7aebafb112ad2ffb74867e429a0a0a39888943fb39f6321da5"
 
 [[files]]
-file = "moonlight-global-datapacks/fix_ru_in_structure_deadlock/data/regions_unexplored/worldgen/placed_feature/patch/redstone_bulb.json"
+file = "moonlight-global-datapacks/synesthesia/data/regions_unexplored/worldgen/placed_feature/patch/redstone_bulb.json"
 hash = "0cac1a0b0ff9080f69b95c66674bfadbf719c44801131d317dd7a99d74ec3d66"
 
 [[files]]
-file = "moonlight-global-datapacks/fix_ru_in_structure_deadlock/data/regions_unexplored/worldgen/placed_feature/special/lava_fall.json"
+file = "moonlight-global-datapacks/synesthesia/data/regions_unexplored/worldgen/placed_feature/special/lava_fall.json"
 hash = "6b77aa6d6d6979e4858418b7fd61f06c9e9f92225704c9a1d4bd754a6e7468c7"
 
 [[files]]
-file = "moonlight-global-datapacks/fix_ru_in_structure_deadlock/data/regions_unexplored/worldgen/placed_feature/special/overworld_lava_delta.json"
+file = "moonlight-global-datapacks/synesthesia/data/regions_unexplored/worldgen/placed_feature/special/overworld_lava_delta.json"
 hash = "f3b403c26d5e96cd20fd51f459bfc64bd11ed817c7a59bd1c10e7f3aa70e3bba"
 
 [[files]]
-file = "moonlight-global-datapacks/fix_ru_in_structure_deadlock/pack.mcmeta"
-hash = "3eb4ecdf354747892aed9e25de3e7d3818d70170c527b2bc86a9cf56fc840064"
+file = "moonlight-global-datapacks/synesthesia/data/scorched/tags/worldgen/biome/has_structure/ancient_mechanism.json"
+hash = "51748cdd95402428302d978e81b98467108390ade980854d6f94c386042997cc"
 
 [[files]]
-file = "moonlight-global-datapacks/no_cnc_rat_spawns/data/caverns_and_chasms/neoforge/biome_modifier/add_spawn/rat.json"
-hash = "99b969132018e9da1071065a8593ba9564928b1ed0aa5ae3ab45f9dac071f7d5"
+file = "moonlight-global-datapacks/synesthesia/data/scorched/tags/worldgen/biome/has_structure/badlands_pyramid.json"
+hash = "51748cdd95402428302d978e81b98467108390ade980854d6f94c386042997cc"
 
 [[files]]
-file = "moonlight-global-datapacks/no_cnc_rat_spawns/pack.mcmeta"
-hash = "ac89d18fd2335104938412b2f49d0e1bc98e3b3862e9abdf351303faff772179"
+file = "moonlight-global-datapacks/synesthesia/data/scorched/tags/worldgen/biome/has_structure/badlands_well.json"
+hash = "51748cdd95402428302d978e81b98467108390ade980854d6f94c386042997cc"
+
+[[files]]
+file = "moonlight-global-datapacks/synesthesia/data/scorched/tags/worldgen/biome/has_structure/desert_well.json"
+hash = "51748cdd95402428302d978e81b98467108390ade980854d6f94c386042997cc"
+
+[[files]]
+file = "moonlight-global-datapacks/synesthesia/data/scorched/tags/worldgen/biome/has_structure/sandcrab.json"
+hash = "51748cdd95402428302d978e81b98467108390ade980854d6f94c386042997cc"
+
+[[files]]
+file = "moonlight-global-datapacks/synesthesia/data/scorched/tags/worldgen/biome/spawns_sandcrawlers.json"
+hash = "51748cdd95402428302d978e81b98467108390ade980854d6f94c386042997cc"
+
+[[files]]
+file = "moonlight-global-datapacks/synesthesia/data/starcatcher/tags/worldgen/biome/is_basalt_deltas.json"
+hash = "b56bcdf883ec51926746d379b8ece0e14191a190bfc44ba8744f277ab050aaf2"
+
+[[files]]
+file = "moonlight-global-datapacks/synesthesia/data/starcatcher/tags/worldgen/biome/is_cherry_grove.json"
+hash = "51748cdd95402428302d978e81b98467108390ade980854d6f94c386042997cc"
+
+[[files]]
+file = "moonlight-global-datapacks/synesthesia/data/starcatcher/tags/worldgen/biome/is_cold_lake.json"
+hash = "51748cdd95402428302d978e81b98467108390ade980854d6f94c386042997cc"
+
+[[files]]
+file = "moonlight-global-datapacks/synesthesia/data/starcatcher/tags/worldgen/biome/is_cold_ocean.json"
+hash = "51748cdd95402428302d978e81b98467108390ade980854d6f94c386042997cc"
+
+[[files]]
+file = "moonlight-global-datapacks/synesthesia/data/starcatcher/tags/worldgen/biome/is_cold_river.json"
+hash = "51748cdd95402428302d978e81b98467108390ade980854d6f94c386042997cc"
+
+[[files]]
+file = "moonlight-global-datapacks/synesthesia/data/starcatcher/tags/worldgen/biome/is_crimson_forest.json"
+hash = "b56bcdf883ec51926746d379b8ece0e14191a190bfc44ba8744f277ab050aaf2"
+
+[[files]]
+file = "moonlight-global-datapacks/synesthesia/data/starcatcher/tags/worldgen/biome/is_dark_forest.json"
+hash = "51748cdd95402428302d978e81b98467108390ade980854d6f94c386042997cc"
+
+[[files]]
+file = "moonlight-global-datapacks/synesthesia/data/starcatcher/tags/worldgen/biome/is_lukewarm_ocean.json"
+hash = "51748cdd95402428302d978e81b98467108390ade980854d6f94c386042997cc"
+
+[[files]]
+file = "moonlight-global-datapacks/synesthesia/data/starcatcher/tags/worldgen/biome/is_normal_ocean.json"
+hash = "51748cdd95402428302d978e81b98467108390ade980854d6f94c386042997cc"
+
+[[files]]
+file = "moonlight-global-datapacks/synesthesia/data/starcatcher/tags/worldgen/biome/is_soul_sand_valley.json"
+hash = "b56bcdf883ec51926746d379b8ece0e14191a190bfc44ba8744f277ab050aaf2"
+
+[[files]]
+file = "moonlight-global-datapacks/synesthesia/data/starcatcher/tags/worldgen/biome/is_warm_ocean.json"
+hash = "51748cdd95402428302d978e81b98467108390ade980854d6f94c386042997cc"
+
+[[files]]
+file = "moonlight-global-datapacks/synesthesia/data/starcatcher/tags/worldgen/biome/is_warm_river.json"
+hash = "51748cdd95402428302d978e81b98467108390ade980854d6f94c386042997cc"
+
+[[files]]
+file = "moonlight-global-datapacks/synesthesia/data/starcatcher/tags/worldgen/biome/is_warped_forest.json"
+hash = "b56bcdf883ec51926746d379b8ece0e14191a190bfc44ba8744f277ab050aaf2"
+
+[[files]]
+file = "moonlight-global-datapacks/synesthesia/data/swem/tags/worldgen/biome/has_structure/lonely_cottage_abandoned.json"
+hash = "51748cdd95402428302d978e81b98467108390ade980854d6f94c386042997cc"
+
+[[files]]
+file = "moonlight-global-datapacks/synesthesia/data/towns_and_towers/tags/worldgen/biome/has_structure/pillager_outpost_badlands.json"
+hash = "c859ab39fb8a6b735ef53ddc01e684b56712a20c7081db02b0d26ab6d416f8d5"
+
+[[files]]
+file = "moonlight-global-datapacks/synesthesia/data/towns_and_towers/tags/worldgen/biome/has_structure/pillager_outpost_beach.json"
+hash = "c859ab39fb8a6b735ef53ddc01e684b56712a20c7081db02b0d26ab6d416f8d5"
+
+[[files]]
+file = "moonlight-global-datapacks/synesthesia/data/towns_and_towers/tags/worldgen/biome/has_structure/pillager_outpost_birch_forest.json"
+hash = "c859ab39fb8a6b735ef53ddc01e684b56712a20c7081db02b0d26ab6d416f8d5"
+
+[[files]]
+file = "moonlight-global-datapacks/synesthesia/data/towns_and_towers/tags/worldgen/biome/has_structure/pillager_outpost_deep_oceans.json"
+hash = "51748cdd95402428302d978e81b98467108390ade980854d6f94c386042997cc"
+
+[[files]]
+file = "moonlight-global-datapacks/synesthesia/data/towns_and_towers/tags/worldgen/biome/has_structure/pillager_outpost_desert.json"
+hash = "c859ab39fb8a6b735ef53ddc01e684b56712a20c7081db02b0d26ab6d416f8d5"
+
+[[files]]
+file = "moonlight-global-datapacks/synesthesia/data/towns_and_towers/tags/worldgen/biome/has_structure/pillager_outpost_flower_forest.json"
+hash = "c859ab39fb8a6b735ef53ddc01e684b56712a20c7081db02b0d26ab6d416f8d5"
+
+[[files]]
+file = "moonlight-global-datapacks/synesthesia/data/towns_and_towers/tags/worldgen/biome/has_structure/pillager_outpost_forest.json"
+hash = "68b4f514b46161432c4b5e6e47ceab8ab962e9305755f6f7bb35642a94d418e0"
+
+[[files]]
+file = "moonlight-global-datapacks/synesthesia/data/towns_and_towers/tags/worldgen/biome/has_structure/pillager_outpost_grove.json"
+hash = "c859ab39fb8a6b735ef53ddc01e684b56712a20c7081db02b0d26ab6d416f8d5"
+
+[[files]]
+file = "moonlight-global-datapacks/synesthesia/data/towns_and_towers/tags/worldgen/biome/has_structure/pillager_outpost_jungle.json"
+hash = "c859ab39fb8a6b735ef53ddc01e684b56712a20c7081db02b0d26ab6d416f8d5"
+
+[[files]]
+file = "moonlight-global-datapacks/synesthesia/data/towns_and_towers/tags/worldgen/biome/has_structure/pillager_outpost_meadow.json"
+hash = "c859ab39fb8a6b735ef53ddc01e684b56712a20c7081db02b0d26ab6d416f8d5"
+
+[[files]]
+file = "moonlight-global-datapacks/synesthesia/data/towns_and_towers/tags/worldgen/biome/has_structure/pillager_outpost_mushroom_fields.json"
+hash = "51748cdd95402428302d978e81b98467108390ade980854d6f94c386042997cc"
+
+[[files]]
+file = "moonlight-global-datapacks/synesthesia/data/towns_and_towers/tags/worldgen/biome/has_structure/pillager_outpost_old_growth_taiga.json"
+hash = "c859ab39fb8a6b735ef53ddc01e684b56712a20c7081db02b0d26ab6d416f8d5"
+
+[[files]]
+file = "moonlight-global-datapacks/synesthesia/data/towns_and_towers/tags/worldgen/biome/has_structure/pillager_outpost_savanna.json"
+hash = "51748cdd95402428302d978e81b98467108390ade980854d6f94c386042997cc"
+
+[[files]]
+file = "moonlight-global-datapacks/synesthesia/data/towns_and_towers/tags/worldgen/biome/has_structure/pillager_outpost_savanna_plateau.json"
+hash = "51748cdd95402428302d978e81b98467108390ade980854d6f94c386042997cc"
+
+[[files]]
+file = "moonlight-global-datapacks/synesthesia/data/towns_and_towers/tags/worldgen/biome/has_structure/pillager_outpost_snowy_beach.json"
+hash = "51748cdd95402428302d978e81b98467108390ade980854d6f94c386042997cc"
+
+[[files]]
+file = "moonlight-global-datapacks/synesthesia/data/towns_and_towers/tags/worldgen/biome/has_structure/pillager_outpost_snowy_plains.json"
+hash = "51748cdd95402428302d978e81b98467108390ade980854d6f94c386042997cc"
+
+[[files]]
+file = "moonlight-global-datapacks/synesthesia/data/towns_and_towers/tags/worldgen/biome/has_structure/pillager_outpost_snowy_slopes.json"
+hash = "c859ab39fb8a6b735ef53ddc01e684b56712a20c7081db02b0d26ab6d416f8d5"
+
+[[files]]
+file = "moonlight-global-datapacks/synesthesia/data/towns_and_towers/tags/worldgen/biome/has_structure/pillager_outpost_snowy_taiga.json"
+hash = "c859ab39fb8a6b735ef53ddc01e684b56712a20c7081db02b0d26ab6d416f8d5"
+
+[[files]]
+file = "moonlight-global-datapacks/synesthesia/data/towns_and_towers/tags/worldgen/biome/has_structure/pillager_outpost_sparse_jungle.json"
+hash = "68b4f514b46161432c4b5e6e47ceab8ab962e9305755f6f7bb35642a94d418e0"
+
+[[files]]
+file = "moonlight-global-datapacks/synesthesia/data/towns_and_towers/tags/worldgen/biome/has_structure/pillager_outpost_sunflower_plains.json"
+hash = "c859ab39fb8a6b735ef53ddc01e684b56712a20c7081db02b0d26ab6d416f8d5"
+
+[[files]]
+file = "moonlight-global-datapacks/synesthesia/data/towns_and_towers/tags/worldgen/biome/has_structure/pillager_outpost_swamp.json"
+hash = "c859ab39fb8a6b735ef53ddc01e684b56712a20c7081db02b0d26ab6d416f8d5"
+
+[[files]]
+file = "moonlight-global-datapacks/synesthesia/data/towns_and_towers/tags/worldgen/biome/has_structure/pillager_outpost_taiga.json"
+hash = "c859ab39fb8a6b735ef53ddc01e684b56712a20c7081db02b0d26ab6d416f8d5"
+
+[[files]]
+file = "moonlight-global-datapacks/synesthesia/data/towns_and_towers/tags/worldgen/biome/has_structure/pillager_outpost_wooded_badlands.json"
+hash = "c859ab39fb8a6b735ef53ddc01e684b56712a20c7081db02b0d26ab6d416f8d5"
+
+[[files]]
+file = "moonlight-global-datapacks/synesthesia/data/towns_and_towers/tags/worldgen/biome/has_structure/shallow_oceans_wreckage.json"
+hash = "51748cdd95402428302d978e81b98467108390ade980854d6f94c386042997cc"
+
+[[files]]
+file = "moonlight-global-datapacks/synesthesia/data/towns_and_towers/tags/worldgen/biome/has_structure/village_badlands_pueblo.json"
+hash = "c859ab39fb8a6b735ef53ddc01e684b56712a20c7081db02b0d26ab6d416f8d5"
+
+[[files]]
+file = "moonlight-global-datapacks/synesthesia/data/towns_and_towers/tags/worldgen/biome/has_structure/village_beach_lighthouse.json"
+hash = "c859ab39fb8a6b735ef53ddc01e684b56712a20c7081db02b0d26ab6d416f8d5"
+
+[[files]]
+file = "moonlight-global-datapacks/synesthesia/data/towns_and_towers/tags/worldgen/biome/has_structure/village_birch_forest_romanian.json"
+hash = "c859ab39fb8a6b735ef53ddc01e684b56712a20c7081db02b0d26ab6d416f8d5"
+
+[[files]]
+file = "moonlight-global-datapacks/synesthesia/data/towns_and_towers/tags/worldgen/biome/has_structure/village_deep_oceans_ships.json"
+hash = "51748cdd95402428302d978e81b98467108390ade980854d6f94c386042997cc"
+
+[[files]]
+file = "moonlight-global-datapacks/synesthesia/data/towns_and_towers/tags/worldgen/biome/has_structure/village_flower_forest_japanese.json"
+hash = "c859ab39fb8a6b735ef53ddc01e684b56712a20c7081db02b0d26ab6d416f8d5"
+
+[[files]]
+file = "moonlight-global-datapacks/synesthesia/data/towns_and_towers/tags/worldgen/biome/has_structure/village_forest_ruins.json"
+hash = "68b4f514b46161432c4b5e6e47ceab8ab962e9305755f6f7bb35642a94d418e0"
+
+[[files]]
+file = "moonlight-global-datapacks/synesthesia/data/towns_and_towers/tags/worldgen/biome/has_structure/village_grove_villager_outpost.json"
+hash = "c859ab39fb8a6b735ef53ddc01e684b56712a20c7081db02b0d26ab6d416f8d5"
+
+[[files]]
+file = "moonlight-global-datapacks/synesthesia/data/towns_and_towers/tags/worldgen/biome/has_structure/village_jungle_tribal.json"
+hash = "68b4f514b46161432c4b5e6e47ceab8ab962e9305755f6f7bb35642a94d418e0"
+
+[[files]]
+file = "moonlight-global-datapacks/synesthesia/data/towns_and_towers/tags/worldgen/biome/has_structure/village_meadow_swiss.json"
+hash = "c859ab39fb8a6b735ef53ddc01e684b56712a20c7081db02b0d26ab6d416f8d5"
+
+[[files]]
+file = "moonlight-global-datapacks/synesthesia/data/towns_and_towers/tags/worldgen/biome/has_structure/village_mushroom_fields_fantasy.json"
+hash = "51748cdd95402428302d978e81b98467108390ade980854d6f94c386042997cc"
+
+[[files]]
+file = "moonlight-global-datapacks/synesthesia/data/towns_and_towers/tags/worldgen/biome/has_structure/village_old_growth_taiga_polish.json"
+hash = "c859ab39fb8a6b735ef53ddc01e684b56712a20c7081db02b0d26ab6d416f8d5"
+
+[[files]]
+file = "moonlight-global-datapacks/synesthesia/data/towns_and_towers/tags/worldgen/biome/has_structure/village_savanna_plateau_ramshackled.json"
+hash = "51748cdd95402428302d978e81b98467108390ade980854d6f94c386042997cc"
+
+[[files]]
+file = "moonlight-global-datapacks/synesthesia/data/towns_and_towers/tags/worldgen/biome/has_structure/village_snowy_slopes_inn.json"
+hash = "c859ab39fb8a6b735ef53ddc01e684b56712a20c7081db02b0d26ab6d416f8d5"
+
+[[files]]
+file = "moonlight-global-datapacks/synesthesia/data/towns_and_towers/tags/worldgen/biome/has_structure/village_snowy_taiga_viking.json"
+hash = "c859ab39fb8a6b735ef53ddc01e684b56712a20c7081db02b0d26ab6d416f8d5"
+
+[[files]]
+file = "moonlight-global-datapacks/synesthesia/data/towns_and_towers/tags/worldgen/biome/has_structure/village_sparse_jungle_polynesian.json"
+hash = "c859ab39fb8a6b735ef53ddc01e684b56712a20c7081db02b0d26ab6d416f8d5"
+
+[[files]]
+file = "moonlight-global-datapacks/synesthesia/data/towns_and_towers/tags/worldgen/biome/has_structure/village_sunflower_plains_farm.json"
+hash = "c859ab39fb8a6b735ef53ddc01e684b56712a20c7081db02b0d26ab6d416f8d5"
+
+[[files]]
+file = "moonlight-global-datapacks/synesthesia/data/towns_and_towers/tags/worldgen/biome/has_structure/village_swamp_boat.json"
+hash = "c859ab39fb8a6b735ef53ddc01e684b56712a20c7081db02b0d26ab6d416f8d5"
+
+[[files]]
+file = "moonlight-global-datapacks/synesthesia/data/towns_and_towers/tags/worldgen/biome/has_structure/village_wooded_badlands_tipi.json"
+hash = "c859ab39fb8a6b735ef53ddc01e684b56712a20c7081db02b0d26ab6d416f8d5"
+
+[[files]]
+file = "moonlight-global-datapacks/synesthesia/data/trek/tags/worldgen/biome/badlands/is_default_badlands.json"
+hash = "c859ab39fb8a6b735ef53ddc01e684b56712a20c7081db02b0d26ab6d416f8d5"
+
+[[files]]
+file = "moonlight-global-datapacks/synesthesia/data/trek/tags/worldgen/biome/badlands/is_eroded_badlands.json"
+hash = "51748cdd95402428302d978e81b98467108390ade980854d6f94c386042997cc"
+
+[[files]]
+file = "moonlight-global-datapacks/synesthesia/data/trek/tags/worldgen/biome/badlands/is_wooded_badlands.json"
+hash = "51748cdd95402428302d978e81b98467108390ade980854d6f94c386042997cc"
+
+[[files]]
+file = "moonlight-global-datapacks/synesthesia/data/trek/tags/worldgen/biome/beach/is_beach_no_snow.json"
+hash = "c859ab39fb8a6b735ef53ddc01e684b56712a20c7081db02b0d26ab6d416f8d5"
+
+[[files]]
+file = "moonlight-global-datapacks/synesthesia/data/trek/tags/worldgen/biome/beach/is_beach_snow.json"
+hash = "51748cdd95402428302d978e81b98467108390ade980854d6f94c386042997cc"
+
+[[files]]
+file = "moonlight-global-datapacks/synesthesia/data/trek/tags/worldgen/biome/beach/is_stony_shore_no_snow.json"
+hash = "c859ab39fb8a6b735ef53ddc01e684b56712a20c7081db02b0d26ab6d416f8d5"
+
+[[files]]
+file = "moonlight-global-datapacks/synesthesia/data/trek/tags/worldgen/biome/forest/birch/is_normal_birch_no_snow.json"
+hash = "c859ab39fb8a6b735ef53ddc01e684b56712a20c7081db02b0d26ab6d416f8d5"
+
+[[files]]
+file = "moonlight-global-datapacks/synesthesia/data/trek/tags/worldgen/biome/forest/birch/is_old_birch_no_snow.json"
+hash = "c859ab39fb8a6b735ef53ddc01e684b56712a20c7081db02b0d26ab6d416f8d5"
+
+[[files]]
+file = "moonlight-global-datapacks/synesthesia/data/trek/tags/worldgen/biome/forest/cherry/is_cherry_no_snow.json"
+hash = "c859ab39fb8a6b735ef53ddc01e684b56712a20c7081db02b0d26ab6d416f8d5"
+
+[[files]]
+file = "moonlight-global-datapacks/synesthesia/data/trek/tags/worldgen/biome/forest/dark_oak/is_dark_forest_no_snow.json"
+hash = "51748cdd95402428302d978e81b98467108390ade980854d6f94c386042997cc"
+
+[[files]]
+file = "moonlight-global-datapacks/synesthesia/data/trek/tags/worldgen/biome/forest/jungle/is_bamboo_jungle.json"
+hash = "c859ab39fb8a6b735ef53ddc01e684b56712a20c7081db02b0d26ab6d416f8d5"
+
+[[files]]
+file = "moonlight-global-datapacks/synesthesia/data/trek/tags/worldgen/biome/forest/jungle/is_default_jungle.json"
+hash = "51748cdd95402428302d978e81b98467108390ade980854d6f94c386042997cc"
+
+[[files]]
+file = "moonlight-global-datapacks/synesthesia/data/trek/tags/worldgen/biome/forest/jungle/is_sparse_jungle.json"
+hash = "51748cdd95402428302d978e81b98467108390ade980854d6f94c386042997cc"
+
+[[files]]
+file = "moonlight-global-datapacks/synesthesia/data/trek/tags/worldgen/biome/forest/oak/is_oak_forest_no_snow.json"
+hash = "c859ab39fb8a6b735ef53ddc01e684b56712a20c7081db02b0d26ab6d416f8d5"
+
+[[files]]
+file = "moonlight-global-datapacks/synesthesia/data/trek/tags/worldgen/biome/forest/spruce/is_default_spruce_no_snow.json"
+hash = "c859ab39fb8a6b735ef53ddc01e684b56712a20c7081db02b0d26ab6d416f8d5"
+
+[[files]]
+file = "moonlight-global-datapacks/synesthesia/data/trek/tags/worldgen/biome/forest/spruce/is_default_spruce_snow.json"
+hash = "c859ab39fb8a6b735ef53ddc01e684b56712a20c7081db02b0d26ab6d416f8d5"
+
+[[files]]
+file = "moonlight-global-datapacks/synesthesia/data/trek/tags/worldgen/biome/forest/spruce/is_old_spruce_no_snow.json"
+hash = "c859ab39fb8a6b735ef53ddc01e684b56712a20c7081db02b0d26ab6d416f8d5"
+
+[[files]]
+file = "moonlight-global-datapacks/synesthesia/data/trek/tags/worldgen/biome/has_flowers.json"
+hash = "c859ab39fb8a6b735ef53ddc01e684b56712a20c7081db02b0d26ab6d416f8d5"
+
+[[files]]
+file = "moonlight-global-datapacks/synesthesia/data/trek/tags/worldgen/biome/has_structure/village_cherry.json"
+hash = "51748cdd95402428302d978e81b98467108390ade980854d6f94c386042997cc"
+
+[[files]]
+file = "moonlight-global-datapacks/synesthesia/data/trek/tags/worldgen/biome/has_structure/village_swamp.json"
+hash = "51748cdd95402428302d978e81b98467108390ade980854d6f94c386042997cc"
+
+[[files]]
+file = "moonlight-global-datapacks/synesthesia/data/trek/tags/worldgen/biome/is_cave.json"
+hash = "042fa78df79dc4d9468160e45856743d1d68b93cb1c80b0d8054d04ceafac57b"
+
+[[files]]
+file = "moonlight-global-datapacks/synesthesia/data/trek/tags/worldgen/biome/is_desert.json"
+hash = "c859ab39fb8a6b735ef53ddc01e684b56712a20c7081db02b0d26ab6d416f8d5"
+
+[[files]]
+file = "moonlight-global-datapacks/synesthesia/data/trek/tags/worldgen/biome/is_mushroom_fields.json"
+hash = "51748cdd95402428302d978e81b98467108390ade980854d6f94c386042997cc"
+
+[[files]]
+file = "moonlight-global-datapacks/synesthesia/data/trek/tags/worldgen/biome/mountain/is_stony_peaks.json"
+hash = "c859ab39fb8a6b735ef53ddc01e684b56712a20c7081db02b0d26ab6d416f8d5"
+
+[[files]]
+file = "moonlight-global-datapacks/synesthesia/data/trek/tags/worldgen/biome/ocean/is_cold_ocean.json"
+hash = "c859ab39fb8a6b735ef53ddc01e684b56712a20c7081db02b0d26ab6d416f8d5"
+
+[[files]]
+file = "moonlight-global-datapacks/synesthesia/data/trek/tags/worldgen/biome/ocean/is_deep_not_frozen_ocean.json"
+hash = "c859ab39fb8a6b735ef53ddc01e684b56712a20c7081db02b0d26ab6d416f8d5"
+
+[[files]]
+file = "moonlight-global-datapacks/synesthesia/data/trek/tags/worldgen/biome/ocean/is_default_ocean.json"
+hash = "51748cdd95402428302d978e81b98467108390ade980854d6f94c386042997cc"
+
+[[files]]
+file = "moonlight-global-datapacks/synesthesia/data/trek/tags/worldgen/biome/ocean/is_frozen_ocean.json"
+hash = "51748cdd95402428302d978e81b98467108390ade980854d6f94c386042997cc"
+
+[[files]]
+file = "moonlight-global-datapacks/synesthesia/data/trek/tags/worldgen/biome/ocean/is_lukewarm_ocean.json"
+hash = "51748cdd95402428302d978e81b98467108390ade980854d6f94c386042997cc"
+
+[[files]]
+file = "moonlight-global-datapacks/synesthesia/data/trek/tags/worldgen/biome/ocean/is_not_deep_not_frozen_ocean.json"
+hash = "51748cdd95402428302d978e81b98467108390ade980854d6f94c386042997cc"
+
+[[files]]
+file = "moonlight-global-datapacks/synesthesia/data/trek/tags/worldgen/biome/ocean/is_warm_ocean.json"
+hash = "51748cdd95402428302d978e81b98467108390ade980854d6f94c386042997cc"
+
+[[files]]
+file = "moonlight-global-datapacks/synesthesia/data/trek/tags/worldgen/biome/plains/is_plains_no_snow.json"
+hash = "c859ab39fb8a6b735ef53ddc01e684b56712a20c7081db02b0d26ab6d416f8d5"
+
+[[files]]
+file = "moonlight-global-datapacks/synesthesia/data/trek/tags/worldgen/biome/plains/is_plains_snow.json"
+hash = "c859ab39fb8a6b735ef53ddc01e684b56712a20c7081db02b0d26ab6d416f8d5"
+
+[[files]]
+file = "moonlight-global-datapacks/synesthesia/data/trek/tags/worldgen/biome/slopes/is_slopes_no_snow.json"
+hash = "c859ab39fb8a6b735ef53ddc01e684b56712a20c7081db02b0d26ab6d416f8d5"
+
+[[files]]
+file = "moonlight-global-datapacks/synesthesia/data/trek/tags/worldgen/biome/slopes/is_slopes_snow.json"
+hash = "51748cdd95402428302d978e81b98467108390ade980854d6f94c386042997cc"
+
+[[files]]
+file = "moonlight-global-datapacks/synesthesia/data/trek/tags/worldgen/biome/swamp/is_default_swamp.json"
+hash = "c859ab39fb8a6b735ef53ddc01e684b56712a20c7081db02b0d26ab6d416f8d5"
+
+[[files]]
+file = "moonlight-global-datapacks/synesthesia/data/trek/tags/worldgen/biome/swamp/is_mangrove_swamp.json"
+hash = "c859ab39fb8a6b735ef53ddc01e684b56712a20c7081db02b0d26ab6d416f8d5"
+
+[[files]]
+file = "moonlight-global-datapacks/synesthesia/data/upgrade_aquatic/tags/worldgen/biome/has_feature/flowering_rush.json"
+hash = "51748cdd95402428302d978e81b98467108390ade980854d6f94c386042997cc"
+
+[[files]]
+file = "moonlight-global-datapacks/synesthesia/data/upgrade_aquatic/tags/worldgen/biome/has_feature/pickerelweed_extra.json"
+hash = "51748cdd95402428302d978e81b98467108390ade980854d6f94c386042997cc"
+
+[[files]]
+file = "moonlight-global-datapacks/synesthesia/data/upgrade_aquatic/tags/worldgen/biome/has_feature/searocket.json"
+hash = "51748cdd95402428302d978e81b98467108390ade980854d6f94c386042997cc"
+
+[[files]]
+file = "moonlight-global-datapacks/synesthesia/data/upgrade_aquatic/tags/worldgen/biome/has_spawn/cassiopea_jellyfish.json"
+hash = "51748cdd95402428302d978e81b98467108390ade980854d6f94c386042997cc"
+
+[[files]]
+file = "moonlight-global-datapacks/synesthesia/data/upgrade_aquatic/tags/worldgen/biome/has_spawn/great_thrasher.json"
+hash = "51748cdd95402428302d978e81b98467108390ade980854d6f94c386042997cc"
+
+[[files]]
+file = "moonlight-global-datapacks/synesthesia/data/upgrade_aquatic/tags/worldgen/biome/has_spawn/lionfish.json"
+hash = "51748cdd95402428302d978e81b98467108390ade980854d6f94c386042997cc"
+
+[[files]]
+file = "moonlight-global-datapacks/synesthesia/data/upgrade_aquatic/tags/worldgen/biome/has_spawn/nautilus.json"
+hash = "51748cdd95402428302d978e81b98467108390ade980854d6f94c386042997cc"
+
+[[files]]
+file = "moonlight-global-datapacks/synesthesia/data/upgrade_aquatic/tags/worldgen/biome/has_spawn/squid.json"
+hash = "51748cdd95402428302d978e81b98467108390ade980854d6f94c386042997cc"
+
+[[files]]
+file = "moonlight-global-datapacks/synesthesia/data/vinery/tags/worldgen/biome/spawns_cherry_tree.json"
+hash = "51748cdd95402428302d978e81b98467108390ade980854d6f94c386042997cc"
+
+[[files]]
+file = "moonlight-global-datapacks/synesthesia/data/waystones/rs_pool_additions/joshie/ocean/houses.json"
+hash = "4013f4e80943516075ba6ee76bb37495cbfc211f884c935659fb396e1d966888"
+
+[[files]]
+file = "moonlight-global-datapacks/synesthesia/data/waystones/rs_pool_additions/kaisyn/badlands_pueblo/houses.json"
+hash = "8aafb0d563eee832fdfa83a5a5a0ee2789551ff10df79f6822ecc4f7ca0fea71"
+
+[[files]]
+file = "moonlight-global-datapacks/synesthesia/data/waystones/rs_pool_additions/kaisyn/beach_lighthouse/house.json"
+hash = "97eef9ece1b9e1ea36dadae669cf0601153c33be8b0e5ff74bd1b62f3bef8ae2"
+
+[[files]]
+file = "moonlight-global-datapacks/synesthesia/data/waystones/rs_pool_additions/kaisyn/birch_forest_romanian/houses.json"
+hash = "d16a8cc38b375bbb7043a7fa6cb12b0e4db8104e71cb955de908fe0dfe94afd7"
+
+[[files]]
+file = "moonlight-global-datapacks/synesthesia/data/waystones/rs_pool_additions/kaisyn/exclusives/classic/houses.json"
+hash = "4ba67c66d098908ef9da789b48ce3966846b936a61db29da771fdce230b8b2d7"
+
+[[files]]
+file = "moonlight-global-datapacks/synesthesia/data/waystones/rs_pool_additions/kaisyn/exclusives/iberian/houses.json"
+hash = "ead8182230fa7bc61f2c9a4fb44c9045800bf5ed0752aee5461f6f9c41f3b779"
+
+[[files]]
+file = "moonlight-global-datapacks/synesthesia/data/waystones/rs_pool_additions/kaisyn/exclusives/mediterranean/houses.json"
+hash = "5b35124a46a449c810f92356cb0ff4c64437fbe127b3d0f499fb25382ea9b6fb"
+
+[[files]]
+file = "moonlight-global-datapacks/synesthesia/data/waystones/rs_pool_additions/kaisyn/exclusives/nilotic/houses.json"
+hash = "20fa94cfcd14e375e54fc8d66adc9c5e167f60a949a984d5e6c89b5f53b7d64d"
+
+[[files]]
+file = "moonlight-global-datapacks/synesthesia/data/waystones/rs_pool_additions/kaisyn/exclusives/piglin/houses.json"
+hash = "1d8f3494be08f369cdb58a0305e5ffccfa24a8feeec0a0dca4846a33ad1e2511"
+
+[[files]]
+file = "moonlight-global-datapacks/synesthesia/data/waystones/rs_pool_additions/kaisyn/exclusives/rustic/houses.json"
+hash = "7b903acf9639055631361d471d29399ad696ac0899e57f8fc600240a4dcf555f"
+
+[[files]]
+file = "moonlight-global-datapacks/synesthesia/data/waystones/rs_pool_additions/kaisyn/exclusives/swedish/houses.json"
+hash = "65e09e1078490ce20c3c533bf5c5c8cbe783f363c048922941a15f8ed3edbb79"
+
+[[files]]
+file = "moonlight-global-datapacks/synesthesia/data/waystones/rs_pool_additions/kaisyn/exclusives/tudor/houses.json"
+hash = "581ace62b91bc61af23c9965fe678e525e3db93179df351aa6c692bd7bdb71a2"
+
+[[files]]
+file = "moonlight-global-datapacks/synesthesia/data/waystones/rs_pool_additions/kaisyn/exclusives/wandering_trader_camp/houses.json"
+hash = "11b22d270925c505f2ebe25a91d76f5ddc42d2e186351f91b2cd751522c003e7"
+
+[[files]]
+file = "moonlight-global-datapacks/synesthesia/data/waystones/rs_pool_additions/kaisyn/flower_forest_japanese/houses.json"
+hash = "4ade8b72eac3c4fe95e751037d844725aea3e6387c7c29d345c0bccbd73e3cf9"
+
+[[files]]
+file = "moonlight-global-datapacks/synesthesia/data/waystones/rs_pool_additions/kaisyn/forest_ruins/houses.json"
+hash = "9561f124409ea05168ccc600dc022b1311d987f1dbde135333425e7810a6666f"
+
+[[files]]
+file = "moonlight-global-datapacks/synesthesia/data/waystones/rs_pool_additions/kaisyn/grove_villager_outpost/decor.json"
+hash = "ee6ae3ebd173868f09841f2e56cc3554a63099358043978dfc3fadf59d7953ec"
+
+[[files]]
+file = "moonlight-global-datapacks/synesthesia/data/waystones/rs_pool_additions/kaisyn/jungle_tribal/houses.json"
+hash = "7ff4b9938aff2f8b868fd7fee19b9d5d9ed72b2b0d06af4cc8d7b91d17389ecf"
+
+[[files]]
+file = "moonlight-global-datapacks/synesthesia/data/waystones/rs_pool_additions/kaisyn/meadow_swiss/houses.json"
+hash = "22af2fa78cdb7eae7224f04e356793e2036aecd392d833b654a850caf3379a99"
+
+[[files]]
+file = "moonlight-global-datapacks/synesthesia/data/waystones/rs_pool_additions/kaisyn/mushroom_fields_fantasy/houses.json"
+hash = "7503f4aad7f91059359f7775504a6f7dc5aed2795c970124fdecd207bcb9a81f"
+
+[[files]]
+file = "moonlight-global-datapacks/synesthesia/data/waystones/rs_pool_additions/kaisyn/old_growth_taiga_polish/houses.json"
+hash = "e27f6110a6695027253ae332e8b1f28616068c6fe85157c17b8676341d9d77e7"
+
+[[files]]
+file = "moonlight-global-datapacks/synesthesia/data/waystones/rs_pool_additions/kaisyn/savanna_plateau_ramshackled/professions_misc.json"
+hash = "1c5cdc28e36bb4bf3824ffac294d192b8428c27677c4ddf40b18b13f7eb13405"
+
+[[files]]
+file = "moonlight-global-datapacks/synesthesia/data/waystones/rs_pool_additions/kaisyn/snowy_slopes_inn/decor.json"
+hash = "15d6f7fb8eff7c4c2cd94dbd47a6a2f096b124aa13847fec22fed7e0fc1dd1c1"
+
+[[files]]
+file = "moonlight-global-datapacks/synesthesia/data/waystones/rs_pool_additions/kaisyn/snowy_taiga_viking/houses.json"
+hash = "a7b880ce1c16af9500674bcf09c67961193533409b67afb869462a82eb1bb464"
+
+[[files]]
+file = "moonlight-global-datapacks/synesthesia/data/waystones/rs_pool_additions/kaisyn/sparse_jungle_polynesian/houses.json"
+hash = "9e2dc8be4f4ebc7a97cd70fafc425f646c9c632f12c4fe745bf7ce137d0ca5fa"
+
+[[files]]
+file = "moonlight-global-datapacks/synesthesia/data/waystones/rs_pool_additions/kaisyn/sunflower_plains_farm/decor.json"
+hash = "c9cab7b9a9d03384ca376fd2367635ca484bf46c3eae419c48f4e94f283e352d"
+
+[[files]]
+file = "moonlight-global-datapacks/synesthesia/data/waystones/rs_pool_additions/kaisyn/swamp_boat/houses.json"
+hash = "64e9e7aee3ebee7821b657f34ab99fc8a334ad3880fdff5f16337867109bb06e"
+
+[[files]]
+file = "moonlight-global-datapacks/synesthesia/data/waystones/rs_pool_additions/kaisyn/wooded_badlands_tipi/houses.json"
+hash = "41f977340df43db053540862e051a37939178bc7ad7051a97338f9f00cb71a59"
+
+[[files]]
+file = "moonlight-global-datapacks/synesthesia/data/waystones/rs_pool_additions/mmv/dark_oak/houses.json"
+hash = "6c16ed63705c553135b9bfddfc2bce26864080594efcda434640cd21b5654f39"
+
+[[files]]
+file = "moonlight-global-datapacks/synesthesia/data/waystones/rs_pool_additions/mmv/jungle/houses.json"
+hash = "89376bba517916676b2266da27e9b6e9e2a5aab892b3f691b2da799b977b0361"
+
+[[files]]
+file = "moonlight-global-datapacks/synesthesia/data/waystones/rs_pool_additions/mmv/swamp/houses.json"
+hash = "a9bbf5e49a503682ad765f9c35da9a2ea6aed00225ea81b61586a822daa66b5d"
+
+[[files]]
+file = "moonlight-global-datapacks/synesthesia/data/waystones/rs_pool_additions/nova_structures/birch/houses.json"
+hash = "4f25382e56135e965b62dcc488fae7ab292a8ca13eb98ad9ce166abe8d4ff2c7"
+
+[[files]]
+file = "moonlight-global-datapacks/synesthesia/data/waystones/rs_pool_additions/nova_structures/jungle/houses.json"
+hash = "a3b1a3c35d5fdf395ef6e2663ab2be4c1663483cc7f983e16c8c3db01015cd6f"
+
+[[files]]
+file = "moonlight-global-datapacks/synesthesia/data/waystones/rs_pool_additions/nova_structures/swamp/houses.json"
+hash = "971574275ed6a002f1a225484e1937073d684ff0c426345cc4a6ae9a7f902b41"
+
+[[files]]
+file = "moonlight-global-datapacks/synesthesia/data/waystones/tags/worldgen/biome/has_structure/blackstone_waystone.json"
+hash = "b56bcdf883ec51926746d379b8ece0e14191a190bfc44ba8744f277ab050aaf2"
+
+[[files]]
+file = "moonlight-global-datapacks/synesthesia/data/waystones/tags/worldgen/biome/has_structure/deepslate_waystone.json"
+hash = "c1aca4636b108db919f22bf5f0df5650d13b82f6a6663b8f3aa4d52096fd4897"
+
+[[files]]
+file = "moonlight-global-datapacks/synesthesia/data/waystones/tags/worldgen/biome/has_structure/end_stone_waystone.json"
+hash = "6ddf517f6d4b65c795bddcf7c1cbb5368793c280b9e9bb080ab2df50cbc7030b"
+
+[[files]]
+file = "moonlight-global-datapacks/synesthesia/data/waystones/tags/worldgen/biome/has_structure/mossy_waystone.json"
+hash = "51748cdd95402428302d978e81b98467108390ade980854d6f94c386042997cc"
+
+[[files]]
+file = "moonlight-global-datapacks/synesthesia/data/waystones/tags/worldgen/biome/has_structure/sandy_waystone.json"
+hash = "51748cdd95402428302d978e81b98467108390ade980854d6f94c386042997cc"
+
+[[files]]
+file = "moonlight-global-datapacks/synesthesia/data/waystones/tags/worldgen/biome/has_structure/waystone.json"
+hash = "c1aca4636b108db919f22bf5f0df5650d13b82f6a6663b8f3aa4d52096fd4897"
+
+[[files]]
+file = "moonlight-global-datapacks/synesthesia/data/wildernature/tags/worldgen/biome/remove_wolf.json"
+hash = "51748cdd95402428302d978e81b98467108390ade980854d6f94c386042997cc"
+
+[[files]]
+file = "moonlight-global-datapacks/synesthesia/data/wildernature/tags/worldgen/biome/spawns_dog.json"
+hash = "51748cdd95402428302d978e81b98467108390ade980854d6f94c386042997cc"
+
+[[files]]
+file = "moonlight-global-datapacks/synesthesia/data/wildernature/tags/worldgen/biome/spawns_minisheep.json"
+hash = "51748cdd95402428302d978e81b98467108390ade980854d6f94c386042997cc"
+
+[[files]]
+file = "moonlight-global-datapacks/synesthesia/data/wildernature/tags/worldgen/biome/spawns_patch_hazelnut_bush.json"
+hash = "51748cdd95402428302d978e81b98467108390ade980854d6f94c386042997cc"
+
+[[files]]
+file = "moonlight-global-datapacks/synesthesia/data/wildernature/tags/worldgen/biome/spawns_raccoon.json"
+hash = "51748cdd95402428302d978e81b98467108390ade980854d6f94c386042997cc"
+
+[[files]]
+file = "moonlight-global-datapacks/synesthesia/data/wildernature/tags/worldgen/biome/spawns_red_wolf.json"
+hash = "51748cdd95402428302d978e81b98467108390ade980854d6f94c386042997cc"
+
+[[files]]
+file = "moonlight-global-datapacks/synesthesia/data/wildernature/tags/worldgen/biome/spawns_scorpion.json"
+hash = "51748cdd95402428302d978e81b98467108390ade980854d6f94c386042997cc"
+
+[[files]]
+file = "moonlight-global-datapacks/synesthesia/data/wildernature/tags/worldgen/biome/spawns_squirrel.json"
+hash = "51748cdd95402428302d978e81b98467108390ade980854d6f94c386042997cc"
+
+[[files]]
+file = "moonlight-global-datapacks/synesthesia/data/zhopo/tags/worldgen/biome/has_structure/acacia_mineshaft.json"
+hash = "c859ab39fb8a6b735ef53ddc01e684b56712a20c7081db02b0d26ab6d416f8d5"
+
+[[files]]
+file = "moonlight-global-datapacks/synesthesia/data/zhopo/tags/worldgen/biome/has_structure/bamboo_mineshaft.json"
+hash = "c859ab39fb8a6b735ef53ddc01e684b56712a20c7081db02b0d26ab6d416f8d5"
+
+[[files]]
+file = "moonlight-global-datapacks/synesthesia/data/zhopo/tags/worldgen/biome/has_structure/birch_mineshaft.json"
+hash = "c859ab39fb8a6b735ef53ddc01e684b56712a20c7081db02b0d26ab6d416f8d5"
+
+[[files]]
+file = "moonlight-global-datapacks/synesthesia/data/zhopo/tags/worldgen/biome/has_structure/cherry_mineshaft.json"
+hash = "c859ab39fb8a6b735ef53ddc01e684b56712a20c7081db02b0d26ab6d416f8d5"
+
+[[files]]
+file = "moonlight-global-datapacks/synesthesia/data/zhopo/tags/worldgen/biome/has_structure/dark_oak_mineshaft.json"
+hash = "c859ab39fb8a6b735ef53ddc01e684b56712a20c7081db02b0d26ab6d416f8d5"
+
+[[files]]
+file = "moonlight-global-datapacks/synesthesia/data/zhopo/tags/worldgen/biome/has_structure/deepslate_mineshaft.json"
+hash = "c859ab39fb8a6b735ef53ddc01e684b56712a20c7081db02b0d26ab6d416f8d5"
+
+[[files]]
+file = "moonlight-global-datapacks/synesthesia/data/zhopo/tags/worldgen/biome/has_structure/dripstone_mineshaft.json"
+hash = "c1aca4636b108db919f22bf5f0df5650d13b82f6a6663b8f3aa4d52096fd4897"
+
+[[files]]
+file = "moonlight-global-datapacks/synesthesia/data/zhopo/tags/worldgen/biome/has_structure/jungle_mineshaft.json"
+hash = "c859ab39fb8a6b735ef53ddc01e684b56712a20c7081db02b0d26ab6d416f8d5"
+
+[[files]]
+file = "moonlight-global-datapacks/synesthesia/data/zhopo/tags/worldgen/biome/has_structure/lush_mineshaft.json"
+hash = "c1aca4636b108db919f22bf5f0df5650d13b82f6a6663b8f3aa4d52096fd4897"
+
+[[files]]
+file = "moonlight-global-datapacks/synesthesia/data/zhopo/tags/worldgen/biome/has_structure/mangrove_mineshaft.json"
+hash = "c859ab39fb8a6b735ef53ddc01e684b56712a20c7081db02b0d26ab6d416f8d5"
+
+[[files]]
+file = "moonlight-global-datapacks/synesthesia/data/zhopo/tags/worldgen/biome/has_structure/mud_mineshaft.json"
+hash = "c859ab39fb8a6b735ef53ddc01e684b56712a20c7081db02b0d26ab6d416f8d5"
+
+[[files]]
+file = "moonlight-global-datapacks/synesthesia/data/zhopo/tags/worldgen/biome/has_structure/oak_mineshaft.json"
+hash = "c859ab39fb8a6b735ef53ddc01e684b56712a20c7081db02b0d26ab6d416f8d5"
+
+[[files]]
+file = "moonlight-global-datapacks/synesthesia/data/zhopo/tags/worldgen/biome/has_structure/spruce_mineshaft.json"
+hash = "c859ab39fb8a6b735ef53ddc01e684b56712a20c7081db02b0d26ab6d416f8d5"
+
+[[files]]
+file = "moonlight-global-datapacks/synesthesia/data/zhopo/tags/worldgen/biome/has_structure/stone_mineshaft.json"
+hash = "c859ab39fb8a6b735ef53ddc01e684b56712a20c7081db02b0d26ab6d416f8d5"
+
+[[files]]
+file = "moonlight-global-datapacks/synesthesia/data/zhopo/tags/worldgen/biome/has_structure/underwater_city.json"
+hash = "51748cdd95402428302d978e81b98467108390ade980854d6f94c386042997cc"
+
+[[files]]
+file = "moonlight-global-datapacks/synesthesia/data/zhopo/tags/worldgen/biome/has_structure/underwater_fossils.json"
+hash = "51748cdd95402428302d978e81b98467108390ade980854d6f94c386042997cc"
+
+[[files]]
+file = "moonlight-global-datapacks/synesthesia/data/zhopo/tags/worldgen/biome/has_structure/underwater_small_ruins.json"
+hash = "51748cdd95402428302d978e81b98467108390ade980854d6f94c386042997cc"
+
+[[files]]
+file = "moonlight-global-datapacks/synesthesia/data/zhopo/tags/worldgen/biome/has_structure/underwater_warm_small_ruins.json"
+hash = "51748cdd95402428302d978e81b98467108390ade980854d6f94c386042997cc"
+
+[[files]]
+file = "moonlight-global-datapacks/synesthesia/pack.mcmeta"
+hash = "c12e1819213d5e50fe01a42ea1f3649ebc5f72f9c7ad02e3d6951fd433852c29"

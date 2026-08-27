@@ -1,0 +1,9 @@
+{
+  "values": [
+    "#regions_unexplored:all_overworld",
+    "#hybrid_beta:all_hybrid_beta_biomes",
+    "#autumnity:is_autumnal",
+    "#hexerei:all_hexerei_biomes",
+    "#quark:all_quark_biomes"
+  ]
+}

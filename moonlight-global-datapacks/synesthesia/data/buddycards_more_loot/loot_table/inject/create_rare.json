@@ -1,0 +1,18 @@
+{
+  "pools": [
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "item",
+          "name": "createbuddycards:buddycard_pack_create",
+          "weight": 1
+        },
+        {
+          "type": "empty",
+          "weight": 40
+        }
+      ]
+    }
+  ]
+}

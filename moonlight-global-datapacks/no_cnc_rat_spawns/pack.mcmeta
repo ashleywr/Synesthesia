@@ -1,6 +1,0 @@
-{
-  "pack": {
-    "description": "Disable Caverns & Chasms rat spawns (forbidden_arcanus/pastel mixin NPE workaround)",
-    "pack_format": 48
-  }
-}

@@ -1,0 +1,24 @@
+{
+  "type": "neoforge:add_table",
+  "table": "buddycards:inject/abandoned_mineshaft",
+  "conditions": [
+    {
+      "condition": "minecraft:any_of",
+      "terms": [
+        { "condition": "neoforge:loot_table_id", "loot_table_id": "dungeons_arise:chests/foundry/foundry_chains" },
+        { "condition": "neoforge:loot_table_id", "loot_table_id": "dungeons_arise:chests/foundry/foundry_lava_pit" },
+        { "condition": "neoforge:loot_table_id", "loot_table_id": "dungeons_arise:chests/foundry/foundry_normal" },
+        { "condition": "neoforge:loot_table_id", "loot_table_id": "dungeons_arise:chests/foundry/foundry_passage_exterior" },
+        { "condition": "neoforge:loot_table_id", "loot_table_id": "dungeons_arise:chests/foundry/foundry_passage_normal" },
+        { "condition": "neoforge:loot_table_id", "loot_table_id": "dungeons_arise:chests/mining_complex/mining_complex_barrel" },
+        { "condition": "neoforge:loot_table_id", "loot_table_id": "dungeons_arise:chests/mining_complex/mining_complex_dripstone_normal" },
+        { "condition": "neoforge:loot_table_id", "loot_table_id": "dungeons_arise:chests/mining_complex/mining_complex_facility_normal" },
+        { "condition": "neoforge:loot_table_id", "loot_table_id": "dungeons_arise:chests/mining_complex/mining_complex_lush_normal" },
+        { "condition": "neoforge:loot_table_id", "loot_table_id": "dungeons_arise:chests/mining_system/mining_system_barrels" },
+        { "condition": "neoforge:loot_table_id", "loot_table_id": "dungeons_arise:chests/mushroom_mines/mushroom_mines_barrels" },
+        { "condition": "neoforge:loot_table_id", "loot_table_id": "dungeons_arise:chests/mushroom_mines/mushroom_mines_ores" },
+        { "condition": "neoforge:loot_table_id", "loot_table_id": "dungeons_arise:chests/mushroom_mines/mushroom_mines_tools" }
+      ]
+    }
+  ]
+}

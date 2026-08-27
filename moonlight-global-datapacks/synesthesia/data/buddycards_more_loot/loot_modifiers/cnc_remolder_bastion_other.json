@@ -1,0 +1,13 @@
+{
+  "type": "neoforge:add_table",
+  "table": "buddycards:inject/bastion_other",
+  "conditions": [
+    {
+      "condition": "minecraft:any_of",
+      "terms": [
+        { "condition": "neoforge:loot_table_id", "loot_table_id": "caverns_and_chasms:remolders/chests/bastion_other" },
+        { "condition": "neoforge:loot_table_id", "loot_table_id": "caverns_and_chasms:remolders/chests/bastion_hoglin_stable" }
+      ]
+    }
+  ]
+}

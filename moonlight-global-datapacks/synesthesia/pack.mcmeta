@@ -1,0 +1,6 @@
+{
+  "pack": {
+    "description": "Synesthesia pack fixes and tweaks: worldgen deadlock fixes (regions_unexplored/bountifulfares, caverns_and_chasms rat spawns), waystones village compat, biome/structure tag compat across ~44 mods, buddycards loot integration, accessories slot tweaks, recovery command",
+    "pack_format": 48
+  }
+}

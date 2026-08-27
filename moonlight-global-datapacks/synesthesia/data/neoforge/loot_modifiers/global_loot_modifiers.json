@@ -1,0 +1,24 @@
+{
+  "replace": false,
+  "entries": [
+    "buddycards_more_loot:ruined_portal",
+    "buddycards_more_loot:shipwreck_treasure",
+    "buddycards_more_loot:alexscaves_cave",
+    "buddycards_more_loot:dungeonsarise_cave_common",
+    "buddycards_more_loot:dungeonsarise_cave_treasure",
+    "buddycards_more_loot:cnc_remolder_nether",
+    "buddycards_more_loot:cnc_remolder_ruined_portal",
+    "buddycards_more_loot:cnc_remolder_bastion",
+    "buddycards_more_loot:cnc_remolder_bastion_other",
+    "buddycards_more_loot:cnc_remolder_bastion_treasure",
+    "buddycards_more_loot:cnc_remolder_buried_treasure",
+    "buddycards_more_loot:cnc_remolder_desert_pyramid",
+    "buddycards_more_loot:cnc_remolder_shipwreck",
+    "buddycards_more_loot:cnc_remolder_village",
+    "buddycards_more_loot:cnc_remolder_cave",
+    "buddycards_more_loot:cnc_remolder_ancient_city",
+    "buddycards_more_loot:cnc_remolder_end_city",
+    "buddycards_more_loot:create_pack_rare",
+    "buddycards_more_loot:delightful_pack_rare"
+  ]
+}

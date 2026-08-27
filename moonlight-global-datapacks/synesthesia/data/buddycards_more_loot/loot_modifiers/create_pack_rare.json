@@ -1,0 +1,17 @@
+{
+  "type": "neoforge:add_table",
+  "table": "buddycards_more_loot:inject/create_rare",
+  "conditions": [
+    {
+      "condition": "minecraft:any_of",
+      "terms": [
+        { "condition": "neoforge:loot_table_id", "loot_table_id": "minecraft:chests/bastion_bridge" },
+        { "condition": "neoforge:loot_table_id", "loot_table_id": "minecraft:chests/bastion_other" },
+        { "condition": "neoforge:loot_table_id", "loot_table_id": "minecraft:chests/bastion_treasure" },
+        { "condition": "neoforge:loot_table_id", "loot_table_id": "caverns_and_chasms:remolders/chests/bastion_bridge" },
+        { "condition": "neoforge:loot_table_id", "loot_table_id": "caverns_and_chasms:remolders/chests/bastion_other" },
+        { "condition": "neoforge:loot_table_id", "loot_table_id": "caverns_and_chasms:remolders/chests/bastion_treasure" }
+      ]
+    }
+  ]
+}

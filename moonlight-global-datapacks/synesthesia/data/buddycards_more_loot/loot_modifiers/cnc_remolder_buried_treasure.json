@@ -1,0 +1,10 @@
+{
+  "type": "neoforge:add_table",
+  "table": "buddycards:inject/buried_treasure",
+  "conditions": [
+    {
+      "condition": "neoforge:loot_table_id",
+      "loot_table_id": "caverns_and_chasms:remolders/chests/buried_treasure"
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "type": "neoforge:add_table",
+  "table": "buddycards:inject/ancient_city",
+  "conditions": [
+    {
+      "condition": "minecraft:any_of",
+      "terms": [
+        { "condition": "neoforge:loot_table_id", "loot_table_id": "dungeons_arise:chests/foundry/foundry_treasure" },
+        { "condition": "neoforge:loot_table_id", "loot_table_id": "dungeons_arise:chests/mining_complex/mining_complex_treasure" },
+        { "condition": "neoforge:loot_table_id", "loot_table_id": "dungeons_arise:chests/mining_system/mining_system_treasure" },
+        { "condition": "neoforge:loot_table_id", "loot_table_id": "dungeons_arise:chests/mushroom_mines/mushroom_mines_treasure" }
+      ]
+    }
+  ]
+}

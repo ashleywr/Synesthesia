@@ -1,0 +1,13 @@
+{
+  "type": "neoforge:add_table",
+  "table": "buddycards:inject/shipwreck_treasure",
+  "conditions": [
+    {
+      "condition": "minecraft:any_of",
+      "terms": [
+        { "condition": "neoforge:loot_table_id", "loot_table_id": "caverns_and_chasms:remolders/chests/shipwreck_treasure" },
+        { "condition": "neoforge:loot_table_id", "loot_table_id": "caverns_and_chasms:remolders/chests/shipwreck_map" }
+      ]
+    }
+  ]
+}

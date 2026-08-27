@@ -1,0 +1,10 @@
+{
+  "values": [
+    "#hybrid_beta:all_hybrid_beta_biomes",
+    "#autumnity:is_autumnal",
+    "#hexerei:all_hexerei_biomes",
+    "#quark:all_quark_biomes",
+    "#galosphere:all_galosphere_biomes",
+    "#alexscaves:alexs_caves_biomes"
+  ]
+}

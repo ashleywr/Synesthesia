@@ -1,0 +1,13 @@
+{
+  "type": "neoforge:add_table",
+  "table": "buddycards:inject/simple_dungeon",
+  "conditions": [
+    {
+      "condition": "minecraft:any_of",
+      "terms": [
+        { "condition": "neoforge:loot_table_id", "loot_table_id": "caverns_and_chasms:remolders/chests/simple_dungeon" },
+        { "condition": "neoforge:loot_table_id", "loot_table_id": "caverns_and_chasms:remolders/chests/abandoned_mineshaft" }
+      ]
+    }
+  ]
+}
