@@ -18,7 +18,7 @@ hash = "05b46d22c756513726e81deddead65ceb53d8d22eb4a2473d8cc5c7f69c6c048"
 
 [[files]]
 file = "kubejs/server_scripts/plushie_drops.js"
-hash = "fb7ea6aa032248f5dfe5f985382b885e54b5a48bedf1569fee16cac5eadfef0d"
+hash = "972ee2b777a44cd2a0ea6928798c91c6749ee2daf69193954a6d90a477aa3f39"
 
 [[files]]
 file = "kubejs/startup_scripts/main.js"
@@ -2431,7 +2431,7 @@ hash = "51748cdd95402428302d978e81b98467108390ade980854d6f94c386042997cc"
 
 [[files]]
 file = "moonlight-global-datapacks/synesthesia/data/neoforge/loot_modifiers/global_loot_modifiers.json"
-hash = "9e15b4a6f4ee81d7bacd52734c94a87bc3dfde6607a9d943e833bf07153b561d"
+hash = "8708c0f0e124b6217812e6073f94fb7de2f275adcce3b7367e9bac73186eee65"
 
 [[files]]
 file = "moonlight-global-datapacks/synesthesia/data/nova_structures/tags/worldgen/biome/collections/cherry_forests.json"
@@ -2742,6 +2742,10 @@ file = "moonlight-global-datapacks/synesthesia/data/swem/tags/worldgen/biome/has
 hash = "51748cdd95402428302d978e81b98467108390ade980854d6f94c386042997cc"
 
 [[files]]
+file = "moonlight-global-datapacks/synesthesia/data/synesthesia_plushies/loot_modifiers/plushie_bat.json"
+hash = "af2700cf11ffd434d338b4a4d2ac88dd1f8c1c29c38b1f713bf689073cdcb1fc"
+
+[[files]]
 file = "moonlight-global-datapacks/synesthesia/data/synesthesia_plushies/loot_modifiers/plushie_blaze.json"
 hash = "06804be1be3f3b3b3050957ed9840f8ff5ccb263f5fc4a6c355b4ea42038378f"
 
@@ -2782,6 +2786,10 @@ file = "moonlight-global-datapacks/synesthesia/data/synesthesia_plushies/loot_mo
 hash = "3104aa5c98533898d9252c46ce38d1354a7f1c209d56aa578cc6ab6b6553d399"
 
 [[files]]
+file = "moonlight-global-datapacks/synesthesia/data/synesthesia_plushies/loot_modifiers/plushie_glow_squid.json"
+hash = "f91c23b17c9c1e995734ca1dae6ec52f6017b2d4fe8ebd618165bbb20f038fff"
+
+[[files]]
 file = "moonlight-global-datapacks/synesthesia/data/synesthesia_plushies/loot_modifiers/plushie_guardian.json"
 hash = "3189c205ce49ef0eb4a0443e782cb432df79fe1cc24104040ebdce8bb35f6e8c"
 
@@ -2810,6 +2818,14 @@ file = "moonlight-global-datapacks/synesthesia/data/synesthesia_plushies/loot_mo
 hash = "863024cb1f60850a93fa2d8b1b09dfff39d43f0998dc53b3f1d7d327ce504626"
 
 [[files]]
+file = "moonlight-global-datapacks/synesthesia/data/synesthesia_plushies/loot_modifiers/plushie_polar_bear.json"
+hash = "362455b5c2f666f70b44df07e20c922f3fe05da97fe600c7e969ce8346a352f5"
+
+[[files]]
+file = "moonlight-global-datapacks/synesthesia/data/synesthesia_plushies/loot_modifiers/plushie_pufferfish.json"
+hash = "f8613e7c13fe5a5f5feb78e6ca20a915813649f703d64055e7bc79a88feaa098"
+
+[[files]]
 file = "moonlight-global-datapacks/synesthesia/data/synesthesia_plushies/loot_modifiers/plushie_ravanger.json"
 hash = "035c2f376e79c1bfba9983d52813b0567fd01d2b8ac232b1eb694a8c5aa3d7b1"
 
@@ -2822,12 +2838,20 @@ file = "moonlight-global-datapacks/synesthesia/data/synesthesia_plushies/loot_mo
 hash = "ca4ec1cf6b03db95a1ea97623ce87eac387ac11a4fc58b9622b27c77e761240c"
 
 [[files]]
+file = "moonlight-global-datapacks/synesthesia/data/synesthesia_plushies/loot_modifiers/plushie_skeleton_horse.json"
+hash = "056a32135c89d12ef77e8870ab1e12977806e0c83a3f85e03eb730dd5febe0f9"
+
+[[files]]
 file = "moonlight-global-datapacks/synesthesia/data/synesthesia_plushies/loot_modifiers/plushie_slime.json"
 hash = "9788f446668d4a02fe135ca296b1aa8c114f8178e7660af5b32739b5a30c0d03"
 
 [[files]]
 file = "moonlight-global-datapacks/synesthesia/data/synesthesia_plushies/loot_modifiers/plushie_spider.json"
 hash = "c7b3a6e420005da30878eecac9bb27937e868e479eafb383075ae4bd12738446"
+
+[[files]]
+file = "moonlight-global-datapacks/synesthesia/data/synesthesia_plushies/loot_modifiers/plushie_squid.json"
+hash = "ac7cfac8e525f21bac9f4b77eb46984a327d7908db2f985ce560d49783b3d629"
 
 [[files]]
 file = "moonlight-global-datapacks/synesthesia/data/synesthesia_plushies/loot_modifiers/plushie_stray.json"
@@ -2840,6 +2864,10 @@ hash = "b37bf3e8c97a79129b4332738cf47c8b13080272ed9ab7e72f236fec2326d9ee"
 [[files]]
 file = "moonlight-global-datapacks/synesthesia/data/synesthesia_plushies/loot_modifiers/plushie_vindicator.json"
 hash = "ca6e3da911194d46f083cb675e995199892a015e4423672af90507b812847f49"
+
+[[files]]
+file = "moonlight-global-datapacks/synesthesia/data/synesthesia_plushies/loot_modifiers/plushie_wandering_trader.json"
+hash = "4dc4211b22827e8066ffc519fc76ed46b4309a717818d1dad739b369f885b1dc"
 
 [[files]]
 file = "moonlight-global-datapacks/synesthesia/data/synesthesia_plushies/loot_modifiers/plushie_warden.json"
@@ -2872,6 +2900,10 @@ hash = "6e36900942440f5ee86212b203e85db5cfe96c9c679634c7598e8aa799ec7092"
 [[files]]
 file = "moonlight-global-datapacks/synesthesia/data/synesthesia_plushies/loot_modifiers/plushie_zombified_piglin.json"
 hash = "ebf1b49dec9747cfb12a02323d83c2d6e7c06f9ac11ead9a8b5c38492dc63772"
+
+[[files]]
+file = "moonlight-global-datapacks/synesthesia/data/synesthesia_plushies/loot_table/inject/plushie_bat.json"
+hash = "28ae92fa8affb953124514c44cefaab64b6d337c8e83df754ec8ea83ce399e65"
 
 [[files]]
 file = "moonlight-global-datapacks/synesthesia/data/synesthesia_plushies/loot_table/inject/plushie_blaze.json"
@@ -2914,6 +2946,10 @@ file = "moonlight-global-datapacks/synesthesia/data/synesthesia_plushies/loot_ta
 hash = "9e246d586aff418796ddb934557a3d6468005702e7e373eb6e0dcf8bb8e57add"
 
 [[files]]
+file = "moonlight-global-datapacks/synesthesia/data/synesthesia_plushies/loot_table/inject/plushie_glow_squid.json"
+hash = "02ea50d829b53c99bad770ad154900f8940f7d6cded378b46fc174e7e01e0f54"
+
+[[files]]
 file = "moonlight-global-datapacks/synesthesia/data/synesthesia_plushies/loot_table/inject/plushie_guardian.json"
 hash = "fe1ac6837a3c44308f43b9dbaae5070fe04f7380da13f58567c1ce0c91e323e4"
 
@@ -2942,6 +2978,14 @@ file = "moonlight-global-datapacks/synesthesia/data/synesthesia_plushies/loot_ta
 hash = "4defd344922f4e40d0f99ebce0c103860ccc96386194a7dc29b3515ebe0609b0"
 
 [[files]]
+file = "moonlight-global-datapacks/synesthesia/data/synesthesia_plushies/loot_table/inject/plushie_polar_bear.json"
+hash = "a702541469d0e16b2972d0de51a3a773546573be0462824b763af36f91c7a32e"
+
+[[files]]
+file = "moonlight-global-datapacks/synesthesia/data/synesthesia_plushies/loot_table/inject/plushie_pufferfish.json"
+hash = "4da1e8a3c2d01e9586200a590c5cff8b3fc5b43e4a5a31aba79467d686fb9234"
+
+[[files]]
 file = "moonlight-global-datapacks/synesthesia/data/synesthesia_plushies/loot_table/inject/plushie_ravanger.json"
 hash = "af7524d46605e4bf59993c90dd619bd72e6922f84503b6e2ec6e222c58101ba5"
 
@@ -2954,12 +2998,20 @@ file = "moonlight-global-datapacks/synesthesia/data/synesthesia_plushies/loot_ta
 hash = "875ec2dc922fabc33fb2e86e2eac85e264094fca2160066d4d631b740f9769b6"
 
 [[files]]
+file = "moonlight-global-datapacks/synesthesia/data/synesthesia_plushies/loot_table/inject/plushie_skeleton_horse.json"
+hash = "a10eca776ea4337763da900a58d25551eb3002e2a9863cb7113a1af429eb162d"
+
+[[files]]
 file = "moonlight-global-datapacks/synesthesia/data/synesthesia_plushies/loot_table/inject/plushie_slime.json"
 hash = "71f5c0c76f642a7d9d588319e484709e662a84d39943d1fdd0f0725fe50161c7"
 
 [[files]]
 file = "moonlight-global-datapacks/synesthesia/data/synesthesia_plushies/loot_table/inject/plushie_spider.json"
 hash = "513d2a409ce9a4527a7445cea61ea5f28d934e449e9e75beaf08c17d3c962eb4"
+
+[[files]]
+file = "moonlight-global-datapacks/synesthesia/data/synesthesia_plushies/loot_table/inject/plushie_squid.json"
+hash = "ae7344ac3982865ac7c4a7984dfaade70ab0f3b856a5708463c78a939f4485b8"
 
 [[files]]
 file = "moonlight-global-datapacks/synesthesia/data/synesthesia_plushies/loot_table/inject/plushie_stray.json"
@@ -2972,6 +3024,10 @@ hash = "c3499af5cc18b7d9a56488d1e2ff1c57ea234e90e66fc790b75986212e5224ad"
 [[files]]
 file = "moonlight-global-datapacks/synesthesia/data/synesthesia_plushies/loot_table/inject/plushie_vindicator.json"
 hash = "f1b555ab83cbf4180a37a3dedf3a0f3eeb3a557f2c18a71c7e2775eca2ab0aaa"
+
+[[files]]
+file = "moonlight-global-datapacks/synesthesia/data/synesthesia_plushies/loot_table/inject/plushie_wandering_trader.json"
+hash = "891e7b56e2dc7d1b1f6083a19104932d285ed3b221850a72d9d64274423ddfbc"
 
 [[files]]
 file = "moonlight-global-datapacks/synesthesia/data/synesthesia_plushies/loot_table/inject/plushie_warden.json"

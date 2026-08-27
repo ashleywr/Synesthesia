@@ -1,14 +1,14 @@
-// Non-hostile plushie_buddies drops.
+// Non-kill plushie_buddies drops.
 //
 // plushie_buddies is craft-only: no mob or loot table naturally gives you a plushie.
-// Hostile mobs get a rare plushie drop on kill via a NeoForge global loot modifier
-// instead (data/synesthesia_plushies) - see AGENTS.md. This script covers everything
-// else: a small chance at the matching plushie when a player interacts with a mob
-// using its usual feed/tame item, or (for mobs with no such item) just by right-
-// clicking it empty-handed, i.e. petting it.
+// Mobs with no non-killing interaction get a rare plushie drop on kill instead, via a
+// NeoForge global loot modifier (data/synesthesia_plushies) - see AGENTS.md. This
+// script covers every mob that DOES have a real interaction: a small chance at the
+// matching plushie when a player interacts with it using its usual feed/tame/tool
+// item (armadillo + brush, cow + wheat, wolf + bone, etc.).
 //
 // This is purely additive - it never cancels the event or consumes the item, so
-// normal taming/breeding/bartering still happens exactly as vanilla intends.
+// normal taming/breeding/bartering/brushing still happens exactly as vanilla intends.
 //
 // NEEDS IN-GAME VERIFICATION: EntityEvents.rightClicked's exact property names
 // weren't confirmed against this KubeJS version before writing this, since there
@@ -17,10 +17,10 @@
 // (event.item || event.itemStack, etc.) exist because of that uncertainty.
 
 const INTERACT_CHANCE = 0.02; // chance per interaction with the correct item
-const PET_CHANCE = 0.02;      // chance per empty-handed interaction (petting)
 
 const ITEM_MOBS = {
   'minecraft:allay': { plushie: 'allay', items: ['minecraft:amethyst_shard'] },
+  'minecraft:armadillo': { plushie: 'armadillo', items: ['minecraft:brush'] },
   'minecraft:axolotl': { plushie: 'axolotl', items: ['minecraft:tropical_fish_bucket'] },
   'minecraft:bee': { plushie: 'bee', items: ['minecraft:poppy', 'minecraft:dandelion', 'minecraft:cornflower', 'minecraft:allium'] },
   'minecraft:camel': { plushie: 'camel', items: ['minecraft:cactus'] },
@@ -51,19 +51,6 @@ const ITEM_MOBS = {
   'minecraft:wolf': { plushie: 'wolf', items: ['minecraft:bone'] },
 };
 
-// No natural feed/tame item exists for these - petting (empty-handed interact) is
-// the only non-killing hook available.
-const PET_MOBS = {
-  'minecraft:armadillo': 'armadillo',
-  'minecraft:bat': 'bat',
-  'minecraft:glow_squid': 'glow_squid',
-  'minecraft:polar_bear': 'polar_bear',
-  'minecraft:pufferfish': 'pufferfish',
-  'minecraft:skeleton_horse': 'skeleton_horse',
-  'minecraft:squid': 'squid',
-  'minecraft:wandering_trader': 'wandering_trader',
-};
-
 function givePlushie(player, mob) {
   player.give('plushie_buddies:plushie_' + mob);
 }
@@ -80,17 +67,11 @@ rightClickedSource.rightClicked(event => {
   const entity = event.entity || event.target;
   if (!entity) return;
 
-  const entityId = entity.type;
+  const itemMob = ITEM_MOBS[entity.type];
+  if (!itemMob) return;
+
   const heldItem = event.item || event.itemStack;
+  if (!heldItem || !itemMob.items.includes(heldItem.id)) return;
 
-  const itemMob = ITEM_MOBS[entityId];
-  if (itemMob && heldItem && itemMob.items.includes(heldItem.id)) {
-    if (Math.random() < INTERACT_CHANCE) givePlushie(player, itemMob.plushie);
-    return;
-  }
-
-  const petMob = PET_MOBS[entityId];
-  if (petMob && (!heldItem || heldItem.isEmpty())) {
-    if (Math.random() < PET_CHANCE) givePlushie(player, petMob);
-  }
+  if (Math.random() < INTERACT_CHANCE) givePlushie(player, itemMob.plushie);
 });
