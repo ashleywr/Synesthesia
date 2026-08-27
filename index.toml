@@ -5,6 +5,10 @@ file = "README.md"
 hash = "b52da47f6540e4e506534d57ee41bf399be71fc4f95fefa21b97fc905aec8393"
 
 [[files]]
+file = "config/ftbquests/quests/chapters/halcyon.snbt"
+hash = "73e72c8909100c53228c3be41bf915c0111091dcaf12bd704ab30f168beef033"
+
+[[files]]
 file = "defaultconfigs/biolith/general.json"
 hash = "7f1e58be2cf7db18181869804bb09823ee93a4ea863d560036e8a05954bcf806"
 

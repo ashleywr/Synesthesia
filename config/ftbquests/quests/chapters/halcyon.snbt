@@ -1,0 +1,250 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "halcyon"
+	group: ""
+	icon: "halcyon:data_tablet"
+	id: "cb2ab6815a391971"
+	images: []
+	order_index: 0
+	quest_links: []
+	quests: [
+		{
+			id: "ef4cdf730d9e59fc"
+			tasks: [
+				{
+					id: "9abdcbffcf8b1d41"
+					item: "halcyon:data_tablet"
+					type: "item"
+				}
+			]
+			rewards: [
+				{
+					id: "ccb93ccc5e46399d"
+					type: "xp"
+					xp: 50
+				}
+			]
+			title: "Signals from Phenua"
+			description: [
+				"Something out there has been building. Not with hammers and stone, but with light and unfamiliar geometry."
+				""
+				"Go find a Halcyon structure - the ancient rock formations, the pearlescent sand fields, the makutuin ruins - and bring back a Data Tablet. It's the mod's own guidebook; read it before touching anything else."
+			]
+			x: 0.0d
+			y: 0.0d
+		}
+		{
+			id: "54ec1591b4ab0954"
+			dependencies: ["ef4cdf730d9e59fc"]
+			tasks: [
+				{
+					id: "d88ffc87d192540e"
+					item: "halcyon:fabricator"
+					type: "item"
+				}
+			]
+			rewards: [
+				{
+					id: "67f3662997c0628f"
+					type: "xp"
+					xp: 50
+				}
+			]
+			title: "The Fabricator"
+			description: [
+				"Everything in Halcyon's tech tree gets built here. It's not a normal crafting bench - recipes cost Essence to unlock, one time, before you can ever make them."
+			]
+			x: 0.0d
+			y: 2.0d
+		}
+		{
+			id: "a2fd1bef9d0c2301"
+			dependencies: ["54ec1591b4ab0954"]
+			tasks: [
+				{
+					id: "90cecf29632b246d"
+					type: "advancement"
+					advancement: "halcyon:progression/place_essence_burner"
+					title: "Place an Essence Burner"
+				}
+			]
+			rewards: [
+				{
+					id: "06d29393ed9db5e3"
+					count: 4
+					item: "halcyon:essence_shard"
+					type: "item"
+				}
+			]
+			title: "First Spark"
+			description: [
+				"The cheapest generator in the book - copper and obsidian. Feed it Tidal Shards and it'll sublimate them into usable Essence."
+				""
+				"Inefficient, and someone has to keep coming back to refuel it, but it's a start."
+			]
+			x: 0.0d
+			y: 4.0d
+		}
+		{
+			id: "633bf59c5b0e1239"
+			dependencies: ["a2fd1bef9d0c2301"]
+			tasks: [
+				{
+					id: "02d6717ae262dad6"
+					item: "halcyon:industrial_plant_siphon"
+					type: "item"
+				}
+			]
+			rewards: [
+				{
+					id: "7e42b3c30bfe9e3a"
+					type: "xp"
+					xp: 100
+				}
+			]
+			title: "Tapping the Land"
+			description: [
+				"Plant life carries Tidal Energy too, if you know how to draw it out. The rarer or more magical the plant, the more it gives - worth remembering if you're already keeping bees or a garden nearby."
+			]
+			x: -1.5d
+			y: 6.0d
+		}
+		{
+			id: "ce1c9b8fd6b633e8"
+			dependencies: ["a2fd1bef9d0c2301"]
+			tasks: [
+				{
+					id: "0a6a966ad5a39c6f"
+					item: "halcyon:essence_leech"
+					type: "item"
+				}
+			]
+			rewards: [
+				{
+					id: "d5414bdcea93624b"
+					type: "xp"
+					xp: 100
+				}
+			]
+			title: "A Steady Diet"
+			description: [
+				"Mobs carry dormant Tidal Energy too. This device 'Awakens' them to get at it - a steadier supply than burning shards, at a cost the notes are a little evasive about."
+			]
+			x: 1.5d
+			y: 6.0d
+		}
+		{
+			id: "7977f22923e292c0"
+			dependencies: ["633bf59c5b0e1239"]
+			tasks: [
+				{
+					id: "3c7bfa630ae49d44"
+					item: "halcyon:lunarium"
+					type: "item"
+				}
+			]
+			rewards: [
+				{
+					id: "857d57f53a4a7078"
+					count: 2
+					item: "halcyon:essence_crystal"
+					type: "item"
+				}
+			]
+			title: "Ascending to Lunarium"
+			description: [
+				"The real gate in this tree. 1000 Essence and a handful of components you'll need to fabricate first - a transformative rod, a lensing crystal, an ecliptrum cog assembly."
+				""
+				"Everything past this point in Mod Integration is locked behind it."
+			]
+			x: 0.0d
+			y: 8.0d
+		}
+		{
+			id: "c21b979609ea2a9d"
+			dependencies: ["7977f22923e292c0"]
+			tasks: [
+				{
+					id: "4aa35acd2e18def4"
+					item: "halcyon:rf_node"
+					type: "item"
+				}
+			]
+			rewards: [
+				{
+					id: "48a42edb5a38af93"
+					type: "xp"
+					xp: 250
+				}
+				{
+					id: "c4c1d0e020f7d5aa"
+					count: 16
+					item: "minecraft:iron_ingot"
+					type: "item"
+				}
+			]
+			title: "Powering the Rest of the World"
+			description: [
+				"An RF Node turns Tidal Energy into ordinary FE - the same energy every incubator, mixer, and machine in the rest of the pack runs on. Wire it up and Halcyon stops being its own island."
+				""
+				"(Verify the exact item id for this one in-game or via JEI before relying on this task - it wasn't confirmed against the item registry directly, only the loot table filename.)"
+			]
+			x: 0.0d
+			y: 10.0d
+		}
+		{
+			id: "fdba62ba122febd1"
+			dependencies: ["7977f22923e292c0"]
+			tasks: [
+				{
+					id: "cc9e25a639f1d228"
+					item: "pastel:amethyst_shard"
+					type: "item"
+				}
+			]
+			rewards: [
+				{
+					id: "4571b16fd330fe88"
+					type: "xp"
+					xp: 150
+				}
+			]
+			title: "Petrified Light"
+			description: [
+				"Halcyon's Entropic Processor already knows how to break down Pastel's amethyst line - shard, buds, cluster, block. Feed it one and see what comes out the other side."
+				""
+				"This is a real, mod-native integration - not something bolted on for this quest."
+			]
+			x: -2.0d
+			y: 10.0d
+		}
+		{
+			id: "81df506fb7830cc6"
+			dependencies: ["7977f22923e292c0"]
+			tasks: [
+				{
+					id: "e47b497261b011cb"
+					item: "malum:runewood_planks"
+					type: "item"
+				}
+			]
+			rewards: [
+				{
+					id: "4f62ff83b30df517"
+					type: "xp"
+					xp: 150
+				}
+			]
+			title: "Ashes of the Arcane"
+			description: [
+				"Halcyon's infusion process turns Malum's runewood and soulwood into Arcane Charcoal. Bring some of either and put the infusion setup to work."
+				""
+				"(The exact output item id wasn't confirmed - only the recipe file names, 'arcane_charcoal_runewood' and 'arcane_charcoal_soulwood'. Check JEI once this quest is in front of you.)"
+			]
+			x: 2.0d
+			y: 10.0d
+		}
+	]
+	title: "Halcyon"
+}
