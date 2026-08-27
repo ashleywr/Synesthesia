@@ -9,6 +9,10 @@ file = "config/ftbquests/quests/chapters/halcyon.snbt"
 hash = "8c5a7b0f532f3879a960f179b2b2d92544fe8bfb3b52cfba042d0a5e219522f5"
 
 [[files]]
+file = "config/ftbquests/quests/chapters/hexerei.snbt"
+hash = "53fea6a6f5684aec38eaf7bfe2513c189593657ff4ceb660676b58f5b2e55c9f"
+
+[[files]]
 file = "config/ftbquests/quests/chapters/power.snbt"
 hash = "6f53b82a99b40e034458170daa336a02815edb35d8924c0c7879faf99179487e"
 

@@ -1,0 +1,112 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "hexerei"
+	group: ""
+	icon: "hexerei:willow_broom"
+	id: "14934747d460baa0"
+	images: []
+	order_index: 2
+	quest_links: []
+	quests: [
+		{
+			id: "0989ad9508925c83"
+			tasks: [
+				{
+					id: "c3fcba5f8843359f"
+					item: "hexerei:mixing_cauldron"
+					type: "item"
+				}
+			]
+			title: "A Proper Cauldron"
+			description: [
+				"Almost everything in Hexerei worth having gets made here - just a vanilla cauldron, iron ingots, and a couple of torches. Cheap, and the gateway to the rest of the mod."
+			]
+			x: 0.0d
+			y: 0.0d
+		}
+		{
+			id: "7e0e149c6b317f50"
+			dependencies: ["0989ad9508925c83"]
+			tasks: [
+				{
+					id: "894249976ff7594d"
+					item: "hexerei:blood_bottle"
+					type: "item"
+				}
+				{
+					id: "4eeaa3927a30fd0f"
+					item: "hexerei:mandrake_root"
+					type: "item"
+				}
+			]
+			title: "Blood and Bramble"
+			description: [
+				"Two ingredients nearly every broom recipe wants. Mandrake Root is foraged, not crafted. Blood Bottle comes from the cauldron itself, via a fill-and-empty interaction the tooling on hand couldn't fully trace - expect to look up the exact steps in-game rather than trust a recipe list for this one."
+			]
+			x: 0.0d
+			y: 2.0d
+		}
+		{
+			id: "1a9aedee580b0762"
+			dependencies: ["7e0e149c6b317f50"]
+			tasks: [
+				{
+					id: "f502bc51b034df87"
+					item: "hexerei:willow_broom"
+					type: "item"
+				}
+			]
+			rewards: [
+				{
+					id: "2a2076a4ffc6bcdf"
+					type: "xp"
+					xp: 150
+				}
+			]
+			title: "Take Wing: the Willow Broom"
+			description: [
+				"The starter tier - Blood Bottle, Willow Log, gold, wheat, and Mandrake Root, mixed in the cauldron. This is the actual rideable broom, an entity you mount like a boat, not just a held item."
+				""
+				"Two better tiers exist if you want to keep going: Witch Hazel Broom (a diamond in place of gold) and Mahogany Broom (netherite). Neither is required for this to work - the Willow tier flies just fine."
+			]
+			x: 0.0d
+			y: 4.0d
+		}
+		{
+			id: "b240a679fba146e5"
+			dependencies: ["1a9aedee580b0762"]
+			tasks: [
+				{
+					id: "ae8d88d2e77d2c64"
+					item: "hexerei:broom_seat"
+					type: "item"
+				}
+			]
+			title: "A Second Seat"
+			description: [
+				"A passenger seat for the broom - a Small Satchel, string, leather, and Infused Fabric Block. Bring a friend."
+			]
+			x: -1.5d
+			y: 6.0d
+		}
+		{
+			id: "df7013ed5ccac5bd"
+			dependencies: ["1a9aedee580b0762"]
+			tasks: [
+				{
+					id: "b5a03c9dfd5e6a27"
+					item: "hexerei:broom_whistle"
+					type: "item"
+				}
+			]
+			title: "Call of the Broom"
+			description: [
+				"A whistle to summon your broom instead of walking back for it. Mahogany planks, a stone button, and bamboo."
+			]
+			x: 1.5d
+			y: 6.0d
+		}
+	]
+	title: "Hexerei"
+}
