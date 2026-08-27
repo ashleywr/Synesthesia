@@ -1,6 +1,6 @@
 [
   {
-    "mobs": ["alexsmobs:stradpole"],
+    "mobs": ["alexsmobs:stradpole", "alexsmobs:straddler"],
     "biomes": ["#minecraft:is_nether"],
     "random": 0.7,
     "action": "deny"

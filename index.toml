@@ -18,7 +18,7 @@ hash = "6f53b82a99b40e034458170daa336a02815edb35d8924c0c7879faf99179487e"
 
 [[files]]
 file = "config/incontrol/spawn.json"
-hash = "67e6b0f7893c400bd792b04ad6d83756e080b1f9df95f51d9a0a80410af54b0e"
+hash = "3a5a23510b579da8f07d1aa21d05c34f3439f7c086c46beada807389a9106e76"
 
 [[files]]
 file = "defaultconfigs/biolith/general.json"
