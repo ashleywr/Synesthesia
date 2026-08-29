@@ -1,2 +1,3835 @@
 hash-format = "sha256"
-files = []
+
+[[files]]
+file = "README.md"
+hash = "be540ead21095f65b51ab8e43c7c97fecce4bd195d2f4c62535c6bb9d23d1b76"
+
+[[files]]
+file = "config/Veinminer/blocks.json"
+hash = "37517e5f3dc66819f61f5a7bb8ace1921282415f10551d2defa5c3eb0985b570"
+
+[[files]]
+file = "config/Veinminer/groups.json"
+hash = "03d55966bb4a4a0aafb69ef049273d33077ee09c42e9b91ea784d06e595411ad"
+
+[[files]]
+file = "config/Veinminer/settings.json"
+hash = "dad1f642ee7c07b7326279f94434524f1f7dbfa97b55b36aad80959746500088"
+
+[[files]]
+file = "config/alexscaves-client.toml"
+hash = "53f346fb7031389402e1e5c3834fe8be23369e291176a3c031857d01533c28dd"
+
+[[files]]
+file = "config/alexscaves-general.toml"
+hash = "be9bc7d73bc9bd9679b0bd57e9c5effd25ef9484a771f32255ef88acfc3082cf"
+
+[[files]]
+file = "config/alexscaves_biome_generation/abyssal_chasm.json"
+hash = "4fed7e5b7938b7de22bb4193ccf522d2fdb5edb4c4180903b17ec8694b2337d8"
+
+[[files]]
+file = "config/alexscaves_biome_generation/candy_cavity.json"
+hash = "e68dac5fc506c198dedf07566e0184872be730c4d369c4bbb245f5b12673bd19"
+
+[[files]]
+file = "config/alexscaves_biome_generation/forlorn_hollows.json"
+hash = "aabb95c7efcedff55a3add91832b1395d767f1b8bc5736064b809f16293481c7"
+
+[[files]]
+file = "config/alexscaves_biome_generation/magnetic_caves.json"
+hash = "5b9a96de68eb17b03b5b19808dc2bae7854948c81e57aeda60bab927b4a54e8e"
+
+[[files]]
+file = "config/alexscaves_biome_generation/primordial_caves.json"
+hash = "ad81cc492bce6aad55b2becdff94bddde8007070e467445610dc124b4f8d3c68"
+
+[[files]]
+file = "config/alexscaves_biome_generation/toxic_caves.json"
+hash = "f9e79d5c2c508e03e72da253925f7060acc9146191df44d5f21f0513a4b34c66"
+
+[[files]]
+file = "config/caverns_and_chasms-common.toml"
+hash = "fba1ca79b8c91d319dcae4693986b70b10aafe1aa8b79880aa06adee77ba0fa5"
+
+[[files]]
+file = "config/create-server.toml"
+hash = "0e030963447d644527cf2b77fd42d527c82892eb8a36e8a06c4d91860eccecf1"
+
+[[files]]
+file = "config/ftbquests/quests/chapters/halcyon.snbt"
+hash = "21254ebded329659631bb237aec97902d453f936359e291c9065ff172f05a6fd"
+
+[[files]]
+file = "config/ftbquests/quests/chapters/hexerei.snbt"
+hash = "89a87ca29819957b15a94c2e4f6d013c848f001c5fc65c398ca76158dba867f8"
+
+[[files]]
+file = "config/ftbquests/quests/chapters/power.snbt"
+hash = "5880e422cc80034b7ae84288855dafd6296085c4b66e2dba346d24dc650c501b"
+
+[[files]]
+file = "config/incontrol/spawn.json"
+hash = "72ee3e85af79e9d2f524ad3815894795173bfb164f626210ad8781089729ea57"
+
+[[files]]
+file = "config/quark-common.toml"
+hash = "d01df0dce290e603227d8d42dd0d522ffc8bb31a3d4183431142a18c65f3f911"
+
+[[files]]
+file = "config/railways-server.toml"
+hash = "460613e68ae577f8adb599fe762dba276da5f08698d03ffe14f37d09cbee3ccd"
+
+[[files]]
+file = "config/sophisticatedbackpacks-server.toml"
+hash = "55e60990e8d7cb99499aea39bcf1d6fc616a1eb62f7305510e60385239efed7b"
+
+[[files]]
+file = "config/sophisticatedstorage-server.toml"
+hash = "2fe241b394ba2aa560d27dce3b7f66b75227a01cd2b0613150fab5109170c7df"
+
+[[files]]
+file = "defaultconfigs/biolith/general.json"
+hash = "7f1e58be2cf7db18181869804bb09823ee93a4ea863d560036e8a05954bcf806"
+
+[[files]]
+file = "disabled-mods.md"
+hash = "33a6a3e3064cca46e9d754bad791c2c3351d19976c7efb5fdc326016b180e2ec"
+
+[[files]]
+file = "kubejs/README.txt"
+hash = "989f3737ae4621b8ff6730bce4cbeeee756921e7e510e0c281c8a350501d98af"
+
+[[files]]
+file = "kubejs/client_scripts/main.js"
+hash = "3df46f0add819bf2602642215b5c62f0581ffdaaf97e77c80a8c4d966e05adcf"
+
+[[files]]
+file = "kubejs/server_scripts/main.js"
+hash = "b88323588e78da05b4cade7978aa220d038e499bd04e37d82e4009350b683cdf"
+
+[[files]]
+file = "kubejs/server_scripts/plushie_drops.js"
+hash = "bf9e415be31e56d70c6cdc68f38c6e01d821b7ebed16b9006a3f04564bcda2e0"
+
+[[files]]
+file = "kubejs/server_scripts/scenery_loot_tiers.js"
+hash = "497e92d3fde90e352dce9d60f0ee7c3538b526b7abb8660aecda0265e58b3f3d"
+
+[[files]]
+file = "kubejs/startup_scripts/main.js"
+hash = "94cef43904b10ae4414e4e6eb62e9dd423e87a0dc1faeca491c6b7d71bf9ff37"
+
+[[files]]
+file = "mods/abnormals-delight.pw.toml"
+hash = "a9753702facbd7e420e9d880d41fe23f7353783f797af0a5967fac4b4d42d06a"
+metafile = true
+
+[[files]]
+file = "mods/additional-lanterns.pw.toml"
+hash = "e198a212dc19985b15668c47f2bd8907f4ece07fc4ecb2917ab1e0a0af4416f5"
+metafile = true
+
+[[files]]
+file = "mods/adorable-hamster-pets.pw.toml"
+hash = "caf83f835ea6d9b007ff30853b15e1cebafc0de1f687de1880beefe1331c1629"
+metafile = true
+
+[[files]]
+file = "mods/advanced-loot-info.pw.toml"
+hash = "242dffe3eb834959211ccddce1fee68f6f17c4809aa73f2fd601ea15eed1d30a"
+metafile = true
+
+[[files]]
+file = "mods/advanced-netherite.pw.toml"
+hash = "3086c90bd916d680a99a08bbe0d97cdf1a6ba5b79c3e8677062f147b12187fc1"
+metafile = true
+
+[[files]]
+file = "mods/advancement-plaques.pw.toml"
+hash = "8d7262f6d05a4f52f737add3d8fd41bb0800244affaabcde99b6dd7305a96d0b"
+metafile = true
+
+[[files]]
+file = "mods/ag-day-counter.pw.toml"
+hash = "0d7aab9f3cd869aa6cc4152b61b5aa6eb7f339cad04217d1412a418f2e108df8"
+metafile = true
+
+[[files]]
+file = "mods/alexs-caves-(unofficial-port).pw.toml"
+hash = "77932d8467c3b04ab7e013fc40dc5e9f1be601b9f05824a661e0222edbfc2638"
+metafile = true
+
+[[files]]
+file = "mods/alexs-mobs(1.21.1).pw.toml"
+hash = "19d2eaf4944727503aa3a5c7a8ae3f755ce49b7a1ac610f8ab5fe5fad23dc1e8"
+metafile = true
+
+[[files]]
+file = "mods/alexs-mobs-extra-music.pw.toml"
+hash = "0cb2d9d985b3352d998bb25ed9e3353e4d4928128d5bffa35cc7da06e2cb7f41"
+metafile = true
+
+[[files]]
+file = "mods/almanac.pw.toml"
+hash = "91bf6abc7e5817c3d45edee6ebe920419734eaa96380256404983d304099f035"
+metafile = true
+
+[[files]]
+file = "mods/almostunified.pw.toml"
+hash = "3428143097f1cdd2b043bf560a80b927e74ac4e175ec4f70eb7ecfac98e78693"
+metafile = true
+
+[[files]]
+file = "mods/amendments.pw.toml"
+hash = "89301781b74634f6974e85d36c60a8e46199eb0a322da3a38f55d016e71b6238"
+metafile = true
+
+[[files]]
+file = "mods/appleskin.pw.toml"
+hash = "1b0d73dab03fa3b432542ad65dc94bba4aa3b41e8f8c1cb452276f616aeb09c5"
+metafile = true
+
+[[files]]
+file = "mods/aquamirae.pw.toml"
+hash = "3503de7721109a0d5d6d12069895216dbecf58f2aaab6dddbe5d4ba4adf9e9c5"
+metafile = true
+
+[[files]]
+file = "mods/architectury-api.pw.toml"
+hash = "55e3bbb3e105edb82c65e8556121ded13e0a25f9768c779fc0ab358680cdb402"
+metafile = true
+
+[[files]]
+file = "mods/artifacts.pw.toml"
+hash = "4cc8858a125188481f3ebaab30a8d09f55291578e4fc7494ba0aaf5564818b47"
+metafile = true
+
+[[files]]
+file = "mods/asyncparticles.pw.toml"
+hash = "35533db3ea57be023ccc013a9248b7df89cb5510002850608df3f0826d79e3f4"
+metafile = true
+
+[[files]]
+file = "mods/attributefix.pw.toml"
+hash = "7fe4f109736bb66a9304597d7c36b458d40d2a405a5d8e7e07589e592ab696e7"
+metafile = true
+
+[[files]]
+file = "mods/autumnity.pw.toml"
+hash = "4ca3c6e67b3116d0577b1a202b8d5d70928dafaf0988dbcfae229a50cd39185f"
+metafile = true
+
+[[files]]
+file = "mods/badoptimizations.pw.toml"
+hash = "90cc2f8a2589a157a7943476aa238446b6e32255a6d0da313b81bef8d6246249"
+metafile = true
+
+[[files]]
+file = "mods/baguettelib.pw.toml"
+hash = "7ec1be1344d6cadf221bfa92ef34dde6fbbaf516e03cb94a51560b6d93b53478"
+metafile = true
+
+[[files]]
+file = "mods/balm.pw.toml"
+hash = "ee7346ba779438762aeee6e7df5a5213ee86063de94876a2055e717f35938132"
+metafile = true
+
+[[files]]
+file = "mods/barbeques-delight-forge.pw.toml"
+hash = "d5db5424d2e9c77a300d3d6d90b97d7854e6d318194704b83060be40bb039e36"
+metafile = true
+
+[[files]]
+file = "mods/baubley-heart-canisters.pw.toml"
+hash = "96baf9a5ebbacfbf1a5d6a5961bd5d75dad18477a408cc4a5831aa70d272305e"
+metafile = true
+
+[[files]]
+file = "mods/beautiful-enchanted-books-mod-edition.pw.toml"
+hash = "295b43d0f851290b64d999eee54eb223aaf8887c0f2766bc90adcb835a87de8b"
+metafile = true
+
+[[files]]
+file = "mods/better-advancements.pw.toml"
+hash = "6028884732652d13ec993d6f06ab2bc0f03134105648c1370e1ace51e7647b8f"
+metafile = true
+
+[[files]]
+file = "mods/better-combat.pw.toml"
+hash = "ad9c2a57f7c09889cfafc9e641e2141fe293ad1055446d4891d3faee73774a23"
+metafile = true
+
+[[files]]
+file = "mods/better-modlist.pw.toml"
+hash = "94ba3db02269294760182ab129253b460fa5b41f82c709981367ba42229d47e3"
+metafile = true
+
+[[files]]
+file = "mods/betterf3.pw.toml"
+hash = "ac0bb6a6660040c6f1990a17176a8a62937e34fd74a310eb574b345a23257b33"
+metafile = true
+
+[[files]]
+file = "mods/biomespy.pw.toml"
+hash = "7be8a77b92aafcc97409b3f985a0587bd3f8587815a88783ece3c304eba41a15"
+metafile = true
+
+[[files]]
+file = "mods/blockui.pw.toml"
+hash = "fd1ecad6a4b910dfa1b7987ccc11ef888ae3f6da45bc1b07b19d2edc88488824"
+metafile = true
+
+[[files]]
+file = "mods/blueprint.pw.toml"
+hash = "97f145f04f2f7f673ecdaa5c9dcd2aefe09ae79ce4bd95617033a6957d32ae74"
+metafile = true
+
+[[files]]
+file = "mods/bookshelf-lib.pw.toml"
+hash = "ba3081449d58c1d0b3438c1fa238c6de65067bb1f00b42c22604321e26ecf1fc"
+metafile = true
+
+[[files]]
+file = "mods/borninchaos.pw.toml"
+hash = "bb5c586842deeb702565ba5108a95886397af442b2dbf239513bfdeb11cca967"
+metafile = true
+
+[[files]]
+file = "mods/bountiful-fares.pw.toml"
+hash = "ae7026394fc4fff268913ccdb70552200e910f10e893db2d4bd0126a20969ae1"
+metafile = true
+
+[[files]]
+file = "mods/brewin-and-chewin.pw.toml"
+hash = "6c1cc4316c5dae82bd44c6c30b161167cae3e0a90c6e5e98ef979118535ed20d"
+metafile = true
+
+[[files]]
+file = "mods/buddycards.pw.toml"
+hash = "cc24de33faa0931a7804c443fbedf9e8fd97a65cfb2be896ae3602843781f88e"
+metafile = true
+
+[[files]]
+file = "mods/caelus.pw.toml"
+hash = "94cbc974f4770fdbd15710a4cea6bca994dfdb84678a152754aa4d4a743e0e20"
+metafile = true
+
+[[files]]
+file = "mods/cataclysm-x-bettercombat-compat.pw.toml"
+hash = "ef5981ae8006a3277a5cbaca96132929d35188b36b36210d31d20036d36343f6"
+metafile = true
+
+[[files]]
+file = "mods/caverns-and-chasms.pw.toml"
+hash = "79d62acfe9fc1bdf279e22f5524d676235272e3220862bb47cf51315f969fe39"
+metafile = true
+
+[[files]]
+file = "mods/cgs.pw.toml"
+hash = "01e295c7f454553cd4586809ef52e19d2bef65389eab108b7411392d7f4aebc6"
+metafile = true
+
+[[files]]
+file = "mods/chat-heads.pw.toml"
+hash = "082f48fe501856e25394e563ce774ba93094ae59c1e54be08394b59c03baf65a"
+metafile = true
+
+[[files]]
+file = "mods/chefs-delight.pw.toml"
+hash = "a1126bd73cb8b0f8a0f9b1c23475ea922ec29ada18acdcdc62c2a27894e4bd55"
+metafile = true
+
+[[files]]
+file = "mods/chloride.pw.toml"
+hash = "5544f5724613daba969ed686b5d359732b9885491926d4e17616e30026618e91"
+metafile = true
+
+[[files]]
+file = "mods/citadel-(1.21.1-port).pw.toml"
+hash = "4d555a71f90c696e9648d4287d19f57bbc8f2bbc7ccc233c108126f237b15eeb"
+metafile = true
+
+[[files]]
+file = "mods/cloth-config.pw.toml"
+hash = "c9f5811e9b12ef54fe3bca7ec48f4d3a792b74a6d58c50c8a00194af6dfe5fae"
+metafile = true
+
+[[files]]
+file = "mods/clumps.pw.toml"
+hash = "0ffebdeb9dd830eebf1d802092184866dac58d39ba3f7a37728cec9133ecf609"
+metafile = true
+
+[[files]]
+file = "mods/coastal-waves.pw.toml"
+hash = "ab7efdcd4a4612afe6bb3dcad489a3f49593941497005cb619483498f01289d3"
+metafile = true
+
+[[files]]
+file = "mods/collective.pw.toml"
+hash = "a927b3540095bfbdbba24f977791e640e6b483c6182340cf919ad35795db8edc"
+metafile = true
+
+[[files]]
+file = "mods/colorful-hearts.pw.toml"
+hash = "9053fb371b5a8230d99db32bfe7c046a093c4431e3824522b59e1e82d06cf7c2"
+metafile = true
+
+[[files]]
+file = "mods/comforts.pw.toml"
+hash = "f97b49c7bc36be2ee693c5d7418b1a602a0b36c32387cfd9cdd5a9838b4ae8a1"
+metafile = true
+
+[[files]]
+file = "mods/companions-mod.pw.toml"
+hash = "a0334bc3ef1ceee7b2ec84ab4999923d7007695fef410b78948c57a6cb006441"
+metafile = true
+
+[[files]]
+file = "mods/compat-api.pw.toml"
+hash = "70fdce283bcf45962d24f5d4b22aa4aac3fd39c43cbc3be6a4e131e4db75d29b"
+metafile = true
+
+[[files]]
+file = "mods/compat-structure.pw.toml"
+hash = "d47440b3f83577c379a37d1c6a0c066087ecb2a061c50cc0785921f281f954b3"
+metafile = true
+
+[[files]]
+file = "mods/configurable.pw.toml"
+hash = "5d7c8f813d1c11b9f2e041b01aa5def7a048ed967454e03ed7f069d3ca23d378"
+metafile = true
+
+[[files]]
+file = "mods/configured.pw.toml"
+hash = "1edcb61c72223e07f2e5ad4f17f8b0994669a3f3bb89d6049ad8a4f26359aa30"
+metafile = true
+
+[[files]]
+file = "mods/controlling.pw.toml"
+hash = "b6b9e514a420b92d3e8259422fcca1c401879fcba62b8c10f06fac1adabef1f3"
+metafile = true
+
+[[files]]
+file = "mods/copycats.pw.toml"
+hash = "783944670e14bee95e74133058341b8e681df1128ff4a6ac31743e55d1b8d5e9"
+metafile = true
+
+[[files]]
+file = "mods/corgilib.pw.toml"
+hash = "dbb9666aa3bc61179d7017733f05f6fe91bcc253dea5b8bbadcd564e4d4b9149"
+metafile = true
+
+[[files]]
+file = "mods/crafting-tweaks.pw.toml"
+hash = "82c02e77462dad539ab2b26a431b4464c2e0c6e178368c3b98d996e7ed6c960e"
+metafile = true
+
+[[files]]
+file = "mods/create-aquatic-ambitions.pw.toml"
+hash = "95562d0291dee94693d0b1686e9717968452e25577b7fba4d568dc33d1000d0b"
+metafile = true
+
+[[files]]
+file = "mods/create-beamline.pw.toml"
+hash = "43ca633eb36ba7b73721aa38ae2e4ddd46979c341b6b4fbd821c5b10084ef081"
+metafile = true
+
+[[files]]
+file = "mods/create-bionics.pw.toml"
+hash = "8739905486cd7b83f4e410fb3e1d083ac39bd61cb7997e05e647ef3d672beeb5"
+metafile = true
+
+[[files]]
+file = "mods/create-buddycards.pw.toml"
+hash = "a5f1fcbcf0a7c25576bae586386edc48a0231a2ed987f1fe726862c48492de4b"
+metafile = true
+
+[[files]]
+file = "mods/create-deco.pw.toml"
+hash = "d232fcd0146fe483381d87c1ce4a6ebba6a9282a81b0e3ad048c5af2cc08b704"
+metafile = true
+
+[[files]]
+file = "mods/create-diesel-generators.pw.toml"
+hash = "7c99b0d99a516ff4680235d36b0b0f724b197848392f6bc32ec355134726a93e"
+metafile = true
+
+[[files]]
+file = "mods/create-dragons-plus.pw.toml"
+hash = "f4d628e360c73986394566400ebb03c6aad1baa84ddf7229af3ba50b12fc7a4d"
+metafile = true
+
+[[files]]
+file = "mods/create-enchantment-industry.pw.toml"
+hash = "01f8fa1f263fd8ded0458cfc853d93314223e563a1631dfa8859fc1fe752cb49"
+metafile = true
+
+[[files]]
+file = "mods/create-framed.pw.toml"
+hash = "dcd3f5cc3a4361bf034c31930fe3a2551f4a32cb09a06c2d17dbaae0a4c42a9f"
+metafile = true
+
+[[files]]
+file = "mods/create-integrated-farming.pw.toml"
+hash = "7452e99f449d2f9a8859414481bfbc55dc66e41c70661e61a59a61b87fad3d30"
+metafile = true
+
+[[files]]
+file = "mods/create-jei-compat.pw.toml"
+hash = "1c6f373a264d9ff1852349302a681bdc78b9346b51a1abb20d1fed959b5e5bbd"
+metafile = true
+
+[[files]]
+file = "mods/create-metalwork.pw.toml"
+hash = "2bfc20cc81d6e585fa1ccd3505daea415ecf2ba2ec28ac6fc9119d98c311437f"
+metafile = true
+
+[[files]]
+file = "mods/create-more-additions.pw.toml"
+hash = "2ded251829a2f625e487c438802ad629078d5bf1de1464a94751074e27ed5a66"
+metafile = true
+
+[[files]]
+file = "mods/create-more-package-couriers.pw.toml"
+hash = "0d73fa3ea81f9a88a16c88d555ec5042aa80ac02bf0019a87a37c5e36a6b7f82"
+metafile = true
+
+[[files]]
+file = "mods/create-ore-excavation-deposits.pw.toml"
+hash = "e45403164622a4e700dc75e0a0e56f8961c9d74bb0ea63cbc1e12b56207d69bd"
+metafile = true
+
+[[files]]
+file = "mods/create-ore-excavation.pw.toml"
+hash = "9acf5907fb24092f0fa15036799a5b37dc641a545e4d2b102573ac78e2f3dada"
+metafile = true
+
+[[files]]
+file = "mods/create-regions-unexplored-compat-crushing.pw.toml"
+hash = "78ea8f9f3e261b0ec8e073d7ce72a97eb926b723f0150d54a698f57cca03146d"
+metafile = true
+
+[[files]]
+file = "mods/create-relics-plus.pw.toml"
+hash = "36bdc0e6273b291e1d59fa4ee44297f3998902d7d45bb0c3206888fa978020fc"
+metafile = true
+
+[[files]]
+file = "mods/create-smart-bounds.pw.toml"
+hash = "d4ddad45db3b86068f568751edf773509a502254a700eeae2482eae333b2602f"
+metafile = true
+
+[[files]]
+file = "mods/create-sophisticated-backpacks-compat.pw.toml"
+hash = "a50692f04bb8ee67526ef34a862be18ac01dd9464d290c98eb3970a67c0a0878"
+metafile = true
+
+[[files]]
+file = "mods/create-steam-n-rails-1.21.1.pw.toml"
+hash = "bd3a743197af4a0daff2a3b825a5d66434ab67548c66662869c0fc9caa1cab73"
+metafile = true
+
+[[files]]
+file = "mods/create-stuff-additions.pw.toml"
+hash = "0f26ee4ce690c2dcbffd77c75698327bf3faafdc22c2642f5a8e64d6e41f32f5"
+metafile = true
+
+[[files]]
+file = "mods/create-transmission!.pw.toml"
+hash = "17415edad769dbfe0c128071de5bb9298bb68a1e5cb0b625caa546edaf51ed33"
+metafile = true
+
+[[files]]
+file = "mods/create-ultimate-factory.pw.toml"
+hash = "87319163b16d8942936fac890f6569a2c942e7de9a9a248e3a837098ae21f6b1"
+metafile = true
+
+[[files]]
+file = "mods/create.pw.toml"
+hash = "d54c45b486976c4c6ffb74197f2f1f8d37130ab4208db229969b6397517e40e7"
+metafile = true
+
+[[files]]
+file = "mods/create_factory_logistics.pw.toml"
+hash = "eb99c18f0a20c2978a88b5c01027c0369639af0feaf3f8a141d96b53b36be1ea"
+metafile = true
+
+[[files]]
+file = "mods/createaddition.pw.toml"
+hash = "1684a3003721be5f8b2f1748ed1a4246f63f6bcb00aaba43ad72be6383ab5597"
+metafile = true
+
+[[files]]
+file = "mods/createbetterfps.pw.toml"
+hash = "5b6c4f7b0489be39e71936a234eb5b286f78bc82eaf4e32f6c4ad441f048dfa8"
+metafile = true
+
+[[files]]
+file = "mods/createlazytick.pw.toml"
+hash = "be2ebf9e0b85708276e65a06b37f3ad70aba2bb927564a8c510f89af224428e5"
+metafile = true
+
+[[files]]
+file = "mods/creativecore.pw.toml"
+hash = "b7f8730b3d1910ba4620059a2ac76e09a80afcd593f2323f477b4bab436fc895"
+metafile = true
+
+[[files]]
+file = "mods/creeper-overhaul.pw.toml"
+hash = "56c0fa256f94156b487c14daa0a287fe1c0bf67e4004027af12b1b64fcb75528"
+metafile = true
+
+[[files]]
+file = "mods/cristel-lib.pw.toml"
+hash = "1d55a269b58e683cc53affa178c6d950822cef4d37a70abc69405ce901c3c041"
+metafile = true
+
+[[files]]
+file = "mods/critters-and-companions.pw.toml"
+hash = "b6016cdcd9cb5aa75a8550a18ec5aab810ec6f405dff7684bb67ec62458654e3"
+metafile = true
+
+[[files]]
+file = "mods/critters-n-crawlers.pw.toml"
+hash = "75319b8f266dd0c74332c733b309a759b97a06cf0d44a0c2303d72ac0e1ad2f8"
+metafile = true
+
+[[files]]
+file = "mods/cult-of-azazel.pw.toml"
+hash = "f6096860b7f233b2432a0513254d7f45d0ef125d12e7484ce668126e8137e5e2"
+metafile = true
+
+[[files]]
+file = "mods/cupboard.pw.toml"
+hash = "f1be4e3c8da4f97a6c368ed52dccad33cd38f48827c6995c9b33e0908cb76866"
+metafile = true
+
+[[files]]
+file = "mods/curios.pw.toml"
+hash = "39074dc93296139f29b081165b7b6e3d235b6b185e62a29b809a652a8e07381f"
+metafile = true
+
+[[files]]
+file = "mods/cut-through.pw.toml"
+hash = "08776b30132030bf7de798d993952a3af51248de1e32097939dd13e59e891473"
+metafile = true
+
+[[files]]
+file = "mods/damagenumbers.pw.toml"
+hash = "e512022529d4646ed6f13f07efe6aad75d93bd6a54c3fc156a46d6df0df116a2"
+metafile = true
+
+[[files]]
+file = "mods/data-anchor.pw.toml"
+hash = "da2e7304680251f318b81623925d02a2af186177fc93beff61d9f87bf8a26717"
+metafile = true
+
+[[files]]
+file = "mods/data-essence.pw.toml"
+hash = "dfa6346d541fb344709b9aabc282fac102341d8ea75ea893016927f28cacbd24"
+metafile = true
+
+[[files]]
+file = "mods/databank.pw.toml"
+hash = "da38b5fede3200bdd8373694411cd7319e4c71dc10c405577b47ce94e5d0baeb"
+metafile = true
+
+[[files]]
+file = "mods/deeperdarker.pw.toml"
+hash = "4472be9b3311f1d7e723ead039fd82bfba4ae4d3b05ddae8b8be37843ef61ad7"
+metafile = true
+
+[[files]]
+file = "mods/delight-lib.pw.toml"
+hash = "b5fb2c31bba24112ca07b41a8a925de4321e75ea00ae767f3e6f7f87b127139d"
+metafile = true
+
+[[files]]
+file = "mods/delightful-buddycards.pw.toml"
+hash = "2edf5d7bbcb12871e7b98cdab47f9cd6e1ec717ce4222d76309a5a76dc607b12"
+metafile = true
+
+[[files]]
+file = "mods/delightful-fares.pw.toml"
+hash = "8c5d9811e64114a5834032929d1f83deab82aafd49cafd52d6426919352d5d20"
+metafile = true
+
+[[files]]
+file = "mods/distanthorizons.pw.toml"
+hash = "87e9637f02d5660fde865376c1928ce66cdfdd2fd9a252e973c7343c6701988f"
+metafile = true
+
+[[files]]
+file = "mods/dnejei.pw.toml"
+hash = "a83297388e0f04cd59445bef68aa75de31cbf21b24eed5cdc2daa9cd6d7783b3"
+metafile = true
+
+[[files]]
+file = "mods/doggy-talents-next.pw.toml"
+hash = "7f598f0a9e45669a58f5627d138fd7bd360329439a6979bcf0d05f059ac02ba7"
+metafile = true
+
+[[files]]
+file = "mods/domum-ornamentum.pw.toml"
+hash = "0abb5580dc038f544dc3ceaffa0a130ab00b02b158fc97c22f525bf970bf0a44"
+metafile = true
+
+[[files]]
+file = "mods/dynamic-fps.pw.toml"
+hash = "be7a7349694e9910ac894d9570fc67bfcd52b5fb96189faf76c4c66f02fa37cd"
+metafile = true
+
+[[files]]
+file = "mods/dynamic-village.pw.toml"
+hash = "f2e1454a39a9a13e27bf8ab3ccb438c318943bd877fecab2a636759a8d1be354"
+metafile = true
+
+[[files]]
+file = "mods/elytra-slot.pw.toml"
+hash = "afd2a4ca2e14b561056f8775de6b1ed83baed2548ab0bd35b2a3d780ad18056f"
+metafile = true
+
+[[files]]
+file = "mods/enchantlib.pw.toml"
+hash = "3a3da6ccb86632b9d7ab11b8f9707f31bf701a4fba1585d19c5176ab668c2eeb"
+metafile = true
+
+[[files]]
+file = "mods/enchantment-descriptions.pw.toml"
+hash = "c53809349000dcf7db45310b055b34a7dbcb96fc41c2899188303d202c184cd0"
+metafile = true
+
+[[files]]
+file = "mods/entity-model-features.pw.toml"
+hash = "317ef04b99c033590f222172ea3caaa65d8fe857b59d8b65f22cc6b24b0d894a"
+metafile = true
+
+[[files]]
+file = "mods/entityculling.pw.toml"
+hash = "046e7a431340b387dcf11a380a4543bbb18710fe628ad824abe22d40ab50b79e"
+metafile = true
+
+[[files]]
+file = "mods/entitytexturefeatures.pw.toml"
+hash = "1a48308f626c4bc152872d0e7242f5c7c2b4ae373895c9812fd858624e7d3912"
+metafile = true
+
+[[files]]
+file = "mods/eternal-starlight-delight.pw.toml"
+hash = "6162b8f70e31682a0c62f12dfe686d05776f96970b6dbfee799663567e4df6c4"
+metafile = true
+
+[[files]]
+file = "mods/eternal-starlight.pw.toml"
+hash = "dc9c1c56c1db870ebd5b182809bf3b721a09290889cc21d4fa1bab40077b1061"
+metafile = true
+
+[[files]]
+file = "mods/euphoria-patches.pw.toml"
+hash = "8c28fca715a3dfa2ced699d67718a4c9c83ad4412b569ed8e1006671f484f710"
+metafile = true
+
+[[files]]
+file = "mods/exclusions-lib.pw.toml"
+hash = "47e4a97696cce8c6bd46def1cbab3688d2c0a4475b7af73876d00d1ab7d05bf2"
+metafile = true
+
+[[files]]
+file = "mods/explorers-compass.pw.toml"
+hash = "ed4af284fd883977ead77f38d9cefc7a563ab5c7ebba5a52a5dbcd7d59829c62"
+metafile = true
+
+[[files]]
+file = "mods/explorify.pw.toml"
+hash = "0aeff91a45a777823a244bb39aa82f23b4ec681798e479bc351318e26db4490a"
+metafile = true
+
+[[files]]
+file = "mods/fallingleavesforge.pw.toml"
+hash = "ddf64aedd278a93c2a84d4c67dffec2198b12495c65084de4abdaa1db76c4322"
+metafile = true
+
+[[files]]
+file = "mods/farmers-cutting-eternal-starlight.pw.toml"
+hash = "b7a380e7221eee8ad3587a7edba831ce61c8d0ea0cf7b857607cfa29a9103b68"
+metafile = true
+
+[[files]]
+file = "mods/farmers-delight.pw.toml"
+hash = "c849ac5eecdcae4dbc5ac263d917b16fb6e43f4bee41e11b8633ded75a957522"
+metafile = true
+
+[[files]]
+file = "mods/fast-paintings.pw.toml"
+hash = "2a2b0a4bf77bbe6f1156be05fe2059ffdab683711178f0209d2aba7d4f48c149"
+metafile = true
+
+[[files]]
+file = "mods/ferrite-core.pw.toml"
+hash = "36f48fcf3565488130a3fb2417688cce6b77461c9beec468be43c9deea5519d3"
+metafile = true
+
+[[files]]
+file = "mods/forbidden-arcanus.pw.toml"
+hash = "bfad2836533413bb7644a597ace6ea107171ca4d459ad02a25f7a5017976bf9e"
+metafile = true
+
+[[files]]
+file = "mods/fragmentum.pw.toml"
+hash = "184351279a60592f72290ddfe09cff5879d874d509acb247e2c50822c9000e60"
+metafile = true
+
+[[files]]
+file = "mods/ftb-library-forge.pw.toml"
+hash = "e4d9252217aa87cccc69ea8b60b6036c828b038240eeec85ebee7716621dcce5"
+metafile = true
+
+[[files]]
+file = "mods/ftb-quests-forge.pw.toml"
+hash = "7ed632ba22e90f99011e6a27755c15e3018df2a6215364a5df5ced7b1dda769d"
+metafile = true
+
+[[files]]
+file = "mods/ftb-teams-forge.pw.toml"
+hash = "cd1bb0ea09e5ae27f0c29f460ea5ec41e327298a256dd00a7fd2f002f2c40bfe"
+metafile = true
+
+[[files]]
+file = "mods/functional-storage.pw.toml"
+hash = "39083f7c4f3adadd57aa60895753e43f84d5d1f16aa2a829a980285345d96f40"
+metafile = true
+
+[[files]]
+file = "mods/fusion-connected-textures.pw.toml"
+hash = "8642a4114287a00f6abee4451c28c7e3f3cf2f55c888399210220fe1e42dc490"
+metafile = true
+
+[[files]]
+file = "mods/fwa.pw.toml"
+hash = "475c9a1a5d22941c02e510cf9d0c9dada7bf4ffe9e3d5fd57b7a01d8885ced51"
+metafile = true
+
+[[files]]
+file = "mods/fzzy-config.pw.toml"
+hash = "320810701022098a72aec7b907adba156bd2615aeb0c30576d7f46c1abe0325c"
+metafile = true
+
+[[files]]
+file = "mods/geckolib.pw.toml"
+hash = "7b394aa3e05b8d4e45b60a6a9883b192e3bbfca61cf95e7135d7d891438e3a6f"
+metafile = true
+
+[[files]]
+file = "mods/gravestone-mod.pw.toml"
+hash = "6e86c0ec377d6e8a7a3f970bd1f36af1521eb4157aaff0512852d44164cbdcdb"
+metafile = true
+
+[[files]]
+file = "mods/gravestone-x-curios-api-compat.pw.toml"
+hash = "3d16e889d98574cb18b4fe67b55122151ca4b08e486a79e3b95f8c7b0ef5c94f"
+metafile = true
+
+[[files]]
+file = "mods/guideme.pw.toml"
+hash = "4acc3f88a1c02b7198a49002cb1eebf96b057f0f848feba302db77bc26b28653"
+metafile = true
+
+[[files]]
+file = "mods/handcrafted.pw.toml"
+hash = "d4699836c7d65541ad60d61fd90777796b85b2fe046a7673357b6a8ff14e7cb9"
+metafile = true
+
+[[files]]
+file = "mods/hexerei.pw.toml"
+hash = "8782e98e1901abb1607316cf22a6d3ef6419871bf29a8a56a0896ede9b80ed18"
+metafile = true
+
+[[files]]
+file = "mods/hybrid-beta.pw.toml"
+hash = "76b557cd793635849c790e0be9558bb4db4bbbc2da7f0df0cfcae95c50ad37b2"
+metafile = true
+
+[[files]]
+file = "mods/iceberg.pw.toml"
+hash = "a53d7930b5f1b2b97c975f89f5ac554f06eb1acc844c3776067221234f1959f5"
+metafile = true
+
+[[files]]
+file = "mods/immediatelyfast.pw.toml"
+hash = "defb2eb8b47f7e6801798a3002c72dccbf6b5734e258dbbcf669b249266ec9ea"
+metafile = true
+
+[[files]]
+file = "mods/immersive-lanterns-(unofficial-patch.pw.toml"
+hash = "df4618703e50e67bf129f7d17338fbac364f222cd01c816ec36374ac509085e1"
+metafile = true
+
+[[files]]
+file = "mods/in-control.pw.toml"
+hash = "48b80deeab986c0984d93497382ed3e264a7351191a65b3395873e95667f82f1"
+metafile = true
+
+[[files]]
+file = "mods/incendium.pw.toml"
+hash = "e443a1a9c9ce94cab4fa341011234f2bd4d8439ca420192cd80a95aeace026f0"
+metafile = true
+
+[[files]]
+file = "mods/inventory-essentials.pw.toml"
+hash = "e8ee57405511750bc4ead5dd86945d5f139437daf94e24b25fefe6167da7d01e"
+metafile = true
+
+[[files]]
+file = "mods/iris-flw-compat.pw.toml"
+hash = "8d540245c37b7a060a30b2c2ba5ca4f1ffc614463062709983aad4b118fcae67"
+metafile = true
+
+[[files]]
+file = "mods/iris.pw.toml"
+hash = "0220ef950f1daaddcae8e8904a0acaac6b091a2fd05258bd7827eadda8741807"
+metafile = true
+
+[[files]]
+file = "mods/item-descriptions.pw.toml"
+hash = "998614e458cc0bb2101394771bf2e959c2fa66ef0d7c5c8640ed65630fd5241b"
+metafile = true
+
+[[files]]
+file = "mods/jade.pw.toml"
+hash = "6a3548983cc982c22badd9b7976b592ac354920b1772ab7361ed879ae51f1fef"
+metafile = true
+
+[[files]]
+file = "mods/jamlib.pw.toml"
+hash = "8bb12baaeab86c2cbaf8f09455eeaa4b9b7bc608e55129e8a8d1742ae32c49a0"
+metafile = true
+
+[[files]]
+file = "mods/jea.pw.toml"
+hash = "df6c646459b9662bc99524e3822311513bc5047a27248b782b2df71b5f3ca4d7"
+metafile = true
+
+[[files]]
+file = "mods/jei.pw.toml"
+hash = "457124aca734eff085c0c3a2f7046b474c605d282af18c8b4dede7c69f19e33b"
+metafile = true
+
+[[files]]
+file = "mods/jump-over-fences.pw.toml"
+hash = "fe84bd02e217a65fe9b9d67995c0be9db17903b653ff1f9bf9a39767cb02fa82"
+metafile = true
+
+[[files]]
+file = "mods/just-enough-professions-jep.pw.toml"
+hash = "ad83f3f9258842e79160ba550d2377f947d7630183eef2fec0ef499f143c2641"
+metafile = true
+
+[[files]]
+file = "mods/just-enough-spirits.pw.toml"
+hash = "881fa56ca53b6ca677138d68d6b12fd2d24a8c3184e0281e94e65a54fa5bc4a7"
+metafile = true
+
+[[files]]
+file = "mods/keybind-bundles.pw.toml"
+hash = "0e254cf62549d2fd44a2ff122b028e89adb3563d51d730a7aaa31b34fd32f880"
+metafile = true
+
+[[files]]
+file = "mods/knight-lib.pw.toml"
+hash = "0cde4c1dbab79cae3a9c2166301287e32c80ce5afd18071ad1c17486ffaa8b00"
+metafile = true
+
+[[files]]
+file = "mods/konkrete.pw.toml"
+hash = "6aa0befe61ce6eb033271ed92b0e89350bbaa61b74f6df7c4c59d1f64cb0e3e2"
+metafile = true
+
+[[files]]
+file = "mods/kotlin-for-forge.pw.toml"
+hash = "712a69b3569a8055979de6eea262068535fe182dffb3833e53e5833e9cbf9766"
+metafile = true
+
+[[files]]
+file = "mods/kotlin-lang-forge.pw.toml"
+hash = "f4cbb731a0b7d4ce6ef462180581474aea9a6651ca55e2d74c14af37fc263675"
+metafile = true
+
+[[files]]
+file = "mods/kubejs-create.pw.toml"
+hash = "d263f7e130dd89086ca6b9087688da938c84a15a0cb17a7b7627aecb5b288fb5"
+metafile = true
+
+[[files]]
+file = "mods/kubejs.pw.toml"
+hash = "7cc5ae70c7b5853b0550ffb9e74470d6453628c3455a39a057954f89e58d25b1"
+metafile = true
+
+[[files]]
+file = "mods/l_enders-cataclysm-delight.pw.toml"
+hash = "ef6ca73b1fb5d11fad8314504a5dadd9069916a1adbf138e4cd0264b08516755"
+metafile = true
+
+[[files]]
+file = "mods/l_enders-cataclysm.pw.toml"
+hash = "bd72e04eb8edf51618c00946f3e250cfe0bb467a0fecfb32c6c145d7710ed0e3"
+metafile = true
+
+[[files]]
+file = "mods/lambdynamiclights.pw.toml"
+hash = "8623111cb270bf8f5dfd85d0743e0f7cb6301dcfe957e697539d7b664330ab39"
+metafile = true
+
+[[files]]
+file = "mods/leaves-be-gone.pw.toml"
+hash = "c2b6777f924c81e404c369995044d29cdaa9059d679de34a1d7d2b77c8e7c0c8"
+metafile = true
+
+[[files]]
+file = "mods/libx.pw.toml"
+hash = "e9f8594f48d9dcd4ac120104612dd4adc7623a2d7efc4844a8b3afd3a0ae11da"
+metafile = true
+
+[[files]]
+file = "mods/lionfish-api.pw.toml"
+hash = "06f518676353909e93793a72cc7663027acdc5e808c34e48d5fa85e8e10f908b"
+metafile = true
+
+[[files]]
+file = "mods/lithium.pw.toml"
+hash = "7a5df528ac1fec3b7d43a0f756e53bdd6447a2f04e49763e8ad9ad96e0b022c3"
+metafile = true
+
+[[files]]
+file = "mods/lithostitched.pw.toml"
+hash = "e1aae3cf364bf9bf20f3014457e18f2afec2f834cce749f9ae274a494882cf9e"
+metafile = true
+
+[[files]]
+file = "mods/lmd.pw.toml"
+hash = "46033479dd4222902f9ac93f93b4900dfef72586b0b70bc1f2b87826d395e95e"
+metafile = true
+
+[[files]]
+file = "mods/lodestonelib.pw.toml"
+hash = "2e86d4af333230206a69072542f6ed99bba9b3fc81628f17a60352a713941164"
+metafile = true
+
+[[files]]
+file = "mods/loot-integrations-better-archeology.pw.toml"
+hash = "309b8422c27d446e446a3764e8925d07f1aaddb2ffe7d8a0b5b74cc1b2ee7670"
+metafile = true
+
+[[files]]
+file = "mods/loot-integrations-born-in-chaos.pw.toml"
+hash = "94034f3b92bad900d873e2532818098c2fad44296c6a74f219f5bb47711aa95a"
+metafile = true
+
+[[files]]
+file = "mods/loot-integrations-bygone-nether-it-takes-a-pillage.pw.toml"
+hash = "4b013c038710435dab2f5b8b75fded065ba4aec8a44877ca41e24cffcd6dfd34"
+metafile = true
+
+[[files]]
+file = "mods/loot-integrations-cataclysm.pw.toml"
+hash = "5859d70330510036ef8685a97ff474bb0c4f39ed03ba0660ceffe900c514c53b"
+metafile = true
+
+[[files]]
+file = "mods/loot-integrations-choicetheorems-overhauled.pw.toml"
+hash = "11f70cf15065474f0972c6827f722ebbdbaf8e0ab7445672ea5ad4a49133328e"
+metafile = true
+
+[[files]]
+file = "mods/loot-integrations-dungeons-and-taverns.pw.toml"
+hash = "70bffd90bd8303b24a939cf3fc7021ce12eb49dd82d40d44f4d3abfe365e6c6f"
+metafile = true
+
+[[files]]
+file = "mods/loot-integrations-hopo-better-mineshaft-ruins.pw.toml"
+hash = "899ad145903913b597e402f49c1ddb2213a8c9faa15922dfed7458cc7f7c9c86"
+metafile = true
+
+[[files]]
+file = "mods/loot-integrations-mo-structures.pw.toml"
+hash = "cb8fe198b9ff20d89f139ef8d0de81dfc79f04f9807a47c5b4f827a4d7498f23"
+metafile = true
+
+[[files]]
+file = "mods/loot-integrations-moogs-voyager-soaring-end-nether.pw.toml"
+hash = "82f6cd068b22462dc215b6c25240170d36522f5db10741401b476c17a10af53c"
+metafile = true
+
+[[files]]
+file = "mods/loot-integrations-structory-towers.pw.toml"
+hash = "67993b2854b999bc2f8c31089558b925c425be79d55912de62fe41aa2741f930"
+metafile = true
+
+[[files]]
+file = "mods/loot-integrations-towns-and-towers.pw.toml"
+hash = "e8b49b56bfe4ad8ea273f5267bccfbc61cfa6e58f3d2f1bc4df1b3bed7c32d2a"
+metafile = true
+
+[[files]]
+file = "mods/loot-integrations-when-dungeons-arise.pw.toml"
+hash = "217efda9980c85bfce5668cdf52c6cc13f07ca3416c1fc7d9791000c0ab8f7a4"
+metafile = true
+
+[[files]]
+file = "mods/loot-integrations.pw.toml"
+hash = "0076405f44d59a86951515bd5e48e145827d730529958aee589812984a11b36b"
+metafile = true
+
+[[files]]
+file = "mods/lootjs.pw.toml"
+hash = "1117905af6ab0e2a3740c363a6f8735cbdd455f131f99f5822c1c0659af4851e"
+metafile = true
+
+[[files]]
+file = "mods/lootr.pw.toml"
+hash = "a56567c6387a0b2fb1ab288333e6d656bb82855128d246f244b907dd970d8e23"
+metafile = true
+
+[[files]]
+file = "mods/malum.pw.toml"
+hash = "96435d62b2a855c166c91a5fd522d6b975b91ba40bec859a14a5ab04e63722e4"
+metafile = true
+
+[[files]]
+file = "mods/mc-trade-post.pw.toml"
+hash = "de1538c5e007881a0f33198742b6c511baf9158375336bb18e6dd592518dfdda"
+metafile = true
+
+[[files]]
+file = "mods/melody.pw.toml"
+hash = "7d59520e3a0ab82f8e844ab43c840abc77be57773772d7df12c99367f533ce64"
+metafile = true
+
+[[files]]
+file = "mods/mes-moogs-end-structures.pw.toml"
+hash = "3cd0075ef9aaa19adb91b0bedcb71d8de6439648ef51f050ff5c9c5fddd68590"
+metafile = true
+
+[[files]]
+file = "mods/midnightlib.pw.toml"
+hash = "7d655b6f8b2ac61562a611b8fc290ae290c60b97379ecf5512c509b8adab94af"
+metafile = true
+
+[[files]]
+file = "mods/minecolonies-compatibility.pw.toml"
+hash = "f218e5caf7617f1d5ec19749f58d956af8191d08e55cb4aa582cd121bb2f8495"
+metafile = true
+
+[[files]]
+file = "mods/minecolonies-tweaks.pw.toml"
+hash = "487914b27502a8f24083915534f9269adb977febcbc8986b80bf5d290b8298cb"
+metafile = true
+
+[[files]]
+file = "mods/minecolonies.pw.toml"
+hash = "62704f5574755530bbe7273cda2096d5e50c33823c705b97dc13bb7683be1616"
+metafile = true
+
+[[files]]
+file = "mods/miners-delight.pw.toml"
+hash = "a5c4e89bf05aa543321d2085af98a16856cf12b8aaa2bbc3ed9525241dc25c50"
+metafile = true
+
+[[files]]
+file = "mods/mmv-moogs-missing-villages.pw.toml"
+hash = "5cc5c0ae11152c28740e7b03ed12ca85991b0ebccfe0b20786d250918b4fa904"
+metafile = true
+
+[[files]]
+file = "mods/modernfix.pw.toml"
+hash = "c51fc43b27fc299bf445ffc61eb9702fb4759b38fc023ee0a4d67da4a6c183ec"
+metafile = true
+
+[[files]]
+file = "mods/modonomicon.pw.toml"
+hash = "3937faca8383bf5a0c0f08dfa230c29fcd2824ec851b3d6a968b94ebeceb7d8e"
+metafile = true
+
+[[files]]
+file = "mods/moogs-glow-up.pw.toml"
+hash = "2144494bdbb92e2addae3b34815bed6e758f7a691a2210b25e3e0fab7db2f481"
+metafile = true
+
+[[files]]
+file = "mods/moogs-structure-lib.pw.toml"
+hash = "1ffdcd481c4d19ce6a02c390186f3d0508a1bd76775d29d0c748e61e4d305a61"
+metafile = true
+
+[[files]]
+file = "mods/moogs-voyager-structures.pw.toml"
+hash = "b6b4936f7b86b91bb5de0c83da71e6d9ad1503004a15bfa7fcda3937daea5455"
+metafile = true
+
+[[files]]
+file = "mods/moonlight.pw.toml"
+hash = "def7d623ac7f698721d9e0859ef3790994066bce7bbadb748c76734a4dabaf67"
+metafile = true
+
+[[files]]
+file = "mods/more-delight.pw.toml"
+hash = "6cb527d5a51304fa784aec1d14ceb5ed948d7dce2e5f0234618be69c35bcb780"
+metafile = true
+
+[[files]]
+file = "mods/mouse-tweaks.pw.toml"
+hash = "7d32a097b18f9af470519fde4d16b3b8dd52ed6cf2c4bfabef224fb75187c822"
+metafile = true
+
+[[files]]
+file = "mods/mowzies-mobs.pw.toml"
+hash = "57cd8b7cf3697d85dba464590f7b0daa5f65f3328b3e3c485223e7c1fdf4dcce"
+metafile = true
+
+[[files]]
+file = "mods/mru.pw.toml"
+hash = "3a803f27bd5b8c91a02dea6ffa8f5e233dc3b48159d6b00f4027ccaa5795cf0e"
+metafile = true
+
+[[files]]
+file = "mods/mss-moogs-soaring-structures.pw.toml"
+hash = "54bf5c4782ca1f00d46e54d3f7bd5c0adc09f75e50fd8bd4a99a79f18ec81878"
+metafile = true
+
+[[files]]
+file = "mods/mtr-moogs-temples-reimagined.pw.toml"
+hash = "d4a49f713a8a5ffe5514987aaa5dd4c75e532a65b43fabcdcb2c36f73bf214af"
+metafile = true
+
+[[files]]
+file = "mods/multi-piston.pw.toml"
+hash = "27f713ba7e7c723845563b121c3a09263940d21ec4e8fa436181a137b834be97"
+metafile = true
+
+[[files]]
+file = "mods/mvsi-moogs-voyager-structures-integrated.pw.toml"
+hash = "97907c0553e15792fee35dbf09dfa49c645b3d33c0f9eca4026378f4e957e897"
+metafile = true
+
+[[files]]
+file = "mods/my-nethers-delight.pw.toml"
+hash = "47526162d08732e39827961da08c14a04fbc746995368cc885768b2933d7b600"
+metafile = true
+
+[[files]]
+file = "mods/natures-compass.pw.toml"
+hash = "69e811e7f92b6266a0c9b748504528d5e71a742e5241018b8cf059592e74fa7d"
+metafile = true
+
+[[files]]
+file = "mods/netherportalfix.pw.toml"
+hash = "9c7ec9729fc88332922d3c1e2210c36d1af0ed5c370ca68eaf87330fbd8ef954"
+metafile = true
+
+[[files]]
+file = "mods/nexuslib.pw.toml"
+hash = "38152533934adbe3ef5e9c6481c3092345b9016d21e523359eb7eb6760f787bc"
+metafile = true
+
+[[files]]
+file = "mods/no-chat-reports.pw.toml"
+hash = "38b151f3a919dd52bf0cd98d0ea768243c23335f2ac6e312c12bc0ae837a2af5"
+metafile = true
+
+[[files]]
+file = "mods/ntgl.pw.toml"
+hash = "dbdfb313d5cb21888a328d8c5723161603e609acdbed99d182059219bccdec3e"
+metafile = true
+
+[[files]]
+file = "mods/nullscape.pw.toml"
+hash = "0158ae8d412313bd91f5a237cc2b2987c88dba0f90fdeba4c64d5af957e55377"
+metafile = true
+
+[[files]]
+file = "mods/oceans-delight.pw.toml"
+hash = "31b937d691d4aa2b2810dbfb0a3e59237c930612de0c9e523a6f03c3fb009cce"
+metafile = true
+
+[[files]]
+file = "mods/overflowing-bars.pw.toml"
+hash = "1cc4602178d3f85abf7e88136023830cf0397167feacfabb9858f6bef8f0b5f5"
+metafile = true
+
+[[files]]
+file = "mods/owo-lib.pw.toml"
+hash = "31730604cea5aa105ec8a9180357abaf9f5d3a9e102a054dbf2bf583eccf4a17"
+metafile = true
+
+[[files]]
+file = "mods/particle-effects.pw.toml"
+hash = "810458eddfd8aa978fb3931ca244d2299b92ef284dc3990a5ea3a17baa6d729d"
+metafile = true
+
+[[files]]
+file = "mods/particular-reforged.pw.toml"
+hash = "ee77f1e5950ba3bb290cdbdcd84f257cf783f213d1d6147aaa9e7a8839836220"
+metafile = true
+
+[[files]]
+file = "mods/pastel.pw.toml"
+hash = "73400febb75632bd04c5576313b2805644745c046f7fccb65cc20e78d85c5098"
+metafile = true
+
+[[files]]
+file = "mods/pasteljei.pw.toml"
+hash = "bd065e08f00402c91732adcab492804d611c5442294bbc23d275719416f67798"
+metafile = true
+
+[[files]]
+file = "mods/patchouli.pw.toml"
+hash = "d78de81e44a119bf740afa0bb706635c1dffe690a632c7349e2d2697a5566e9c"
+metafile = true
+
+[[files]]
+file = "mods/pick-up-notifier.pw.toml"
+hash = "6fe21fb18ad3aa200a0261ba1e52b51c1bc76124b8ceda22e16107ebd04773f6"
+metafile = true
+
+[[files]]
+file = "mods/placebo.pw.toml"
+hash = "88c4b367bdf0a421d4dc1de802337f8db350b0f2df35881bfdd6e4a8d56e5622"
+metafile = true
+
+[[files]]
+file = "mods/platform.pw.toml"
+hash = "f80c582b6bfdd11d437059a59976c0c3afda95bbe6cc20a1564e29c9c0f5cb46"
+metafile = true
+
+[[files]]
+file = "mods/playeranimator.pw.toml"
+hash = "1f4af0a0979005da848569d5b3f888d97d85ff38f0b9fb4e39c80ace9bd5ca6c"
+metafile = true
+
+[[files]]
+file = "mods/plushie-buddies.pw.toml"
+hash = "ee13dfb45f3cca696946519eb9bb531c93e813b0efac68f8298854865904cf52"
+metafile = true
+
+[[files]]
+file = "mods/polymorph.pw.toml"
+hash = "5af08b37df242774d7cdbf73a739e79ad3acab8b3095910446f73743b24520b4"
+metafile = true
+
+[[files]]
+file = "mods/power-grid.pw.toml"
+hash = "39b08c486ac6aeae13e1d364c16d5286f2434259478d21ee0990d40bce52036b"
+metafile = true
+
+[[files]]
+file = "mods/prickle.pw.toml"
+hash = "4930361828dbdbb889e87900c50730c9e1fca24d59a5cf22a4f8ff24a268eba0"
+metafile = true
+
+[[files]]
+file = "mods/prism-lib.pw.toml"
+hash = "e26f1f599b68e12fd59d47a6921ccdf03aa4cfbc4844dbe066cb3cbe3180ea63"
+metafile = true
+
+[[files]]
+file = "mods/probejs.pw.toml"
+hash = "f07c996b06866bf0b60c69dd7747fb14f498f580acce7b3f5a0a6a3cadf85a35"
+metafile = true
+
+[[files]]
+file = "mods/productivebees.pw.toml"
+hash = "d2dd60fcab4423ba81ae103f8f0568f7aaf4eb408023c154df76cd494ef0349a"
+metafile = true
+
+[[files]]
+file = "mods/puzzles-lib.pw.toml"
+hash = "1dfd8edb2bc1e383bd7010a8d8897f1099bbb9ff3f2cf46f79908af478d4dd37"
+metafile = true
+
+[[files]]
+file = "mods/quark.pw.toml"
+hash = "eea47f681da0a985577a220b899650b98a89be56d5271c6c874ff691e80a365b"
+metafile = true
+
+[[files]]
+file = "mods/reeses-sodium-options.pw.toml"
+hash = "2e103f5962067b991acb236e9561e3769148f4d60062a749de2d8c5693606b87"
+metafile = true
+
+[[files]]
+file = "mods/regions-unexplored.pw.toml"
+hash = "478d418b36020ed3649b792bbc658c2d9b78debc9e1baa18c9fed86ffc0b9c93"
+metafile = true
+
+[[files]]
+file = "mods/relics-mod.pw.toml"
+hash = "67236c593a04edb9ef6b0b283a3f27f2b57e032e43a0664d6c46544445684d54"
+metafile = true
+
+[[files]]
+file = "mods/resource-pack-overrides.pw.toml"
+hash = "ade9ae321daad3a41f6590f7df1efb4a9aca4e7bcc31da5da623b94e228e19f8"
+metafile = true
+
+[[files]]
+file = "mods/resourceful-config.pw.toml"
+hash = "cc643c404f5ae0617374e13e653156f1740393c632b299047b3073754cbfa892"
+metafile = true
+
+[[files]]
+file = "mods/resourceful-lib.pw.toml"
+hash = "3205bd94cab821a70ccd07d9cc2b13df031ef41f4d6e2baa530433faa260d5cb"
+metafile = true
+
+[[files]]
+file = "mods/resourcify.pw.toml"
+hash = "b2e5137e4b2b398f73162503a7b0221401f1afb80a3642e95609d81407fc9ed2"
+metafile = true
+
+[[files]]
+file = "mods/revelationary.pw.toml"
+hash = "b1520eb9ebe83996d91e100372f9717a8b944e3920faab6006be68a202671206"
+metafile = true
+
+[[files]]
+file = "mods/rhino.pw.toml"
+hash = "737e180c55f62915ee3761fdeb5e62c7917c1ce142d957c0509521f46a5f4c85"
+metafile = true
+
+[[files]]
+file = "mods/rustic-delight.pw.toml"
+hash = "47b236227aaf55c33578b8c8a8d448edf2709b00065076b8329f512fcaf973ac"
+metafile = true
+
+[[files]]
+file = "mods/saturn.pw.toml"
+hash = "1408dc0f7a3638a5cc6ac8d28a84ce6d14b4f1dcc3eb43aa10605b61e7f9a9bd"
+metafile = true
+
+[[files]]
+file = "mods/searchables.pw.toml"
+hash = "4fc21e7bac0dfd2d036a41139a80ec546c60881cb99252a86189ad914e2dadd6"
+metafile = true
+
+[[files]]
+file = "mods/shatterbyte-lib.pw.toml"
+hash = "ba8a8ac1bfa36486c89f0c099bb46b26337c79682a75944b1417d28cbd131d1a"
+metafile = true
+
+[[files]]
+file = "mods/slice-and-dice.pw.toml"
+hash = "5c6432b01dfca3eadaaf35fa017f27e305fe0d9f464c737873f42a5b8985c7ae"
+metafile = true
+
+[[files]]
+file = "mods/smallcolonies.pw.toml"
+hash = "96297e4d4542b92bcf7e3be31093ba4c8071c01bb3fdc5a74bf859c3c5965837"
+metafile = true
+
+[[files]]
+file = "mods/sodium-extra.pw.toml"
+hash = "ad6b4033ab7597226ac4f6f8def35f5aea3c9aa287d095a2f72f219c9e93ed68"
+metafile = true
+
+[[files]]
+file = "mods/sodium.pw.toml"
+hash = "df2db3e6aeeab43081106955aee0e7fc8a65a6e01dab91cd459054da97dc7d48"
+metafile = true
+
+[[files]]
+file = "mods/sophisticated-backpacks-create-integration.pw.toml"
+hash = "ff351ec8adf64e9e5e2e8a5b64dd281e90c7724e479f2d264545548445ed9af3"
+metafile = true
+
+[[files]]
+file = "mods/sophisticated-backpacks.pw.toml"
+hash = "96e26ae1dc1f9ded16af653eea935027bf04f393c68ebcbb969b4702131093e1"
+metafile = true
+
+[[files]]
+file = "mods/sophisticated-core.pw.toml"
+hash = "b7e1220cda69425a6f372a3a355dcbd81233180246c1dd44d479576f1b0318df"
+metafile = true
+
+[[files]]
+file = "mods/sophisticated-inventory-interactions.pw.toml"
+hash = "79dc4809d6e1879488b93f88be5e33a935a86711eaaa88ef2c2cdc04e2ee1160"
+metafile = true
+
+[[files]]
+file = "mods/sophisticated-item-actions.pw.toml"
+hash = "7e78fc131d77258bb765e03739bcda9d93a7137051073b395683f4a09dceef7c"
+metafile = true
+
+[[files]]
+file = "mods/sophisticated-jei-index.pw.toml"
+hash = "915d2c3902eb172e12dcd32c56eef534279868be1707e2385043585d6f29412e"
+metafile = true
+
+[[files]]
+file = "mods/sophisticated-storage-create-integration.pw.toml"
+hash = "98ef75d917b38b05eaaf8429e6fa3d72217a7824c721c83a0e09e352305b2ab6"
+metafile = true
+
+[[files]]
+file = "mods/sophisticated-storage-in-motion.pw.toml"
+hash = "dfe2bbb89e69197a45c53dea885855af9e96b481479ea50e09ccbe82e478fd18"
+metafile = true
+
+[[files]]
+file = "mods/sophisticated-storage.pw.toml"
+hash = "211b4249d262e867954131349c6c5501a7fb9dfe89b282642b23524f659ae18f"
+metafile = true
+
+[[files]]
+file = "mods/spark.pw.toml"
+hash = "f6b922752736741e222dead919491a7b59946c7424ac3b87d0ceae3f0144e149"
+metafile = true
+
+[[files]]
+file = "mods/sparkweave.pw.toml"
+hash = "125b0438e40a522501b470f6164c9db4384f8510e8e7f8347b86b13a322ad770"
+metafile = true
+
+[[files]]
+file = "mods/starcatcher.pw.toml"
+hash = "91acc56f15f25f9675314bfe0f9e4a6fd675a17529a27ae6819da315761f1160"
+metafile = true
+
+[[files]]
+file = "mods/starcatchers-delight.pw.toml"
+hash = "2629c83f092630b56372f77bdd4bb61ebca20ce8ee82b2fd3ab9fc8dab487a5e"
+metafile = true
+
+[[files]]
+file = "mods/storage-delight.pw.toml"
+hash = "29f7d2c2e035232d9c99705f8e48726a55c1d5a575ed7e8be491b90f635f51d8"
+metafile = true
+
+[[files]]
+file = "mods/structure-pool-api.pw.toml"
+hash = "04aa8c442fa28e49b7e2383d25328b77ca1f870918e7ec0fea4bdc4624f4449d"
+metafile = true
+
+[[files]]
+file = "mods/structurify.pw.toml"
+hash = "af80aee4feb1db5a31ae7e0598e7bd1b0275db15a27a89f1175513daba0a09fd"
+metafile = true
+
+[[files]]
+file = "mods/structurize.pw.toml"
+hash = "d802b27c2d632f1495ea5c78886078398d6668c1e1aff9484f214578ae6d6da8"
+metafile = true
+
+[[files]]
+file = "mods/stylecolonies.pw.toml"
+hash = "63b9702a7c43ac51127bf4e8409d978ce479448b7fc0ca3cbfde6b78f629f8d2"
+metafile = true
+
+[[files]]
+file = "mods/supermartijn642s-core-lib.pw.toml"
+hash = "adb35116d9d1312466312691ba4cbf27d3ca374d4afb5c8025ec7c5683f428d8"
+metafile = true
+
+[[files]]
+file = "mods/supplementaries.pw.toml"
+hash = "4cdf2748039404a7a7e34ae24b71608f897efe496a6ba8827733cfb3c1803bfa"
+metafile = true
+
+[[files]]
+file = "mods/tidal-towns.pw.toml"
+hash = "cc70f2555d947f667e4335970fbdc765e650b3f8f6dc722006b88a864c9ebca7"
+metafile = true
+
+[[files]]
+file = "mods/titanium.pw.toml"
+hash = "5ae11302385708ab8d2a2b3a8d4e2faebedfd20e36e19230e30af50063428261"
+metafile = true
+
+[[files]]
+file = "mods/torchmaster.pw.toml"
+hash = "2d9a0c7bc06453f4990375a22f3e9e036608ee58549aa89957741b12a13a66e4"
+metafile = true
+
+[[files]]
+file = "mods/towns-and-towers.pw.toml"
+hash = "6758048e29cc05b7cf4b992108f4195ee326de8d33bd529bf32b376a5ef28569"
+metafile = true
+
+[[files]]
+file = "mods/towntalk.pw.toml"
+hash = "42f337e264708dfb0d9b96784de3dda03e26c0318a4625ff62d8605d5b43041c"
+metafile = true
+
+[[files]]
+file = "mods/trailtales-delight.pw.toml"
+hash = "21395cab2b9303639b78781cf3841ad3aa43f429fd05842db29931f1a9a31f8a"
+metafile = true
+
+[[files]]
+file = "mods/trashslot.pw.toml"
+hash = "c352aa6d490484d111b9c52d6eb04ab1855a9a0da2e7740ed00f1b05db51e36b"
+metafile = true
+
+[[files]]
+file = "mods/travelers-titles.pw.toml"
+hash = "4b40e383065f9d19c477adbbc2e6051c6fbdc88da51d82f0e69ad012e0f0fabf"
+metafile = true
+
+[[files]]
+file = "mods/trek.pw.toml"
+hash = "e52213bb5b11d900f8c924737919d9f7d91ee263113c252d6236bec588c29fde"
+metafile = true
+
+[[files]]
+file = "mods/txnilib.pw.toml"
+hash = "acda9a810f62061429ad47a1ed327fb05250df12e7a454fcf28aefd64e5ce284"
+metafile = true
+
+[[files]]
+file = "mods/upgrade-aquatic.pw.toml"
+hash = "b574b80bfd6c9eddf652f7c02af21894287e7a15b7a29ce81ef03fb47e2aea71"
+metafile = true
+
+[[files]]
+file = "mods/valhelsia-core.pw.toml"
+hash = "e02ac468ea809fc09ff21624ca3fbe1b832be25cbd7c7010477579b1cf33d6dd"
+metafile = true
+
+[[files]]
+file = "mods/vanilla-loot-addon-for-loot-integrations.pw.toml"
+hash = "3bc5c76fa07d6e956a8d5d6d6bd549c7a8254bfdb88fb39274c7f4bda4d8fd4f"
+metafile = true
+
+[[files]]
+file = "mods/veinminer-client.pw.toml"
+hash = "486baef17824663a25e71f1f2764bd28f29eda2dbcdb56d35d2f4ec7abca1f91"
+metafile = true
+
+[[files]]
+file = "mods/veinminer.pw.toml"
+hash = "b015bff55f269d5ad576ace1f843dc3d297bda18851cfa81a96ed307f8b8b5f2"
+metafile = true
+
+[[files]]
+file = "mods/via-romana.pw.toml"
+hash = "ab6d646f938e69b2aa70c157521f8fba4a90590eb4a5952c33ed08c878fe55df"
+metafile = true
+
+[[files]]
+file = "mods/villagers-respawn.pw.toml"
+hash = "052b2fa786fbaa16ee0110b6eb5307047b83a5bbc145f35182dc2cb965bd49fd"
+metafile = true
+
+[[files]]
+file = "mods/waystones.pw.toml"
+hash = "a0e43c23f7baaa15f8bb350c29d2a7d151b7cafcfce0b4bddbfdb7c66ba3f592"
+metafile = true
+
+[[files]]
+file = "mods/wits.pw.toml"
+hash = "699a181b4991776081cd63ad71257e4b5514cbce1d077973f96ba22555e772f5"
+metafile = true
+
+[[files]]
+file = "mods/xaeroplus.pw.toml"
+hash = "87d4da5c92d9ec5ccec1d32308f3f3eaf2fa066cc6d58f65120e1d3ab1bfc63c"
+metafile = true
+
+[[files]]
+file = "mods/xaeros-minimap.pw.toml"
+hash = "8dd39691b8403decbfcecdf99318c2dcd383bf9393fbe9d73d6fcc6e7bed5f48"
+metafile = true
+
+[[files]]
+file = "mods/xaeros-world-map.pw.toml"
+hash = "6d696a21f9453ae9be6e0c25fa9be0235eac359a779407601dc560538d8d729e"
+metafile = true
+
+[[files]]
+file = "mods/yacl.pw.toml"
+hash = "2c3c1a470e0aadb71f40f2eade67760b9452b3d6c23e039239aeeded0e72c5ca"
+metafile = true
+
+[[files]]
+file = "mods/yukamis-sophisticated-backpack-tab.pw.toml"
+hash = "2ada67b37540b9fb89362fc101d5936cb152fca6265a1894e82c4889ad3c39b8"
+metafile = true
+
+[[files]]
+file = "mods/yung-structures-addon-for-loot-integrations.pw.toml"
+hash = "fedf1c01fb529ae8e29eb9036f29fd3efa8c09c9316be08960f02f4066dd0aa4"
+metafile = true
+
+[[files]]
+file = "mods/yungs-api.pw.toml"
+hash = "c5dfacbc1ed9f7b9c2aecfeeb0e9a86cbe2ee1191df4ac90bd669ba293fac559"
+metafile = true
+
+[[files]]
+file = "mods/yungs-better-jungle-temples.pw.toml"
+hash = "2f98ba6cefd04507b20f11ac13cb545019166b4a4ab7bd45260cb9bc8d898cb3"
+metafile = true
+
+[[files]]
+file = "mods/yungs-better-mineshafts.pw.toml"
+hash = "5c89af887918c4121500881171b48427d1e28b8b8e0ea1e2fd9a619f47b38134"
+metafile = true
+
+[[files]]
+file = "mods/yungs-better-ocean-monuments.pw.toml"
+hash = "fd0111b12bd3970eb96069076d83e35aec6f78aef2bd1cba584ba74439eb2ee5"
+metafile = true
+
+[[files]]
+file = "mods/zeta.pw.toml"
+hash = "8c8b0b51480caddd63ff459450a5811d9d7900c1c55796d3318b01060864b855"
+metafile = true
+
+[[files]]
+file = "mods/zfastnoise.pw.toml"
+hash = "24eb6789043d62dc1c39553ffc9fea31282dbe7ae74dbc5b6f9415b9c6d40406"
+metafile = true
+
+[[files]]
+file = "moonlight-global-datapacks/synesthesia/data/accessories/accessories/slot/back.json"
+hash = "e54d46134dbccd8fe2f1fd875320a2bc9f849099466440777625b9abcc6ed6a3"
+
+[[files]]
+file = "moonlight-global-datapacks/synesthesia/data/accessories/accessories/slot/charm.json"
+hash = "2fe73908569ce3eb5a5e255809a98123302dd55169e0e000f7d0df8008ca5b85"
+
+[[files]]
+file = "moonlight-global-datapacks/synesthesia/data/accessories/accessories/slot/necklace.json"
+hash = "f405fbef8e1e7cb9174dbd5e4bf42ae76f60e01acb5feaf833b9c4a8f615c098"
+
+[[files]]
+file = "moonlight-global-datapacks/synesthesia/data/accessories/accessories/slot/ring.json"
+hash = "f1c4423ca43a05c5fe967a06cd6aef2d49a5a8358dc218cce7b4186ed362284b"
+
+[[files]]
+file = "moonlight-global-datapacks/synesthesia/data/adorablehamsterpets/recipe/create_compat/compacting_ahp_sunflower_seeds.json"
+hash = "68d5f6831ade7f1ac9e5b4865d63415abe3648fefa6471e36324989405aa895e"
+
+[[files]]
+file = "moonlight-global-datapacks/synesthesia/data/alexscaves/tags/worldgen/biome/trench_ignores_stone_in.json"
+hash = "51748cdd95402428302d978e81b98467108390ade980854d6f94c386042997cc"
+
+[[files]]
+file = "moonlight-global-datapacks/synesthesia/data/alexsmobs/tags/worldgen/biome/spawns_murmurs_ignore_height.json"
+hash = "51748cdd95402428302d978e81b98467108390ade980854d6f94c386042997cc"
+
+[[files]]
+file = "moonlight-global-datapacks/synesthesia/data/alexsmobs/tags/worldgen/biome/spawns_soul_gusters.json"
+hash = "b56bcdf883ec51926746d379b8ece0e14191a190bfc44ba8744f277ab050aaf2"
+
+[[files]]
+file = "moonlight-global-datapacks/synesthesia/data/alexsmobs/tags/worldgen/biome/spawns_white_mantis_shrimp.json"
+hash = "51748cdd95402428302d978e81b98467108390ade980854d6f94c386042997cc"
+
+[[files]]
+file = "moonlight-global-datapacks/synesthesia/data/autumnity/tags/worldgen/biome/has_feature/maple_tree.json"
+hash = "51748cdd95402428302d978e81b98467108390ade980854d6f94c386042997cc"
+
+[[files]]
+file = "moonlight-global-datapacks/synesthesia/data/autumnity/tags/worldgen/biome/has_feature/spotted_maple_tree/orange.json"
+hash = "51748cdd95402428302d978e81b98467108390ade980854d6f94c386042997cc"
+
+[[files]]
+file = "moonlight-global-datapacks/synesthesia/data/autumnity/tags/worldgen/biome/has_feature/spotted_maple_tree/red.json"
+hash = "51748cdd95402428302d978e81b98467108390ade980854d6f94c386042997cc"
+
+[[files]]
+file = "moonlight-global-datapacks/synesthesia/data/bakery/tags/worldgen/biome/has_structure/bakery.json"
+hash = "51748cdd95402428302d978e81b98467108390ade980854d6f94c386042997cc"
+
+[[files]]
+file = "moonlight-global-datapacks/synesthesia/data/bakery/tags/worldgen/biome/has_structure/oat_field.json"
+hash = "51748cdd95402428302d978e81b98467108390ade980854d6f94c386042997cc"
+
+[[files]]
+file = "moonlight-global-datapacks/synesthesia/data/beachparty/tags/worldgen/biome/beach.json"
+hash = "51748cdd95402428302d978e81b98467108390ade980854d6f94c386042997cc"
+
+[[files]]
+file = "moonlight-global-datapacks/synesthesia/data/betterarcheology/tags/worldgen/biome/collections/taigas.json"
+hash = "c859ab39fb8a6b735ef53ddc01e684b56712a20c7081db02b0d26ab6d416f8d5"
+
+[[files]]
+file = "moonlight-global-datapacks/synesthesia/data/bountifulfares/neoforge/biome_modifier/wild_elderberries_placed.json"
+hash = "99b969132018e9da1071065a8593ba9564928b1ed0aa5ae3ab45f9dac071f7d5"
+
+[[files]]
+file = "moonlight-global-datapacks/synesthesia/data/bountifulfares/neoforge/biome_modifier/wild_passion_fruit_placed.json"
+hash = "99b969132018e9da1071065a8593ba9564928b1ed0aa5ae3ab45f9dac071f7d5"
+
+[[files]]
+file = "moonlight-global-datapacks/synesthesia/data/bountifulfares/tags/worldgen/biome/has_apple_trees.json"
+hash = "51748cdd95402428302d978e81b98467108390ade980854d6f94c386042997cc"
+
+[[files]]
+file = "moonlight-global-datapacks/synesthesia/data/bountifulfares/tags/worldgen/biome/has_chamomile.json"
+hash = "51748cdd95402428302d978e81b98467108390ade980854d6f94c386042997cc"
+
+[[files]]
+file = "moonlight-global-datapacks/synesthesia/data/bountifulfares/tags/worldgen/biome/has_grassy_dirt.json"
+hash = "51748cdd95402428302d978e81b98467108390ade980854d6f94c386042997cc"
+
+[[files]]
+file = "moonlight-global-datapacks/synesthesia/data/bountifulfares/tags/worldgen/biome/has_grassy_dirt_patches.json"
+hash = "51748cdd95402428302d978e81b98467108390ade980854d6f94c386042997cc"
+
+[[files]]
+file = "moonlight-global-datapacks/synesthesia/data/bountifulfares/tags/worldgen/biome/has_large_wild_beetroot.json"
+hash = "51748cdd95402428302d978e81b98467108390ade980854d6f94c386042997cc"
+
+[[files]]
+file = "moonlight-global-datapacks/synesthesia/data/bountifulfares/tags/worldgen/biome/has_large_wild_carrots.json"
+hash = "51748cdd95402428302d978e81b98467108390ade980854d6f94c386042997cc"
+
+[[files]]
+file = "moonlight-global-datapacks/synesthesia/data/bountifulfares/tags/worldgen/biome/has_large_wild_potatoes.json"
+hash = "51748cdd95402428302d978e81b98467108390ade980854d6f94c386042997cc"
+
+[[files]]
+file = "moonlight-global-datapacks/synesthesia/data/bountifulfares/tags/worldgen/biome/has_orange_trees.json"
+hash = "51748cdd95402428302d978e81b98467108390ade980854d6f94c386042997cc"
+
+[[files]]
+file = "moonlight-global-datapacks/synesthesia/data/bountifulfares/tags/worldgen/biome/has_palm_trees.json"
+hash = "51748cdd95402428302d978e81b98467108390ade980854d6f94c386042997cc"
+
+[[files]]
+file = "moonlight-global-datapacks/synesthesia/data/bountifulfares/tags/worldgen/biome/has_plum_trees.json"
+hash = "51748cdd95402428302d978e81b98467108390ade980854d6f94c386042997cc"
+
+[[files]]
+file = "moonlight-global-datapacks/synesthesia/data/bountifulfares/tags/worldgen/biome/has_tea_shrub.json"
+hash = "51748cdd95402428302d978e81b98467108390ade980854d6f94c386042997cc"
+
+[[files]]
+file = "moonlight-global-datapacks/synesthesia/data/bountifulfares/tags/worldgen/biome/has_violet_bellflower.json"
+hash = "51748cdd95402428302d978e81b98467108390ade980854d6f94c386042997cc"
+
+[[files]]
+file = "moonlight-global-datapacks/synesthesia/data/bountifulfares/tags/worldgen/biome/has_walnut_trees.json"
+hash = "51748cdd95402428302d978e81b98467108390ade980854d6f94c386042997cc"
+
+[[files]]
+file = "moonlight-global-datapacks/synesthesia/data/bountifulfares/tags/worldgen/biome/has_wild_carrots.json"
+hash = "51748cdd95402428302d978e81b98467108390ade980854d6f94c386042997cc"
+
+[[files]]
+file = "moonlight-global-datapacks/synesthesia/data/bountifulfares/tags/worldgen/biome/has_wild_elderberries.json"
+hash = "51748cdd95402428302d978e81b98467108390ade980854d6f94c386042997cc"
+
+[[files]]
+file = "moonlight-global-datapacks/synesthesia/data/bountifulfares/tags/worldgen/biome/has_wild_maize.json"
+hash = "51748cdd95402428302d978e81b98467108390ade980854d6f94c386042997cc"
+
+[[files]]
+file = "moonlight-global-datapacks/synesthesia/data/bountifulfares/tags/worldgen/biome/has_wild_passion_fruit.json"
+hash = "51748cdd95402428302d978e81b98467108390ade980854d6f94c386042997cc"
+
+[[files]]
+file = "moonlight-global-datapacks/synesthesia/data/brewinandchewin/recipe/hamburger_with_cheese.json"
+hash = "a55b4bbdeaf6d57b136ef475f40ab3dd2a0bf8408f6470e6db73cc0d1df860d2"
+
+[[files]]
+file = "moonlight-global-datapacks/synesthesia/data/brewinandchewin/recipe/toast_with_cheese.json"
+hash = "a55b4bbdeaf6d57b136ef475f40ab3dd2a0bf8408f6470e6db73cc0d1df860d2"
+
+[[files]]
+file = "moonlight-global-datapacks/synesthesia/data/buddycards/recipe/buddysteel_axe.json"
+hash = "a55b4bbdeaf6d57b136ef475f40ab3dd2a0bf8408f6470e6db73cc0d1df860d2"
+
+[[files]]
+file = "moonlight-global-datapacks/synesthesia/data/buddycards/recipe/buddysteel_boots.json"
+hash = "a55b4bbdeaf6d57b136ef475f40ab3dd2a0bf8408f6470e6db73cc0d1df860d2"
+
+[[files]]
+file = "moonlight-global-datapacks/synesthesia/data/buddycards/recipe/buddysteel_chestplate.json"
+hash = "a55b4bbdeaf6d57b136ef475f40ab3dd2a0bf8408f6470e6db73cc0d1df860d2"
+
+[[files]]
+file = "moonlight-global-datapacks/synesthesia/data/buddycards/recipe/buddysteel_helmet.json"
+hash = "a55b4bbdeaf6d57b136ef475f40ab3dd2a0bf8408f6470e6db73cc0d1df860d2"
+
+[[files]]
+file = "moonlight-global-datapacks/synesthesia/data/buddycards/recipe/buddysteel_hoe.json"
+hash = "a55b4bbdeaf6d57b136ef475f40ab3dd2a0bf8408f6470e6db73cc0d1df860d2"
+
+[[files]]
+file = "moonlight-global-datapacks/synesthesia/data/buddycards/recipe/buddysteel_leggings.json"
+hash = "a55b4bbdeaf6d57b136ef475f40ab3dd2a0bf8408f6470e6db73cc0d1df860d2"
+
+[[files]]
+file = "moonlight-global-datapacks/synesthesia/data/buddycards/recipe/buddysteel_pickaxe.json"
+hash = "a55b4bbdeaf6d57b136ef475f40ab3dd2a0bf8408f6470e6db73cc0d1df860d2"
+
+[[files]]
+file = "moonlight-global-datapacks/synesthesia/data/buddycards/recipe/buddysteel_shovel.json"
+hash = "a55b4bbdeaf6d57b136ef475f40ab3dd2a0bf8408f6470e6db73cc0d1df860d2"
+
+[[files]]
+file = "moonlight-global-datapacks/synesthesia/data/buddycards/recipe/buddysteel_sword.json"
+hash = "a55b4bbdeaf6d57b136ef475f40ab3dd2a0bf8408f6470e6db73cc0d1df860d2"
+
+[[files]]
+file = "moonlight-global-datapacks/synesthesia/data/buddycards_more_loot/loot_modifiers/alexscaves_cave.json"
+hash = "7338aeabe1c00a6fb07e7d27602d954e1c5b216af982c185c589bdf31e9751da"
+
+[[files]]
+file = "moonlight-global-datapacks/synesthesia/data/buddycards_more_loot/loot_modifiers/cnc_remolder_ancient_city.json"
+hash = "1aa9fae6856d242e9b34d1bc63ed0d6224dd978f0aa44afbf1922526f8180e56"
+
+[[files]]
+file = "moonlight-global-datapacks/synesthesia/data/buddycards_more_loot/loot_modifiers/cnc_remolder_bastion.json"
+hash = "6e814247e564ec43664fb41acde217b5c598a32ccbad4a1be7a4feacc64d4f33"
+
+[[files]]
+file = "moonlight-global-datapacks/synesthesia/data/buddycards_more_loot/loot_modifiers/cnc_remolder_bastion_other.json"
+hash = "e90ca6208b078c3b3efd331e767362858b37ac99b1dca06659fdd4cb857d4190"
+
+[[files]]
+file = "moonlight-global-datapacks/synesthesia/data/buddycards_more_loot/loot_modifiers/cnc_remolder_bastion_treasure.json"
+hash = "5d321a638debd492ff5a625f3030d008fc6772f0f7ba8adb64fd418b26f5c057"
+
+[[files]]
+file = "moonlight-global-datapacks/synesthesia/data/buddycards_more_loot/loot_modifiers/cnc_remolder_buried_treasure.json"
+hash = "7f1f18efe6a8ccef735825934263856f4dfbf2878592e9e29266e553e66f4dae"
+
+[[files]]
+file = "moonlight-global-datapacks/synesthesia/data/buddycards_more_loot/loot_modifiers/cnc_remolder_cave.json"
+hash = "5994f2b4f9ee5118b24841ef0d06a452d1643b85204f749dd5db9365c70b7010"
+
+[[files]]
+file = "moonlight-global-datapacks/synesthesia/data/buddycards_more_loot/loot_modifiers/cnc_remolder_desert_pyramid.json"
+hash = "0ccddff223b29fe0645ca84aeadc9fa5bb2864bd8b6cdda740b9ac3c8105018b"
+
+[[files]]
+file = "moonlight-global-datapacks/synesthesia/data/buddycards_more_loot/loot_modifiers/cnc_remolder_end_city.json"
+hash = "2ab768248e6076b2806c895fb3b7027e3e95c02d6195931821e005d8484c90f9"
+
+[[files]]
+file = "moonlight-global-datapacks/synesthesia/data/buddycards_more_loot/loot_modifiers/cnc_remolder_nether.json"
+hash = "b02f33130e6246a32429d1f995aa587150329a113bffc1f8f4f8d417b848fdb8"
+
+[[files]]
+file = "moonlight-global-datapacks/synesthesia/data/buddycards_more_loot/loot_modifiers/cnc_remolder_ruined_portal.json"
+hash = "c6b7fc8369e53ca1e11646a50cbc427051dad5e67359373afad485f6fa9c0e7d"
+
+[[files]]
+file = "moonlight-global-datapacks/synesthesia/data/buddycards_more_loot/loot_modifiers/cnc_remolder_shipwreck.json"
+hash = "0cc2d92a45cc4a0bf60e5b9b65dc96c4e2957bd2236b3ede6c6800eebb44665a"
+
+[[files]]
+file = "moonlight-global-datapacks/synesthesia/data/buddycards_more_loot/loot_modifiers/cnc_remolder_village.json"
+hash = "753d8b373c6e768d5ddb65941526e35755945fa17835a203a3e6d8efdf537728"
+
+[[files]]
+file = "moonlight-global-datapacks/synesthesia/data/buddycards_more_loot/loot_modifiers/create_pack_rare.json"
+hash = "3cac6f6067498c08ad1f4ce98db1f35361a866d50a6c288cfcc8b4aee7251242"
+
+[[files]]
+file = "moonlight-global-datapacks/synesthesia/data/buddycards_more_loot/loot_modifiers/delightful_pack_rare.json"
+hash = "18fa5bdc58890e420653a4d67f67bf12a74e734a08417e43b43310d0e04e0fb8"
+
+[[files]]
+file = "moonlight-global-datapacks/synesthesia/data/buddycards_more_loot/loot_modifiers/dungeonsarise_cave_common.json"
+hash = "aebf28a311540a97ed3d96a87cb84c127122d52cb9e4b9c72f9564e0c7b1663d"
+
+[[files]]
+file = "moonlight-global-datapacks/synesthesia/data/buddycards_more_loot/loot_modifiers/dungeonsarise_cave_treasure.json"
+hash = "16e3da3bd640463f1be91a1fecdc0f42188b5c21bda5002ec2794f458dab43c5"
+
+[[files]]
+file = "moonlight-global-datapacks/synesthesia/data/buddycards_more_loot/loot_modifiers/ruined_portal.json"
+hash = "900336f146e1d6cdb5e70f7e09defd8417ca04c98877963131dfb398d14848d7"
+
+[[files]]
+file = "moonlight-global-datapacks/synesthesia/data/buddycards_more_loot/loot_modifiers/shipwreck_treasure.json"
+hash = "138cfa8384e015712179ae7addb6cc63dab558e8d409cf4bbc57ac4c6635c99e"
+
+[[files]]
+file = "moonlight-global-datapacks/synesthesia/data/buddycards_more_loot/loot_table/inject/create_rare.json"
+hash = "e736ce2f608ac4c876ebdf29ee50fc4790fca847be20e0355d13343cbff77223"
+
+[[files]]
+file = "moonlight-global-datapacks/synesthesia/data/buddycards_more_loot/loot_table/inject/delightful_rare.json"
+hash = "b4ff3db9cbbbfb5a3f810734ecbad90fe9a6224c8fd89bbc2ea4fba076786efe"
+
+[[files]]
+file = "moonlight-global-datapacks/synesthesia/data/buzzier_bees/tags/worldgen/biome/has_feature/buttercup.json"
+hash = "51748cdd95402428302d978e81b98467108390ade980854d6f94c386042997cc"
+
+[[files]]
+file = "moonlight-global-datapacks/synesthesia/data/buzzier_bees/tags/worldgen/biome/has_feature/pink_clover.json"
+hash = "51748cdd95402428302d978e81b98467108390ade980854d6f94c386042997cc"
+
+[[files]]
+file = "moonlight-global-datapacks/synesthesia/data/buzzier_bees/tags/worldgen/biome/has_feature/white_clover.json"
+hash = "51748cdd95402428302d978e81b98467108390ade980854d6f94c386042997cc"
+
+[[files]]
+file = "moonlight-global-datapacks/synesthesia/data/candlelight/tags/worldgen/biome/has_structure/tree.json"
+hash = "51748cdd95402428302d978e81b98467108390ade980854d6f94c386042997cc"
+
+[[files]]
+file = "moonlight-global-datapacks/synesthesia/data/candlelight/tags/worldgen/biome/spawns_rose.json"
+hash = "51748cdd95402428302d978e81b98467108390ade980854d6f94c386042997cc"
+
+[[files]]
+file = "moonlight-global-datapacks/synesthesia/data/cataclysm/tags/worldgen/biome/amethyst_crab_spawn.json"
+hash = "c1aca4636b108db919f22bf5f0df5650d13b82f6a6663b8f3aa4d52096fd4897"
+
+[[files]]
+file = "moonlight-global-datapacks/synesthesia/data/cataclysm/tags/worldgen/biome/deeplings_spawn.json"
+hash = "51748cdd95402428302d978e81b98467108390ade980854d6f94c386042997cc"
+
+[[files]]
+file = "moonlight-global-datapacks/synesthesia/data/cataclysm/tags/worldgen/biome/has_structure/acropolis_biomes.json"
+hash = "51748cdd95402428302d978e81b98467108390ade980854d6f94c386042997cc"
+
+[[files]]
+file = "moonlight-global-datapacks/synesthesia/data/cataclysm/tags/worldgen/biome/has_structure/burning_arena_biomes.json"
+hash = "b56bcdf883ec51926746d379b8ece0e14191a190bfc44ba8744f277ab050aaf2"
+
+[[files]]
+file = "moonlight-global-datapacks/synesthesia/data/cataclysm/tags/worldgen/biome/has_structure/cursed_pyramid_biomes.json"
+hash = "51748cdd95402428302d978e81b98467108390ade980854d6f94c386042997cc"
+
+[[files]]
+file = "moonlight-global-datapacks/synesthesia/data/cataclysm/tags/worldgen/biome/has_structure/frosted_prison_biomes.json"
+hash = "51748cdd95402428302d978e81b98467108390ade980854d6f94c386042997cc"
+
+[[files]]
+file = "moonlight-global-datapacks/synesthesia/data/cataclysm/tags/worldgen/biome/has_structure/ruined_citadel_biomes.json"
+hash = "6ddf517f6d4b65c795bddcf7c1cbb5368793c280b9e9bb080ab2df50cbc7030b"
+
+[[files]]
+file = "moonlight-global-datapacks/synesthesia/data/cataclysm/tags/worldgen/biome/has_structure/soul_black_smith_biomes.json"
+hash = "b56bcdf883ec51926746d379b8ece0e14191a190bfc44ba8744f277ab050aaf2"
+
+[[files]]
+file = "moonlight-global-datapacks/synesthesia/data/cataclysm/tags/worldgen/biome/has_structure/sunken_city_biomes.json"
+hash = "51748cdd95402428302d978e81b98467108390ade980854d6f94c386042997cc"
+
+[[files]]
+file = "moonlight-global-datapacks/synesthesia/data/caverns_and_chasms/neoforge/biome_modifier/add_spawn/rat.json"
+hash = "99b969132018e9da1071065a8593ba9564928b1ed0aa5ae3ab45f9dac071f7d5"
+
+[[files]]
+file = "moonlight-global-datapacks/synesthesia/data/caverns_and_chasms/tags/worldgen/biome/has_animal/glare.json"
+hash = "c1aca4636b108db919f22bf5f0df5650d13b82f6a6663b8f3aa4d52096fd4897"
+
+[[files]]
+file = "moonlight-global-datapacks/synesthesia/data/caverns_and_chasms/tags/worldgen/biome/has_feature/extra_silver_ore.json"
+hash = "51748cdd95402428302d978e81b98467108390ade980854d6f94c386042997cc"
+
+[[files]]
+file = "moonlight-global-datapacks/synesthesia/data/caverns_and_chasms/tags/worldgen/biome/has_feature/soul_silver_ore.json"
+hash = "b56bcdf883ec51926746d379b8ece0e14191a190bfc44ba8744f277ab050aaf2"
+
+[[files]]
+file = "moonlight-global-datapacks/synesthesia/data/caverns_and_chasms/tags/worldgen/biome/has_feature/spinel_ore.json"
+hash = "c1aca4636b108db919f22bf5f0df5650d13b82f6a6663b8f3aa4d52096fd4897"
+
+[[files]]
+file = "moonlight-global-datapacks/synesthesia/data/caverns_and_chasms/tags/worldgen/biome/has_structure/mineshaft_lush.json"
+hash = "c1aca4636b108db919f22bf5f0df5650d13b82f6a6663b8f3aa4d52096fd4897"
+
+[[files]]
+file = "moonlight-global-datapacks/synesthesia/data/create_factory_logistics/recipe/barrel_packager.json"
+hash = "a55b4bbdeaf6d57b136ef475f40ab3dd2a0bf8408f6470e6db73cc0d1df860d2"
+
+[[files]]
+file = "moonlight-global-datapacks/synesthesia/data/create_factory_logistics/recipe/factory_chemical_gauge.json"
+hash = "a55b4bbdeaf6d57b136ef475f40ab3dd2a0bf8408f6470e6db73cc0d1df860d2"
+
+[[files]]
+file = "moonlight-global-datapacks/synesthesia/data/createbionics/advancement/recipes/misc/anole_body_item.json"
+hash = "a93773c21d02108a113a2fcb4085561e0d079f3c900d627dfa64c6eb5267ce86"
+
+[[files]]
+file = "moonlight-global-datapacks/synesthesia/data/createbionics/advancement/recipes/misc/anole_head_item.json"
+hash = "1c53d4b0584742875c4cbdcc184aed8923609c430d54378fc7a392da7bf3d9d7"
+
+[[files]]
+file = "moonlight-global-datapacks/synesthesia/data/createbionics/advancement/recipes/misc/anole_item.json"
+hash = "d637096885171338e2c8a2f3d3a1f9edff2b8b91f8c3f20ea05805b1a2bdfa69"
+
+[[files]]
+file = "moonlight-global-datapacks/synesthesia/data/createbionics/advancement/recipes/misc/anole_leg_item.json"
+hash = "437139ff7d9fda2f9d5b9ad9fb296d3669188698aa6e2e3e309f5640d7efb200"
+
+[[files]]
+file = "moonlight-global-datapacks/synesthesia/data/createbionics/advancement/recipes/misc/anole_tail_item.json"
+hash = "0e1eb8b556fa8b554aa01bce87bf4ffa379092399e545fcc6b6b31bbf9570407"
+
+[[files]]
+file = "moonlight-global-datapacks/synesthesia/data/createbionics/advancement/recipes/misc/simple_engine.json"
+hash = "ddb4c63c7f544b44d3f810e0f709f82362c9ca6508c357b8a81280f1c81a8817"
+
+[[files]]
+file = "moonlight-global-datapacks/synesthesia/data/createbionics/recipe/mechanical_crafting/organ_bellows_item.json"
+hash = "a55b4bbdeaf6d57b136ef475f40ab3dd2a0bf8408f6470e6db73cc0d1df860d2"
+
+[[files]]
+file = "moonlight-global-datapacks/synesthesia/data/createbionics/recipe/mechanical_crafting/organ_chest_item.json"
+hash = "a55b4bbdeaf6d57b136ef475f40ab3dd2a0bf8408f6470e6db73cc0d1df860d2"
+
+[[files]]
+file = "moonlight-global-datapacks/synesthesia/data/createbionics/recipe/mechanical_crafting/organ_chimney_item.json"
+hash = "a55b4bbdeaf6d57b136ef475f40ab3dd2a0bf8408f6470e6db73cc0d1df860d2"
+
+[[files]]
+file = "moonlight-global-datapacks/synesthesia/data/createbionics/recipe/mechanical_crafting/organ_foot_item.json"
+hash = "a55b4bbdeaf6d57b136ef475f40ab3dd2a0bf8408f6470e6db73cc0d1df860d2"
+
+[[files]]
+file = "moonlight-global-datapacks/synesthesia/data/createbionics/recipe/mechanical_crafting/organ_head_item.json"
+hash = "a55b4bbdeaf6d57b136ef475f40ab3dd2a0bf8408f6470e6db73cc0d1df860d2"
+
+[[files]]
+file = "moonlight-global-datapacks/synesthesia/data/createbionics/recipe/mechanical_crafting/organ_neck_item.json"
+hash = "a55b4bbdeaf6d57b136ef475f40ab3dd2a0bf8408f6470e6db73cc0d1df860d2"
+
+[[files]]
+file = "moonlight-global-datapacks/synesthesia/data/createbionics/recipe/mechanical_crafting/organ_tail_base_item.json"
+hash = "a55b4bbdeaf6d57b136ef475f40ab3dd2a0bf8408f6470e6db73cc0d1df860d2"
+
+[[files]]
+file = "moonlight-global-datapacks/synesthesia/data/createbionics/recipe/mechanical_crafting/organ_tail_end_item.json"
+hash = "a55b4bbdeaf6d57b136ef475f40ab3dd2a0bf8408f6470e6db73cc0d1df860d2"
+
+[[files]]
+file = "moonlight-global-datapacks/synesthesia/data/createbionics/recipe/milling/diorite.json"
+hash = "a55b4bbdeaf6d57b136ef475f40ab3dd2a0bf8408f6470e6db73cc0d1df860d2"
+
+[[files]]
+file = "moonlight-global-datapacks/synesthesia/data/createbionics/recipe/organ_piston_item.json"
+hash = "a55b4bbdeaf6d57b136ef475f40ab3dd2a0bf8408f6470e6db73cc0d1df860d2"
+
+[[files]]
+file = "moonlight-global-datapacks/synesthesia/data/createbionics/recipe/simple_engine.json"
+hash = "a55b4bbdeaf6d57b136ef475f40ab3dd2a0bf8408f6470e6db73cc0d1df860d2"
+
+[[files]]
+file = "moonlight-global-datapacks/synesthesia/data/createdeco/recipe/placard.json"
+hash = "9a056a9148eb9c42a5afe9d436370b40ec37a8efb46be18e7fb87f031b717454"
+
+[[files]]
+file = "moonlight-global-datapacks/synesthesia/data/createframed/recipe/integration/smelting/black_radon_lamp.json"
+hash = "6c5da6a6a70b58e92510319eceb69350f4be7eff22b2ded1278436d589cadf4e"
+
+[[files]]
+file = "moonlight-global-datapacks/synesthesia/data/createframed/recipe/integration/smelting/blue_radon_lamp.json"
+hash = "8c9ee0cf60c2737bcea11e6ab265a07553005e61de12055c8b98c304e8c0f73c"
+
+[[files]]
+file = "moonlight-global-datapacks/synesthesia/data/createframed/recipe/integration/smelting/brown_radon_lamp.json"
+hash = "d0783dfd8db2a59c90cd69e7506eedc46c6cfb4a8abae1a1bccbf5f9a60c6b77"
+
+[[files]]
+file = "moonlight-global-datapacks/synesthesia/data/createframed/recipe/integration/smelting/cyan_radon_lamp.json"
+hash = "5e1bd32369ca305133074f7288da831e11b89a8fa8b46fb0230b95c819422893"
+
+[[files]]
+file = "moonlight-global-datapacks/synesthesia/data/createframed/recipe/integration/smelting/gray_radon_lamp.json"
+hash = "3ac9cd26f67101f43443893152859170b722594dd392e708b1d8f4adc31d5a26"
+
+[[files]]
+file = "moonlight-global-datapacks/synesthesia/data/createframed/recipe/integration/smelting/green_radon_lamp.json"
+hash = "fde0851696f4de6e6aa197ae03ca897978ef0d18493d49d05e4c0fefe3f12328"
+
+[[files]]
+file = "moonlight-global-datapacks/synesthesia/data/createframed/recipe/integration/smelting/light_blue_radon_lamp.json"
+hash = "abd8a9446d7f4bdd40fd8c5ae9031f92779eb96f1cd0ef905b722906e051fc53"
+
+[[files]]
+file = "moonlight-global-datapacks/synesthesia/data/createframed/recipe/integration/smelting/light_gray_radon_lamp.json"
+hash = "3a2e8ad267aba2892fd9fe194401af14551deca2806ec61744336dfcd190b6fc"
+
+[[files]]
+file = "moonlight-global-datapacks/synesthesia/data/createframed/recipe/integration/smelting/lime_radon_lamp.json"
+hash = "98c7e40fd1ebd6c626d0e14d4a8f0c48df06f50f60a64aa515e745debfe2111c"
+
+[[files]]
+file = "moonlight-global-datapacks/synesthesia/data/createframed/recipe/integration/smelting/magenta_radon_lamp.json"
+hash = "3f44c7d324efd09fb745b69ed664656991edcba66a92017dea541c475fa41651"
+
+[[files]]
+file = "moonlight-global-datapacks/synesthesia/data/createframed/recipe/integration/smelting/orange_radon_lamp.json"
+hash = "950b6c86a5e618d0523ee58045542dc40d5621ee21c3dd554bb1d3f7eb75ddb8"
+
+[[files]]
+file = "moonlight-global-datapacks/synesthesia/data/createframed/recipe/integration/smelting/pink_radon_lamp.json"
+hash = "ddf830a2dfeb38006b1660407eb21a201aa093969c7ff701f9d0cabac0bb1918"
+
+[[files]]
+file = "moonlight-global-datapacks/synesthesia/data/createframed/recipe/integration/smelting/purple_radon_lamp.json"
+hash = "c7c7c6542b3e14dfab7276c85c1e38dcd00101a6e79274cdad491721e65c7abf"
+
+[[files]]
+file = "moonlight-global-datapacks/synesthesia/data/createframed/recipe/integration/smelting/red_radon_lamp.json"
+hash = "42d4911fe4be5e4a2a377002ff98efb0171f2ec32079e3cb2397787f5296a3d5"
+
+[[files]]
+file = "moonlight-global-datapacks/synesthesia/data/createframed/recipe/integration/smelting/white_radon_lamp.json"
+hash = "952d2c239a24ed928d596bf9fea68547df7539adcd2b81c24ebac30a6436eba7"
+
+[[files]]
+file = "moonlight-global-datapacks/synesthesia/data/createframed/recipe/integration/smelting/yellow_radon_lamp.json"
+hash = "f1855b6c2840dc0c4152026d2b73f870e5dd9724c8327a578ece10b387683b80"
+
+[[files]]
+file = "moonlight-global-datapacks/synesthesia/data/crittersandcompanions/loot_modifiers/inject_oak_leaves_acorn.json"
+hash = "5b5542b64d90750234c166be65bfab6cb45916cf84b28a4993cec3ada8b8d40a"
+
+[[files]]
+file = "moonlight-global-datapacks/synesthesia/data/crittersandcompanions/tags/worldgen/biome/silk_cocoon_lush_spawns.json"
+hash = "c1aca4636b108db919f22bf5f0df5650d13b82f6a6663b8f3aa4d52096fd4897"
+
+[[files]]
+file = "moonlight-global-datapacks/synesthesia/data/dungeons_arise/tags/worldgen/biome/has_structure/aviary_biomes.json"
+hash = "6ddf517f6d4b65c795bddcf7c1cbb5368793c280b9e9bb080ab2df50cbc7030b"
+
+[[files]]
+file = "moonlight-global-datapacks/synesthesia/data/dungeons_arise/tags/worldgen/biome/has_structure/giant_mushroom_biomes.json"
+hash = "51748cdd95402428302d978e81b98467108390ade980854d6f94c386042997cc"
+
+[[files]]
+file = "moonlight-global-datapacks/synesthesia/data/dungeons_arise/tags/worldgen/biome/has_structure/small_prairie_house_biomes.json"
+hash = "51748cdd95402428302d978e81b98467108390ade980854d6f94c386042997cc"
+
+[[files]]
+file = "moonlight-global-datapacks/synesthesia/data/ecologics/tags/worldgen/biome/has_structure/desert_ruin.json"
+hash = "51748cdd95402428302d978e81b98467108390ade980854d6f94c386042997cc"
+
+[[files]]
+file = "moonlight-global-datapacks/synesthesia/data/eternal_starlight_delight/advancement/recipes/decorations/forgotten_nocturnal_millet_bale.json"
+hash = "38b9641f4ca4d2246324fd3f7a55e4012443be5ed82e4e5b2502794c1c289031"
+
+[[files]]
+file = "moonlight-global-datapacks/synesthesia/data/eternal_starlight_delight/advancement/recipes/decorations/nocturnal_millet_bale.json"
+hash = "f9d1f81c6df602297c312bbda222fc2310b67e7670e11363e3df6ebe4fb16af1"
+
+[[files]]
+file = "moonlight-global-datapacks/synesthesia/data/explorify/tags/worldgen/biome/has_structure/badlands_pyramid.json"
+hash = "51748cdd95402428302d978e81b98467108390ade980854d6f94c386042997cc"
+
+[[files]]
+file = "moonlight-global-datapacks/synesthesia/data/explorify/tags/worldgen/biome/has_structure/dark_forest_settlement.json"
+hash = "51748cdd95402428302d978e81b98467108390ade980854d6f94c386042997cc"
+
+[[files]]
+file = "moonlight-global-datapacks/synesthesia/data/explorify/tags/worldgen/biome/has_structure/guide_post_cold.json"
+hash = "51748cdd95402428302d978e81b98467108390ade980854d6f94c386042997cc"
+
+[[files]]
+file = "moonlight-global-datapacks/synesthesia/data/explorify/tags/worldgen/biome/has_structure/guide_post_warm.json"
+hash = "51748cdd95402428302d978e81b98467108390ade980854d6f94c386042997cc"
+
+[[files]]
+file = "moonlight-global-datapacks/synesthesia/data/explorify/tags/worldgen/biome/has_structure/mangrove_hut.json"
+hash = "51748cdd95402428302d978e81b98467108390ade980854d6f94c386042997cc"
+
+[[files]]
+file = "moonlight-global-datapacks/synesthesia/data/explorify/tags/worldgen/biome/has_structure/supply_cache/birch.json"
+hash = "51748cdd95402428302d978e81b98467108390ade980854d6f94c386042997cc"
+
+[[files]]
+file = "moonlight-global-datapacks/synesthesia/data/explorify/tags/worldgen/biome/has_structure/supply_cache/dark.json"
+hash = "51748cdd95402428302d978e81b98467108390ade980854d6f94c386042997cc"
+
+[[files]]
+file = "moonlight-global-datapacks/synesthesia/data/explorify/tags/worldgen/biome/has_structure/supply_cache/forest.json"
+hash = "51748cdd95402428302d978e81b98467108390ade980854d6f94c386042997cc"
+
+[[files]]
+file = "moonlight-global-datapacks/synesthesia/data/explorify/tags/worldgen/biome/has_structure/supply_cache/jungle.json"
+hash = "51748cdd95402428302d978e81b98467108390ade980854d6f94c386042997cc"
+
+[[files]]
+file = "moonlight-global-datapacks/synesthesia/data/explorify/tags/worldgen/biome/has_structure/supply_cache/mangrove.json"
+hash = "51748cdd95402428302d978e81b98467108390ade980854d6f94c386042997cc"
+
+[[files]]
+file = "moonlight-global-datapacks/synesthesia/data/explorify/tags/worldgen/biome/has_structure/supply_cache/taiga.json"
+hash = "51748cdd95402428302d978e81b98467108390ade980854d6f94c386042997cc"
+
+[[files]]
+file = "moonlight-global-datapacks/synesthesia/data/fetzisasiandeco/tags/worldgen/biome/swamp_biomes.json"
+hash = "51748cdd95402428302d978e81b98467108390ade980854d6f94c386042997cc"
+
+[[files]]
+file = "moonlight-global-datapacks/synesthesia/data/galosphere/tags/worldgen/biome/all_galosphere_biomes.json"
+hash = "f74498097708215ee46031db7467ce3abed880ed8188eff156e81993d9787e31"
+
+[[files]]
+file = "moonlight-global-datapacks/synesthesia/data/hexalia/tags/worldgen/biome/has_cool_biome_vegetation.json"
+hash = "51748cdd95402428302d978e81b98467108390ade980854d6f94c386042997cc"
+
+[[files]]
+file = "moonlight-global-datapacks/synesthesia/data/hexalia/tags/worldgen/biome/has_decorative_flowers.json"
+hash = "51748cdd95402428302d978e81b98467108390ade980854d6f94c386042997cc"
+
+[[files]]
+file = "moonlight-global-datapacks/synesthesia/data/hexalia/tags/worldgen/biome/has_dry_biome_vegetation.json"
+hash = "51748cdd95402428302d978e81b98467108390ade980854d6f94c386042997cc"
+
+[[files]]
+file = "moonlight-global-datapacks/synesthesia/data/hexalia/tags/worldgen/biome/has_floral_vegetation.json"
+hash = "51748cdd95402428302d978e81b98467108390ade980854d6f94c386042997cc"
+
+[[files]]
+file = "moonlight-global-datapacks/synesthesia/data/hexalia/tags/worldgen/biome/has_shaded_vegetation.json"
+hash = "51748cdd95402428302d978e81b98467108390ade980854d6f94c386042997cc"
+
+[[files]]
+file = "moonlight-global-datapacks/synesthesia/data/hexalia/tags/worldgen/biome/has_shrooms.json"
+hash = "51748cdd95402428302d978e81b98467108390ade980854d6f94c386042997cc"
+
+[[files]]
+file = "moonlight-global-datapacks/synesthesia/data/hexalia/tags/worldgen/biome/has_swamp_vegetation.json"
+hash = "51748cdd95402428302d978e81b98467108390ade980854d6f94c386042997cc"
+
+[[files]]
+file = "moonlight-global-datapacks/synesthesia/data/hexerei/tags/worldgen/biome/all_hexerei_biomes.json"
+hash = "682832208b2714a934ce2118c0fd7571f861cd259966172a5908df8cbd304872"
+
+[[files]]
+file = "moonlight-global-datapacks/synesthesia/data/hexerei/tags/worldgen/biome/has_structure/dark_coven_biomes.json"
+hash = "51748cdd95402428302d978e81b98467108390ade980854d6f94c386042997cc"
+
+[[files]]
+file = "moonlight-global-datapacks/synesthesia/data/hexerei/tags/worldgen/biome/has_structure/nature_coven_biomes.json"
+hash = "51748cdd95402428302d978e81b98467108390ade980854d6f94c386042997cc"
+
+[[files]]
+file = "moonlight-global-datapacks/synesthesia/data/hexerei/tags/worldgen/biome/has_structure/witch_hut_biomes.json"
+hash = "51748cdd95402428302d978e81b98467108390ade980854d6f94c386042997cc"
+
+[[files]]
+file = "moonlight-global-datapacks/synesthesia/data/hybrid_beta/tags/worldgen/biome/all_hybrid_beta_biomes.json"
+hash = "4a270f965e9a0194eed156a48ba292163807d4df4357d0167dc0a15828e78b2b"
+
+[[files]]
+file = "moonlight-global-datapacks/synesthesia/data/illagerinvasion/tags/worldgen/biome/has_structure/illusioner_tower.json"
+hash = "51748cdd95402428302d978e81b98467108390ade980854d6f94c386042997cc"
+
+[[files]]
+file = "moonlight-global-datapacks/synesthesia/data/illagerinvasion/tags/worldgen/biome/has_structure/sorcerer_hut.json"
+hash = "51748cdd95402428302d978e81b98467108390ade980854d6f94c386042997cc"
+
+[[files]]
+file = "moonlight-global-datapacks/synesthesia/data/incendium/tags/worldgen/biome/structure/has_reactor.json"
+hash = "4359ad7ee04a2307402a711cae85a6fc8b0cacb0a0bfedec7ce5991095e8ecfc"
+
+[[files]]
+file = "moonlight-global-datapacks/synesthesia/data/malum/recipe/create/milling/grim_talc.json"
+hash = "521dcec2cc65f33f1891bcd126cbedfcade49cd691565dd35a6e38e59a1f49e7"
+
+[[files]]
+file = "moonlight-global-datapacks/synesthesia/data/malum/recipe/malum/spirit_repair/hexerei/broom.json"
+hash = "9eef3ef5e9c59e1fe343f26787fc5bec4cdf1601a798b38a61305b85a3729208"
+
+[[files]]
+file = "moonlight-global-datapacks/synesthesia/data/malum/recipe/malum/spirit_repair/hexerei/witch_armor.json"
+hash = "63a8bf23fa1fb5082cc671d4eaab56a8adc77cb47e0bc811517d45a663ff9d23"
+
+[[files]]
+file = "moonlight-global-datapacks/synesthesia/data/malum/tags/worldgen/biome/has_azure_runewood.json"
+hash = "51748cdd95402428302d978e81b98467108390ade980854d6f94c386042997cc"
+
+[[files]]
+file = "moonlight-global-datapacks/synesthesia/data/malum/tags/worldgen/biome/has_rare_azure_runewood.json"
+hash = "51748cdd95402428302d978e81b98467108390ade980854d6f94c386042997cc"
+
+[[files]]
+file = "moonlight-global-datapacks/synesthesia/data/meadow/tags/worldgen/biome/has_structure/bench.json"
+hash = "51748cdd95402428302d978e81b98467108390ade980854d6f94c386042997cc"
+
+[[files]]
+file = "moonlight-global-datapacks/synesthesia/data/meadow/tags/worldgen/biome/has_structure/chalet.json"
+hash = "51748cdd95402428302d978e81b98467108390ade980854d6f94c386042997cc"
+
+[[files]]
+file = "moonlight-global-datapacks/synesthesia/data/meadow/tags/worldgen/biome/has_structure/chapel.json"
+hash = "51748cdd95402428302d978e81b98467108390ade980854d6f94c386042997cc"
+
+[[files]]
+file = "moonlight-global-datapacks/synesthesia/data/meadow/tags/worldgen/biome/has_structure/logging_camp.json"
+hash = "51748cdd95402428302d978e81b98467108390ade980854d6f94c386042997cc"
+
+[[files]]
+file = "moonlight-global-datapacks/synesthesia/data/meadow/tags/worldgen/biome/has_structure/monument.json"
+hash = "51748cdd95402428302d978e81b98467108390ade980854d6f94c386042997cc"
+
+[[files]]
+file = "moonlight-global-datapacks/synesthesia/data/meadow/tags/worldgen/biome/has_structure/observation_post.json"
+hash = "51748cdd95402428302d978e81b98467108390ade980854d6f94c386042997cc"
+
+[[files]]
+file = "moonlight-global-datapacks/synesthesia/data/meadow/tags/worldgen/biome/is_meadow.json"
+hash = "51748cdd95402428302d978e81b98467108390ade980854d6f94c386042997cc"
+
+[[files]]
+file = "moonlight-global-datapacks/synesthesia/data/meadow/tags/worldgen/biome/spawns_meadow_wooly_cows.json"
+hash = "51748cdd95402428302d978e81b98467108390ade980854d6f94c386042997cc"
+
+[[files]]
+file = "moonlight-global-datapacks/synesthesia/data/meadow/tags/worldgen/biome/spawns_warped_cow.json"
+hash = "b56bcdf883ec51926746d379b8ece0e14191a190bfc44ba8744f277ab050aaf2"
+
+[[files]]
+file = "moonlight-global-datapacks/synesthesia/data/minecolonies/tags/worldgen/biome/has_structure/warpednetherlands_colony.json"
+hash = "b56bcdf883ec51926746d379b8ece0e14191a190bfc44ba8744f277ab050aaf2"
+
+[[files]]
+file = "moonlight-global-datapacks/synesthesia/data/mmv/tags/worldgen/biome/has_structure/dark_forest_biomes.json"
+hash = "51748cdd95402428302d978e81b98467108390ade980854d6f94c386042997cc"
+
+[[files]]
+file = "moonlight-global-datapacks/synesthesia/data/mns/tags/worldgen/biome/has_structure/crimson_biomes.json"
+hash = "b56bcdf883ec51926746d379b8ece0e14191a190bfc44ba8744f277ab050aaf2"
+
+[[files]]
+file = "moonlight-global-datapacks/synesthesia/data/mns/tags/worldgen/biome/has_structure/nether_wastes_biomes.json"
+hash = "b56bcdf883ec51926746d379b8ece0e14191a190bfc44ba8744f277ab050aaf2"
+
+[[files]]
+file = "moonlight-global-datapacks/synesthesia/data/mns/tags/worldgen/biome/has_structure/soul_biomes.json"
+hash = "b56bcdf883ec51926746d379b8ece0e14191a190bfc44ba8744f277ab050aaf2"
+
+[[files]]
+file = "moonlight-global-datapacks/synesthesia/data/mns/tags/worldgen/biome/has_structure/warped_biomes.json"
+hash = "b56bcdf883ec51926746d379b8ece0e14191a190bfc44ba8744f277ab050aaf2"
+
+[[files]]
+file = "moonlight-global-datapacks/synesthesia/data/mowziesmobs/tags/worldgen/biome/is_magical.json"
+hash = "51748cdd95402428302d978e81b98467108390ade980854d6f94c386042997cc"
+
+[[files]]
+file = "moonlight-global-datapacks/synesthesia/data/mss/tags/worldgen/biome/has_structure/mangrove_biomes.json"
+hash = "51748cdd95402428302d978e81b98467108390ade980854d6f94c386042997cc"
+
+[[files]]
+file = "moonlight-global-datapacks/synesthesia/data/mtr/tags/worldgen/biome/has_structure/acacia_biomes.json"
+hash = "51748cdd95402428302d978e81b98467108390ade980854d6f94c386042997cc"
+
+[[files]]
+file = "moonlight-global-datapacks/synesthesia/data/mtr/tags/worldgen/biome/has_structure/birch_biomes.json"
+hash = "51748cdd95402428302d978e81b98467108390ade980854d6f94c386042997cc"
+
+[[files]]
+file = "moonlight-global-datapacks/synesthesia/data/mtr/tags/worldgen/biome/has_structure/cherry_biomes.json"
+hash = "51748cdd95402428302d978e81b98467108390ade980854d6f94c386042997cc"
+
+[[files]]
+file = "moonlight-global-datapacks/synesthesia/data/mtr/tags/worldgen/biome/has_structure/crimson_biomes.json"
+hash = "b56bcdf883ec51926746d379b8ece0e14191a190bfc44ba8744f277ab050aaf2"
+
+[[files]]
+file = "moonlight-global-datapacks/synesthesia/data/mtr/tags/worldgen/biome/has_structure/dark_oak_biomes.json"
+hash = "51748cdd95402428302d978e81b98467108390ade980854d6f94c386042997cc"
+
+[[files]]
+file = "moonlight-global-datapacks/synesthesia/data/mtr/tags/worldgen/biome/has_structure/end_biomes.json"
+hash = "6ddf517f6d4b65c795bddcf7c1cbb5368793c280b9e9bb080ab2df50cbc7030b"
+
+[[files]]
+file = "moonlight-global-datapacks/synesthesia/data/mtr/tags/worldgen/biome/has_structure/flower_biomes.json"
+hash = "51748cdd95402428302d978e81b98467108390ade980854d6f94c386042997cc"
+
+[[files]]
+file = "moonlight-global-datapacks/synesthesia/data/mtr/tags/worldgen/biome/has_structure/mangrove_biomes.json"
+hash = "51748cdd95402428302d978e81b98467108390ade980854d6f94c386042997cc"
+
+[[files]]
+file = "moonlight-global-datapacks/synesthesia/data/mtr/tags/worldgen/biome/has_structure/mushroom_island_biomes.json"
+hash = "51748cdd95402428302d978e81b98467108390ade980854d6f94c386042997cc"
+
+[[files]]
+file = "moonlight-global-datapacks/synesthesia/data/mtr/tags/worldgen/biome/has_structure/nether_wastes_biomes.json"
+hash = "b56bcdf883ec51926746d379b8ece0e14191a190bfc44ba8744f277ab050aaf2"
+
+[[files]]
+file = "moonlight-global-datapacks/synesthesia/data/mtr/tags/worldgen/biome/has_structure/oak_biomes.json"
+hash = "51748cdd95402428302d978e81b98467108390ade980854d6f94c386042997cc"
+
+[[files]]
+file = "moonlight-global-datapacks/synesthesia/data/mtr/tags/worldgen/biome/has_structure/plains_and_oak_biomes.json"
+hash = "51748cdd95402428302d978e81b98467108390ade980854d6f94c386042997cc"
+
+[[files]]
+file = "moonlight-global-datapacks/synesthesia/data/mtr/tags/worldgen/biome/has_structure/snowy_biomes.json"
+hash = "51748cdd95402428302d978e81b98467108390ade980854d6f94c386042997cc"
+
+[[files]]
+file = "moonlight-global-datapacks/synesthesia/data/mtr/tags/worldgen/biome/has_structure/stony_shore_biomes.json"
+hash = "51748cdd95402428302d978e81b98467108390ade980854d6f94c386042997cc"
+
+[[files]]
+file = "moonlight-global-datapacks/synesthesia/data/mvs/tags/worldgen/biome/is_dark_forest.json"
+hash = "51748cdd95402428302d978e81b98467108390ade980854d6f94c386042997cc"
+
+[[files]]
+file = "moonlight-global-datapacks/synesthesia/data/mvs/tags/worldgen/biome/primary_wood_type/cherry.json"
+hash = "51748cdd95402428302d978e81b98467108390ade980854d6f94c386042997cc"
+
+[[files]]
+file = "moonlight-global-datapacks/synesthesia/data/mvs/tags/worldgen/biome/primary_wood_type/crimson.json"
+hash = "b56bcdf883ec51926746d379b8ece0e14191a190bfc44ba8744f277ab050aaf2"
+
+[[files]]
+file = "moonlight-global-datapacks/synesthesia/data/mvs/tags/worldgen/biome/primary_wood_type/mangrove.json"
+hash = "51748cdd95402428302d978e81b98467108390ade980854d6f94c386042997cc"
+
+[[files]]
+file = "moonlight-global-datapacks/synesthesia/data/neoforge/loot_modifiers/global_loot_modifiers.json"
+hash = "8708c0f0e124b6217812e6073f94fb7de2f275adcce3b7367e9bac73186eee65"
+
+[[files]]
+file = "moonlight-global-datapacks/synesthesia/data/nova_structures/tags/worldgen/biome/collections/cherry_forests.json"
+hash = "c859ab39fb8a6b735ef53ddc01e684b56712a20c7081db02b0d26ab6d416f8d5"
+
+[[files]]
+file = "moonlight-global-datapacks/synesthesia/data/nova_structures/tags/worldgen/biome/collections/end_voids.json"
+hash = "6ddf517f6d4b65c795bddcf7c1cbb5368793c280b9e9bb080ab2df50cbc7030b"
+
+[[files]]
+file = "moonlight-global-datapacks/synesthesia/data/nova_structures/tags/worldgen/biome/collections/mangroves.json"
+hash = "51748cdd95402428302d978e81b98467108390ade980854d6f94c386042997cc"
+
+[[files]]
+file = "moonlight-global-datapacks/synesthesia/data/nova_structures/tags/worldgen/biome/collections/meadows.json"
+hash = "51748cdd95402428302d978e81b98467108390ade980854d6f94c386042997cc"
+
+[[files]]
+file = "moonlight-global-datapacks/synesthesia/data/nova_structures/tags/worldgen/biome/collections/nether_basalts.json"
+hash = "4359ad7ee04a2307402a711cae85a6fc8b0cacb0a0bfedec7ce5991095e8ecfc"
+
+[[files]]
+file = "moonlight-global-datapacks/synesthesia/data/nova_structures/tags/worldgen/biome/collections/nether_crimson_forests.json"
+hash = "6ea2867eb79a90366d2fc0cd861fc1147720dbf5cad46588bb3387c7d8b13018"
+
+[[files]]
+file = "moonlight-global-datapacks/synesthesia/data/nova_structures/tags/worldgen/biome/collections/regular_forests.json"
+hash = "51748cdd95402428302d978e81b98467108390ade980854d6f94c386042997cc"
+
+[[files]]
+file = "moonlight-global-datapacks/synesthesia/data/nova_structures/tags/worldgen/biome/collections/snowy_forests.json"
+hash = "51748cdd95402428302d978e81b98467108390ade980854d6f94c386042997cc"
+
+[[files]]
+file = "moonlight-global-datapacks/synesthesia/data/nova_structures/tags/worldgen/biome/collections/snowy_mountains.json"
+hash = "51748cdd95402428302d978e81b98467108390ade980854d6f94c386042997cc"
+
+[[files]]
+file = "moonlight-global-datapacks/synesthesia/data/nova_structures/tags/worldgen/biome/collections/taiga.json"
+hash = "51748cdd95402428302d978e81b98467108390ade980854d6f94c386042997cc"
+
+[[files]]
+file = "moonlight-global-datapacks/synesthesia/data/pastel/advancement/lategame/break_budding_block_with_resonance_tool.json"
+hash = "8fdc4bcf487407d49392f770807ccdb0e66ca08277c06a8e593b5565e574e6d8"
+
+[[files]]
+file = "moonlight-global-datapacks/synesthesia/data/pastel/advancement/lategame/break_infested_block_with_resonance_tool.json"
+hash = "79327fec3af3beaa889b515f64aac8d926aa46d5ca9501950bf2fac0b266d553"
+
+[[files]]
+file = "moonlight-global-datapacks/synesthesia/data/pastel/advancement/lategame/break_spawner_with_resonance_tool.json"
+hash = "08e2088e9a4e48956a856b638f7f982c67bf3b9285aeae709c4b9b97bb5dd7b8"
+
+[[files]]
+file = "moonlight-global-datapacks/synesthesia/data/pastel/recipe/mod_integration/supplementaries/pedestal/soap.json"
+hash = "d601b62238696c7c056af2dc4f585c747f5f3ccafef439e23d45d9b15282f32e"
+
+[[files]]
+file = "moonlight-global-datapacks/synesthesia/data/pastel/recipe/mod_integration/waystones/pedestal/alt_sharestone.json"
+hash = "a55b4bbdeaf6d57b136ef475f40ab3dd2a0bf8408f6470e6db73cc0d1df860d2"
+
+[[files]]
+file = "moonlight-global-datapacks/synesthesia/data/pastel/recipe/mod_integration/xycraft/fluid_interactions/basalt.json"
+hash = "a55b4bbdeaf6d57b136ef475f40ab3dd2a0bf8408f6470e6db73cc0d1df860d2"
+
+[[files]]
+file = "moonlight-global-datapacks/synesthesia/data/pastel/recipe/mod_integration/xycraft/fluid_interactions/blackstone.json"
+hash = "a55b4bbdeaf6d57b136ef475f40ab3dd2a0bf8408f6470e6db73cc0d1df860d2"
+
+[[files]]
+file = "moonlight-global-datapacks/synesthesia/data/pastel/recipe/mod_integration/xycraft/fluid_interactions/blazing_crystal.json"
+hash = "a55b4bbdeaf6d57b136ef475f40ab3dd2a0bf8408f6470e6db73cc0d1df860d2"
+
+[[files]]
+file = "moonlight-global-datapacks/synesthesia/data/pastel/recipe/mod_integration/xycraft/fluid_interactions/calcite.json"
+hash = "a55b4bbdeaf6d57b136ef475f40ab3dd2a0bf8408f6470e6db73cc0d1df860d2"
+
+[[files]]
+file = "moonlight-global-datapacks/synesthesia/data/pastel/recipe/mod_integration/xycraft/fluid_interactions/clay.json"
+hash = "a55b4bbdeaf6d57b136ef475f40ab3dd2a0bf8408f6470e6db73cc0d1df860d2"
+
+[[files]]
+file = "moonlight-global-datapacks/synesthesia/data/pastel/recipe/mod_integration/xycraft/fluid_interactions/coarse_dirt.json"
+hash = "a55b4bbdeaf6d57b136ef475f40ab3dd2a0bf8408f6470e6db73cc0d1df860d2"
+
+[[files]]
+file = "moonlight-global-datapacks/synesthesia/data/pastel/recipe/mod_integration/xycraft/fluid_interactions/flayed_earth.json"
+hash = "a55b4bbdeaf6d57b136ef475f40ab3dd2a0bf8408f6470e6db73cc0d1df860d2"
+
+[[files]]
+file = "moonlight-global-datapacks/synesthesia/data/pastel/recipe/mod_integration/xycraft/fluid_interactions/frostbite_crystal.json"
+hash = "a55b4bbdeaf6d57b136ef475f40ab3dd2a0bf8408f6470e6db73cc0d1df860d2"
+
+[[files]]
+file = "moonlight-global-datapacks/synesthesia/data/pastel/recipe/mod_integration/xycraft/fluid_interactions/hornslake.json"
+hash = "a55b4bbdeaf6d57b136ef475f40ab3dd2a0bf8408f6470e6db73cc0d1df860d2"
+
+[[files]]
+file = "moonlight-global-datapacks/synesthesia/data/pastel/recipe/mod_integration/xycraft/fluid_interactions/humus.json"
+hash = "a55b4bbdeaf6d57b136ef475f40ab3dd2a0bf8408f6470e6db73cc0d1df860d2"
+
+[[files]]
+file = "moonlight-global-datapacks/synesthesia/data/pastel/recipe/mod_integration/xycraft/fluid_interactions/slush.json"
+hash = "a55b4bbdeaf6d57b136ef475f40ab3dd2a0bf8408f6470e6db73cc0d1df860d2"
+
+[[files]]
+file = "moonlight-global-datapacks/synesthesia/data/pastel/recipe/mod_integration/xycraft/fluid_interactions/terracotta.json"
+hash = "a55b4bbdeaf6d57b136ef475f40ab3dd2a0bf8408f6470e6db73cc0d1df860d2"
+
+[[files]]
+file = "moonlight-global-datapacks/synesthesia/data/primal/tags/worldgen/biome/has_flora/cattails.json"
+hash = "51748cdd95402428302d978e81b98467108390ade980854d6f94c386042997cc"
+
+[[files]]
+file = "moonlight-global-datapacks/synesthesia/data/primal/tags/worldgen/biome/has_flora/has_variant/seashells/cold_seashells.json"
+hash = "51748cdd95402428302d978e81b98467108390ade980854d6f94c386042997cc"
+
+[[files]]
+file = "moonlight-global-datapacks/synesthesia/data/primal/tags/worldgen/biome/has_flora/has_variant/seashells/temperate_seashells.json"
+hash = "51748cdd95402428302d978e81b98467108390ade980854d6f94c386042997cc"
+
+[[files]]
+file = "moonlight-global-datapacks/synesthesia/data/primal/tags/worldgen/biome/has_flora/thorned_acacia.json"
+hash = "51748cdd95402428302d978e81b98467108390ade980854d6f94c386042997cc"
+
+[[files]]
+file = "moonlight-global-datapacks/synesthesia/data/primal/tags/worldgen/biome/has_mob/has_habitat/walrus/ocean.json"
+hash = "51748cdd95402428302d978e81b98467108390ade980854d6f94c386042997cc"
+
+[[files]]
+file = "moonlight-global-datapacks/synesthesia/data/primal/tags/worldgen/biome/has_mob/has_variant/bear/black.json"
+hash = "51748cdd95402428302d978e81b98467108390ade980854d6f94c386042997cc"
+
+[[files]]
+file = "moonlight-global-datapacks/synesthesia/data/primal/tags/worldgen/biome/has_mob/has_variant/cassowary/sunset.json"
+hash = "51748cdd95402428302d978e81b98467108390ade980854d6f94c386042997cc"
+
+[[files]]
+file = "moonlight-global-datapacks/synesthesia/data/primal/tags/worldgen/biome/has_mob/has_variant/crocodile/black.json"
+hash = "51748cdd95402428302d978e81b98467108390ade980854d6f94c386042997cc"
+
+[[files]]
+file = "moonlight-global-datapacks/synesthesia/data/primal/tags/worldgen/biome/has_mob/has_variant/crocodile/brown.json"
+hash = "51748cdd95402428302d978e81b98467108390ade980854d6f94c386042997cc"
+
+[[files]]
+file = "moonlight-global-datapacks/synesthesia/data/primal/tags/worldgen/biome/has_mob/has_variant/deer/musk.json"
+hash = "51748cdd95402428302d978e81b98467108390ade980854d6f94c386042997cc"
+
+[[files]]
+file = "moonlight-global-datapacks/synesthesia/data/primal/tags/worldgen/biome/has_mob/has_variant/deer/reindeer.json"
+hash = "51748cdd95402428302d978e81b98467108390ade980854d6f94c386042997cc"
+
+[[files]]
+file = "moonlight-global-datapacks/synesthesia/data/primal/tags/worldgen/biome/has_mob/has_variant/deer/whitetail.json"
+hash = "51748cdd95402428302d978e81b98467108390ade980854d6f94c386042997cc"
+
+[[files]]
+file = "moonlight-global-datapacks/synesthesia/data/primal/tags/worldgen/biome/has_mob/has_variant/dolphin/cold.json"
+hash = "51748cdd95402428302d978e81b98467108390ade980854d6f94c386042997cc"
+
+[[files]]
+file = "moonlight-global-datapacks/synesthesia/data/primal/tags/worldgen/biome/has_mob/has_variant/dolphin/warm.json"
+hash = "51748cdd95402428302d978e81b98467108390ade980854d6f94c386042997cc"
+
+[[files]]
+file = "moonlight-global-datapacks/synesthesia/data/primal/tags/worldgen/biome/has_mob/has_variant/eagle/golden.json"
+hash = "51748cdd95402428302d978e81b98467108390ade980854d6f94c386042997cc"
+
+[[files]]
+file = "moonlight-global-datapacks/synesthesia/data/primal/tags/worldgen/biome/has_mob/has_variant/eagle/harpy.json"
+hash = "51748cdd95402428302d978e81b98467108390ade980854d6f94c386042997cc"
+
+[[files]]
+file = "moonlight-global-datapacks/synesthesia/data/primal/tags/worldgen/biome/has_mob/has_variant/eagle/philippine.json"
+hash = "51748cdd95402428302d978e81b98467108390ade980854d6f94c386042997cc"
+
+[[files]]
+file = "moonlight-global-datapacks/synesthesia/data/primal/tags/worldgen/biome/has_mob/has_variant/lion/caramel.json"
+hash = "51748cdd95402428302d978e81b98467108390ade980854d6f94c386042997cc"
+
+[[files]]
+file = "moonlight-global-datapacks/synesthesia/data/primal/tags/worldgen/biome/has_mob/has_variant/lion/cave.json"
+hash = "51748cdd95402428302d978e81b98467108390ade980854d6f94c386042997cc"
+
+[[files]]
+file = "moonlight-global-datapacks/synesthesia/data/primal/tags/worldgen/biome/has_mob/has_variant/shark/hammerhead.json"
+hash = "51748cdd95402428302d978e81b98467108390ade980854d6f94c386042997cc"
+
+[[files]]
+file = "moonlight-global-datapacks/synesthesia/data/primal/tags/worldgen/biome/has_mob/has_variant/shark/mackerel.json"
+hash = "51748cdd95402428302d978e81b98467108390ade980854d6f94c386042997cc"
+
+[[files]]
+file = "moonlight-global-datapacks/synesthesia/data/primal/tags/worldgen/biome/has_mob/has_variant/shark/sleeper.json"
+hash = "51748cdd95402428302d978e81b98467108390ade980854d6f94c386042997cc"
+
+[[files]]
+file = "moonlight-global-datapacks/synesthesia/data/primal/tags/worldgen/biome/has_mob/has_variant/shark/tiger.json"
+hash = "51748cdd95402428302d978e81b98467108390ade980854d6f94c386042997cc"
+
+[[files]]
+file = "moonlight-global-datapacks/synesthesia/data/primal/tags/worldgen/biome/has_mob/has_variant/snake/aposematic.json"
+hash = "51748cdd95402428302d978e81b98467108390ade980854d6f94c386042997cc"
+
+[[files]]
+file = "moonlight-global-datapacks/synesthesia/data/primal/tags/worldgen/biome/has_mob/has_variant/snake/brackish.json"
+hash = "51748cdd95402428302d978e81b98467108390ade980854d6f94c386042997cc"
+
+[[files]]
+file = "moonlight-global-datapacks/synesthesia/data/primal/tags/worldgen/biome/has_mob/has_variant/snake/browed.json"
+hash = "51748cdd95402428302d978e81b98467108390ade980854d6f94c386042997cc"
+
+[[files]]
+file = "moonlight-global-datapacks/synesthesia/data/primal/tags/worldgen/biome/has_mob/has_variant/snake/cerulean.json"
+hash = "51748cdd95402428302d978e81b98467108390ade980854d6f94c386042997cc"
+
+[[files]]
+file = "moonlight-global-datapacks/synesthesia/data/primal/tags/worldgen/biome/has_mob/has_variant/snake/lumber.json"
+hash = "51748cdd95402428302d978e81b98467108390ade980854d6f94c386042997cc"
+
+[[files]]
+file = "moonlight-global-datapacks/synesthesia/data/primal/tags/worldgen/biome/has_mob/has_variant/walrus/sunburnt.json"
+hash = "51748cdd95402428302d978e81b98467108390ade980854d6f94c386042997cc"
+
+[[files]]
+file = "moonlight-global-datapacks/synesthesia/data/productivebees/recipe/centrifuge/modularbees/honeycomb_imperial.json"
+hash = "a55b4bbdeaf6d57b136ef475f40ab3dd2a0bf8408f6470e6db73cc0d1df860d2"
+
+[[files]]
+file = "moonlight-global-datapacks/synesthesia/data/productivebees/tags/worldgen/biome/warm_ocean.json"
+hash = "51748cdd95402428302d978e81b98467108390ade980854d6f94c386042997cc"
+
+[[files]]
+file = "moonlight-global-datapacks/synesthesia/data/quark/tags/worldgen/biome/all_quark_biomes.json"
+hash = "25a34783f3473f34345a5b1eebdcf3057b1ef989c482d3d421fab4793958f278"
+
+[[files]]
+file = "moonlight-global-datapacks/synesthesia/data/quark/tags/worldgen/biome/has_fallen_acacia.json"
+hash = "51748cdd95402428302d978e81b98467108390ade980854d6f94c386042997cc"
+
+[[files]]
+file = "moonlight-global-datapacks/synesthesia/data/quark/tags/worldgen/biome/has_fallen_birch.json"
+hash = "51748cdd95402428302d978e81b98467108390ade980854d6f94c386042997cc"
+
+[[files]]
+file = "moonlight-global-datapacks/synesthesia/data/quark/tags/worldgen/biome/has_fallen_cherry.json"
+hash = "51748cdd95402428302d978e81b98467108390ade980854d6f94c386042997cc"
+
+[[files]]
+file = "moonlight-global-datapacks/synesthesia/data/quark/tags/worldgen/biome/has_fallen_jungle.json"
+hash = "51748cdd95402428302d978e81b98467108390ade980854d6f94c386042997cc"
+
+[[files]]
+file = "moonlight-global-datapacks/synesthesia/data/quark/tags/worldgen/biome/has_fallen_oak.json"
+hash = "51748cdd95402428302d978e81b98467108390ade980854d6f94c386042997cc"
+
+[[files]]
+file = "moonlight-global-datapacks/synesthesia/data/quark/tags/worldgen/biome/has_fallen_spruce.json"
+hash = "51748cdd95402428302d978e81b98467108390ade980854d6f94c386042997cc"
+
+[[files]]
+file = "moonlight-global-datapacks/synesthesia/data/quark/tags/worldgen/biome/has_lower_fallen_tree_density.json"
+hash = "51748cdd95402428302d978e81b98467108390ade980854d6f94c386042997cc"
+
+[[files]]
+file = "moonlight-global-datapacks/synesthesia/data/recovery/function/give_items.mcfunction"
+hash = "1cc028c978312cc2aa6e1f0d93de90cc265270e9fc994960c635147f1e8d6c42"
+
+[[files]]
+file = "moonlight-global-datapacks/synesthesia/data/regions_unexplored/worldgen/placed_feature/patch/ash_vents_inferno.json"
+hash = "5b233c601237d279bf51ee4f86e521dd7aa6167d3a6c9f9578de51944e84f3e1"
+
+[[files]]
+file = "moonlight-global-datapacks/synesthesia/data/regions_unexplored/worldgen/placed_feature/patch/cave_bioshrooms.json"
+hash = "af085a7f131df8c6b9793439d8108d8608066fe1acca4d189a4785e75bf324c9"
+
+[[files]]
+file = "moonlight-global-datapacks/synesthesia/data/regions_unexplored/worldgen/placed_feature/patch/dropleaf.json"
+hash = "e0c7744b046b213198c0a2523221b17d9fd0996f88789464d1993555fcba3b5f"
+
+[[files]]
+file = "moonlight-global-datapacks/synesthesia/data/regions_unexplored/worldgen/placed_feature/patch/prismarite_cluster.json"
+hash = "7e664e84da3781666cb01f99d59c42b359d7156eac4696c598980560bc8d6557"
+
+[[files]]
+file = "moonlight-global-datapacks/synesthesia/data/regions_unexplored/worldgen/placed_feature/patch/redstone_bud.json"
+hash = "b27c14f4a9bb8d7aebafb112ad2ffb74867e429a0a0a39888943fb39f6321da5"
+
+[[files]]
+file = "moonlight-global-datapacks/synesthesia/data/regions_unexplored/worldgen/placed_feature/patch/redstone_bulb.json"
+hash = "0cac1a0b0ff9080f69b95c66674bfadbf719c44801131d317dd7a99d74ec3d66"
+
+[[files]]
+file = "moonlight-global-datapacks/synesthesia/data/regions_unexplored/worldgen/placed_feature/special/lava_fall.json"
+hash = "6b77aa6d6d6979e4858418b7fd61f06c9e9f92225704c9a1d4bd754a6e7468c7"
+
+[[files]]
+file = "moonlight-global-datapacks/synesthesia/data/regions_unexplored/worldgen/placed_feature/special/overworld_lava_delta.json"
+hash = "f3b403c26d5e96cd20fd51f459bfc64bd11ed817c7a59bd1c10e7f3aa70e3bba"
+
+[[files]]
+file = "moonlight-global-datapacks/synesthesia/data/scorched/tags/worldgen/biome/has_structure/ancient_mechanism.json"
+hash = "51748cdd95402428302d978e81b98467108390ade980854d6f94c386042997cc"
+
+[[files]]
+file = "moonlight-global-datapacks/synesthesia/data/scorched/tags/worldgen/biome/has_structure/badlands_pyramid.json"
+hash = "51748cdd95402428302d978e81b98467108390ade980854d6f94c386042997cc"
+
+[[files]]
+file = "moonlight-global-datapacks/synesthesia/data/scorched/tags/worldgen/biome/has_structure/badlands_well.json"
+hash = "51748cdd95402428302d978e81b98467108390ade980854d6f94c386042997cc"
+
+[[files]]
+file = "moonlight-global-datapacks/synesthesia/data/scorched/tags/worldgen/biome/has_structure/desert_well.json"
+hash = "51748cdd95402428302d978e81b98467108390ade980854d6f94c386042997cc"
+
+[[files]]
+file = "moonlight-global-datapacks/synesthesia/data/scorched/tags/worldgen/biome/has_structure/sandcrab.json"
+hash = "51748cdd95402428302d978e81b98467108390ade980854d6f94c386042997cc"
+
+[[files]]
+file = "moonlight-global-datapacks/synesthesia/data/scorched/tags/worldgen/biome/spawns_sandcrawlers.json"
+hash = "51748cdd95402428302d978e81b98467108390ade980854d6f94c386042997cc"
+
+[[files]]
+file = "moonlight-global-datapacks/synesthesia/data/starcatcher/tags/worldgen/biome/is_basalt_deltas.json"
+hash = "b56bcdf883ec51926746d379b8ece0e14191a190bfc44ba8744f277ab050aaf2"
+
+[[files]]
+file = "moonlight-global-datapacks/synesthesia/data/starcatcher/tags/worldgen/biome/is_cherry_grove.json"
+hash = "51748cdd95402428302d978e81b98467108390ade980854d6f94c386042997cc"
+
+[[files]]
+file = "moonlight-global-datapacks/synesthesia/data/starcatcher/tags/worldgen/biome/is_cold_lake.json"
+hash = "51748cdd95402428302d978e81b98467108390ade980854d6f94c386042997cc"
+
+[[files]]
+file = "moonlight-global-datapacks/synesthesia/data/starcatcher/tags/worldgen/biome/is_cold_ocean.json"
+hash = "51748cdd95402428302d978e81b98467108390ade980854d6f94c386042997cc"
+
+[[files]]
+file = "moonlight-global-datapacks/synesthesia/data/starcatcher/tags/worldgen/biome/is_cold_river.json"
+hash = "51748cdd95402428302d978e81b98467108390ade980854d6f94c386042997cc"
+
+[[files]]
+file = "moonlight-global-datapacks/synesthesia/data/starcatcher/tags/worldgen/biome/is_crimson_forest.json"
+hash = "b56bcdf883ec51926746d379b8ece0e14191a190bfc44ba8744f277ab050aaf2"
+
+[[files]]
+file = "moonlight-global-datapacks/synesthesia/data/starcatcher/tags/worldgen/biome/is_dark_forest.json"
+hash = "51748cdd95402428302d978e81b98467108390ade980854d6f94c386042997cc"
+
+[[files]]
+file = "moonlight-global-datapacks/synesthesia/data/starcatcher/tags/worldgen/biome/is_lukewarm_ocean.json"
+hash = "51748cdd95402428302d978e81b98467108390ade980854d6f94c386042997cc"
+
+[[files]]
+file = "moonlight-global-datapacks/synesthesia/data/starcatcher/tags/worldgen/biome/is_normal_ocean.json"
+hash = "51748cdd95402428302d978e81b98467108390ade980854d6f94c386042997cc"
+
+[[files]]
+file = "moonlight-global-datapacks/synesthesia/data/starcatcher/tags/worldgen/biome/is_soul_sand_valley.json"
+hash = "b56bcdf883ec51926746d379b8ece0e14191a190bfc44ba8744f277ab050aaf2"
+
+[[files]]
+file = "moonlight-global-datapacks/synesthesia/data/starcatcher/tags/worldgen/biome/is_warm_ocean.json"
+hash = "51748cdd95402428302d978e81b98467108390ade980854d6f94c386042997cc"
+
+[[files]]
+file = "moonlight-global-datapacks/synesthesia/data/starcatcher/tags/worldgen/biome/is_warm_river.json"
+hash = "51748cdd95402428302d978e81b98467108390ade980854d6f94c386042997cc"
+
+[[files]]
+file = "moonlight-global-datapacks/synesthesia/data/starcatcher/tags/worldgen/biome/is_warped_forest.json"
+hash = "b56bcdf883ec51926746d379b8ece0e14191a190bfc44ba8744f277ab050aaf2"
+
+[[files]]
+file = "moonlight-global-datapacks/synesthesia/data/swem/tags/worldgen/biome/has_structure/lonely_cottage_abandoned.json"
+hash = "51748cdd95402428302d978e81b98467108390ade980854d6f94c386042997cc"
+
+[[files]]
+file = "moonlight-global-datapacks/synesthesia/data/synesthesia/worldgen/structure_set/coastal_discovery.json"
+hash = "63cd6f46cf35dd9d38cf6be8c77b0ee9e9107d01c5e6ae2c6c300e4c128b5e6e"
+
+[[files]]
+file = "moonlight-global-datapacks/synesthesia/data/synesthesia/worldgen/structure_set/end_discovery.json"
+hash = "20130217dbee653de6e2a0a4bbd7ca178e029ef7f8d56da67012561335c5be80"
+
+[[files]]
+file = "moonlight-global-datapacks/synesthesia/data/synesthesia/worldgen/structure_set/nether_major.json"
+hash = "989ccece69d15c7956136d79b74e8e3038dd833a7e78943c7dc31a02bd94abce"
+
+[[files]]
+file = "moonlight-global-datapacks/synesthesia/data/synesthesia/worldgen/structure_set/overworld_arcane.json"
+hash = "fc29c44def09ee74d08490aa23e481c06510011d5928f58bfbbc7c8ac4037892"
+
+[[files]]
+file = "moonlight-global-datapacks/synesthesia/data/synesthesia/worldgen/structure_set/overworld_discovery.json"
+hash = "3943cee962c4e6a56983617c8c4bab4bae62f634ad610f6333c4b902bf6aff8f"
+
+[[files]]
+file = "moonlight-global-datapacks/synesthesia/data/synesthesia/worldgen/structure_set/overworld_major.json"
+hash = "e3b14508c1b4e554a7dd12ee91978ecd6e7c40d208222fbbec1994a2357eb511"
+
+[[files]]
+file = "moonlight-global-datapacks/synesthesia/data/synesthesia/worldgen/structure_set/underground_discovery.json"
+hash = "18ad1d5d5102076d3f5f2824fcec9352b54064234d9e97a889b6b55864cdbf61"
+
+[[files]]
+file = "moonlight-global-datapacks/synesthesia/data/synesthesia_plushies/loot_modifiers/plushie_bat.json"
+hash = "af2700cf11ffd434d338b4a4d2ac88dd1f8c1c29c38b1f713bf689073cdcb1fc"
+
+[[files]]
+file = "moonlight-global-datapacks/synesthesia/data/synesthesia_plushies/loot_modifiers/plushie_blaze.json"
+hash = "06804be1be3f3b3b3050957ed9840f8ff5ccb263f5fc4a6c355b4ea42038378f"
+
+[[files]]
+file = "moonlight-global-datapacks/synesthesia/data/synesthesia_plushies/loot_modifiers/plushie_breeze.json"
+hash = "cbe70718808a92a0f354c12e502b6c38a88546083dd9e29711096d1143dc2e77"
+
+[[files]]
+file = "moonlight-global-datapacks/synesthesia/data/synesthesia_plushies/loot_modifiers/plushie_cave_spider.json"
+hash = "75d36e18fe0982e5614fba7b87e380806ec1af23bf6b80e8540744634fbe35bc"
+
+[[files]]
+file = "moonlight-global-datapacks/synesthesia/data/synesthesia_plushies/loot_modifiers/plushie_creeper.json"
+hash = "ceb9fbe60ada80d1680dfdde06ce19af6058d893ab0fae3234f8b237079d51be"
+
+[[files]]
+file = "moonlight-global-datapacks/synesthesia/data/synesthesia_plushies/loot_modifiers/plushie_drowned.json"
+hash = "9dab84a466db5d164ab110aedec87b0b630fc1ba7934024a3ab6872971f3fff6"
+
+[[files]]
+file = "moonlight-global-datapacks/synesthesia/data/synesthesia_plushies/loot_modifiers/plushie_elder_guardian.json"
+hash = "fc8ba6fe101fde1446a8c66fab15d57582083eb1909d063c78348ee917a00917"
+
+[[files]]
+file = "moonlight-global-datapacks/synesthesia/data/synesthesia_plushies/loot_modifiers/plushie_enderdragon.json"
+hash = "c1206f4a650d5fe2a69ad3998a70ac512d038647fafd2d2e46d30553f6f1aa3a"
+
+[[files]]
+file = "moonlight-global-datapacks/synesthesia/data/synesthesia_plushies/loot_modifiers/plushie_enderman.json"
+hash = "76cec717d733dc9e82dcedb0e3dee440db5951991bccf10d4f995f87a1ec053f"
+
+[[files]]
+file = "moonlight-global-datapacks/synesthesia/data/synesthesia_plushies/loot_modifiers/plushie_evoker.json"
+hash = "4b84f9e4676e674e9a0e49cab34d3b6cd7e412bd17bdc52e2e4686d595909888"
+
+[[files]]
+file = "moonlight-global-datapacks/synesthesia/data/synesthesia_plushies/loot_modifiers/plushie_ghast.json"
+hash = "3104aa5c98533898d9252c46ce38d1354a7f1c209d56aa578cc6ab6b6553d399"
+
+[[files]]
+file = "moonlight-global-datapacks/synesthesia/data/synesthesia_plushies/loot_modifiers/plushie_glow_squid.json"
+hash = "f91c23b17c9c1e995734ca1dae6ec52f6017b2d4fe8ebd618165bbb20f038fff"
+
+[[files]]
+file = "moonlight-global-datapacks/synesthesia/data/synesthesia_plushies/loot_modifiers/plushie_guardian.json"
+hash = "3189c205ce49ef0eb4a0443e782cb432df79fe1cc24104040ebdce8bb35f6e8c"
+
+[[files]]
+file = "moonlight-global-datapacks/synesthesia/data/synesthesia_plushies/loot_modifiers/plushie_hoglin.json"
+hash = "df7589076c6c3305d786df4b5f357eefc119cb75fd895c680915361a72fa85dc"
+
+[[files]]
+file = "moonlight-global-datapacks/synesthesia/data/synesthesia_plushies/loot_modifiers/plushie_husk.json"
+hash = "eb7cdc35b3acd977c3c4ac682106b8a66f8af31467c08106b9582a9a77b008a9"
+
+[[files]]
+file = "moonlight-global-datapacks/synesthesia/data/synesthesia_plushies/loot_modifiers/plushie_magma_cube.json"
+hash = "01b3a22f1af478bc5fe5711ab3df3ae8b12277dd88edd762a3215498f6292bd1"
+
+[[files]]
+file = "moonlight-global-datapacks/synesthesia/data/synesthesia_plushies/loot_modifiers/plushie_phantom.json"
+hash = "6e5c2fc74c5fd752c3683d02a324b88843000a722af75db9e21150f5c84f4362"
+
+[[files]]
+file = "moonlight-global-datapacks/synesthesia/data/synesthesia_plushies/loot_modifiers/plushie_piglin_brute.json"
+hash = "303c06793e0aecebae4686cabd17925d75f4b8fcab10bb2827efab539ad5b14a"
+
+[[files]]
+file = "moonlight-global-datapacks/synesthesia/data/synesthesia_plushies/loot_modifiers/plushie_pillager.json"
+hash = "863024cb1f60850a93fa2d8b1b09dfff39d43f0998dc53b3f1d7d327ce504626"
+
+[[files]]
+file = "moonlight-global-datapacks/synesthesia/data/synesthesia_plushies/loot_modifiers/plushie_polar_bear.json"
+hash = "362455b5c2f666f70b44df07e20c922f3fe05da97fe600c7e969ce8346a352f5"
+
+[[files]]
+file = "moonlight-global-datapacks/synesthesia/data/synesthesia_plushies/loot_modifiers/plushie_pufferfish.json"
+hash = "f8613e7c13fe5a5f5feb78e6ca20a915813649f703d64055e7bc79a88feaa098"
+
+[[files]]
+file = "moonlight-global-datapacks/synesthesia/data/synesthesia_plushies/loot_modifiers/plushie_ravanger.json"
+hash = "035c2f376e79c1bfba9983d52813b0567fd01d2b8ac232b1eb694a8c5aa3d7b1"
+
+[[files]]
+file = "moonlight-global-datapacks/synesthesia/data/synesthesia_plushies/loot_modifiers/plushie_shulker.json"
+hash = "81a2891b81f92e1941973cbb09144f8f09fd639038f6bf68e8bdbf226ad35000"
+
+[[files]]
+file = "moonlight-global-datapacks/synesthesia/data/synesthesia_plushies/loot_modifiers/plushie_skeleton.json"
+hash = "ca4ec1cf6b03db95a1ea97623ce87eac387ac11a4fc58b9622b27c77e761240c"
+
+[[files]]
+file = "moonlight-global-datapacks/synesthesia/data/synesthesia_plushies/loot_modifiers/plushie_skeleton_horse.json"
+hash = "056a32135c89d12ef77e8870ab1e12977806e0c83a3f85e03eb730dd5febe0f9"
+
+[[files]]
+file = "moonlight-global-datapacks/synesthesia/data/synesthesia_plushies/loot_modifiers/plushie_slime.json"
+hash = "9788f446668d4a02fe135ca296b1aa8c114f8178e7660af5b32739b5a30c0d03"
+
+[[files]]
+file = "moonlight-global-datapacks/synesthesia/data/synesthesia_plushies/loot_modifiers/plushie_spider.json"
+hash = "c7b3a6e420005da30878eecac9bb27937e868e479eafb383075ae4bd12738446"
+
+[[files]]
+file = "moonlight-global-datapacks/synesthesia/data/synesthesia_plushies/loot_modifiers/plushie_squid.json"
+hash = "ac7cfac8e525f21bac9f4b77eb46984a327d7908db2f985ce560d49783b3d629"
+
+[[files]]
+file = "moonlight-global-datapacks/synesthesia/data/synesthesia_plushies/loot_modifiers/plushie_stray.json"
+hash = "954328d0967cd6ab056cc58816720cefcbd457812773f2916aef1a351b4f1f42"
+
+[[files]]
+file = "moonlight-global-datapacks/synesthesia/data/synesthesia_plushies/loot_modifiers/plushie_vex.json"
+hash = "b37bf3e8c97a79129b4332738cf47c8b13080272ed9ab7e72f236fec2326d9ee"
+
+[[files]]
+file = "moonlight-global-datapacks/synesthesia/data/synesthesia_plushies/loot_modifiers/plushie_vindicator.json"
+hash = "ca6e3da911194d46f083cb675e995199892a015e4423672af90507b812847f49"
+
+[[files]]
+file = "moonlight-global-datapacks/synesthesia/data/synesthesia_plushies/loot_modifiers/plushie_wandering_trader.json"
+hash = "4dc4211b22827e8066ffc519fc76ed46b4309a717818d1dad739b369f885b1dc"
+
+[[files]]
+file = "moonlight-global-datapacks/synesthesia/data/synesthesia_plushies/loot_modifiers/plushie_warden.json"
+hash = "7e6307143d365c12fea40a0e2981b5dc64abc5920cc90bd7e15f57bc0454cc01"
+
+[[files]]
+file = "moonlight-global-datapacks/synesthesia/data/synesthesia_plushies/loot_modifiers/plushie_witch.json"
+hash = "9ebaf19628347605a856579ff0303c2ace9dbb01fd692b3e81b7296a133d0879"
+
+[[files]]
+file = "moonlight-global-datapacks/synesthesia/data/synesthesia_plushies/loot_modifiers/plushie_wither.json"
+hash = "99bdd88ed7e3a2c6fbcb32c642586fc4a7aeab58126a1fb1ffb70e73ef7f7faf"
+
+[[files]]
+file = "moonlight-global-datapacks/synesthesia/data/synesthesia_plushies/loot_modifiers/plushie_wither_skeleton.json"
+hash = "cb1f97a58592777c003062276bb8459a4b165289dca9af92d2bec690d98a476f"
+
+[[files]]
+file = "moonlight-global-datapacks/synesthesia/data/synesthesia_plushies/loot_modifiers/plushie_zoglin.json"
+hash = "d66aeb94b519b600b18fec6cb7f513220b4ced729858df0c2f476357def93b64"
+
+[[files]]
+file = "moonlight-global-datapacks/synesthesia/data/synesthesia_plushies/loot_modifiers/plushie_zombie.json"
+hash = "426671b215c33ec76004bb17c24357192c680061d69b071e8c2f520a8cbcfb1c"
+
+[[files]]
+file = "moonlight-global-datapacks/synesthesia/data/synesthesia_plushies/loot_modifiers/plushie_zombie_villager.json"
+hash = "6e36900942440f5ee86212b203e85db5cfe96c9c679634c7598e8aa799ec7092"
+
+[[files]]
+file = "moonlight-global-datapacks/synesthesia/data/synesthesia_plushies/loot_modifiers/plushie_zombified_piglin.json"
+hash = "ebf1b49dec9747cfb12a02323d83c2d6e7c06f9ac11ead9a8b5c38492dc63772"
+
+[[files]]
+file = "moonlight-global-datapacks/synesthesia/data/synesthesia_plushies/loot_table/inject/plushie_bat.json"
+hash = "28ae92fa8affb953124514c44cefaab64b6d337c8e83df754ec8ea83ce399e65"
+
+[[files]]
+file = "moonlight-global-datapacks/synesthesia/data/synesthesia_plushies/loot_table/inject/plushie_blaze.json"
+hash = "2075744d72a9e97b5fe1225df703cd87fa6c2caef8dde0c101b45ac44f6dccc5"
+
+[[files]]
+file = "moonlight-global-datapacks/synesthesia/data/synesthesia_plushies/loot_table/inject/plushie_breeze.json"
+hash = "90453aa5cecd895df105bfc5258c6e10438b6cbad1d8782c4fbbcbc93269f8a2"
+
+[[files]]
+file = "moonlight-global-datapacks/synesthesia/data/synesthesia_plushies/loot_table/inject/plushie_cave_spider.json"
+hash = "ea7c03f606fbb886f7d1db9dbcf6ccd2c933ed3a5a70f35318ffa7354a857f96"
+
+[[files]]
+file = "moonlight-global-datapacks/synesthesia/data/synesthesia_plushies/loot_table/inject/plushie_creeper.json"
+hash = "d4edf7f47791daf3f6461f6e4521f3656b1905d98d45d004bf65b09e62cfa4e3"
+
+[[files]]
+file = "moonlight-global-datapacks/synesthesia/data/synesthesia_plushies/loot_table/inject/plushie_drowned.json"
+hash = "cfeea121545393726a3554cb3717e2354758f2b9d921afd511584a7cb21d57fe"
+
+[[files]]
+file = "moonlight-global-datapacks/synesthesia/data/synesthesia_plushies/loot_table/inject/plushie_elder_guardian.json"
+hash = "02c7543e6e86d50a598ddc52190d36fd998cf47f5e2a166d3a4a8107797d8fbb"
+
+[[files]]
+file = "moonlight-global-datapacks/synesthesia/data/synesthesia_plushies/loot_table/inject/plushie_enderdragon.json"
+hash = "21feeddd20ef8d2f83b87fff6d6e86c986570ca793cca543354ff32234fa2e42"
+
+[[files]]
+file = "moonlight-global-datapacks/synesthesia/data/synesthesia_plushies/loot_table/inject/plushie_enderman.json"
+hash = "ea281b6be975850f525617597aac74dfcb649bc0e1e7bb86c99634c20fdb02b6"
+
+[[files]]
+file = "moonlight-global-datapacks/synesthesia/data/synesthesia_plushies/loot_table/inject/plushie_evoker.json"
+hash = "ef894ce2b190ccdd77c943b3a7b5c8d160f144ebb78ff02143ba20d036079539"
+
+[[files]]
+file = "moonlight-global-datapacks/synesthesia/data/synesthesia_plushies/loot_table/inject/plushie_ghast.json"
+hash = "9e246d586aff418796ddb934557a3d6468005702e7e373eb6e0dcf8bb8e57add"
+
+[[files]]
+file = "moonlight-global-datapacks/synesthesia/data/synesthesia_plushies/loot_table/inject/plushie_glow_squid.json"
+hash = "02ea50d829b53c99bad770ad154900f8940f7d6cded378b46fc174e7e01e0f54"
+
+[[files]]
+file = "moonlight-global-datapacks/synesthesia/data/synesthesia_plushies/loot_table/inject/plushie_guardian.json"
+hash = "fe1ac6837a3c44308f43b9dbaae5070fe04f7380da13f58567c1ce0c91e323e4"
+
+[[files]]
+file = "moonlight-global-datapacks/synesthesia/data/synesthesia_plushies/loot_table/inject/plushie_hoglin.json"
+hash = "2612d02142ef4afbf47d55c4bf88ffa91bc6a88ff330b95698dedde0dd76186c"
+
+[[files]]
+file = "moonlight-global-datapacks/synesthesia/data/synesthesia_plushies/loot_table/inject/plushie_husk.json"
+hash = "6efe8864fdada46ced72be9eb1aa5079a88ddf845f0c686ea0e772ac1b6c6b1f"
+
+[[files]]
+file = "moonlight-global-datapacks/synesthesia/data/synesthesia_plushies/loot_table/inject/plushie_magma_cube.json"
+hash = "cae12b9f8c2f980dc1ec79fe1c95e5727a0f466d87e1cebe13a268b8937d1e13"
+
+[[files]]
+file = "moonlight-global-datapacks/synesthesia/data/synesthesia_plushies/loot_table/inject/plushie_phantom.json"
+hash = "c955ece8fd590fb6d4f51cd1d49aceb19af7f97ccc8d07f3994cfd442aa3b072"
+
+[[files]]
+file = "moonlight-global-datapacks/synesthesia/data/synesthesia_plushies/loot_table/inject/plushie_piglin_brute.json"
+hash = "1ee3f81b68acff106c8cb5172ef9c1346ad5f2049c1b716ea844ca11a79eba83"
+
+[[files]]
+file = "moonlight-global-datapacks/synesthesia/data/synesthesia_plushies/loot_table/inject/plushie_pillager.json"
+hash = "4defd344922f4e40d0f99ebce0c103860ccc96386194a7dc29b3515ebe0609b0"
+
+[[files]]
+file = "moonlight-global-datapacks/synesthesia/data/synesthesia_plushies/loot_table/inject/plushie_polar_bear.json"
+hash = "a702541469d0e16b2972d0de51a3a773546573be0462824b763af36f91c7a32e"
+
+[[files]]
+file = "moonlight-global-datapacks/synesthesia/data/synesthesia_plushies/loot_table/inject/plushie_pufferfish.json"
+hash = "4da1e8a3c2d01e9586200a590c5cff8b3fc5b43e4a5a31aba79467d686fb9234"
+
+[[files]]
+file = "moonlight-global-datapacks/synesthesia/data/synesthesia_plushies/loot_table/inject/plushie_ravanger.json"
+hash = "af7524d46605e4bf59993c90dd619bd72e6922f84503b6e2ec6e222c58101ba5"
+
+[[files]]
+file = "moonlight-global-datapacks/synesthesia/data/synesthesia_plushies/loot_table/inject/plushie_shulker.json"
+hash = "4b3b4762299bca345b4ebff224acb1667316303dc47bb16b9d35536793610870"
+
+[[files]]
+file = "moonlight-global-datapacks/synesthesia/data/synesthesia_plushies/loot_table/inject/plushie_skeleton.json"
+hash = "875ec2dc922fabc33fb2e86e2eac85e264094fca2160066d4d631b740f9769b6"
+
+[[files]]
+file = "moonlight-global-datapacks/synesthesia/data/synesthesia_plushies/loot_table/inject/plushie_skeleton_horse.json"
+hash = "a10eca776ea4337763da900a58d25551eb3002e2a9863cb7113a1af429eb162d"
+
+[[files]]
+file = "moonlight-global-datapacks/synesthesia/data/synesthesia_plushies/loot_table/inject/plushie_slime.json"
+hash = "71f5c0c76f642a7d9d588319e484709e662a84d39943d1fdd0f0725fe50161c7"
+
+[[files]]
+file = "moonlight-global-datapacks/synesthesia/data/synesthesia_plushies/loot_table/inject/plushie_spider.json"
+hash = "513d2a409ce9a4527a7445cea61ea5f28d934e449e9e75beaf08c17d3c962eb4"
+
+[[files]]
+file = "moonlight-global-datapacks/synesthesia/data/synesthesia_plushies/loot_table/inject/plushie_squid.json"
+hash = "ae7344ac3982865ac7c4a7984dfaade70ab0f3b856a5708463c78a939f4485b8"
+
+[[files]]
+file = "moonlight-global-datapacks/synesthesia/data/synesthesia_plushies/loot_table/inject/plushie_stray.json"
+hash = "4609474625a401a348e7ca83aed55c3fcc7e23ca8322e667f8003551cda316ff"
+
+[[files]]
+file = "moonlight-global-datapacks/synesthesia/data/synesthesia_plushies/loot_table/inject/plushie_vex.json"
+hash = "c3499af5cc18b7d9a56488d1e2ff1c57ea234e90e66fc790b75986212e5224ad"
+
+[[files]]
+file = "moonlight-global-datapacks/synesthesia/data/synesthesia_plushies/loot_table/inject/plushie_vindicator.json"
+hash = "f1b555ab83cbf4180a37a3dedf3a0f3eeb3a557f2c18a71c7e2775eca2ab0aaa"
+
+[[files]]
+file = "moonlight-global-datapacks/synesthesia/data/synesthesia_plushies/loot_table/inject/plushie_wandering_trader.json"
+hash = "891e7b56e2dc7d1b1f6083a19104932d285ed3b221850a72d9d64274423ddfbc"
+
+[[files]]
+file = "moonlight-global-datapacks/synesthesia/data/synesthesia_plushies/loot_table/inject/plushie_warden.json"
+hash = "98afd498d2b0021d9c12e4a49def657f26fecfcf6b3e1980edea1de4c5da6e8c"
+
+[[files]]
+file = "moonlight-global-datapacks/synesthesia/data/synesthesia_plushies/loot_table/inject/plushie_witch.json"
+hash = "7696363175ee997aef60e97a5e63f3091ddada76f156f8f7e69f02a8fa5fc011"
+
+[[files]]
+file = "moonlight-global-datapacks/synesthesia/data/synesthesia_plushies/loot_table/inject/plushie_wither.json"
+hash = "924299e712171ea92602bbe668a2bd8eefcb534316265a20491957fcd653f6da"
+
+[[files]]
+file = "moonlight-global-datapacks/synesthesia/data/synesthesia_plushies/loot_table/inject/plushie_wither_skeleton.json"
+hash = "c72c8e045b9fd89ed4a710741e75af492c46ffe28ddfe87d1dd43f6ba510f3c1"
+
+[[files]]
+file = "moonlight-global-datapacks/synesthesia/data/synesthesia_plushies/loot_table/inject/plushie_zoglin.json"
+hash = "8524d7c2d7596778aa1c560a94511d21185f5cab1202fa654adacb6cc4be1c00"
+
+[[files]]
+file = "moonlight-global-datapacks/synesthesia/data/synesthesia_plushies/loot_table/inject/plushie_zombie.json"
+hash = "0040deb9fce0105c0f63a4f176fc28dd4537246060fdbb7c4214e38feacc762e"
+
+[[files]]
+file = "moonlight-global-datapacks/synesthesia/data/synesthesia_plushies/loot_table/inject/plushie_zombie_villager.json"
+hash = "7a3b1041e826fa3b694f4db3ea19e81cc3fee3b91c8681c641abb4125158201a"
+
+[[files]]
+file = "moonlight-global-datapacks/synesthesia/data/synesthesia_plushies/loot_table/inject/plushie_zombified_piglin.json"
+hash = "768a9e6e222d946fac0695fbdecd4fc576d33111a5c2b31a8e4d8cb856f2eaab"
+
+[[files]]
+file = "moonlight-global-datapacks/synesthesia/data/towns_and_towers/tags/worldgen/biome/has_structure/pillager_outpost_badlands.json"
+hash = "c859ab39fb8a6b735ef53ddc01e684b56712a20c7081db02b0d26ab6d416f8d5"
+
+[[files]]
+file = "moonlight-global-datapacks/synesthesia/data/towns_and_towers/tags/worldgen/biome/has_structure/pillager_outpost_beach.json"
+hash = "c859ab39fb8a6b735ef53ddc01e684b56712a20c7081db02b0d26ab6d416f8d5"
+
+[[files]]
+file = "moonlight-global-datapacks/synesthesia/data/towns_and_towers/tags/worldgen/biome/has_structure/pillager_outpost_birch_forest.json"
+hash = "c859ab39fb8a6b735ef53ddc01e684b56712a20c7081db02b0d26ab6d416f8d5"
+
+[[files]]
+file = "moonlight-global-datapacks/synesthesia/data/towns_and_towers/tags/worldgen/biome/has_structure/pillager_outpost_deep_oceans.json"
+hash = "51748cdd95402428302d978e81b98467108390ade980854d6f94c386042997cc"
+
+[[files]]
+file = "moonlight-global-datapacks/synesthesia/data/towns_and_towers/tags/worldgen/biome/has_structure/pillager_outpost_desert.json"
+hash = "c859ab39fb8a6b735ef53ddc01e684b56712a20c7081db02b0d26ab6d416f8d5"
+
+[[files]]
+file = "moonlight-global-datapacks/synesthesia/data/towns_and_towers/tags/worldgen/biome/has_structure/pillager_outpost_flower_forest.json"
+hash = "c859ab39fb8a6b735ef53ddc01e684b56712a20c7081db02b0d26ab6d416f8d5"
+
+[[files]]
+file = "moonlight-global-datapacks/synesthesia/data/towns_and_towers/tags/worldgen/biome/has_structure/pillager_outpost_forest.json"
+hash = "68b4f514b46161432c4b5e6e47ceab8ab962e9305755f6f7bb35642a94d418e0"
+
+[[files]]
+file = "moonlight-global-datapacks/synesthesia/data/towns_and_towers/tags/worldgen/biome/has_structure/pillager_outpost_grove.json"
+hash = "c859ab39fb8a6b735ef53ddc01e684b56712a20c7081db02b0d26ab6d416f8d5"
+
+[[files]]
+file = "moonlight-global-datapacks/synesthesia/data/towns_and_towers/tags/worldgen/biome/has_structure/pillager_outpost_jungle.json"
+hash = "c859ab39fb8a6b735ef53ddc01e684b56712a20c7081db02b0d26ab6d416f8d5"
+
+[[files]]
+file = "moonlight-global-datapacks/synesthesia/data/towns_and_towers/tags/worldgen/biome/has_structure/pillager_outpost_meadow.json"
+hash = "c859ab39fb8a6b735ef53ddc01e684b56712a20c7081db02b0d26ab6d416f8d5"
+
+[[files]]
+file = "moonlight-global-datapacks/synesthesia/data/towns_and_towers/tags/worldgen/biome/has_structure/pillager_outpost_mushroom_fields.json"
+hash = "51748cdd95402428302d978e81b98467108390ade980854d6f94c386042997cc"
+
+[[files]]
+file = "moonlight-global-datapacks/synesthesia/data/towns_and_towers/tags/worldgen/biome/has_structure/pillager_outpost_old_growth_taiga.json"
+hash = "c859ab39fb8a6b735ef53ddc01e684b56712a20c7081db02b0d26ab6d416f8d5"
+
+[[files]]
+file = "moonlight-global-datapacks/synesthesia/data/towns_and_towers/tags/worldgen/biome/has_structure/pillager_outpost_savanna.json"
+hash = "51748cdd95402428302d978e81b98467108390ade980854d6f94c386042997cc"
+
+[[files]]
+file = "moonlight-global-datapacks/synesthesia/data/towns_and_towers/tags/worldgen/biome/has_structure/pillager_outpost_savanna_plateau.json"
+hash = "51748cdd95402428302d978e81b98467108390ade980854d6f94c386042997cc"
+
+[[files]]
+file = "moonlight-global-datapacks/synesthesia/data/towns_and_towers/tags/worldgen/biome/has_structure/pillager_outpost_snowy_beach.json"
+hash = "51748cdd95402428302d978e81b98467108390ade980854d6f94c386042997cc"
+
+[[files]]
+file = "moonlight-global-datapacks/synesthesia/data/towns_and_towers/tags/worldgen/biome/has_structure/pillager_outpost_snowy_plains.json"
+hash = "51748cdd95402428302d978e81b98467108390ade980854d6f94c386042997cc"
+
+[[files]]
+file = "moonlight-global-datapacks/synesthesia/data/towns_and_towers/tags/worldgen/biome/has_structure/pillager_outpost_snowy_slopes.json"
+hash = "c859ab39fb8a6b735ef53ddc01e684b56712a20c7081db02b0d26ab6d416f8d5"
+
+[[files]]
+file = "moonlight-global-datapacks/synesthesia/data/towns_and_towers/tags/worldgen/biome/has_structure/pillager_outpost_snowy_taiga.json"
+hash = "c859ab39fb8a6b735ef53ddc01e684b56712a20c7081db02b0d26ab6d416f8d5"
+
+[[files]]
+file = "moonlight-global-datapacks/synesthesia/data/towns_and_towers/tags/worldgen/biome/has_structure/pillager_outpost_sparse_jungle.json"
+hash = "68b4f514b46161432c4b5e6e47ceab8ab962e9305755f6f7bb35642a94d418e0"
+
+[[files]]
+file = "moonlight-global-datapacks/synesthesia/data/towns_and_towers/tags/worldgen/biome/has_structure/pillager_outpost_sunflower_plains.json"
+hash = "c859ab39fb8a6b735ef53ddc01e684b56712a20c7081db02b0d26ab6d416f8d5"
+
+[[files]]
+file = "moonlight-global-datapacks/synesthesia/data/towns_and_towers/tags/worldgen/biome/has_structure/pillager_outpost_swamp.json"
+hash = "c859ab39fb8a6b735ef53ddc01e684b56712a20c7081db02b0d26ab6d416f8d5"
+
+[[files]]
+file = "moonlight-global-datapacks/synesthesia/data/towns_and_towers/tags/worldgen/biome/has_structure/pillager_outpost_taiga.json"
+hash = "c859ab39fb8a6b735ef53ddc01e684b56712a20c7081db02b0d26ab6d416f8d5"
+
+[[files]]
+file = "moonlight-global-datapacks/synesthesia/data/towns_and_towers/tags/worldgen/biome/has_structure/pillager_outpost_wooded_badlands.json"
+hash = "c859ab39fb8a6b735ef53ddc01e684b56712a20c7081db02b0d26ab6d416f8d5"
+
+[[files]]
+file = "moonlight-global-datapacks/synesthesia/data/towns_and_towers/tags/worldgen/biome/has_structure/shallow_oceans_wreckage.json"
+hash = "51748cdd95402428302d978e81b98467108390ade980854d6f94c386042997cc"
+
+[[files]]
+file = "moonlight-global-datapacks/synesthesia/data/towns_and_towers/tags/worldgen/biome/has_structure/village_badlands_pueblo.json"
+hash = "c859ab39fb8a6b735ef53ddc01e684b56712a20c7081db02b0d26ab6d416f8d5"
+
+[[files]]
+file = "moonlight-global-datapacks/synesthesia/data/towns_and_towers/tags/worldgen/biome/has_structure/village_beach_lighthouse.json"
+hash = "c859ab39fb8a6b735ef53ddc01e684b56712a20c7081db02b0d26ab6d416f8d5"
+
+[[files]]
+file = "moonlight-global-datapacks/synesthesia/data/towns_and_towers/tags/worldgen/biome/has_structure/village_birch_forest_romanian.json"
+hash = "c859ab39fb8a6b735ef53ddc01e684b56712a20c7081db02b0d26ab6d416f8d5"
+
+[[files]]
+file = "moonlight-global-datapacks/synesthesia/data/towns_and_towers/tags/worldgen/biome/has_structure/village_deep_oceans_ships.json"
+hash = "51748cdd95402428302d978e81b98467108390ade980854d6f94c386042997cc"
+
+[[files]]
+file = "moonlight-global-datapacks/synesthesia/data/towns_and_towers/tags/worldgen/biome/has_structure/village_flower_forest_japanese.json"
+hash = "c859ab39fb8a6b735ef53ddc01e684b56712a20c7081db02b0d26ab6d416f8d5"
+
+[[files]]
+file = "moonlight-global-datapacks/synesthesia/data/towns_and_towers/tags/worldgen/biome/has_structure/village_forest_ruins.json"
+hash = "68b4f514b46161432c4b5e6e47ceab8ab962e9305755f6f7bb35642a94d418e0"
+
+[[files]]
+file = "moonlight-global-datapacks/synesthesia/data/towns_and_towers/tags/worldgen/biome/has_structure/village_grove_villager_outpost.json"
+hash = "c859ab39fb8a6b735ef53ddc01e684b56712a20c7081db02b0d26ab6d416f8d5"
+
+[[files]]
+file = "moonlight-global-datapacks/synesthesia/data/towns_and_towers/tags/worldgen/biome/has_structure/village_jungle_tribal.json"
+hash = "68b4f514b46161432c4b5e6e47ceab8ab962e9305755f6f7bb35642a94d418e0"
+
+[[files]]
+file = "moonlight-global-datapacks/synesthesia/data/towns_and_towers/tags/worldgen/biome/has_structure/village_meadow_swiss.json"
+hash = "c859ab39fb8a6b735ef53ddc01e684b56712a20c7081db02b0d26ab6d416f8d5"
+
+[[files]]
+file = "moonlight-global-datapacks/synesthesia/data/towns_and_towers/tags/worldgen/biome/has_structure/village_mushroom_fields_fantasy.json"
+hash = "51748cdd95402428302d978e81b98467108390ade980854d6f94c386042997cc"
+
+[[files]]
+file = "moonlight-global-datapacks/synesthesia/data/towns_and_towers/tags/worldgen/biome/has_structure/village_old_growth_taiga_polish.json"
+hash = "c859ab39fb8a6b735ef53ddc01e684b56712a20c7081db02b0d26ab6d416f8d5"
+
+[[files]]
+file = "moonlight-global-datapacks/synesthesia/data/towns_and_towers/tags/worldgen/biome/has_structure/village_savanna_plateau_ramshackled.json"
+hash = "51748cdd95402428302d978e81b98467108390ade980854d6f94c386042997cc"
+
+[[files]]
+file = "moonlight-global-datapacks/synesthesia/data/towns_and_towers/tags/worldgen/biome/has_structure/village_snowy_slopes_inn.json"
+hash = "c859ab39fb8a6b735ef53ddc01e684b56712a20c7081db02b0d26ab6d416f8d5"
+
+[[files]]
+file = "moonlight-global-datapacks/synesthesia/data/towns_and_towers/tags/worldgen/biome/has_structure/village_snowy_taiga_viking.json"
+hash = "c859ab39fb8a6b735ef53ddc01e684b56712a20c7081db02b0d26ab6d416f8d5"
+
+[[files]]
+file = "moonlight-global-datapacks/synesthesia/data/towns_and_towers/tags/worldgen/biome/has_structure/village_sparse_jungle_polynesian.json"
+hash = "c859ab39fb8a6b735ef53ddc01e684b56712a20c7081db02b0d26ab6d416f8d5"
+
+[[files]]
+file = "moonlight-global-datapacks/synesthesia/data/towns_and_towers/tags/worldgen/biome/has_structure/village_sunflower_plains_farm.json"
+hash = "c859ab39fb8a6b735ef53ddc01e684b56712a20c7081db02b0d26ab6d416f8d5"
+
+[[files]]
+file = "moonlight-global-datapacks/synesthesia/data/towns_and_towers/tags/worldgen/biome/has_structure/village_swamp_boat.json"
+hash = "c859ab39fb8a6b735ef53ddc01e684b56712a20c7081db02b0d26ab6d416f8d5"
+
+[[files]]
+file = "moonlight-global-datapacks/synesthesia/data/towns_and_towers/tags/worldgen/biome/has_structure/village_wooded_badlands_tipi.json"
+hash = "c859ab39fb8a6b735ef53ddc01e684b56712a20c7081db02b0d26ab6d416f8d5"
+
+[[files]]
+file = "moonlight-global-datapacks/synesthesia/data/trek/tags/worldgen/biome/badlands/is_default_badlands.json"
+hash = "c859ab39fb8a6b735ef53ddc01e684b56712a20c7081db02b0d26ab6d416f8d5"
+
+[[files]]
+file = "moonlight-global-datapacks/synesthesia/data/trek/tags/worldgen/biome/badlands/is_eroded_badlands.json"
+hash = "51748cdd95402428302d978e81b98467108390ade980854d6f94c386042997cc"
+
+[[files]]
+file = "moonlight-global-datapacks/synesthesia/data/trek/tags/worldgen/biome/badlands/is_wooded_badlands.json"
+hash = "51748cdd95402428302d978e81b98467108390ade980854d6f94c386042997cc"
+
+[[files]]
+file = "moonlight-global-datapacks/synesthesia/data/trek/tags/worldgen/biome/beach/is_beach_no_snow.json"
+hash = "c859ab39fb8a6b735ef53ddc01e684b56712a20c7081db02b0d26ab6d416f8d5"
+
+[[files]]
+file = "moonlight-global-datapacks/synesthesia/data/trek/tags/worldgen/biome/beach/is_beach_snow.json"
+hash = "51748cdd95402428302d978e81b98467108390ade980854d6f94c386042997cc"
+
+[[files]]
+file = "moonlight-global-datapacks/synesthesia/data/trek/tags/worldgen/biome/beach/is_stony_shore_no_snow.json"
+hash = "c859ab39fb8a6b735ef53ddc01e684b56712a20c7081db02b0d26ab6d416f8d5"
+
+[[files]]
+file = "moonlight-global-datapacks/synesthesia/data/trek/tags/worldgen/biome/forest/birch/is_normal_birch_no_snow.json"
+hash = "c859ab39fb8a6b735ef53ddc01e684b56712a20c7081db02b0d26ab6d416f8d5"
+
+[[files]]
+file = "moonlight-global-datapacks/synesthesia/data/trek/tags/worldgen/biome/forest/birch/is_old_birch_no_snow.json"
+hash = "c859ab39fb8a6b735ef53ddc01e684b56712a20c7081db02b0d26ab6d416f8d5"
+
+[[files]]
+file = "moonlight-global-datapacks/synesthesia/data/trek/tags/worldgen/biome/forest/cherry/is_cherry_no_snow.json"
+hash = "c859ab39fb8a6b735ef53ddc01e684b56712a20c7081db02b0d26ab6d416f8d5"
+
+[[files]]
+file = "moonlight-global-datapacks/synesthesia/data/trek/tags/worldgen/biome/forest/dark_oak/is_dark_forest_no_snow.json"
+hash = "51748cdd95402428302d978e81b98467108390ade980854d6f94c386042997cc"
+
+[[files]]
+file = "moonlight-global-datapacks/synesthesia/data/trek/tags/worldgen/biome/forest/jungle/is_bamboo_jungle.json"
+hash = "c859ab39fb8a6b735ef53ddc01e684b56712a20c7081db02b0d26ab6d416f8d5"
+
+[[files]]
+file = "moonlight-global-datapacks/synesthesia/data/trek/tags/worldgen/biome/forest/jungle/is_default_jungle.json"
+hash = "51748cdd95402428302d978e81b98467108390ade980854d6f94c386042997cc"
+
+[[files]]
+file = "moonlight-global-datapacks/synesthesia/data/trek/tags/worldgen/biome/forest/jungle/is_sparse_jungle.json"
+hash = "51748cdd95402428302d978e81b98467108390ade980854d6f94c386042997cc"
+
+[[files]]
+file = "moonlight-global-datapacks/synesthesia/data/trek/tags/worldgen/biome/forest/oak/is_oak_forest_no_snow.json"
+hash = "c859ab39fb8a6b735ef53ddc01e684b56712a20c7081db02b0d26ab6d416f8d5"
+
+[[files]]
+file = "moonlight-global-datapacks/synesthesia/data/trek/tags/worldgen/biome/forest/spruce/is_default_spruce_no_snow.json"
+hash = "c859ab39fb8a6b735ef53ddc01e684b56712a20c7081db02b0d26ab6d416f8d5"
+
+[[files]]
+file = "moonlight-global-datapacks/synesthesia/data/trek/tags/worldgen/biome/forest/spruce/is_default_spruce_snow.json"
+hash = "c859ab39fb8a6b735ef53ddc01e684b56712a20c7081db02b0d26ab6d416f8d5"
+
+[[files]]
+file = "moonlight-global-datapacks/synesthesia/data/trek/tags/worldgen/biome/forest/spruce/is_old_spruce_no_snow.json"
+hash = "c859ab39fb8a6b735ef53ddc01e684b56712a20c7081db02b0d26ab6d416f8d5"
+
+[[files]]
+file = "moonlight-global-datapacks/synesthesia/data/trek/tags/worldgen/biome/has_flowers.json"
+hash = "c859ab39fb8a6b735ef53ddc01e684b56712a20c7081db02b0d26ab6d416f8d5"
+
+[[files]]
+file = "moonlight-global-datapacks/synesthesia/data/trek/tags/worldgen/biome/has_structure/village_cherry.json"
+hash = "51748cdd95402428302d978e81b98467108390ade980854d6f94c386042997cc"
+
+[[files]]
+file = "moonlight-global-datapacks/synesthesia/data/trek/tags/worldgen/biome/has_structure/village_swamp.json"
+hash = "51748cdd95402428302d978e81b98467108390ade980854d6f94c386042997cc"
+
+[[files]]
+file = "moonlight-global-datapacks/synesthesia/data/trek/tags/worldgen/biome/is_cave.json"
+hash = "042fa78df79dc4d9468160e45856743d1d68b93cb1c80b0d8054d04ceafac57b"
+
+[[files]]
+file = "moonlight-global-datapacks/synesthesia/data/trek/tags/worldgen/biome/is_desert.json"
+hash = "c859ab39fb8a6b735ef53ddc01e684b56712a20c7081db02b0d26ab6d416f8d5"
+
+[[files]]
+file = "moonlight-global-datapacks/synesthesia/data/trek/tags/worldgen/biome/is_mushroom_fields.json"
+hash = "51748cdd95402428302d978e81b98467108390ade980854d6f94c386042997cc"
+
+[[files]]
+file = "moonlight-global-datapacks/synesthesia/data/trek/tags/worldgen/biome/mountain/is_stony_peaks.json"
+hash = "c859ab39fb8a6b735ef53ddc01e684b56712a20c7081db02b0d26ab6d416f8d5"
+
+[[files]]
+file = "moonlight-global-datapacks/synesthesia/data/trek/tags/worldgen/biome/ocean/is_cold_ocean.json"
+hash = "c859ab39fb8a6b735ef53ddc01e684b56712a20c7081db02b0d26ab6d416f8d5"
+
+[[files]]
+file = "moonlight-global-datapacks/synesthesia/data/trek/tags/worldgen/biome/ocean/is_deep_not_frozen_ocean.json"
+hash = "c859ab39fb8a6b735ef53ddc01e684b56712a20c7081db02b0d26ab6d416f8d5"
+
+[[files]]
+file = "moonlight-global-datapacks/synesthesia/data/trek/tags/worldgen/biome/ocean/is_default_ocean.json"
+hash = "51748cdd95402428302d978e81b98467108390ade980854d6f94c386042997cc"
+
+[[files]]
+file = "moonlight-global-datapacks/synesthesia/data/trek/tags/worldgen/biome/ocean/is_frozen_ocean.json"
+hash = "51748cdd95402428302d978e81b98467108390ade980854d6f94c386042997cc"
+
+[[files]]
+file = "moonlight-global-datapacks/synesthesia/data/trek/tags/worldgen/biome/ocean/is_lukewarm_ocean.json"
+hash = "51748cdd95402428302d978e81b98467108390ade980854d6f94c386042997cc"
+
+[[files]]
+file = "moonlight-global-datapacks/synesthesia/data/trek/tags/worldgen/biome/ocean/is_not_deep_not_frozen_ocean.json"
+hash = "51748cdd95402428302d978e81b98467108390ade980854d6f94c386042997cc"
+
+[[files]]
+file = "moonlight-global-datapacks/synesthesia/data/trek/tags/worldgen/biome/ocean/is_warm_ocean.json"
+hash = "51748cdd95402428302d978e81b98467108390ade980854d6f94c386042997cc"
+
+[[files]]
+file = "moonlight-global-datapacks/synesthesia/data/trek/tags/worldgen/biome/plains/is_plains_no_snow.json"
+hash = "c859ab39fb8a6b735ef53ddc01e684b56712a20c7081db02b0d26ab6d416f8d5"
+
+[[files]]
+file = "moonlight-global-datapacks/synesthesia/data/trek/tags/worldgen/biome/plains/is_plains_snow.json"
+hash = "c859ab39fb8a6b735ef53ddc01e684b56712a20c7081db02b0d26ab6d416f8d5"
+
+[[files]]
+file = "moonlight-global-datapacks/synesthesia/data/trek/tags/worldgen/biome/slopes/is_slopes_no_snow.json"
+hash = "c859ab39fb8a6b735ef53ddc01e684b56712a20c7081db02b0d26ab6d416f8d5"
+
+[[files]]
+file = "moonlight-global-datapacks/synesthesia/data/trek/tags/worldgen/biome/slopes/is_slopes_snow.json"
+hash = "51748cdd95402428302d978e81b98467108390ade980854d6f94c386042997cc"
+
+[[files]]
+file = "moonlight-global-datapacks/synesthesia/data/trek/tags/worldgen/biome/swamp/is_default_swamp.json"
+hash = "c859ab39fb8a6b735ef53ddc01e684b56712a20c7081db02b0d26ab6d416f8d5"
+
+[[files]]
+file = "moonlight-global-datapacks/synesthesia/data/trek/tags/worldgen/biome/swamp/is_mangrove_swamp.json"
+hash = "c859ab39fb8a6b735ef53ddc01e684b56712a20c7081db02b0d26ab6d416f8d5"
+
+[[files]]
+file = "moonlight-global-datapacks/synesthesia/data/upgrade_aquatic/tags/worldgen/biome/has_feature/flowering_rush.json"
+hash = "51748cdd95402428302d978e81b98467108390ade980854d6f94c386042997cc"
+
+[[files]]
+file = "moonlight-global-datapacks/synesthesia/data/upgrade_aquatic/tags/worldgen/biome/has_feature/pickerelweed_extra.json"
+hash = "51748cdd95402428302d978e81b98467108390ade980854d6f94c386042997cc"
+
+[[files]]
+file = "moonlight-global-datapacks/synesthesia/data/upgrade_aquatic/tags/worldgen/biome/has_feature/searocket.json"
+hash = "51748cdd95402428302d978e81b98467108390ade980854d6f94c386042997cc"
+
+[[files]]
+file = "moonlight-global-datapacks/synesthesia/data/upgrade_aquatic/tags/worldgen/biome/has_spawn/cassiopea_jellyfish.json"
+hash = "51748cdd95402428302d978e81b98467108390ade980854d6f94c386042997cc"
+
+[[files]]
+file = "moonlight-global-datapacks/synesthesia/data/upgrade_aquatic/tags/worldgen/biome/has_spawn/great_thrasher.json"
+hash = "51748cdd95402428302d978e81b98467108390ade980854d6f94c386042997cc"
+
+[[files]]
+file = "moonlight-global-datapacks/synesthesia/data/upgrade_aquatic/tags/worldgen/biome/has_spawn/lionfish.json"
+hash = "51748cdd95402428302d978e81b98467108390ade980854d6f94c386042997cc"
+
+[[files]]
+file = "moonlight-global-datapacks/synesthesia/data/upgrade_aquatic/tags/worldgen/biome/has_spawn/nautilus.json"
+hash = "51748cdd95402428302d978e81b98467108390ade980854d6f94c386042997cc"
+
+[[files]]
+file = "moonlight-global-datapacks/synesthesia/data/upgrade_aquatic/tags/worldgen/biome/has_spawn/squid.json"
+hash = "51748cdd95402428302d978e81b98467108390ade980854d6f94c386042997cc"
+
+[[files]]
+file = "moonlight-global-datapacks/synesthesia/data/vinery/tags/worldgen/biome/spawns_cherry_tree.json"
+hash = "51748cdd95402428302d978e81b98467108390ade980854d6f94c386042997cc"
+
+[[files]]
+file = "moonlight-global-datapacks/synesthesia/data/waystones/rs_pool_additions/joshie/ocean/houses.json"
+hash = "4013f4e80943516075ba6ee76bb37495cbfc211f884c935659fb396e1d966888"
+
+[[files]]
+file = "moonlight-global-datapacks/synesthesia/data/waystones/rs_pool_additions/kaisyn/badlands_pueblo/houses.json"
+hash = "8aafb0d563eee832fdfa83a5a5a0ee2789551ff10df79f6822ecc4f7ca0fea71"
+
+[[files]]
+file = "moonlight-global-datapacks/synesthesia/data/waystones/rs_pool_additions/kaisyn/beach_lighthouse/house.json"
+hash = "97eef9ece1b9e1ea36dadae669cf0601153c33be8b0e5ff74bd1b62f3bef8ae2"
+
+[[files]]
+file = "moonlight-global-datapacks/synesthesia/data/waystones/rs_pool_additions/kaisyn/birch_forest_romanian/houses.json"
+hash = "d16a8cc38b375bbb7043a7fa6cb12b0e4db8104e71cb955de908fe0dfe94afd7"
+
+[[files]]
+file = "moonlight-global-datapacks/synesthesia/data/waystones/rs_pool_additions/kaisyn/exclusives/classic/houses.json"
+hash = "4ba67c66d098908ef9da789b48ce3966846b936a61db29da771fdce230b8b2d7"
+
+[[files]]
+file = "moonlight-global-datapacks/synesthesia/data/waystones/rs_pool_additions/kaisyn/exclusives/iberian/houses.json"
+hash = "ead8182230fa7bc61f2c9a4fb44c9045800bf5ed0752aee5461f6f9c41f3b779"
+
+[[files]]
+file = "moonlight-global-datapacks/synesthesia/data/waystones/rs_pool_additions/kaisyn/exclusives/mediterranean/houses.json"
+hash = "5b35124a46a449c810f92356cb0ff4c64437fbe127b3d0f499fb25382ea9b6fb"
+
+[[files]]
+file = "moonlight-global-datapacks/synesthesia/data/waystones/rs_pool_additions/kaisyn/exclusives/nilotic/houses.json"
+hash = "20fa94cfcd14e375e54fc8d66adc9c5e167f60a949a984d5e6c89b5f53b7d64d"
+
+[[files]]
+file = "moonlight-global-datapacks/synesthesia/data/waystones/rs_pool_additions/kaisyn/exclusives/piglin/houses.json"
+hash = "1d8f3494be08f369cdb58a0305e5ffccfa24a8feeec0a0dca4846a33ad1e2511"
+
+[[files]]
+file = "moonlight-global-datapacks/synesthesia/data/waystones/rs_pool_additions/kaisyn/exclusives/rustic/houses.json"
+hash = "7b903acf9639055631361d471d29399ad696ac0899e57f8fc600240a4dcf555f"
+
+[[files]]
+file = "moonlight-global-datapacks/synesthesia/data/waystones/rs_pool_additions/kaisyn/exclusives/swedish/houses.json"
+hash = "65e09e1078490ce20c3c533bf5c5c8cbe783f363c048922941a15f8ed3edbb79"
+
+[[files]]
+file = "moonlight-global-datapacks/synesthesia/data/waystones/rs_pool_additions/kaisyn/exclusives/tudor/houses.json"
+hash = "581ace62b91bc61af23c9965fe678e525e3db93179df351aa6c692bd7bdb71a2"
+
+[[files]]
+file = "moonlight-global-datapacks/synesthesia/data/waystones/rs_pool_additions/kaisyn/exclusives/wandering_trader_camp/houses.json"
+hash = "11b22d270925c505f2ebe25a91d76f5ddc42d2e186351f91b2cd751522c003e7"
+
+[[files]]
+file = "moonlight-global-datapacks/synesthesia/data/waystones/rs_pool_additions/kaisyn/flower_forest_japanese/houses.json"
+hash = "4ade8b72eac3c4fe95e751037d844725aea3e6387c7c29d345c0bccbd73e3cf9"
+
+[[files]]
+file = "moonlight-global-datapacks/synesthesia/data/waystones/rs_pool_additions/kaisyn/forest_ruins/houses.json"
+hash = "9561f124409ea05168ccc600dc022b1311d987f1dbde135333425e7810a6666f"
+
+[[files]]
+file = "moonlight-global-datapacks/synesthesia/data/waystones/rs_pool_additions/kaisyn/grove_villager_outpost/decor.json"
+hash = "ee6ae3ebd173868f09841f2e56cc3554a63099358043978dfc3fadf59d7953ec"
+
+[[files]]
+file = "moonlight-global-datapacks/synesthesia/data/waystones/rs_pool_additions/kaisyn/jungle_tribal/houses.json"
+hash = "7ff4b9938aff2f8b868fd7fee19b9d5d9ed72b2b0d06af4cc8d7b91d17389ecf"
+
+[[files]]
+file = "moonlight-global-datapacks/synesthesia/data/waystones/rs_pool_additions/kaisyn/meadow_swiss/houses.json"
+hash = "22af2fa78cdb7eae7224f04e356793e2036aecd392d833b654a850caf3379a99"
+
+[[files]]
+file = "moonlight-global-datapacks/synesthesia/data/waystones/rs_pool_additions/kaisyn/mushroom_fields_fantasy/houses.json"
+hash = "7503f4aad7f91059359f7775504a6f7dc5aed2795c970124fdecd207bcb9a81f"
+
+[[files]]
+file = "moonlight-global-datapacks/synesthesia/data/waystones/rs_pool_additions/kaisyn/old_growth_taiga_polish/houses.json"
+hash = "e27f6110a6695027253ae332e8b1f28616068c6fe85157c17b8676341d9d77e7"
+
+[[files]]
+file = "moonlight-global-datapacks/synesthesia/data/waystones/rs_pool_additions/kaisyn/savanna_plateau_ramshackled/professions_misc.json"
+hash = "1c5cdc28e36bb4bf3824ffac294d192b8428c27677c4ddf40b18b13f7eb13405"
+
+[[files]]
+file = "moonlight-global-datapacks/synesthesia/data/waystones/rs_pool_additions/kaisyn/snowy_slopes_inn/decor.json"
+hash = "15d6f7fb8eff7c4c2cd94dbd47a6a2f096b124aa13847fec22fed7e0fc1dd1c1"
+
+[[files]]
+file = "moonlight-global-datapacks/synesthesia/data/waystones/rs_pool_additions/kaisyn/snowy_taiga_viking/houses.json"
+hash = "a7b880ce1c16af9500674bcf09c67961193533409b67afb869462a82eb1bb464"
+
+[[files]]
+file = "moonlight-global-datapacks/synesthesia/data/waystones/rs_pool_additions/kaisyn/sparse_jungle_polynesian/houses.json"
+hash = "9e2dc8be4f4ebc7a97cd70fafc425f646c9c632f12c4fe745bf7ce137d0ca5fa"
+
+[[files]]
+file = "moonlight-global-datapacks/synesthesia/data/waystones/rs_pool_additions/kaisyn/sunflower_plains_farm/decor.json"
+hash = "c9cab7b9a9d03384ca376fd2367635ca484bf46c3eae419c48f4e94f283e352d"
+
+[[files]]
+file = "moonlight-global-datapacks/synesthesia/data/waystones/rs_pool_additions/kaisyn/swamp_boat/houses.json"
+hash = "64e9e7aee3ebee7821b657f34ab99fc8a334ad3880fdff5f16337867109bb06e"
+
+[[files]]
+file = "moonlight-global-datapacks/synesthesia/data/waystones/rs_pool_additions/kaisyn/wooded_badlands_tipi/houses.json"
+hash = "41f977340df43db053540862e051a37939178bc7ad7051a97338f9f00cb71a59"
+
+[[files]]
+file = "moonlight-global-datapacks/synesthesia/data/waystones/rs_pool_additions/mmv/dark_oak/houses.json"
+hash = "6c16ed63705c553135b9bfddfc2bce26864080594efcda434640cd21b5654f39"
+
+[[files]]
+file = "moonlight-global-datapacks/synesthesia/data/waystones/rs_pool_additions/mmv/jungle/houses.json"
+hash = "89376bba517916676b2266da27e9b6e9e2a5aab892b3f691b2da799b977b0361"
+
+[[files]]
+file = "moonlight-global-datapacks/synesthesia/data/waystones/rs_pool_additions/mmv/swamp/houses.json"
+hash = "a9bbf5e49a503682ad765f9c35da9a2ea6aed00225ea81b61586a822daa66b5d"
+
+[[files]]
+file = "moonlight-global-datapacks/synesthesia/data/waystones/rs_pool_additions/nova_structures/birch/houses.json"
+hash = "4f25382e56135e965b62dcc488fae7ab292a8ca13eb98ad9ce166abe8d4ff2c7"
+
+[[files]]
+file = "moonlight-global-datapacks/synesthesia/data/waystones/rs_pool_additions/nova_structures/jungle/houses.json"
+hash = "a3b1a3c35d5fdf395ef6e2663ab2be4c1663483cc7f983e16c8c3db01015cd6f"
+
+[[files]]
+file = "moonlight-global-datapacks/synesthesia/data/waystones/rs_pool_additions/nova_structures/swamp/houses.json"
+hash = "971574275ed6a002f1a225484e1937073d684ff0c426345cc4a6ae9a7f902b41"
+
+[[files]]
+file = "moonlight-global-datapacks/synesthesia/data/waystones/tags/worldgen/biome/has_structure/blackstone_waystone.json"
+hash = "b56bcdf883ec51926746d379b8ece0e14191a190bfc44ba8744f277ab050aaf2"
+
+[[files]]
+file = "moonlight-global-datapacks/synesthesia/data/waystones/tags/worldgen/biome/has_structure/deepslate_waystone.json"
+hash = "c1aca4636b108db919f22bf5f0df5650d13b82f6a6663b8f3aa4d52096fd4897"
+
+[[files]]
+file = "moonlight-global-datapacks/synesthesia/data/waystones/tags/worldgen/biome/has_structure/end_stone_waystone.json"
+hash = "6ddf517f6d4b65c795bddcf7c1cbb5368793c280b9e9bb080ab2df50cbc7030b"
+
+[[files]]
+file = "moonlight-global-datapacks/synesthesia/data/waystones/tags/worldgen/biome/has_structure/mossy_waystone.json"
+hash = "51748cdd95402428302d978e81b98467108390ade980854d6f94c386042997cc"
+
+[[files]]
+file = "moonlight-global-datapacks/synesthesia/data/waystones/tags/worldgen/biome/has_structure/sandy_waystone.json"
+hash = "51748cdd95402428302d978e81b98467108390ade980854d6f94c386042997cc"
+
+[[files]]
+file = "moonlight-global-datapacks/synesthesia/data/waystones/tags/worldgen/biome/has_structure/waystone.json"
+hash = "c1aca4636b108db919f22bf5f0df5650d13b82f6a6663b8f3aa4d52096fd4897"
+
+[[files]]
+file = "moonlight-global-datapacks/synesthesia/data/wildernature/tags/worldgen/biome/remove_wolf.json"
+hash = "51748cdd95402428302d978e81b98467108390ade980854d6f94c386042997cc"
+
+[[files]]
+file = "moonlight-global-datapacks/synesthesia/data/wildernature/tags/worldgen/biome/spawns_dog.json"
+hash = "51748cdd95402428302d978e81b98467108390ade980854d6f94c386042997cc"
+
+[[files]]
+file = "moonlight-global-datapacks/synesthesia/data/wildernature/tags/worldgen/biome/spawns_minisheep.json"
+hash = "51748cdd95402428302d978e81b98467108390ade980854d6f94c386042997cc"
+
+[[files]]
+file = "moonlight-global-datapacks/synesthesia/data/wildernature/tags/worldgen/biome/spawns_patch_hazelnut_bush.json"
+hash = "51748cdd95402428302d978e81b98467108390ade980854d6f94c386042997cc"
+
+[[files]]
+file = "moonlight-global-datapacks/synesthesia/data/wildernature/tags/worldgen/biome/spawns_raccoon.json"
+hash = "51748cdd95402428302d978e81b98467108390ade980854d6f94c386042997cc"
+
+[[files]]
+file = "moonlight-global-datapacks/synesthesia/data/wildernature/tags/worldgen/biome/spawns_red_wolf.json"
+hash = "51748cdd95402428302d978e81b98467108390ade980854d6f94c386042997cc"
+
+[[files]]
+file = "moonlight-global-datapacks/synesthesia/data/wildernature/tags/worldgen/biome/spawns_scorpion.json"
+hash = "51748cdd95402428302d978e81b98467108390ade980854d6f94c386042997cc"
+
+[[files]]
+file = "moonlight-global-datapacks/synesthesia/data/wildernature/tags/worldgen/biome/spawns_squirrel.json"
+hash = "51748cdd95402428302d978e81b98467108390ade980854d6f94c386042997cc"
+
+[[files]]
+file = "moonlight-global-datapacks/synesthesia/data/zhopo/tags/worldgen/biome/has_structure/acacia_mineshaft.json"
+hash = "c859ab39fb8a6b735ef53ddc01e684b56712a20c7081db02b0d26ab6d416f8d5"
+
+[[files]]
+file = "moonlight-global-datapacks/synesthesia/data/zhopo/tags/worldgen/biome/has_structure/bamboo_mineshaft.json"
+hash = "c859ab39fb8a6b735ef53ddc01e684b56712a20c7081db02b0d26ab6d416f8d5"
+
+[[files]]
+file = "moonlight-global-datapacks/synesthesia/data/zhopo/tags/worldgen/biome/has_structure/birch_mineshaft.json"
+hash = "c859ab39fb8a6b735ef53ddc01e684b56712a20c7081db02b0d26ab6d416f8d5"
+
+[[files]]
+file = "moonlight-global-datapacks/synesthesia/data/zhopo/tags/worldgen/biome/has_structure/cherry_mineshaft.json"
+hash = "c859ab39fb8a6b735ef53ddc01e684b56712a20c7081db02b0d26ab6d416f8d5"
+
+[[files]]
+file = "moonlight-global-datapacks/synesthesia/data/zhopo/tags/worldgen/biome/has_structure/dark_oak_mineshaft.json"
+hash = "c859ab39fb8a6b735ef53ddc01e684b56712a20c7081db02b0d26ab6d416f8d5"
+
+[[files]]
+file = "moonlight-global-datapacks/synesthesia/data/zhopo/tags/worldgen/biome/has_structure/deepslate_mineshaft.json"
+hash = "c859ab39fb8a6b735ef53ddc01e684b56712a20c7081db02b0d26ab6d416f8d5"
+
+[[files]]
+file = "moonlight-global-datapacks/synesthesia/data/zhopo/tags/worldgen/biome/has_structure/dripstone_mineshaft.json"
+hash = "c1aca4636b108db919f22bf5f0df5650d13b82f6a6663b8f3aa4d52096fd4897"
+
+[[files]]
+file = "moonlight-global-datapacks/synesthesia/data/zhopo/tags/worldgen/biome/has_structure/jungle_mineshaft.json"
+hash = "c859ab39fb8a6b735ef53ddc01e684b56712a20c7081db02b0d26ab6d416f8d5"
+
+[[files]]
+file = "moonlight-global-datapacks/synesthesia/data/zhopo/tags/worldgen/biome/has_structure/lush_mineshaft.json"
+hash = "c1aca4636b108db919f22bf5f0df5650d13b82f6a6663b8f3aa4d52096fd4897"
+
+[[files]]
+file = "moonlight-global-datapacks/synesthesia/data/zhopo/tags/worldgen/biome/has_structure/mangrove_mineshaft.json"
+hash = "c859ab39fb8a6b735ef53ddc01e684b56712a20c7081db02b0d26ab6d416f8d5"
+
+[[files]]
+file = "moonlight-global-datapacks/synesthesia/data/zhopo/tags/worldgen/biome/has_structure/mud_mineshaft.json"
+hash = "c859ab39fb8a6b735ef53ddc01e684b56712a20c7081db02b0d26ab6d416f8d5"
+
+[[files]]
+file = "moonlight-global-datapacks/synesthesia/data/zhopo/tags/worldgen/biome/has_structure/oak_mineshaft.json"
+hash = "c859ab39fb8a6b735ef53ddc01e684b56712a20c7081db02b0d26ab6d416f8d5"
+
+[[files]]
+file = "moonlight-global-datapacks/synesthesia/data/zhopo/tags/worldgen/biome/has_structure/spruce_mineshaft.json"
+hash = "c859ab39fb8a6b735ef53ddc01e684b56712a20c7081db02b0d26ab6d416f8d5"
+
+[[files]]
+file = "moonlight-global-datapacks/synesthesia/data/zhopo/tags/worldgen/biome/has_structure/stone_mineshaft.json"
+hash = "c859ab39fb8a6b735ef53ddc01e684b56712a20c7081db02b0d26ab6d416f8d5"
+
+[[files]]
+file = "moonlight-global-datapacks/synesthesia/data/zhopo/tags/worldgen/biome/has_structure/underwater_city.json"
+hash = "51748cdd95402428302d978e81b98467108390ade980854d6f94c386042997cc"
+
+[[files]]
+file = "moonlight-global-datapacks/synesthesia/data/zhopo/tags/worldgen/biome/has_structure/underwater_fossils.json"
+hash = "51748cdd95402428302d978e81b98467108390ade980854d6f94c386042997cc"
+
+[[files]]
+file = "moonlight-global-datapacks/synesthesia/data/zhopo/tags/worldgen/biome/has_structure/underwater_small_ruins.json"
+hash = "51748cdd95402428302d978e81b98467108390ade980854d6f94c386042997cc"
+
+[[files]]
+file = "moonlight-global-datapacks/synesthesia/data/zhopo/tags/worldgen/biome/has_structure/underwater_warm_small_ruins.json"
+hash = "51748cdd95402428302d978e81b98467108390ade980854d6f94c386042997cc"
+
+[[files]]
+file = "moonlight-global-datapacks/synesthesia/pack.mcmeta"
+hash = "c12e1819213d5e50fe01a42ea1f3649ebc5f72f9c7ad02e3d6951fd433852c29"

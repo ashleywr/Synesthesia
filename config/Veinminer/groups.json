@@ -1,0 +1,122 @@
+[
+    {
+        "name": "Ores",
+        "blocks": [
+            "#c:ores"
+        ],
+        "tools": [
+            "#minecraft:pickaxes"
+        ],
+        "override": {
+            "cooldown": null,
+            "mustSneak": null,
+            "delay": null,
+            "maxChain": 64,
+            "needCorrectTool": null,
+            "searchRadius": null,
+            "permissionRestricted": null,
+            "decreaseDurability": null,
+            "hungerPerBlock": 0.15,
+            "miningSpeedModifier": null
+        }
+    },
+    {
+        "name": "Stones",
+        "blocks": [
+            "#c:stones",
+            "#minecraft:base_stone_overworld",
+            "#minecraft:base_stone_nether",
+            "#c:cobblestones",
+            "#c:netherracks",
+            "#c:end_stones",
+            "create:limestone",
+            "create:crimsite",
+            "create:asurine",
+            "create:veridium",
+            "create:ochrum",
+            "create:scoria",
+            "create:scorchia"
+        ],
+        "tools": [
+            "#minecraft:pickaxes"
+        ],
+        "override": {
+            "cooldown": null,
+            "mustSneak": null,
+            "delay": null,
+            "maxChain": 32,
+            "needCorrectTool": null,
+            "searchRadius": null,
+            "permissionRestricted": null,
+            "decreaseDurability": null,
+            "hungerPerBlock": 0.2,
+            "miningSpeedModifier": null
+        }
+    },
+    {
+        "name": "Woods",
+        "blocks": [
+            "#minecraft:logs",
+            "minecraft:mushroom_stem",
+            "minecraft:brown_mushroom_block",
+            "minecraft:red_mushroom_block"
+        ],
+        "tools": [
+            "#minecraft:axes"
+        ],
+        "override": {
+            "cooldown": null,
+            "mustSneak": null,
+            "delay": null,
+            "maxChain": 96,
+            "needCorrectTool": null,
+            "searchRadius": null,
+            "permissionRestricted": null,
+            "decreaseDurability": null,
+            "hungerPerBlock": 0.12,
+            "miningSpeedModifier": null
+        }
+    },
+    {
+        "name": "Leaves",
+        "blocks": [
+            "#minecraft:leaves"
+        ],
+        "tools": [
+            "#minecraft:axes",
+            "#minecraft:hoes",
+            "#c:tools/shear"
+        ],
+        "override": {
+            "cooldown": null,
+            "mustSneak": null,
+            "delay": null,
+            "maxChain": 128,
+            "needCorrectTool": null,
+            "searchRadius": null,
+            "permissionRestricted": null,
+            "decreaseDurability": null,
+            "hungerPerBlock": 0.03,
+            "miningSpeedModifier": null
+        }
+    },
+    {
+        "name": "Crops",
+        "blocks": [
+            "#minecraft:crops"
+        ],
+        "tools": [],
+        "override": {
+            "cooldown": null,
+            "mustSneak": null,
+            "delay": null,
+            "maxChain": 64,
+            "needCorrectTool": null,
+            "searchRadius": null,
+            "permissionRestricted": null,
+            "decreaseDurability": null,
+            "hungerPerBlock": 0.05,
+            "miningSpeedModifier": null
+        }
+    }
+]
