@@ -3,244 +3,170 @@
 	default_quest_shape: ""
 	filename: "halcyon"
 	group: ""
-	icon: "halcyon:data_tablet"
-	id: "cb2ab6815a391971"
-	images: []
+	id: "28CCF30803B14A6E"
+	images: [ ]
 	order_index: 0
-	quest_links: []
+	quest_links: [ ]
 	quests: [
 		{
-			id: "ef4cdf730d9e59fc"
-			tasks: [
-				{
-					id: "9abdcbffcf8b1d41"
-					item: "halcyon:data_tablet"
-					type: "item"
-				}
-			]
-			rewards: [
-				{
-					id: "ccb93ccc5e46399d"
-					type: "xp"
-					xp: 50
-				}
-			]
-			title: "Signals from Phenua"
-			description: [
-				"Something out there has been building. Not with hammers and stone, but with light and unfamiliar geometry."
-				""
-				"Go find a Halcyon structure - the ancient rock formations, the pearlescent sand fields, the makutuin ruins - and bring back a Data Tablet. It's the mod's own guidebook; read it before touching anything else."
-			]
+			id: "3493FA0FF2F58CD6"
+			rewards: [{
+				id: "1E11AA20DFD97111"
+				type: "xp"
+				xp: 50
+			}]
+			tasks: [{
+				id: "6F9BC0EC53EAACCB"
+				item: { count: 1, id: "halcyon:data_tablet" }
+				type: "item"
+			}]
 			x: 0.0d
 			y: 0.0d
 		}
 		{
-			id: "54ec1591b4ab0954"
-			dependencies: ["ef4cdf730d9e59fc"]
-			tasks: [
-				{
-					id: "d88ffc87d192540e"
-					item: "halcyon:fabricator"
-					type: "item"
-				}
-			]
-			rewards: [
-				{
-					id: "67f3662997c0628f"
-					type: "xp"
-					xp: 50
-				}
-			]
-			title: "The Fabricator"
-			description: [
-				"Everything in Halcyon's tech tree gets built here. It's not a normal crafting bench - recipes cost Essence to unlock, one time, before you can ever make them."
-			]
+			id: "54EC1591B4AB0954"
+			rewards: [{
+				id: "67F3662997C0628F"
+				type: "xp"
+				xp: 50
+			}]
+			tasks: [{
+				id: "5605671D263E68C8"
+				item: { count: 1, id: "halcyon:fabricator" }
+				type: "item"
+			}]
 			x: 0.0d
 			y: 2.0d
 		}
 		{
-			id: "a2fd1bef9d0c2301"
-			dependencies: ["54ec1591b4ab0954"]
-			tasks: [
-				{
-					id: "90cecf29632b246d"
-					type: "advancement"
-					advancement: "halcyon:progression/place_essence_burner"
-					title: "Place an Essence Burner"
+			dependencies: ["54EC1591B4AB0954"]
+			id: "1B3F7B1A728C10B1"
+			rewards: [{
+				count: 4
+				id: "06D29393ED9DB5E3"
+				item: {
+					count: 1
+					id: "halcyon:essence_shard"
 				}
-			]
-			rewards: [
-				{
-					id: "06d29393ed9db5e3"
-					count: 4
-					item: "halcyon:essence_shard"
-					type: "item"
-				}
-			]
-			title: "First Spark"
-			description: [
-				"The cheapest generator in the book - copper and obsidian. Feed it Tidal Shards and it'll sublimate them into usable Essence."
-				""
-				"Inefficient, and someone has to keep coming back to refuel it, but it's a start."
-			]
+				type: "item"
+			}]
+			tasks: [{
+				advancement: "halcyon:progression/place_essence_burner"
+				criterion: ""
+				id: "33D1C0C008180C01"
+				type: "advancement"
+			}]
 			x: 0.0d
 			y: 4.0d
 		}
 		{
-			id: "633bf59c5b0e1239"
-			dependencies: ["a2fd1bef9d0c2301"]
-			tasks: [
-				{
-					id: "02d6717ae262dad6"
-					item: "halcyon:industrial_plant_siphon"
-					type: "item"
-				}
-			]
-			rewards: [
-				{
-					id: "7e42b3c30bfe9e3a"
-					type: "xp"
-					xp: 100
-				}
-			]
-			title: "Tapping the Land"
-			description: [
-				"Plant life carries Tidal Energy too, if you know how to draw it out. The rarer or more magical the plant, the more it gives - worth remembering if you're already keeping bees or a garden nearby."
-			]
+			id: "633BF59C5B0E1239"
+			rewards: [{
+				id: "7E42B3C30BFE9E3A"
+				type: "xp"
+				xp: 100
+			}]
+			tasks: [{
+				id: "02D6717AE262DAD6"
+				item: { count: 1, id: "halcyon:industrial_plant_siphon" }
+				type: "item"
+			}]
 			x: -1.5d
 			y: 6.0d
 		}
 		{
-			id: "ce1c9b8fd6b633e8"
-			dependencies: ["a2fd1bef9d0c2301"]
-			tasks: [
-				{
-					id: "0a6a966ad5a39c6f"
-					item: "halcyon:essence_leech"
-					type: "item"
-				}
-			]
-			rewards: [
-				{
-					id: "d5414bdcea93624b"
-					type: "xp"
-					xp: 100
-				}
-			]
-			title: "A Steady Diet"
-			description: [
-				"Mobs carry dormant Tidal Energy too. This device 'Awakens' them to get at it - a steadier supply than burning shards, at a cost the notes are a little evasive about."
-			]
+			id: "6CCBC28E24D3848A"
+			rewards: [{
+				id: "319BFDDF421D5590"
+				type: "xp"
+				xp: 100
+			}]
+			tasks: [{
+				id: "0A6A966AD5A39C6F"
+				item: { count: 1, id: "halcyon:essence_leech" }
+				type: "item"
+			}]
 			x: 1.5d
 			y: 6.0d
 		}
 		{
-			id: "7977f22923e292c0"
-			dependencies: ["633bf59c5b0e1239"]
-			tasks: [
-				{
-					id: "3c7bfa630ae49d44"
-					item: "halcyon:lunarium"
-					type: "item"
+			dependencies: ["633BF59C5B0E1239"]
+			id: "7977F22923E292C0"
+			rewards: [{
+				count: 2
+				id: "183848CCAF183DDE"
+				item: {
+					count: 1
+					id: "halcyon:essence_crystal"
 				}
-			]
-			rewards: [
-				{
-					id: "857d57f53a4a7078"
-					count: 2
-					item: "halcyon:essence_crystal"
-					type: "item"
-				}
-			]
-			title: "Ascending to Lunarium"
-			description: [
-				"The real gate in this tree. 1000 Essence and a handful of components you'll need to fabricate first - a transformative rod, a lensing crystal, an ecliptrum cog assembly."
-				""
-				"Everything past this point in Mod Integration is locked behind it."
-			]
+				type: "item"
+			}]
+			tasks: [{
+				id: "3C7BFA630AE49D44"
+				item: { count: 1, id: "halcyon:lunarium" }
+				type: "item"
+			}]
 			x: 0.0d
 			y: 8.0d
 		}
 		{
-			id: "c21b979609ea2a9d"
-			dependencies: ["7977f22923e292c0"]
-			tasks: [
-				{
-					id: "4aa35acd2e18def4"
-					item: "halcyon:rf_node"
-					type: "item"
-				}
-			]
+			dependencies: ["7977F22923E292C0"]
+			id: "58ED522EBED004EF"
 			rewards: [
 				{
-					id: "48a42edb5a38af93"
+					id: "48A42EDB5A38AF93"
 					type: "xp"
 					xp: 250
 				}
 				{
-					id: "c4c1d0e020f7d5aa"
 					count: 16
-					item: "minecraft:iron_ingot"
+					id: "3C51A634EE6FFAAB"
+					item: {
+						count: 1
+						id: "minecraft:iron_ingot"
+					}
 					type: "item"
 				}
 			]
-			title: "Powering the Rest of the World"
-			description: [
-				"An RF Node turns Tidal Energy into ordinary FE - the same energy every incubator, mixer, and machine in the rest of the pack runs on. Wire it up and Halcyon stops being its own island."
-			]
+			tasks: [{
+				id: "4AA35ACD2E18DEF4"
+				item: { count: 1, id: "halcyon:rf_node" }
+				type: "item"
+			}]
 			x: 0.0d
 			y: 10.0d
 		}
 		{
-			id: "fdba62ba122febd1"
-			dependencies: ["7977f22923e292c0"]
-			tasks: [
-				{
-					id: "cc9e25a639f1d228"
-					item: "pastel:amethyst_powder"
-					type: "item"
-				}
-			]
-			rewards: [
-				{
-					id: "4571b16fd330fe88"
-					type: "xp"
-					xp: 150
-				}
-			]
-			title: "Petrified Light"
-			description: [
-				"Halcyon's Entropic Processor already knows how to break down amethyst into Pastel's Amethyst Powder - shard, cluster, or block, no Pastel items needed as input at all, just ordinary amethyst you'd have from mining anyway."
-				""
-				"This is a real, mod-native integration - not something bolted on for this quest."
-			]
+			dependencies: ["7977F22923E292C0"]
+			id: "6C76AD7C72997316"
+			rewards: [{
+				id: "4571B16FD330FE88"
+				type: "xp"
+				xp: 150
+			}]
+			tasks: [{
+				id: "58F6B9518DE8E825"
+				item: { count: 1, id: "pastel:amethyst_powder" }
+				type: "item"
+			}]
 			x: -2.0d
 			y: 10.0d
 		}
 		{
-			id: "81df506fb7830cc6"
-			dependencies: ["7977f22923e292c0"]
-			tasks: [
-				{
-					id: "e47b497261b011cb"
-					item: "malum:arcane_charcoal"
-					type: "item"
-				}
-			]
-			rewards: [
-				{
-					id: "4f62ff83b30df517"
-					type: "xp"
-					xp: 150
-				}
-			]
-			title: "Ashes of the Arcane"
-			description: [
-				"Halcyon's infusion process turns a pile of Runewood or Soulwood - logs, stripped logs, and the raw log-block form, six items at once - into Malum's own Arcane Charcoal. Bring a set of either wood and put the infusion setup to work."
-			]
+			dependencies: ["7977F22923E292C0"]
+			id: "6417C3CAD11DC482"
+			rewards: [{
+				id: "4F62FF83B30DF517"
+				type: "xp"
+				xp: 150
+			}]
+			tasks: [{
+				id: "77FB337FD88ADC81"
+				item: { count: 1, id: "malum:arcane_charcoal" }
+				type: "item"
+			}]
 			x: 2.0d
 			y: 10.0d
 		}
 	]
-	title: "Halcyon"
 }

@@ -1,0 +1,27 @@
+{
+  "structures": [
+    {
+      "structure": "aquamirae:pirate_ship",
+      "weight": 1
+    },
+    {
+      "structure": "mvs:ocean_tower",
+      "weight": 1
+    },
+    {
+      "structure": "mvs:small_ship",
+      "weight": 1
+    },
+    {
+      "structure": "supplementaries:galleon",
+      "weight": 1
+    }
+  ],
+  "placement": {
+    "type": "minecraft:random_spread",
+    "spacing": 160,
+    "separation": 112,
+    "spread_type": "triangular",
+    "salt": 158102405
+  }
+}

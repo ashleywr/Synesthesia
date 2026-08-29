@@ -1,0 +1,215 @@
+{
+  "structures": [
+    {
+      "structure": "born_in_chaos_v1:dark_tower_forest",
+      "weight": 1
+    },
+    {
+      "structure": "born_in_chaos_v1:dark_tower_plain",
+      "weight": 1
+    },
+    {
+      "structure": "born_in_chaos_v1:dark_tower_taiga",
+      "weight": 1
+    },
+    {
+      "structure": "cataclysm:acropolis",
+      "weight": 1
+    },
+    {
+      "structure": "cataclysm:ancient_factory",
+      "weight": 1
+    },
+    {
+      "structure": "cataclysm:cursed_pyramid",
+      "weight": 1
+    },
+    {
+      "structure": "cataclysm:frosted_prison",
+      "weight": 1
+    },
+    {
+      "structure": "cataclysm:sunken_city",
+      "weight": 1
+    },
+    {
+      "structure": "companions:companions_factory",
+      "weight": 1
+    },
+    {
+      "structure": "companions:companions_monkey_temple",
+      "weight": 1
+    },
+    {
+      "structure": "companions:companions_teddytower",
+      "weight": 1
+    },
+    {
+      "structure": "mowziesmobs:frostmaw_spawn",
+      "weight": 1
+    },
+    {
+      "structure": "mowziesmobs:monastery",
+      "weight": 1
+    },
+    {
+      "structure": "mowziesmobs:umvuthana_grove",
+      "weight": 1
+    },
+    {
+      "structure": "mss:arena",
+      "weight": 1
+    },
+    {
+      "structure": "mss:castle_ruin",
+      "weight": 1
+    },
+    {
+      "structure": "mss:castle_tower",
+      "weight": 1
+    },
+    {
+      "structure": "mss:desert_pyramid",
+      "weight": 1
+    },
+    {
+      "structure": "mss:large_tower",
+      "weight": 1
+    },
+    {
+      "structure": "mss:volcano",
+      "weight": 1
+    },
+    {
+      "structure": "mtr:badlands_temple",
+      "weight": 1
+    },
+    {
+      "structure": "mtr:desert_temple",
+      "weight": 1
+    },
+    {
+      "structure": "mtr:jungle_temple",
+      "weight": 1
+    },
+    {
+      "structure": "mvs:cartographer_tower",
+      "weight": 1
+    },
+    {
+      "structure": "mvs:castle_ruins",
+      "weight": 1
+    },
+    {
+      "structure": "mvs:cathedral",
+      "weight": 1
+    },
+    {
+      "structure": "mvs:diorite_tower",
+      "weight": 1
+    },
+    {
+      "structure": "mvs:jungle_tower",
+      "weight": 1
+    },
+    {
+      "structure": "mvs:large_warped_tower",
+      "weight": 1
+    },
+    {
+      "structure": "mvs:red_tower",
+      "weight": 1
+    },
+    {
+      "structure": "mvs:ruined_beacon",
+      "weight": 1
+    },
+    {
+      "structure": "mvs:small_pillager_tower",
+      "weight": 1
+    },
+    {
+      "structure": "trek:overworld/rare/abandoned_castle_pillager",
+      "weight": 1
+    },
+    {
+      "structure": "trek:overworld/rare/castle",
+      "weight": 1
+    },
+    {
+      "structure": "trek:overworld/rare/cottage_island",
+      "weight": 1
+    },
+    {
+      "structure": "trek:overworld/rare/elven_tree",
+      "weight": 1
+    },
+    {
+      "structure": "trek:overworld/rare/tower_island",
+      "weight": 1
+    },
+    {
+      "structure": "trek:overworld/rare/maya",
+      "weight": 1
+    },
+    {
+      "structure": "trek:overworld/rare/mushroom_island",
+      "weight": 1
+    },
+    {
+      "structure": "trek:overworld/rare/pillager_mansion",
+      "weight": 1
+    },
+    {
+      "structure": "trek:overworld/rare/portal_sword",
+      "weight": 1
+    },
+    {
+      "structure": "trek:overworld/rare/pyramide_of_anubis",
+      "weight": 1
+    },
+    {
+      "structure": "trek:overworld/rare/sleepy_island",
+      "weight": 1
+    },
+    {
+      "structure": "trek:overworld/rare/sunken_city",
+      "weight": 1
+    },
+    {
+      "structure": "trek:overworld/rare/villager_castle",
+      "weight": 1
+    },
+    {
+      "structure": "trek:overworld/rare/villager_fortress",
+      "weight": 1
+    },
+    {
+      "structure": "trek:overworld/rare/villager_island",
+      "weight": 1
+    },
+    {
+      "structure": "trek:overworld/rare/wooden_manor",
+      "weight": 1
+    },
+    {
+      "structure": "trek:overworld/very_rare/coves",
+      "weight": 1
+    },
+    {
+      "structure": "trek:overworld/very_rare/farm_island",
+      "weight": 1
+    },
+    {
+      "structure": "trek:overworld/very_rare/floating_farm_large",
+      "weight": 1
+    }
+  ],
+  "placement": {
+    "type": "minecraft:random_spread",
+    "spacing": 192,
+    "separation": 128,
+    "spread_type": "triangular",
+    "salt": 158102401
+  }
+}

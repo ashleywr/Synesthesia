@@ -1,0 +1,115 @@
+{
+  "structures": [
+    {
+      "structure": "explorify:end_shipwreck",
+      "weight": 1
+    },
+    {
+      "structure": "mes:astral_hideaway",
+      "weight": 1
+    },
+    {
+      "structure": "mes:astral_meteorite",
+      "weight": 1
+    },
+    {
+      "structure": "mes:ender_spire",
+      "weight": 1
+    },
+    {
+      "structure": "mes:enderbloom_grove",
+      "weight": 1
+    },
+    {
+      "structure": "mes:enderkeep_courtyard",
+      "weight": 1
+    },
+    {
+      "structure": "mes:enderpin_spikes",
+      "weight": 1
+    },
+    {
+      "structure": "mes:enderskog",
+      "weight": 1
+    },
+    {
+      "structure": "mes:enderwatch_tower",
+      "weight": 1
+    },
+    {
+      "structure": "mes:endscraps",
+      "weight": 1
+    },
+    {
+      "structure": "mes:manuscript_shrine",
+      "weight": 1
+    },
+    {
+      "structure": "mes:mega_ship",
+      "weight": 1
+    },
+    {
+      "structure": "mes:mega_ship_basic",
+      "weight": 1
+    },
+    {
+      "structure": "mes:mega_ship_crashed",
+      "weight": 1
+    },
+    {
+      "structure": "mes:mega_ship_crashed_2",
+      "weight": 1
+    },
+    {
+      "structure": "mes:mega_ship_crashed_deepslate",
+      "weight": 1
+    },
+    {
+      "structure": "mes:mega_ship_deepslate",
+      "weight": 1
+    },
+    {
+      "structure": "mes:mega_ship_deepslate_2",
+      "weight": 1
+    },
+    {
+      "structure": "mes:mega_ship_deepslate_3",
+      "weight": 1
+    },
+    {
+      "structure": "mes:monolith",
+      "weight": 1
+    },
+    {
+      "structure": "mes:mystical_archway",
+      "weight": 1
+    },
+    {
+      "structure": "mes:mythic_garden",
+      "weight": 1
+    },
+    {
+      "structure": "mes:phantom_citadel",
+      "weight": 1
+    },
+    {
+      "structure": "mes:placid_prairie",
+      "weight": 1
+    },
+    {
+      "structure": "mes:ruined_pillar",
+      "weight": 1
+    },
+    {
+      "structure": "mes:starlight_voyager",
+      "weight": 1
+    }
+  ],
+  "placement": {
+    "type": "minecraft:random_spread",
+    "spacing": 176,
+    "separation": 112,
+    "spread_type": "triangular",
+    "salt": 158102407
+  }
+}

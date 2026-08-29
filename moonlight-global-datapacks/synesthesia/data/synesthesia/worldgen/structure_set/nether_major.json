@@ -1,0 +1,71 @@
+{
+  "structures": [
+    {
+      "structure": "cataclysm:burning_arena",
+      "weight": 1
+    },
+    {
+      "structure": "cataclysm:ruined_citadel",
+      "weight": 1
+    },
+    {
+      "structure": "cataclysm:soul_black_smith",
+      "weight": 1
+    },
+    {
+      "structure": "mtr:nether_temple",
+      "weight": 1
+    },
+    {
+      "structure": "netherman:believer_house",
+      "weight": 1
+    },
+    {
+      "structure": "netherman:gast_chamber",
+      "weight": 1
+    },
+    {
+      "structure": "netherman:head_altar",
+      "weight": 1
+    },
+    {
+      "structure": "netherman:mansion_nether",
+      "weight": 1
+    },
+    {
+      "structure": "netherman:maze",
+      "weight": 1
+    },
+    {
+      "structure": "netherman:eye_columns",
+      "weight": 1
+    },
+    {
+      "structure": "netherman:gehen_statue",
+      "weight": 1
+    },
+    {
+      "structure": "netherman:trap",
+      "weight": 1
+    },
+    {
+      "structure": "netherman:monument",
+      "weight": 1
+    },
+    {
+      "structure": "netherman:nether_geyser",
+      "weight": 1
+    },
+    {
+      "structure": "netherman:pipes",
+      "weight": 1
+    }
+  ],
+  "placement": {
+    "type": "minecraft:random_spread",
+    "spacing": 192,
+    "separation": 128,
+    "spread_type": "triangular",
+    "salt": 158102406
+  }
+}

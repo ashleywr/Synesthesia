@@ -16,6 +16,7 @@ Use packwiz-installer or packwiz-installer-bootstrap with:
 ## Contents
 
 - `mods/` - packwiz mod metadata
+- `disabled-mods.md` - local disabled-jar inventory; Packwiz tracks only the enabled install set
 - `kubejs/` - startup, server, and client scripts
 - `defaultconfigs/` - config applied to config/ on first launch, if not already present
 - `moonlight-global-datapacks/` - datapacks applied to every world automatically

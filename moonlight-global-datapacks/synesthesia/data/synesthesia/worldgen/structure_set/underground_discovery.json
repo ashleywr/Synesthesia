@@ -1,0 +1,83 @@
+{
+  "structures": [
+    {
+      "structure": "alexscaves:abyssal_ruins",
+      "weight": 1
+    },
+    {
+      "structure": "alexscaves:acid_pit",
+      "weight": 1
+    },
+    {
+      "structure": "alexscaves:cake_cave",
+      "weight": 1
+    },
+    {
+      "structure": "alexscaves:dino_bowl",
+      "weight": 1
+    },
+    {
+      "structure": "alexscaves:donut_arch",
+      "weight": 1
+    },
+    {
+      "structure": "alexscaves:ferrocave",
+      "weight": 1
+    },
+    {
+      "structure": "alexscaves:forlorn_bridge",
+      "weight": 1
+    },
+    {
+      "structure": "alexscaves:forlorn_canyon",
+      "weight": 1
+    },
+    {
+      "structure": "alexscaves:gingerbread_town",
+      "weight": 1
+    },
+    {
+      "structure": "alexscaves:licowitch_tower",
+      "weight": 1
+    },
+    {
+      "structure": "alexscaves:ocean_trench",
+      "weight": 1
+    },
+    {
+      "structure": "alexscaves:soda_bottle",
+      "weight": 1
+    },
+    {
+      "structure": "alexscaves:underground_cabin",
+      "weight": 1
+    },
+    {
+      "structure": "alexscaves:volcano",
+      "weight": 1
+    },
+    {
+      "structure": "caverns_and_chasms:forge",
+      "weight": 1
+    },
+    {
+      "structure": "caverns_and_chasms:tin_monolith",
+      "weight": 1
+    },
+    {
+      "structure": "caverns_and_chasms:vault",
+      "weight": 1
+    },
+    {
+      "structure": "mowziesmobs:wrought_chamber",
+      "weight": 1
+    }
+  ],
+  "placement": {
+    "type": "minecraft:random_spread",
+    "spacing": 144,
+    "separation": 96,
+    "spread_type": "triangular",
+    "salt": 158102404
+  }
+}
