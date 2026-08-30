@@ -22,15 +22,15 @@ hash = "53f346fb7031389402e1e5c3834fe8be23369e291176a3c031857d01533c28dd"
 
 [[files]]
 file = "config/alexscaves-general.toml"
-hash = "be9bc7d73bc9bd9679b0bd57e9c5effd25ef9484a771f32255ef88acfc3082cf"
+hash = "c7ce66288faa3a526ca2465f01e1a65ea927ca92d7b302a6f2df630270fe78e4"
 
 [[files]]
 file = "config/alexscaves_biome_generation/abyssal_chasm.json"
-hash = "4fed7e5b7938b7de22bb4193ccf522d2fdb5edb4c4180903b17ec8694b2337d8"
+hash = "d3f6e23c1d26547ebe3f993464f9d75c88dea80743081e63589f6c90744c02ad"
 
 [[files]]
 file = "config/alexscaves_biome_generation/candy_cavity.json"
-hash = "e68dac5fc506c198dedf07566e0184872be730c4d369c4bbb245f5b12673bd19"
+hash = "73ecdeeac514515f50882cc4445bde97a7d4d268aa51d1a3e2394ab9c8428938"
 
 [[files]]
 file = "config/alexscaves_biome_generation/forlorn_hollows.json"
@@ -42,11 +42,11 @@ hash = "5b9a96de68eb17b03b5b19808dc2bae7854948c81e57aeda60bab927b4a54e8e"
 
 [[files]]
 file = "config/alexscaves_biome_generation/primordial_caves.json"
-hash = "ad81cc492bce6aad55b2becdff94bddde8007070e467445610dc124b4f8d3c68"
+hash = "2ffcc98b9278d376d608dbb659f4a2872903039be871049668b7a95edead4cad"
 
 [[files]]
 file = "config/alexscaves_biome_generation/toxic_caves.json"
-hash = "f9e79d5c2c508e03e72da253925f7060acc9146191df44d5f21f0513a4b34c66"
+hash = "ab99577ce3dfa9bd5e934f90db6af1635129c0697eb486138d51dc7b7ab72fd4"
 
 [[files]]
 file = "config/caverns_and_chasms-common.toml"
@@ -346,8 +346,8 @@ hash = "5544f5724613daba969ed686b5d359732b9885491926d4e17616e30026618e91"
 metafile = true
 
 [[files]]
-file = "mods/citadel-(1.21.1-port).pw.toml"
-hash = "4d555a71f90c696e9648d4287d19f57bbc8f2bbc7ccc233c108126f237b15eeb"
+file = "mods/citadel.pw.toml"
+hash = "506ae526a1875e7279d5ef77e91f7a035048a3dc0cf3b76441bf503ddbfe5761"
 metafile = true
 
 [[files]]
