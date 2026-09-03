@@ -1,0 +1,6 @@
+{
+  "values": [
+    { "id": "kaleidoscope_cookery:oil", "required": false },
+    { "id": "rusticdelight:cooking_oil", "required": false }
+  ]
+}

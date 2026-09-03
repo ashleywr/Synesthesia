@@ -1,0 +1,10 @@
+{
+  "neoforge:conditions": [
+    { "type": "neoforge:false" }
+  ],
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": { "I": { "item": "minecraft:iron_ingot" } },
+  "pattern": [ "I" ],
+  "result": { "id": "barbequesdelight:grill", "count": 1 }
+}

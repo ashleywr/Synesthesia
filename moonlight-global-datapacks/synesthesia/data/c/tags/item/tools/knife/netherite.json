@@ -1,0 +1,6 @@
+{
+  "values": [
+    { "id": "farmersdelight:netherite_knife", "required": false },
+    { "id": "kaleidoscope_cookery:netherite_kitchen_knife", "required": false }
+  ]
+}

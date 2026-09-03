@@ -1,0 +1,21 @@
+{
+  "neoforge:conditions": [
+    { "type": "neoforge:mod_loaded", "modid": "kaleidoscope_cookery" }
+  ],
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    { "item": "kaleidoscope_cookery:oil_pot" },
+    { "item": "kaleidoscope_cookery:oil" },
+    { "item": "kaleidoscope_cookery:oil" },
+    { "item": "kaleidoscope_cookery:oil" },
+    { "item": "kaleidoscope_cookery:oil" }
+  ],
+  "result": {
+    "id": "kaleidoscope_cookery:oil_pot",
+    "count": 1,
+    "components": {
+      "kaleidoscope_cookery:oil_pot_oil_count": 8
+    }
+  }
+}

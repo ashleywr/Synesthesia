@@ -1,0 +1,6 @@
+{
+  "values": [
+    { "id": "barbequesdelight:raw_beef_skewer", "required": false },
+    { "id": "kaleidoscope_grilling:raw_beef_skewer", "required": false }
+  ]
+}

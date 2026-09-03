@@ -1,0 +1,109 @@
+{
+  "skewers": [
+    {
+      "id": "barbequesdelight:raw_chicken_skewer",
+      "cooked_result": "barbequesdelight:grilled_chicken_skewer",
+      "ingredients": [
+        [
+          "#c:foods/raw_chicken"
+        ],
+        [
+          "#c:foods/onion"
+        ],
+        [
+          "#c:foods/raw_chicken"
+        ]
+      ]
+    },
+    {
+      "id": "barbequesdelight:raw_cod_skewer",
+      "cooked_result": "barbequesdelight:grilled_cod_skewer",
+      "ingredients": [
+        [
+          "#c:foods/raw_cod"
+        ],
+        [
+          "#c:foods/tomato"
+        ],
+        [
+          "#c:foods/raw_cod"
+        ]
+      ]
+    },
+    {
+      "id": "barbequesdelight:raw_pork_sausage_skewer",
+      "cooked_result": "barbequesdelight:grilled_pork_sausage_skewer",
+      "ingredients": [
+        [
+          "#c:foods/raw_pork"
+        ],
+        [
+          "#c:foods/raw_pork"
+        ],
+        [
+          "#c:foods/raw_pork"
+        ]
+      ]
+    },
+    {
+      "id": "barbequesdelight:raw_potato_skewer",
+      "cooked_result": "barbequesdelight:grilled_potato_skewer",
+      "ingredients": [
+        [
+          "minecraft:potato"
+        ],
+        [
+          "#c:foods/raw_bacon"
+        ],
+        [
+          "minecraft:potato"
+        ]
+      ]
+    },
+    {
+      "id": "barbequesdelight:raw_rabbit_skewer",
+      "cooked_result": "barbequesdelight:grilled_rabbit_skewer",
+      "ingredients": [
+        [
+          "minecraft:rabbit"
+        ],
+        [
+          "#c:foods/cabbage"
+        ],
+        [
+          "minecraft:rabbit"
+        ]
+      ]
+    },
+    {
+      "id": "barbequesdelight:raw_salmon_skewer",
+      "cooked_result": "barbequesdelight:grilled_salmon_skewer",
+      "ingredients": [
+        [
+          "#c:foods/raw_salmon"
+        ],
+        [
+          "#c:foods/tomato"
+        ],
+        [
+          "#c:foods/raw_salmon"
+        ]
+      ]
+    },
+    {
+      "id": "barbequesdelight:raw_vegetable_skewer",
+      "cooked_result": "barbequesdelight:grilled_vegetable_skewer",
+      "ingredients": [
+        [
+          "#c:foods/vegetable"
+        ],
+        [
+          "#c:foods/fruit"
+        ],
+        [
+          "#c:foods/vegetable"
+        ]
+      ]
+    }
+  ]
+}

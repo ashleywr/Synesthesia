@@ -1,0 +1,76 @@
+{
+  "values": [
+    {
+      "id": "alexscaves:stripped_pewen_wood",
+      "required": false
+    },
+    {
+      "id": "alexscaves:stripped_thornwood_wood",
+      "required": false
+    },
+    {
+      "id": "born_in_chaos_v1:stripped_scorched_wood",
+      "required": false
+    },
+    {
+      "id": "bountifulfares:stripped_apple_wood",
+      "required": false
+    },
+    {
+      "id": "bountifulfares:stripped_hoary_wood",
+      "required": false
+    },
+    {
+      "id": "bountifulfares:stripped_lemon_wood",
+      "required": false
+    },
+    {
+      "id": "bountifulfares:stripped_orange_wood",
+      "required": false
+    },
+    {
+      "id": "bountifulfares:stripped_palm_wood",
+      "required": false
+    },
+    {
+      "id": "bountifulfares:stripped_plum_wood",
+      "required": false
+    },
+    {
+      "id": "bountifulfares:stripped_walnut_wood",
+      "required": false
+    },
+    {
+      "id": "caverns_and_chasms:stripped_azalea_wood",
+      "required": false
+    },
+    {
+      "id": "forbidden_arcanus:stripped_aurum_wood",
+      "required": false
+    },
+    {
+      "id": "hexerei:stripped_mahogany_wood",
+      "required": false
+    },
+    {
+      "id": "hexerei:stripped_willow_wood",
+      "required": false
+    },
+    {
+      "id": "hexerei:stripped_witch_hazel_wood",
+      "required": false
+    },
+    {
+      "id": "trailandtales_delight:stripped_crystal_wood",
+      "required": false
+    },
+    {
+      "id": "upgrade_aquatic:stripped_driftwood",
+      "required": false
+    },
+    {
+      "id": "upgrade_aquatic:stripped_river_wood",
+      "required": false
+    }
+  ]
+}

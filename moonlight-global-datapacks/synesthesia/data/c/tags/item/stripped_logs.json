@@ -1,0 +1,84 @@
+{
+  "values": [
+    {
+      "id": "born_in_chaos_v1:stripped_scorched_log",
+      "required": false
+    },
+    {
+      "id": "bountifulfares:stripped_apple_log",
+      "required": false
+    },
+    {
+      "id": "bountifulfares:stripped_hoary_log",
+      "required": false
+    },
+    {
+      "id": "bountifulfares:stripped_lemon_log",
+      "required": false
+    },
+    {
+      "id": "bountifulfares:stripped_orange_log",
+      "required": false
+    },
+    {
+      "id": "bountifulfares:stripped_palm_log",
+      "required": false
+    },
+    {
+      "id": "bountifulfares:stripped_plum_log",
+      "required": false
+    },
+    {
+      "id": "bountifulfares:stripped_walnut_log",
+      "required": false
+    },
+    {
+      "id": "caverns_and_chasms:stripped_azalea_log",
+      "required": false
+    },
+    {
+      "id": "forbidden_arcanus:stripped_aurum_log",
+      "required": false
+    },
+    {
+      "id": "hexerei:stripped_mahogany_log",
+      "required": false
+    },
+    {
+      "id": "hexerei:stripped_willow_log",
+      "required": false
+    },
+    {
+      "id": "hexerei:stripped_witch_hazel_log",
+      "required": false
+    },
+    {
+      "id": "malum:stripped_runewood",
+      "required": false
+    },
+    {
+      "id": "malum:stripped_soulwood",
+      "required": false
+    },
+    {
+      "id": "regions_unexplored:stripped_bamboo_log",
+      "required": false
+    },
+    {
+      "id": "regions_unexplored:stripped_small_oak_log",
+      "required": false
+    },
+    {
+      "id": "trailandtales_delight:stripped_crystal_wood_log",
+      "required": false
+    },
+    {
+      "id": "upgrade_aquatic:stripped_driftwood_log",
+      "required": false
+    },
+    {
+      "id": "upgrade_aquatic:stripped_river_log",
+      "required": false
+    }
+  ]
+}

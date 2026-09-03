@@ -1,0 +1,19 @@
+{
+  "neoforge:conditions": [
+    { "type": "neoforge:mod_loaded", "modid": "scguns" },
+    { "type": "neoforge:mod_loaded", "modid": "cgs" }
+  ],
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "key": {
+    "S": { "tag": "c:ingots/steel" }
+  },
+  "pattern": [
+    " S ",
+    "S S",
+    "SSS"
+  ],
+  "result": {
+    "id": "scguns:treated_iron_gun_frame"
+  }
+}

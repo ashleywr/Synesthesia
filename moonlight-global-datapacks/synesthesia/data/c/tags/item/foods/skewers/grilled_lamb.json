@@ -1,0 +1,6 @@
+{
+  "values": [
+    { "id": "barbequesdelight:grilled_lamb_skewer", "required": false },
+    { "id": "kaleidoscope_grilling:grilled_lamb_skewer", "required": false }
+  ]
+}

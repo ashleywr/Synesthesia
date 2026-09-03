@@ -1,0 +1,21 @@
+filename = 'spiceoflife_classic-neoforge-2.12+1.21.1.jar'
+name = 'Spice of Life: Classic Edition'
+side = ''
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = 'SoL:Classic_v2.12+1.21.1 (NeoForge)'
+
+[download]
+hash = 'ce4d701d3db9537bd00dcccb96d7bbd162ee9d23'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 8016489
+project-id = 1109288
+
+[[x-prismlauncher-dependencies]]
+addonId = '419699'
+type = 'REQUIRED'

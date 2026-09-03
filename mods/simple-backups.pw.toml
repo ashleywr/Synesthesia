@@ -1,0 +1,21 @@
+filename = 'SimpleBackups-1.21-4.0.30.jar'
+name = 'Simple Backups'
+side = 'both'
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21.1', '1.21.2', '1.21.3', '1.21.4' ]
+x-prismlauncher-release-type = 'beta'
+x-prismlauncher-version-number = '1.21-4.0.30'
+
+[download]
+hash = 'a1a9953182cc6fd9e9c6047b75fdac673802a66a88c11644d7953705270ba299aa7db8b9ebec7086b655dbb15fbf69bf9b77ad47be251ed356ecb184fbd56dc9'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/fzSKSXVK/versions/tHyCDNNH/SimpleBackups-1.21-4.0.30.jar'
+
+[update.modrinth]
+mod-id = 'fzSKSXVK'
+version = 'tHyCDNNH'
+
+[[x-prismlauncher-dependencies]]
+addonId = '3azQ6p0W'
+type = 'OPTIONAL'

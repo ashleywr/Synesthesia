@@ -1,0 +1,85 @@
+filename = 'stonezone-1.21-2.11.17-neoforge.jar'
+name = 'Every Compat (Stone Zone)'
+side = 'both'
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = '1.21-2.11.17-neoforge'
+
+[download]
+hash = 'b92922f7f34fbbfa5e8276b331cf651b2b7a5ff0072a9c6ef0da8eeb2448c8377862fbccd709a2a1ac21782bb9d57427c9f7e182ddd653dd5c0b139a30861743'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/uYwn8IP5/versions/kWBnBoqd/stonezone-1.21-2.11.17-neoforge.jar'
+
+[update.modrinth]
+mod-id = 'uYwn8IP5'
+version = 'kWBnBoqd'
+
+[[x-prismlauncher-dependencies]]
+addonId = 'RG50cUrX'
+type = 'OPTIONAL'
+
+[[x-prismlauncher-dependencies]]
+addonId = 'twkfQtEc'
+type = 'REQUIRED'
+
+[[x-prismlauncher-dependencies]]
+addonId = 'iP3wH1ha'
+type = 'OPTIONAL'
+
+[[x-prismlauncher-dependencies]]
+addonId = 'zCh7omyG'
+type = 'OPTIONAL'
+
+[[x-prismlauncher-dependencies]]
+addonId = 'B0g2vT6l'
+type = 'OPTIONAL'
+
+[[x-prismlauncher-dependencies]]
+addonId = 'C341qvJ5'
+type = 'OPTIONAL'
+
+[[x-prismlauncher-dependencies]]
+addonId = 'eiktJyw1'
+type = 'REQUIRED'
+
+[[x-prismlauncher-dependencies]]
+addonId = 'C7I0BCni'
+type = 'OPTIONAL'
+
+[[x-prismlauncher-dependencies]]
+addonId = 'GmwLse2I'
+type = 'OPTIONAL'
+
+[[x-prismlauncher-dependencies]]
+addonId = 'OSDpLd82'
+type = 'OPTIONAL'
+
+[[x-prismlauncher-dependencies]]
+addonId = 'FzyTKtVF'
+type = 'OPTIONAL'
+
+[[x-prismlauncher-dependencies]]
+addonId = 'B8jaH3P1'
+type = 'OPTIONAL'
+
+[[x-prismlauncher-dependencies]]
+addonId = 'v259p1An'
+type = 'OPTIONAL'
+
+[[x-prismlauncher-dependencies]]
+addonId = 'Xbc0uyRg'
+type = 'OPTIONAL'
+
+[[x-prismlauncher-dependencies]]
+addonId = 'GURcjz8O'
+type = 'OPTIONAL'
+
+[[x-prismlauncher-dependencies]]
+addonId = 'aRYbAuWe'
+type = 'OPTIONAL'
+
+[[x-prismlauncher-dependencies]]
+addonId = 'VRLhWB91'
+type = 'OPTIONAL'

@@ -1,0 +1,17 @@
+{
+  "neoforge:conditions": [
+    { "type": "neoforge:mod_loaded", "modid": "youkaishomecoming" },
+    { "type": "neoforge:mod_loaded", "modid": "kaleidoscope_cookery" }
+  ],
+  "type": "kaleidoscope_cookery:stockpot",
+  "ingredients": [
+    { "tag": "c:seeds" },
+    { "tag": "c:crops" },
+    { "tag": "minecraft:flowers" },
+    { "item": "minecraft:bone_meal" }
+  ],
+  "result": {
+    "count": 1,
+    "id": "youkaishomecoming:poor_god_soup"
+  }
+}

@@ -1,0 +1,18 @@
+filename = 'Neat-1.21-47-NEOFORGE.jar'
+name = 'Neat'
+side = 'client'
+x-prismlauncher-dependencies = []
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = '1.21.1-47-neoforge'
+
+[download]
+hash = '9ed98ab1eabbceae693de360fd6ec11c5f4badd4e59c2f4a2820345d33f675a7d4d6e55c73ad21d777981c663f21b0827273cb6a050a6052132d3cf3ac492bb2'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/Ins7SzzR/versions/kALoScYM/Neat-1.21-47-NEOFORGE.jar'
+
+[update.modrinth]
+mod-id = 'Ins7SzzR'
+version = 'kALoScYM'

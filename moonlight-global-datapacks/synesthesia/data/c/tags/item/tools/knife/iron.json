@@ -1,0 +1,6 @@
+{
+  "values": [
+    { "id": "farmersdelight:iron_knife", "required": false },
+    { "id": "kaleidoscope_cookery:iron_kitchen_knife", "required": false }
+  ]
+}

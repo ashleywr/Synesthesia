@@ -1,0 +1,18 @@
+filename = 'kaleidoscope_contraption-1.0.3.jar'
+name = 'Kaleidoscope Contraption'
+side = 'both'
+x-prismlauncher-dependencies = []
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21.1' ]
+x-prismlauncher-release-type = 'beta'
+x-prismlauncher-version-number = '1.0.3'
+
+[download]
+hash = 'a320f819c596e7aa7d7f73324fa4474bf83792435a28a11a6e3ef6266e09d6e2a070a2910b54974a3637ad4e8aa6e0eca6ca2e8baf4ecf9f891143557602db3a'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/JCCAvv9N/versions/3knNncAu/kaleidoscope_contraption-1.0.3.jar'
+
+[update.modrinth]
+mod-id = 'JCCAvv9N'
+version = '3knNncAu'

@@ -1,0 +1,6 @@
+{
+  "values": [
+    { "id": "kaleidoscope_grilling:canola_oil", "required": false },
+    { "id": "kaleidoscope_grilling:flowing_canola_oil", "required": false }
+  ]
+}

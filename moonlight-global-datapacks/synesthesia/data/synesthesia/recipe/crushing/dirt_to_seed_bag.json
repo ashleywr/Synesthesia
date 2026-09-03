@@ -1,0 +1,13 @@
+{
+  "neoforge:conditions": [
+    { "type": "neoforge:mod_loaded", "modid": "create" }
+  ],
+  "type": "create:crushing",
+  "ingredients": [
+    { "item": "minecraft:dirt" }
+  ],
+  "processing_time": 250,
+  "results": [
+    { "id": "kubejs:seed_bag", "chance": 0.05 }
+  ]
+}

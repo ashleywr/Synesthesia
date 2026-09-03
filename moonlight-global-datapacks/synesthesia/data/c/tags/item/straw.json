@@ -1,0 +1,6 @@
+{
+  "values": [
+    { "id": "farmersdelight:straw", "required": false },
+    { "id": "createaddition:straw", "required": false }
+  ]
+}

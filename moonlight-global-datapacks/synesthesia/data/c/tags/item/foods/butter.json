@@ -1,0 +1,6 @@
+{
+  "values": [
+    { "id": "minecolonies:butter", "required": false },
+    { "id": "youkaishomecoming:butter", "required": false }
+  ]
+}

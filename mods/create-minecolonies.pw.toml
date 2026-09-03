@@ -1,0 +1,21 @@
+filename = 'createminecolonies-1.5.jar'
+name = 'Create: MineColonies Link'
+side = 'server'
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = 'createminecolonies-1.5-1.21.1.jar'
+
+[download]
+hash = 'c37728da0f6256657bf5b7818ef905ef651547ae'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 8725930
+project-id = 1550673
+
+[[x-prismlauncher-dependencies]]
+addonId = '298744'
+type = 'REQUIRED'

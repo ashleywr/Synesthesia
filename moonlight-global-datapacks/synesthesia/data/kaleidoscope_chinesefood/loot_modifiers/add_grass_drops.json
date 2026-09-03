@@ -1,0 +1,5 @@
+{
+  "type": "neoforge:add_table",
+  "conditions": [ { "condition": "minecraft:random_chance", "chance": 0.0 } ],
+  "table": "kaleidoscope_chinesefood:blocks/grass_extra_drops"
+}

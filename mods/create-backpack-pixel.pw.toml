@@ -1,0 +1,21 @@
+filename = 'backpack_pixel-1.2.0-neoforge-1.21.1.jar'
+name = 'Create: Backpack Pixel'
+side = ''
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = 'backpack_pixel-1.2.0-neoforge-1.21.1.jar'
+
+[download]
+hash = '503a38c404cb4858655743b8ee08bb0585116fdc'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 7522062
+project-id = 1217247
+
+[[x-prismlauncher-dependencies]]
+addonId = '682065'
+type = 'OPTIONAL'

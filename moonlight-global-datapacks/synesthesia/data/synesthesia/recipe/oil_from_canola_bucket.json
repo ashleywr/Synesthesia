@@ -1,0 +1,15 @@
+{
+  "neoforge:conditions": [
+    { "type": "neoforge:mod_loaded", "modid": "kaleidoscope_grilling" },
+    { "type": "neoforge:mod_loaded", "modid": "kaleidoscope_cookery" }
+  ],
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    { "item": "kaleidoscope_grilling:canola_oil_bucket" }
+  ],
+  "result": {
+    "id": "kaleidoscope_cookery:oil",
+    "count": 4
+  }
+}

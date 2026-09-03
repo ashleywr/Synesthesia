@@ -1,0 +1,20 @@
+{
+  "values": [
+    { "id": "minecraft:wheat_seeds", "required": false },
+    { "id": "minecraft:beetroot_seeds", "required": false },
+    { "id": "minecraft:melon_seeds", "required": false },
+    { "id": "minecraft:pumpkin_seeds", "required": false },
+    { "id": "minecraft:torchflower_seeds", "required": false },
+    { "id": "bountifulfares:grass_seeds", "required": false },
+    { "id": "bountifulfares:lapisberry_seeds", "required": false },
+    { "id": "bountifulfares:scorchkin_seeds", "required": false },
+    { "id": "fruitsdelight:hamimelon_seeds", "required": false },
+    { "id": "fruitsdelight:lemon_seeds", "required": false },
+    { "id": "hexerei:sage_seed", "required": false },
+    { "id": "kaleidoscope_dim_wine:hop_seed", "required": false },
+    { "id": "kaleidoscope_end:chorus_seed", "required": false },
+    { "id": "kaleidoscope_grilling:canola_seeds", "required": false },
+    { "id": "trailandtales_delight:crystal_crabapple_seeds", "required": false },
+    { "id": "trailandtales_delight:lantern_fruit_seeds", "required": false }
+  ]
+}

@@ -1,0 +1,51 @@
+{
+  "config_version": "2.0.33",
+  "config_datetime": "2026-08-18_13-13-40",
+  "general": {
+    "disable_all_structures": false,
+    "prevent_structure_overlap": true,
+    "enable_global_spacing_and_separation_modifier": false,
+    "global_spacing_and_separation_modifier": 1.0
+  },
+  "structure_namespaces": [],
+  "structures": [
+    {
+      "name": "minecraft:desert_pyramid",
+      "is_disabled": true
+    },
+    {
+      "name": "minecraft:jungle_pyramid",
+      "is_disabled": true
+    },
+    {
+      "name": "create_sky_village:skyvillage",
+      "override_global_flatness_check": true,
+      "enable_flatness_check": true,
+      "flatness_check_mode": "MANUAL",
+      "flatness_check_max_height_difference": 24,
+      "flatness_check_allow_non_solid_blocks": true,
+      "override_global_biome_check": true,
+      "enable_biome_check": true,
+      "biome_check_mode": "BLACKLIST",
+      "biome_check_blacklisted_biomes": [
+        "#minecraft:is_mountain"
+      ]
+    },
+    {
+      "name": "create_sky_village:highwind_village",
+      "override_global_flatness_check": true,
+      "enable_flatness_check": true,
+      "flatness_check_mode": "MANUAL",
+      "flatness_check_max_height_difference": 24,
+      "flatness_check_allow_non_solid_blocks": true,
+      "override_global_biome_check": true,
+      "enable_biome_check": true,
+      "biome_check_mode": "BLACKLIST",
+      "biome_check_blacklisted_biomes": [
+        "#minecraft:is_mountain"
+      ]
+    }
+  ],
+  "structure_sets": [],
+  "structure_template_pools": []
+}

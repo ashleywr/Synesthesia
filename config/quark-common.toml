@@ -1349,8 +1349,8 @@
 	Forgotten = true
 	Foxhound = true
 	Shiba = true
-	Stonelings = true
-	Toretoise = true
+	Stonelings = false
+	Toretoise = false
 	Wraith = true
 
 	[mobs.crabs]

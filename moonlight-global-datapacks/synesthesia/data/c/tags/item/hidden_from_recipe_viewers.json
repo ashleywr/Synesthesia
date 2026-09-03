@@ -1,0 +1,180 @@
+{
+  "values": [
+    {
+      "id": "adorablehamsterpets:cucumber",
+      "required": false
+    },
+    {
+      "id": "adorablehamsterpets:cucumber_seeds",
+      "required": false
+    },
+    {
+      "id": "alexscaves:sulfur_dust",
+      "required": false
+    },
+    {
+      "id": "barbequesdelight:grilled_beef_skewer",
+      "required": false
+    },
+    {
+      "id": "barbequesdelight:grilled_lamb_skewer",
+      "required": false
+    },
+    {
+      "id": "barbequesdelight:grilled_mushroom_skewer",
+      "required": false
+    },
+    {
+      "id": "barbequesdelight:raw_beef_skewer",
+      "required": false
+    },
+    {
+      "id": "barbequesdelight:raw_lamb_skewer",
+      "required": false
+    },
+    {
+      "id": "barbequesdelight:raw_mushroom_skewer",
+      "required": false
+    },
+    {
+      "id": "bountifulfares:tea_leaves",
+      "required": false
+    },
+    {
+      "id": "caverns_and_chasms:copper_nugget",
+      "required": false
+    },
+    {
+      "id": "create_more_additions:electrum_block",
+      "required": false
+    },
+    {
+      "id": "create_more_additions:silver_block",
+      "required": false
+    },
+    {
+      "id": "create_more_additions:silver_ingot",
+      "required": false
+    },
+    {
+      "id": "create_more_additions:silver_nugget",
+      "required": false
+    },
+    {
+      "id": "createaddition:straw",
+      "required": false
+    },
+    {
+      "id": "createdeco:netherite_nugget",
+      "required": false
+    },
+    {
+      "id": "createdeco:zinc_sheet",
+      "required": false
+    },
+    {
+      "id": "doggytalents:tofu",
+      "required": false
+    },
+    {
+      "id": "farmersdelight:cooked_rice",
+      "required": false
+    },
+    {
+      "id": "farmersdelight:diamond_knife",
+      "required": false
+    },
+    {
+      "id": "farmersdelight:fried_egg",
+      "required": false
+    },
+    {
+      "id": "farmersdelight:golden_knife",
+      "required": false
+    },
+    {
+      "id": "farmersdelight:ham",
+      "required": false
+    },
+    {
+      "id": "farmersdelight:iron_knife",
+      "required": false
+    },
+    {
+      "id": "farmersdelight:netherite_knife",
+      "required": false
+    },
+    {
+      "id": "farmersdelight:onion",
+      "required": false
+    },
+    {
+      "id": "farmersdelight:tomato",
+      "required": false
+    },
+    {
+      "id": "farmersdelight:tomato_seeds",
+      "required": false
+    },
+    {
+      "id": "halcyon:copper_nugget",
+      "required": false
+    },
+    {
+      "id": "minecolonies:butter",
+      "required": false
+    },
+    {
+      "id": "minecolonies:cabbage",
+      "required": false
+    },
+    {
+      "id": "minecolonies:eggplant",
+      "required": false
+    },
+    {
+      "id": "minecolonies:onion",
+      "required": false
+    },
+    {
+      "id": "minecolonies:rice",
+      "required": false
+    },
+    {
+      "id": "minecolonies:soybean",
+      "required": false
+    },
+    {
+      "id": "minecolonies:tofu",
+      "required": false
+    },
+    {
+      "id": "minecolonies:tomato",
+      "required": false
+    },
+    {
+      "id": "powergrid:golden_wire",
+      "required": false
+    },
+    {
+      "id": "powergrid:iron_wire",
+      "required": false
+    },
+    {
+      "id": "powergrid:wire",
+      "required": false
+    },
+    {
+      "id": "powergrid:zinc_sheet",
+      "required": false
+    },
+    {
+      "id": "rusticdelight:coffee_beans",
+      "required": false
+    },
+    {
+      "id": "rusticdelight:cooking_oil",
+      "required": false
+    }
+  ]
+}

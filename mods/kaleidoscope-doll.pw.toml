@@ -1,0 +1,18 @@
+filename = 'kaleidoscopedoll-1.4.1-neoforge+mc1.21.1.jar'
+name = 'Kaleidoscope Doll'
+side = 'both'
+x-prismlauncher-dependencies = []
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = '1.4.1-neoforge+mc1.21.1'
+
+[download]
+hash = '25329b6b9d635ceec3e05b7fc523a9e4f11fb26498214dd98e14659edb6c3676e81bcef09ade7ed0671e53e49be1125c8198e0017bdc09184c05a4f151d34c28'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/vQLjjxNs/versions/FV2DGV0P/kaleidoscopedoll-1.4.1-neoforge%2Bmc1.21.1.jar'
+
+[update.modrinth]
+mod-id = 'vQLjjxNs'
+version = 'FV2DGV0P'

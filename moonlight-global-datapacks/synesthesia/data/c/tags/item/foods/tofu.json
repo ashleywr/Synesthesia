@@ -1,0 +1,7 @@
+{
+  "values": [
+    { "id": "doggytalents:tofu", "required": false },
+    { "id": "minecolonies:tofu", "required": false },
+    { "id": "youkaishomecoming:tofu", "required": false }
+  ]
+}
