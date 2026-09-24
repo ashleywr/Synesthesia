@@ -1,0 +1,105 @@
+{
+	default_hide_dependency_lines: false
+	default_min_width: 300
+	default_quest_shape: ""
+	filename: "start_here"
+	group: ""
+	icon: {
+		id: "minecraft:compass"
+	}
+	id: "0C14D36F2D84E6DC"
+	images: [ ]
+	order_index: 0
+	quest_links: [ ]
+	quests: [
+		{
+			icon: {
+				id: "minecraft:compass"
+			}
+			id: "64B4720A377606D7"
+			shape: "square"
+			size: 2.0d
+			tasks: [{
+				id: "714CAC63046E3432"
+				type: "checkmark"
+			}]
+			x: 0.0d
+			y: 0.0d
+		}
+		{
+			icon: {
+				id: "farmersdelight:cooking_pot"
+			}
+			id: "4B775C27ABF49F3B"
+			shape: "hexagon"
+			tasks: [{
+				id: "64D8D72B21FD0B44"
+				type: "checkmark"
+			}]
+			x: -4.5d
+			y: 3.0d
+		}
+		{
+			icon: {
+				id: "alexscaves:cave_book"
+			}
+			id: "6C8673B3CE7DBB4B"
+			shape: "hexagon"
+			tasks: [{
+				id: "29DAA6A8FCA9041A"
+				type: "checkmark"
+			}]
+			x: -1.5d
+			y: 3.0d
+		}
+		{
+			icon: {
+				id: "create:stock_link"
+			}
+			id: "33E05D848BCE3563"
+			shape: "hexagon"
+			tasks: [{
+				id: "6C701E55EE7F2628"
+				type: "checkmark"
+			}]
+			x: 1.5d
+			y: 3.0d
+		}
+		{
+			icon: {
+				id: "eternal_starlight:orb_of_prophecy"
+			}
+			id: "5233DD2CAFA41EC6"
+			shape: "hexagon"
+			tasks: [{
+				id: "34DBFCC917D006FA"
+				type: "checkmark"
+			}]
+			x: 4.5d
+			y: 3.0d
+		}
+		{
+			id: "72E2D972FF2F1989"
+			optional: true
+			rewards: [{
+				id: "4173D74D238728BC"
+				type: "xp"
+				xp: 25
+			}]
+			tasks: [
+				{
+					id: "144853636B8BFFD8"
+					item: { count: 1, id: "minecraft:crafting_table" }
+					type: "item"
+				}
+				{
+					id: "7081D52A53F2A603"
+					item: { count: 1, id: "minecraft:furnace" }
+					type: "item"
+				}
+			]
+			x: 0.0d
+			y: 6.0d
+		}
+	]
+}

@@ -1,0 +1,218 @@
+{
+	default_hide_dependency_lines: false
+	default_min_width: 300
+	default_quest_shape: ""
+	filename: "fishing"
+	group: ""
+	icon: {
+		id: "tide:iron_fishing_rod"
+	}
+	id: "06BEAB822556BF47"
+	images: [ ]
+	order_index: 7
+	quest_links: [ ]
+	quests: [
+		{
+			icon: {
+				id: "tide:fishing_journal"
+			}
+			id: "1791E552CC6672FA"
+			shape: "square"
+			size: 1.5d
+			tasks: [{
+				id: "580583B25825F7E9"
+				type: "checkmark"
+			}]
+			x: 0.0d
+			y: 0.0d
+		}
+		{
+			id: "20D5204C196E63DB"
+			rewards: [{
+				id: "6283BBA1922E0AB5"
+				type: "xp"
+				xp: 25
+			}]
+			tasks: [
+				{
+					id: "2402860FAADFCC70"
+					item: { count: 1, id: "tide:fishing_line" }
+					type: "item"
+				}
+				{
+					id: "1A19E604E4363CE3"
+					item: { count: 1, id: "tide:fishing_hook" }
+					type: "item"
+				}
+			]
+			x: -1.5d
+			y: 2.0d
+		}
+		{
+			id: "2E0D54E57BEC2CC9"
+			rewards: [{
+				id: "182C23BA6F7D8F6A"
+				type: "xp"
+				xp: 50
+			}]
+			tasks: [{
+				id: "2C9CDE201F754C31"
+				item: { count: 1, id: "tide:iron_fishing_rod" }
+				type: "item"
+			}]
+			x: -1.5d
+			y: 4.0d
+		}
+		{
+			id: "3BE3FE071D494E36"
+			tasks: [{
+				id: "2116824CD3A94B4B"
+				item: { count: 1, id: "tide:fishing_journal" }
+				type: "item"
+			}]
+			x: -3.0d
+			y: 6.0d
+		}
+		{
+			id: "20ADF67773F8375F"
+			tasks: [
+				{
+					id: "308DD60B2A2E0B0D"
+					item: { count: 1, id: "tide:bait" }
+					type: "item"
+				}
+				{
+					id: "4D42C90B851C35C2"
+					item: { count: 1, id: "tide:lucky_bait" }
+					type: "item"
+				}
+			]
+			x: -1.5d
+			y: 6.0d
+		}
+		{
+			id: "0B03E8417346F3F1"
+			tasks: [{
+				id: "65912B63C43B9FEE"
+				item: { count: 1, id: "tide:lavaproof_hook" }
+				type: "item"
+			}]
+			x: -3.0d
+			y: 8.0d
+		}
+		{
+			id: "4F18D43862B8AF1A"
+			rewards: [{
+				id: "2C688D2CC91CDA37"
+				type: "xp"
+				xp: 150
+			}]
+			tasks: [{
+				id: "793F685CF6CE44F2"
+				item: { count: 1, id: "tide:diamond_fishing_rod" }
+				type: "item"
+			}]
+			x: -1.5d
+			y: 8.0d
+		}
+		{
+			dependencies: ["4F18D43862B8AF1A"]
+			icon: {
+				id: "minecraft:heart_of_the_sea"
+			}
+			id: "6E1DE012BE47BB29"
+			tasks: [{
+				biome: "minecraft:deep_ocean"
+				id: "622EE6BD6CA40516"
+				type: "biome"
+			}]
+			x: -0.5d
+			y: 10.0d
+		}
+		{
+			dependencies: [
+				"4F18D43862B8AF1A"
+				"0B03E8417346F3F1"
+			]
+			id: "2D113F133DD3DE88"
+			optional: true
+			tasks: [{
+				id: "02CDA395C10A5175"
+				item: { count: 1, id: "tide:abyss_bait" }
+				type: "item"
+			}]
+			x: -2.2d
+			y: 10.0d
+		}
+		{
+			id: "7D4FDD1C7F51D439"
+			rewards: [{
+				id: "1CFBB23EC61C8A33"
+				type: "xp"
+				xp: 25
+			}]
+			tasks: [{
+				id: "2D531502D5388688"
+				item: { count: 1, id: "starcatcher:bamboo_rod" }
+				type: "item"
+			}]
+			x: 1.5d
+			y: 2.0d
+		}
+		{
+			id: "76EDA9D674A50E1E"
+			tasks: [
+				{
+					id: "2E01B15AC809D616"
+					item: { count: 1, id: "starcatcher:hook" }
+					type: "item"
+				}
+				{
+					id: "749A10174C723FFC"
+					item: { count: 1, id: "starcatcher:copper_hook" }
+					type: "item"
+				}
+			]
+			x: 1.5d
+			y: 4.0d
+		}
+		{
+			dependencies: ["76EDA9D674A50E1E"]
+			id: "1E9C00BA165D0AAA"
+			tasks: [{
+				id: "13B5871EF52CAA0B"
+				item: { count: 1, id: "starcatcher:humble_rod" }
+				type: "item"
+			}]
+			x: 1.5d
+			y: 6.0d
+		}
+		{
+			id: "4DEF9507DF382087"
+			optional: true
+			rewards: [{
+				id: "23C15B627CC7089C"
+				type: "xp"
+				xp: 150
+			}]
+			tasks: [{
+				id: "2AED61F7F794B5F2"
+				item: { count: 1, id: "starcatcher:clear_smithing_template" }
+				type: "item"
+			}]
+			x: 1.5d
+			y: 8.0d
+		}
+		{
+			id: "183D1A4AE91EB8D5"
+			optional: true
+			tasks: [{
+				id: "0D71DFC28E1E8CFF"
+				item: { count: 1, id: "starcatcher:azure_crystal_rod" }
+				type: "item"
+			}]
+			x: 1.5d
+			y: 10.0d
+		}
+	]
+}

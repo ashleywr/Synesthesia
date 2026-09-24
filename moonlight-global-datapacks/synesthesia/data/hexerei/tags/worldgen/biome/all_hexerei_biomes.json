@@ -1,5 +1,8 @@
 {
   "values": [
-    "hexerei:willow_swamp"
+    {
+      "id": "hexerei:willow_swamp",
+      "required": false
+    }
   ]
 }

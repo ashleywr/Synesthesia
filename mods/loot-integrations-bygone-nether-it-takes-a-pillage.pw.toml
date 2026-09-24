@@ -1,5 +1,5 @@
-filename = 'lootintegrations_lootintegrations_bygonepillage-1.2.jar'
-name = 'Loot Integrations: Bygone Nether & Eternal Nether & It Takes a Pillage'
+filename = 'lootintegrations_lootintegrations_bygonepillage-1.4.jar'
+name = 'lootintegrations_bygonepillage mod'
 side = ''
 x-prismlauncher-loaders = [ 'neoforge', 'forge', 'fabric' ]
 x-prismlauncher-mc-versions = [
@@ -22,16 +22,16 @@ x-prismlauncher-mc-versions = [
     '26.2'
 ]
 x-prismlauncher-release-type = 'release'
-x-prismlauncher-version-number = 'lootintegrations_lootintegrations_bygonepillage-1.2.jar'
+x-prismlauncher-version-number = 'lootintegrations_lootintegrations_bygonepillage-1.4.jar'
 
 [download]
-hash = '5e8ccc101bd391fbb283ad111be9f68c93d3352a'
+hash = '86fb3cb87cd7ba68ec1502ceda712f60a1e11886'
 hash-format = 'sha1'
 mode = 'metadata:curseforge'
 url = ''
 
 [update.curseforge]
-file-id = 6499385
+file-id = 8922030
 project-id = 1133600
 
 [[x-prismlauncher-dependencies]]

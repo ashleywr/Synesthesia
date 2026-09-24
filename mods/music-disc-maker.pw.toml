@@ -1,0 +1,61 @@
+filename = 'music_disc_maker-3.0.4+neoforge-1.21.1.jar'
+name = 'Music Disc Maker'
+side = 'server'
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = 'music_disc_maker-3.0.4+neoforge-1.21.1'
+
+[download]
+hash = '1ce606cbf28fabd5c06ef7cb4f57055ddce5d3e8'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 8943946
+project-id = 1564253
+
+[[x-prismlauncher-dependencies]]
+addonId = '582387'
+type = 'OPTIONAL'
+
+[[x-prismlauncher-dependencies]]
+addonId = '654384'
+type = 'OPTIONAL'
+
+[[x-prismlauncher-dependencies]]
+addonId = '979322'
+type = 'OPTIONAL'
+
+[[x-prismlauncher-dependencies]]
+addonId = '258371'
+type = 'OPTIONAL'
+
+[[x-prismlauncher-dependencies]]
+addonId = '541171'
+type = 'OPTIONAL'
+
+[[x-prismlauncher-dependencies]]
+addonId = '676721'
+type = 'OPTIONAL'
+
+[[x-prismlauncher-dependencies]]
+addonId = '508556'
+type = 'OPTIONAL'
+
+[[x-prismlauncher-dependencies]]
+addonId = '624165'
+type = 'OPTIONAL'
+
+[[x-prismlauncher-dependencies]]
+addonId = '328085'
+type = 'OPTIONAL'
+
+[[x-prismlauncher-dependencies]]
+addonId = '422301'
+type = 'OPTIONAL'
+
+[[x-prismlauncher-dependencies]]
+addonId = '321117'
+type = 'OPTIONAL'

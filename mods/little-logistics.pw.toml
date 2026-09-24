@@ -1,0 +1,18 @@
+filename = 'littlelogistics-mc1.21.1-v1.21.1.1-beta.2.jar'
+name = 'Little Logistics'
+side = 'server'
+x-prismlauncher-dependencies = []
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21.1' ]
+x-prismlauncher-release-type = 'beta'
+x-prismlauncher-version-number = '[NeoForge] 1.21.1.1-beta.2'
+
+[download]
+hash = '1512d6f6c60e4a1e4db577692d874e460d11652e'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 8483624
+project-id = 570050

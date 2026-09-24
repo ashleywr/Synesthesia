@@ -1,8 +1,0 @@
-{
-  "neoforge:conditions": [
-    {
-      "type": "neoforge:mod_loaded",
-      "modid": "synesthesia_recipe_compat_disabled"
-    }
-  ]
-}

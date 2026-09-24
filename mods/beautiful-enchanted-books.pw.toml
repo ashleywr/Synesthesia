@@ -1,0 +1,18 @@
+filename = 'BEB-NeoForge-1.21-6.0.0.jar'
+name = 'Beautiful Enchanted Books [MOD EDITION] | 6.0 UPDATE!'
+side = ''
+x-prismlauncher-dependencies = []
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21', '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = '[NeoForge] Beautiful Enchanted Books - MC 1.21.1 - 6.0.0'
+
+[download]
+hash = '4a1828c61a420b3ef1b759b9cbe595de5c85a48e'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 7268159
+project-id = 1083202

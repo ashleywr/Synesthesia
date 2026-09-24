@@ -5,14 +5,14 @@
 	group: ""
 	id: "14934747D460BAA0"
 	images: [ ]
-	order_index: 2
+	order_index: 4
 	quest_links: [ ]
 	quests: [
 		{
 			id: "0989AD9508925C83"
 			tasks: [{
 				id: "66C708ECE6886E91"
-				item: { count: 1, id: "hexerei:mixing_cauldron" }
+				item: { components: { "ftbquests:missing_item": "hexerei:mixing_cauldron" }, count: 1, id: "ftbquests:missing_item" }
 				type: "item"
 			}]
 			x: 0.0d
@@ -24,12 +24,12 @@
 			tasks: [
 				{
 					id: "5E93CBD39C51DA11"
-					item: { count: 1, id: "hexerei:blood_bottle" }
+					item: { components: { "ftbquests:missing_item": "hexerei:blood_bottle" }, count: 1, id: "ftbquests:missing_item" }
 					type: "item"
 				}
 				{
 					id: "4EEAA3927A30FD0F"
-					item: { count: 1, id: "hexerei:mandrake_root" }
+					item: { components: { "ftbquests:missing_item": "hexerei:mandrake_root" }, count: 1, id: "ftbquests:missing_item" }
 					type: "item"
 				}
 			]
@@ -46,7 +46,7 @@
 			}]
 			tasks: [{
 				id: "5EF91ED1B24DDDA1"
-				item: { count: 1, id: "hexerei:willow_broom" }
+				item: { components: { "ftbquests:missing_item": "hexerei:willow_broom" }, count: 1, id: "ftbquests:missing_item" }
 				type: "item"
 			}]
 			x: 0.0d
@@ -57,7 +57,7 @@
 			id: "4867C3C2F91AD070"
 			tasks: [{
 				id: "2251F565CBABE0C3"
-				item: { count: 1, id: "hexerei:broom_seat" }
+				item: { components: { "ftbquests:missing_item": "hexerei:broom_seat" }, count: 1, id: "ftbquests:missing_item" }
 				type: "item"
 			}]
 			x: -1.5d
@@ -68,7 +68,7 @@
 			id: "62FA931B22D03641"
 			tasks: [{
 				id: "600F168AF9806C05"
-				item: { count: 1, id: "hexerei:broom_whistle" }
+				item: { components: { "ftbquests:missing_item": "hexerei:broom_whistle" }, count: 1, id: "ftbquests:missing_item" }
 				type: "item"
 			}]
 			x: 1.5d

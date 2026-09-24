@@ -3,7 +3,10 @@
     "#regions_unexplored:all_overworld",
     "#hybrid_beta:all_hybrid_beta_biomes",
     "#autumnity:is_autumnal",
-    "#hexerei:all_hexerei_biomes",
+    {
+      "id": "#hexerei:all_hexerei_biomes",
+      "required": false
+    },
     "#quark:all_quark_biomes"
   ]
 }

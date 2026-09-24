@@ -1,0 +1,18 @@
+filename = 'integrated_api-neoforge-1.21.1-1.9.0.jar'
+name = 'Integrated API'
+side = 'server'
+x-prismlauncher-dependencies = []
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = 'integrated_api-neoforge-1.21.1-1.9.0.jar'
+
+[download]
+hash = 'b092c3f2f5368ca04215491a264cc840f8ad889a'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 8943419
+project-id = 817709

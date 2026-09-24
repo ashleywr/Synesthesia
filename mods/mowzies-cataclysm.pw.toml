@@ -1,0 +1,18 @@
+filename = 'mowzies_cataclysm-1.2.2.jar'
+name = "Mowzie's Cataclysm"
+side = 'both'
+x-prismlauncher-dependencies = []
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21.1', '1.21.2', '1.21.3', '1.21.4', '1.21.5', '1.21.6', '1.21.7', '1.21.8', '1.21.9', '1.21.10', '1.21.11' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = '1.2.2'
+
+[download]
+hash = 'd36b165aa2e7ad19b90ea8108267464fa2b4e08eabc10d971d5f9bbad595bc95bac1970059fdd39bc48c8bcb175b46e96e119a4f2126dae315560084ed3e48cc'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/7UsJsd1y/versions/hEKmD0v9/mowzies_cataclysm-1.2.2.jar'
+
+[update.modrinth]
+mod-id = '7UsJsd1y'
+version = 'hEKmD0v9'

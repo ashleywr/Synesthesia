@@ -14,17 +14,17 @@
 	[mobs.evendeeper]
 		# Default: -4
 		# Range: -64 ~ 320
-		"Evendeeper max spawn height" = -4
+		"Evendeeper max spawn height" = 20
 
 	[mobs.grazer]
 		# Default: -4
 		# Range: -64 ~ 320
-		"Grazer max spawn height" = -4
+		"Grazer max spawn height" = 20
 
 	[mobs.peeper]
 		# Default: -4
 		# Range: -64 ~ 320
-		"Peeper max spawn height" = -4
+		"Peeper max spawn height" = 20
 
 	[mobs.rat]
 		#The chance a pack of Rats has to spawn with a regular Rat spawn

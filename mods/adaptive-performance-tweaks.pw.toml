@@ -1,0 +1,18 @@
+filename = 'adaptive_performance_tweaks-neoforge-1.21.1-12.9.0.jar'
+name = 'Adaptive Performance Tweaks'
+side = 'server'
+x-prismlauncher-dependencies = []
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = '12.9.0'
+
+[download]
+hash = 'b2b656794bc2d19a186764500171cbfc90559d30500fef640c7f680e10b6e5d6ccf4a0e16a58bdeb9725edbedca774a85facd8375e67dfe587ff2b94b4bfc1e6'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/kLawTYXp/versions/rEjn77qh/adaptive_performance_tweaks-neoforge-1.21.1-12.9.0.jar'
+
+[update.modrinth]
+mod-id = 'kLawTYXp'
+version = 'rEjn77qh'

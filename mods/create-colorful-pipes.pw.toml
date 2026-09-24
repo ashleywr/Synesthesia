@@ -1,0 +1,18 @@
+filename = 'colorfulpipes-2.4.4.jar'
+name = 'Create: Colorful Pipes'
+side = 'server'
+x-prismlauncher-dependencies = []
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = 'Create_Colorful_Pipes_NeoForge-2.4.4+1.21.1.jar'
+
+[download]
+hash = '0f7175a26bf81f00693f79ca25f886d5fa624758'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 8855179
+project-id = 1487757

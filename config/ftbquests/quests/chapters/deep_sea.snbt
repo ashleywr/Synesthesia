@@ -1,0 +1,166 @@
+{
+	default_hide_dependency_lines: false
+	default_min_width: 300
+	default_quest_shape: ""
+	filename: "deep_sea"
+	group: ""
+	icon: {
+		id: "create_submarine:ballast_tank"
+	}
+	id: "0EE5B2DB95A6238B"
+	images: [ ]
+	order_index: 10
+	quest_links: [ ]
+	quests: [
+		{
+			icon: {
+				id: "minecraft:heart_of_the_sea"
+			}
+			id: "53AEB18341380C89"
+			shape: "square"
+			size: 1.5d
+			tasks: [{
+				biome: "minecraft:deep_ocean"
+				id: "1C8B6D9C8B7A1D23"
+				type: "biome"
+			}]
+			x: 0.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["53AEB18341380C89"]
+			id: "7F942E9F882D41E7"
+			rewards: [{
+				id: "538AD2A4BA5A66ED"
+				type: "xp"
+				xp: 50
+			}]
+			tasks: [{
+				id: "73B8E90A3A78D32C"
+				item: { count: 1, id: "create_submarine:phycological_membrane" }
+				type: "item"
+			}]
+			x: 0.0d
+			y: 2.0d
+		}
+		{
+			dependencies: ["7F942E9F882D41E7"]
+			id: "056D93BEFA836C3C"
+			rewards: [{
+				id: "08C844F2F53ABE06"
+				type: "xp"
+				xp: 100
+			}]
+			tasks: [
+				{
+					id: "4FEF918A5A53273F"
+					item: { count: 1, id: "create_submarine:electrolyzer" }
+					type: "item"
+				}
+				{
+					id: "4D2143124BC6F401"
+					item: { count: 1, id: "create_submarine:oxygene_diffuser" }
+					type: "item"
+				}
+			]
+			x: -2.0d
+			y: 4.0d
+		}
+		{
+			dependencies: ["7F942E9F882D41E7"]
+			id: "56B33FAA6195C3E8"
+			tasks: [
+				{
+					id: "1AE47697DA90F944"
+					item: { count: 1, id: "create_submarine:iron_pressurizer" }
+					type: "item"
+				}
+				{
+					id: "509BB9702E76325B"
+					item: { count: 1, id: "create_submarine:barometer" }
+					type: "item"
+				}
+			]
+			x: 2.0d
+			y: 4.0d
+		}
+		{
+			dependencies: ["56B33FAA6195C3E8"]
+			id: "6935A43D017CBA9A"
+			rewards: [{
+				id: "2B75BDD912D4C7DA"
+				type: "xp"
+				xp: 200
+			}]
+			shape: "diamond"
+			tasks: [
+				{
+					id: "1C2E95FEC9836FE1"
+					item: { count: 1, id: "create_submarine:ballast_tank" }
+					type: "item"
+				}
+				{
+					id: "43B4350B7593FD5A"
+					item: { count: 1, id: "create_submarine:ballast_vent" }
+					type: "item"
+				}
+			]
+			x: 0.0d
+			y: 6.0d
+		}
+		{
+			id: "5E31A4FBC33C0E8D"
+			rewards: [{
+				id: "1EE38CA30FEDD56A"
+				type: "xp"
+				xp: 200
+			}]
+			tasks: [
+				{
+					id: "5912B30767A23B9E"
+					item: { count: 1, id: "create_submarine:submarine_propeller" }
+					type: "item"
+				}
+				{
+					id: "747081DE74B93065"
+					item: { count: 1, id: "create_submarine:water_thruster" }
+					type: "item"
+				}
+			]
+			x: 0.0d
+			y: 8.0d
+		}
+		{
+			dependencies: ["5E31A4FBC33C0E8D"]
+			id: "297BD002F01604EA"
+			optional: true
+			tasks: [{
+				id: "6B7024E87B6516BD"
+				item: { count: 1, id: "create_submarine:decompression_chamber" }
+				type: "item"
+			}]
+			x: -2.0d
+			y: 10.0d
+		}
+		{
+			dependencies: ["5E31A4FBC33C0E8D"]
+			icon: {
+				id: "alexscaves:abyssmarine"
+			}
+			id: "5DEDBBD329EB4EA2"
+			rewards: [{
+				id: "2746AF97B75271B4"
+				type: "xp"
+				xp: 300
+			}]
+			shape: "hexagon"
+			tasks: [{
+				biome: "alexscaves:abyssal_chasm"
+				id: "01935D4312BC296E"
+				type: "biome"
+			}]
+			x: 1.5d
+			y: 10.0d
+		}
+	]
+}

@@ -1,0 +1,29 @@
+filename = 'tidesdelight-1.21.1-1.2.0-neoforge.jar'
+name = "Tide's Delight"
+side = 'server'
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = 'tidesdelight-1.21.1-1.2.0-neoforge.jar'
+
+[download]
+hash = '663d24a241b39815dfa09d968fc3639aa6ae1949'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 8049889
+project-id = 1188673
+
+[[x-prismlauncher-dependencies]]
+addonId = '884685'
+type = 'REQUIRED'
+
+[[x-prismlauncher-dependencies]]
+addonId = '574622'
+type = 'REQUIRED'
+
+[[x-prismlauncher-dependencies]]
+addonId = '398521'
+type = 'REQUIRED'

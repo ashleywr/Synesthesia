@@ -1,18 +1,18 @@
-filename = 'revelationary-neoforge-1.5.1+1.21.1.jar'
+filename = 'revelationary-neoforge-1.5.2+1.21.1.jar'
 name = 'Revelationary'
-side = 'both'
+side = ''
 x-prismlauncher-dependencies = []
 x-prismlauncher-loaders = [ 'neoforge' ]
 x-prismlauncher-mc-versions = [ '1.21.1' ]
 x-prismlauncher-release-type = 'release'
-x-prismlauncher-version-number = '1.5.1+1.21.1'
+x-prismlauncher-version-number = '1.5.2+1.21.1'
 
 [download]
-hash = 'd619b96beb07088ed6f82f3b9dc4208bb03bea37ce629b41e8e732b01f35945ef2a7cd5206303b2d6b80529dedd5a92674b1d83a32c321752aedadbfcd3afe71'
+hash = '203a1d682ceac2da9183ba68f446a40d1ff7e18adfde103f93c77e4466f60408e46844ce4d2fbb9d0f30b1cfec49092235e1adc0ca0fbb2f68cce50fc6cf8ccb'
 hash-format = 'sha512'
 mode = 'url'
-url = 'https://cdn.modrinth.com/data/eXrl5E3G/versions/3XGPyKNr/revelationary-neoforge-1.5.1%2B1.21.1.jar'
+url = 'https://cdn.modrinth.com/data/eXrl5E3G/versions/775bsBpl/revelationary-neoforge-1.5.2%2B1.21.1.jar'
 
 [update.modrinth]
 mod-id = 'eXrl5E3G'
-version = '3XGPyKNr'
+version = '775bsBpl'

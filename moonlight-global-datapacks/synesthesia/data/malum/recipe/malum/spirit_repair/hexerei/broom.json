@@ -25,7 +25,9 @@
       "count": 16
     }
   ],
-  "itemIdRegex": ".+broom_brush",
-  "modIdRegex": "hexerei",
-  "inputs": []
+  "validItems": [
+    "hexerei:herb_enhanced_broom_brush",
+    "hexerei:wet_broom_brush",
+    "hexerei:wet_herb_enhanced_broom_brush"
+  ]
 }

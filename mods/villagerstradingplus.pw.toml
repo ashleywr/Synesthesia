@@ -1,0 +1,18 @@
+filename = 'villagertradingplus-neoforge-mc1.21.1-1.0.0.jar'
+name = 'VillagersTradingPlus'
+side = 'both'
+x-prismlauncher-dependencies = []
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = '1.0.0+mc1.21.1'
+
+[download]
+hash = 'a29ae089a02ede639c614a9e770128c5a58adbad4b38ccc83ae80f80325cf7966fda744da6ebefa510247510386fb9d9654fafaf16e6e72c7091d936800d6b49'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/DhOXUfnP/versions/WwmKBVrp/villagertradingplus-neoforge-mc1.21.1-1.0.0.jar'
+
+[update.modrinth]
+mod-id = 'DhOXUfnP'
+version = 'WwmKBVrp'

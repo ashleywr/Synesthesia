@@ -1,0 +1,233 @@
+{
+	default_hide_dependency_lines: false
+	default_min_width: 300
+	default_quest_shape: ""
+	filename: "food"
+	group: ""
+	icon: {
+		id: "kaleidoscope_cookery:pot"
+	}
+	id: "5FC005B4470869C9"
+	images: [ ]
+	order_index: 11
+	quest_links: [ ]
+	quests: [
+		{
+			icon: {
+				id: "kaleidoscope_cookery:iron_kitchen_knife"
+			}
+			id: "6EF4231766B30A80"
+			shape: "square"
+			size: 1.5d
+			tasks: [{
+				id: "6FBC591CE502F857"
+				type: "checkmark"
+			}]
+			x: 0.0d
+			y: 0.0d
+		}
+		{
+			id: "2708B30196E6C224"
+			rewards: [{
+				id: "009875A64D1D851C"
+				type: "xp"
+				xp: 25
+			}]
+			tasks: [{
+				id: "7664B26893402CC0"
+				item: { count: 1, id: "farmersdelight:cutting_board" }
+				type: "item"
+			}]
+			x: -2.5d
+			y: 2.0d
+		}
+		{
+			id: "4DCB8B795BDC414A"
+			rewards: [{
+				id: "79777EDFE41BA3AD"
+				type: "xp"
+				xp: 50
+			}]
+			tasks: [
+				{
+					id: "7CD9049D3E6172F2"
+					item: { count: 1, id: "farmersdelight:cooking_pot" }
+					type: "item"
+				}
+				{
+					id: "0BC1B8C591685D77"
+					item: { count: 1, id: "farmersdelight:stove" }
+					type: "item"
+				}
+			]
+			x: -2.5d
+			y: 4.0d
+		}
+		{
+			dependencies: ["4DCB8B795BDC414A"]
+			id: "7F521CC6FC3B0FA5"
+			optional: true
+			tasks: [{
+				id: "36A798E0105D8A4B"
+				item: { count: 1, id: "farmersdelight:skillet" }
+				type: "item"
+			}]
+			x: -3.5d
+			y: 6.0d
+		}
+		{
+			dependencies: ["4DCB8B795BDC414A"]
+			id: "27F66C1C7E9C098B"
+			optional: true
+			tasks: [
+				{
+					id: "3FB9C9D3793F13C8"
+					item: { count: 1, id: "farmersdelight:organic_compost" }
+					type: "item"
+				}
+				{
+					id: "23573B668641CBD9"
+					item: { count: 1, id: "farmersdelight:rich_soil" }
+					type: "item"
+				}
+			]
+			x: -1.5d
+			y: 6.0d
+		}
+		{
+			id: "006FB250B86252AF"
+			rewards: [{
+				id: "4D57F178E2662B2D"
+				type: "xp"
+				xp: 25
+			}]
+			tasks: [
+				{
+					id: "4E47B68448F9AFDB"
+					item: { count: 1, id: "kaleidoscope_cookery:chopping_board" }
+					type: "item"
+				}
+				{
+					id: "785E85D81FCAF560"
+					item: { count: 1, id: "kaleidoscope_cookery:iron_kitchen_knife" }
+					type: "item"
+				}
+			]
+			x: 2.5d
+			y: 2.0d
+		}
+		{
+			dependencies: ["006FB250B86252AF"]
+			id: "0860CA8FEF0134D8"
+			rewards: [{
+				id: "07836574144288ED"
+				type: "xp"
+				xp: 50
+			}]
+			tasks: [
+				{
+					id: "75B283DB40B4E723"
+					item: { count: 1, id: "kaleidoscope_cookery:pot" }
+					type: "item"
+				}
+				{
+					id: "6265DC4682EBC241"
+					item: { count: 1, id: "kaleidoscope_cookery:stove" }
+					type: "item"
+				}
+			]
+			x: 2.5d
+			y: 4.0d
+		}
+		{
+			dependencies: ["0860CA8FEF0134D8"]
+			id: "721788764B14738B"
+			tasks: [
+				{
+					id: "0EDA28231E21E5CE"
+					item: { count: 1, id: "kaleidoscope_cookery:millstone" }
+					type: "item"
+				}
+				{
+					id: "67E95DFCF3500E42"
+					item: { count: 1, id: "kaleidoscope_cookery:flour" }
+					type: "item"
+				}
+			]
+			x: 1.5d
+			y: 6.0d
+		}
+		{
+			id: "49FE1CEF98ED97AB"
+			tasks: [
+				{
+					id: "46EF958EB1793630"
+					item: { count: 1, id: "kaleidoscope_cookery:oil" }
+					type: "item"
+				}
+				{
+					id: "25AC7F9CE44A254B"
+					item: { count: 1, id: "kaleidoscope_cookery:oil_pot" }
+					type: "item"
+				}
+			]
+			x: 1.5d
+			y: 8.0d
+		}
+		{
+			dependencies: ["0860CA8FEF0134D8"]
+			id: "46C99458382E1016"
+			rewards: [{
+				id: "3E7CCE4DD3C62E12"
+				type: "xp"
+				xp: 100
+			}]
+			tasks: [
+				{
+					id: "480FD400CB116E6C"
+					item: { count: 1, id: "kaleidoscope_cookery:stockpot" }
+					type: "item"
+				}
+				{
+					id: "75D18C3768A773D4"
+					item: { count: 1, id: "kaleidoscope_cookery:stockpot_lid" }
+					type: "item"
+				}
+			]
+			x: 3.5d
+			y: 6.0d
+		}
+		{
+			dependencies: [
+				"46C99458382E1016"
+				"4DCB8B795BDC414A"
+			]
+			id: "7E1CECEB3EDE38F1"
+			rewards: [{
+				id: "7BD4DDBFDCB3A5A5"
+				type: "xp"
+				xp: 150
+			}]
+			shape: "diamond"
+			tasks: [{
+				id: "2EAF894DF0539E93"
+				item: { components: { "ftbquests:missing_item": "kaleidoscope_grilling:grill" }, count: 1, id: "ftbquests:missing_item" }
+				type: "item"
+			}]
+			x: 0.0d
+			y: 10.0d
+		}
+		{
+			dependencies: ["7E1CECEB3EDE38F1"]
+			id: "51B9161C7BB00DE1"
+			optional: true
+			tasks: [{
+				id: "0824BD93E4B64E5B"
+				item: { count: 1, id: "kaleidoscope_cookery:teapot" }
+				type: "item"
+			}]
+			x: 0.0d
+			y: 12.0d
+		}
+	]
+}

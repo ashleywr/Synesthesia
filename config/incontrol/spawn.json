@@ -1,5 +1,12 @@
 [
   {
+    "mob": ["minecraft:zombie", "minecraft:skeleton"],
+    "dimension": "minecraft:overworld",
+    "cave": true,
+    "random": 0.25,
+    "result": "deny"
+  },
+  {
     "mob": ["alexsmobs:stradpole", "alexsmobs:straddler"],
     "biometags": "minecraft:is_nether",
     "random": 0.7,

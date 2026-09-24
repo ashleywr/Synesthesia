@@ -1,6 +1,6 @@
-filename = 'MoogsMissingVillages-1.21-2.1.2.jar'
-name = "MMV - Moog's Missing Villages"
-side = 'server'
+filename = 'MoogsMissingVillages-universal-1.21-2.2.0.jar'
+name = 'MoogsMissingVillages'
+side = ''
 x-prismlauncher-loaders = [ 'neoforge', 'forge', 'fabric' ]
 x-prismlauncher-mc-versions = [
     '1.21',
@@ -18,20 +18,21 @@ x-prismlauncher-mc-versions = [
     '26.1',
     '26.1.1',
     '26.1.2',
-    '26.2'
+    '26.2',
+    '26.3'
 ]
 x-prismlauncher-release-type = 'release'
-x-prismlauncher-version-number = '2.1.2'
+x-prismlauncher-version-number = '2.2.0'
 
 [download]
-hash = 'a63bec27e807a0c6b6d844be885eb86694075f653c7ec3deb801a9dfadec37b6c80af5469f52f617adac37c764f1b7f8b2ebcae0a96a913874f6115dce3bcdba'
+hash = 'ed8d62e153d1ff7fd20956f0580c0669f42b8ded897944c02587058953670467d15cfa59cd2c4f5f33f32e96b99bc4e5dd680a8920d2c5fbe227b8eb4ff7adbf'
 hash-format = 'sha512'
 mode = 'url'
-url = 'https://cdn.modrinth.com/data/spZb29SD/versions/1HLHTaPT/MoogsMissingVillages-1.21-2.1.2.jar'
+url = 'https://cdn.modrinth.com/data/spZb29SD/versions/fjpmujqZ/MoogsMissingVillages-universal-1.21-2.2.0.jar'
 
 [update.modrinth]
 mod-id = 'spZb29SD'
-version = '1HLHTaPT'
+version = 'fjpmujqZ'
 
 [[x-prismlauncher-dependencies]]
 addonId = '1oUDhxuy'

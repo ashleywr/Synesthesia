@@ -1,0 +1,198 @@
+{
+	default_hide_dependency_lines: false
+	default_min_width: 300
+	default_quest_shape: ""
+	filename: "storage"
+	group: ""
+	icon: {
+		id: "sophisticatedstorage:diamond_chest"
+	}
+	id: "2648D1514EE6B83B"
+	images: [ ]
+	order_index: 15
+	quest_links: [ ]
+	quests: [
+		{
+			icon: {
+				id: "sophisticatedstorage:diamond_chest"
+			}
+			id: "4F5A71B204F534A1"
+			shape: "square"
+			size: 1.5d
+			tasks: [{
+				id: "65C44F28940CE0B2"
+				type: "checkmark"
+			}]
+			x: 0.0d
+			y: 0.0d
+		}
+		{
+			id: "387D32A314CBD44A"
+			rewards: [{
+				id: "7A34B594881683C9"
+				type: "xp"
+				xp: 25
+			}]
+			tasks: [
+				{
+					id: "299D59FEB423D451"
+					item: { count: 1, id: "sophisticatedstorage:chest" }
+					type: "item"
+				}
+				{
+					id: "144AD5912E8051BA"
+					item: { count: 1, id: "sophisticatedstorage:barrel" }
+					type: "item"
+				}
+			]
+			x: -3.0d
+			y: 2.0d
+		}
+		{
+			id: "128874E4D513AD5B"
+			tasks: [
+				{
+					id: "7ED1EA4DD4D367ED"
+					item: { count: 1, id: "sophisticatedstorage:copper_chest" }
+					type: "item"
+				}
+				{
+					id: "031A94C3FA4B41AE"
+					item: { count: 1, id: "sophisticatedstorage:gold_chest" }
+					type: "item"
+				}
+			]
+			x: -3.0d
+			y: 4.0d
+		}
+		{
+			dependencies: ["128874E4D513AD5B"]
+			id: "4A71458D94D7E4DB"
+			rewards: [{
+				id: "08B1527A3B0EF5E9"
+				type: "xp"
+				xp: 100
+			}]
+			tasks: [
+				{
+					id: "2CF05A7CEF3C6F7F"
+					item: { count: 1, id: "sophisticatedstorage:advanced_pickup_upgrade" }
+					type: "item"
+				}
+				{
+					id: "0AFD0D05056FC9B2"
+					item: { count: 1, id: "sophisticatedstorage:advanced_magnet_upgrade" }
+					type: "item"
+				}
+				{
+					id: "1502BC9760327493"
+					item: { count: 1, id: "sophisticatedstorage:compacting_upgrade" }
+					type: "item"
+				}
+			]
+			x: -4.5d
+			y: 6.0d
+		}
+		{
+			id: "6F2C61F77978AFCD"
+			optional: true
+			tasks: [{
+				id: "5B339024506E36E7"
+				item: { count: 1, id: "sophisticatedstorage:controller" }
+				type: "item"
+			}]
+			x: -3.0d
+			y: 8.0d
+		}
+		{
+			id: "3A6D4868BBDD70B1"
+			rewards: [{
+				id: "18989FF7808A768F"
+				type: "xp"
+				xp: 25
+			}]
+			tasks: [
+				{
+					id: "1381B01F69AFE50A"
+					item: { count: 1, id: "functionalstorage:oak_1" }
+					type: "item"
+				}
+				{
+					id: "6B09A90D2F74F3F6"
+					item: { count: 1, id: "functionalstorage:oak_2" }
+					type: "item"
+				}
+			]
+			x: 0.0d
+			y: 2.0d
+		}
+		{
+			id: "02959291DE965AB4"
+			tasks: [
+				{
+					id: "1F89987F9D9DCC63"
+					item: { count: 1, id: "functionalstorage:copper_upgrade" }
+					type: "item"
+				}
+				{
+					id: "27950D3E2F9CC085"
+					item: { count: 1, id: "functionalstorage:diamond_upgrade" }
+					type: "item"
+				}
+			]
+			x: 0.0d
+			y: 4.0d
+		}
+		{
+			id: "36B8E52CFD62EDFF"
+			rewards: [{
+				id: "2135E3DAEB8D6C21"
+				type: "xp"
+				xp: 100
+			}]
+			tasks: [
+				{
+					id: "26F45DB5FC9772D6"
+					item: { count: 1, id: "functionalstorage:storage_controller" }
+					type: "item"
+				}
+				{
+					id: "6C9E33570D03BC9B"
+					item: { count: 1, id: "functionalstorage:linking_tool" }
+					type: "item"
+				}
+			]
+			x: 0.0d
+			y: 6.0d
+		}
+		{
+			id: "2426024EE1D5C921"
+			optional: true
+			tasks: [
+				{
+					id: "5F2D825D5D934D99"
+					item: { count: 1, id: "functionalstorage:compacting_drawer" }
+					type: "item"
+				}
+				{
+					id: "7DBBA4864FD549E0"
+					item: { count: 1, id: "functionalstorage:ender_drawer" }
+					type: "item"
+				}
+			]
+			x: 0.0d
+			y: 8.0d
+		}
+		{
+			id: "0BED009862DF0E66"
+			optional: true
+			tasks: [{
+				id: "7F87576F6907DC41"
+				item: { count: 1, id: "storagedelight:small_oak_drawers" }
+				type: "item"
+			}]
+			x: 3.0d
+			y: 2.0d
+		}
+	]
+}

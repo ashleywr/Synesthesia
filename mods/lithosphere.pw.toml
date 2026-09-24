@@ -1,0 +1,42 @@
+filename = 'lithosphere-1.8.2.jar'
+name = 'Lithosphere'
+side = 'both'
+x-prismlauncher-dependencies = []
+x-prismlauncher-loaders = [ 'neoforge', 'forge', 'quilt', 'fabric' ]
+x-prismlauncher-mc-versions = [
+    '1.20',
+    '1.20.1',
+    '1.20.2',
+    '1.20.3',
+    '1.20.4',
+    '1.20.5',
+    '1.20.6',
+    '1.21',
+    '1.21.1',
+    '1.21.2',
+    '1.21.3',
+    '1.21.4',
+    '1.21.5',
+    '1.21.6',
+    '1.21.7',
+    '1.21.8',
+    '1.21.9',
+    '1.21.10',
+    '1.21.11',
+    '26.1',
+    '26.1.1',
+    '26.1.2',
+    '26.2'
+]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = '1.8.2+mod'
+
+[download]
+hash = 'a921f44c23ad32b3d295efa5e91425b06940cfec51cfb0263a288de889a1c09439f631dbed01c3d2ffeb6d56f1c52ebc1d5d8418e280330c36bf43773535f143'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/iv9jp2k9/versions/aatZx6pq/lithosphere-1.8.2.jar'
+
+[update.modrinth]
+mod-id = 'iv9jp2k9'
+version = 'aatZx6pq'

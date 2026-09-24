@@ -1,0 +1,21 @@
+filename = 'ends_delight-2.6.1+neoforge.1.21.1.jar'
+name = "End's Delight"
+side = ''
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21.1' ]
+x-prismlauncher-release-type = 'beta'
+x-prismlauncher-version-number = 'ends_delight-2.6.1+neoforge.1.21.1.jar'
+
+[download]
+hash = '0613a535d82b7a3d51d0caf0e04b082cb4c062e9'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 8335027
+project-id = 662675
+
+[[x-prismlauncher-dependencies]]
+addonId = '398521'
+type = 'REQUIRED'

@@ -1,0 +1,30 @@
+filename = 'solarpunk-1.0.0-1.21.1.jar'
+name = 'Create: Solarpunk'
+side = 'both'
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21.1', '1.21.2', '1.21.3', '1.21.4', '1.21.5', '1.21.6', '1.21.7', '1.21.8', '1.21.9', '1.21.10', '1.21.11' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = '1.0.0-1.21.1'
+
+[download]
+hash = '7e480c8b2ea6f4f960f152951b7d824a36b68467ab1fafa617b2b8d3b482a0d9fc79be8e99daad14b82f76e6e90ebd42ed9966f2c61a729cc812fe8c9eb3f135'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/kAynBp83/versions/KqbEba9S/solarpunk-1.0.0-1.21.1.jar'
+
+[update.modrinth]
+mod-id = 'kAynBp83'
+version = 'KqbEba9S'
+
+[[x-prismlauncher-dependencies]]
+addonId = 'u6dRKJwZ'
+type = 'OPTIONAL'
+
+[[x-prismlauncher-dependencies]]
+addonId = 'LNytGWDc'
+type = 'REQUIRED'
+version = 'UjX6dr61'
+
+[[x-prismlauncher-dependencies]]
+addonId = '8BmcQJ2H'
+type = 'REQUIRED'

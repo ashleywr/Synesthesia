@@ -1,0 +1,33 @@
+filename = 'AdvancedWorldgenInfo-neoforge-1.21.1-1.1.1.jar'
+name = 'Advanced Worldgen Info (AWI)'
+side = 'server'
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21.1' ]
+x-prismlauncher-release-type = 'beta'
+x-prismlauncher-version-number = 'AdvancedWorldgenInfo-neoforge-1.21.1-1.1.1.jar'
+
+[download]
+hash = '28f4c2f39ae66956982f8b576dd6808d7c52b1ce'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 8906324
+project-id = 1661937
+
+[[x-prismlauncher-dependencies]]
+addonId = '310111'
+type = 'OPTIONAL'
+
+[[x-prismlauncher-dependencies]]
+addonId = '580555'
+type = 'OPTIONAL'
+
+[[x-prismlauncher-dependencies]]
+addonId = '1661923'
+type = 'REQUIRED'
+
+[[x-prismlauncher-dependencies]]
+addonId = '238222'
+type = 'OPTIONAL'

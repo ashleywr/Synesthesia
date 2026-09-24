@@ -1,0 +1,765 @@
+{
+	chapter.01DA3803DBA7D386.title: "Firearms"
+	chapter.06BEAB822556BF47.title: "Fishing"
+	chapter.07138E247BCC75D0.title: "Power"
+	chapter.0EE5B2DB95A6238B.title: "The Deep Sea"
+	chapter.14934747D460BAA0.title: "Hexerei"
+	chapter.199FFEA9397907FC.title: "Halcyon"
+	chapter.28CCF30803B14A6E.title: "Halcyon"
+	chapter.35248BDAFBC33F7B.title: "Physics and Vehicles"
+	chapter.4CE7DD8E8BF153DF.title: "Photography"
+	chapter.5C480BA51E02E7E3.title: "Eternal Starlight"
+	chapter.696C37F39C9700F3.title: "Building and Decoration"
+	chapter.7A4467621E9D0D6C.title: "MineColonies"
+	chapter.851D2140B483B721.title: "Food"
+	chapter.90EF718F4A585555.title: "Aeronautics"
+	chapter.D3D6C8B187340C54.title: "Storage"
+	chapter.DA14C3ACDD1E5CAD.title: "Start Here"
+	chapter.EEFFA1A81A1C4095.title: "Create: Logistics"
+	chapter.F6C98E45EEADC312.title: "Alex's Caves"
+	quest.006FB250B86252AF.quest_desc: [
+		"Kaleidoscope's equivalent, with its own knife tier ladder - iron, gold, diamond, netherite."
+		""
+		"The knives are unified with Farmer's Delight's, so you only need one of each tier no matter which mod's recipe asked for it."
+	]
+	quest.006FB250B86252AF.subtitle: "Kaleidoscope Cookery"
+	quest.006FB250B86252AF.title: "Chopping Board"
+	quest.0072DC7D73C1EBE1.quest_desc: [
+		"Something out there has been building. Not with hammers and stone, but with light and unfamiliar geometry."
+		""
+		"Go find a Halcyon structure - the ancient rock formations, the pearlescent sand fields, the makutuin ruins - and bring back a Data Tablet. It's the mod's own guidebook; read it before touching anything else."
+	]
+	quest.0072DC7D73C1EBE1.title: "Signals from Phenua"
+	quest.07EFB6B3E13E5D76.quest_desc: [
+		"This chapter is not about making things - it is about the part of Create that fetches, sorts and delivers them."
+		""
+		"Start with the two simplest movers. A depot holds one stack for a machine to work on; a chute drops items down through blocks. Almost everything below is a smarter version of one of these."
+	]
+	quest.07EFB6B3E13E5D76.subtitle: "Create 6"
+	quest.07EFB6B3E13E5D76.title: "Moving Things Without Watching Them"
+	quest.0860CA8FEF0134D8.quest_desc: ["The main Kaleidoscope station. Where the pack sends a recipe when both mods could have handled it."]
+	quest.0860CA8FEF0134D8.subtitle: "The main Kaleidoscope station"
+	quest.0860CA8FEF0134D8.title: "The Pot and the Stove"
+	quest.0889F34FFA09626E.quest_desc: ["Repeat fire without reloading between every shot. Takes Revolver Rounds, and accepts an Auto Fire mechanism if you would rather empty it all at once."]
+	quest.0889F34FFA09626E.subtitle: "Repeat fire"
+	quest.0889F34FFA09626E.title: "Revolver"
+	quest.0989AD9508925C83.quest_desc: ["Almost everything in Hexerei worth having gets made here - just a vanilla cauldron, iron ingots, and a couple of torches. Cheap, and the gateway to the rest of the mod."]
+	quest.0989AD9508925C83.title: "A Proper Cauldron"
+	quest.0A007E21D9203803.quest_desc: ["Adjustable pitch, controllable in flight. This is what makes a large airship steerable rather than merely airborne."]
+	quest.0A007E21D9203803.subtitle: "Adjustable in flight"
+	quest.0A007E21D9203803.title: "Smart Propeller"
+	quest.0B03E8417346F3F1.quest_desc: ["A Lavaproof Hook lets you cast into lava, which opens the Nether as a fishing location. Pair it with the Blazing Fishing Rod."]
+	quest.0B03E8417346F3F1.subtitle: "Yes, really"
+	quest.0B03E8417346F3F1.title: "Fishing In Lava"
+	quest.0B7C256CDAAAB879.quest_desc: [
+		"An RF Node turns Tidal Energy into ordinary FE - the same energy every incubator, mixer, and machine in the rest of the pack runs on. Wire it up and Halcyon stops being its own island."
+		""
+		"(Verify the exact item id for this one in-game or via JEI before relying on this task - it wasn't confirmed against the item registry directly, only the loot table filename.)"
+	]
+	quest.0B7C256CDAAAB879.title: "Powering the Rest of the World"
+	quest.0BED009862DF0E66.quest_desc: ["Cabinets, sideboards and drawer units that are furniture as much as containers. 154 items, and Every Compat has run them across every wood in the pack as well."]
+	quest.0BED009862DF0E66.subtitle: "Storage Delight"
+	quest.0BED009862DF0E66.title: "Storage You Would Put In a House"
+	quest.10C991CE95BDB4E8.quest_desc: ["Collects photographs into a single book. A signed album is the version you give away."]
+	quest.10C991CE95BDB4E8.subtitle: "Collect them"
+	quest.10C991CE95BDB4E8.title: "Photo Album"
+	quest.128874E4D513AD5B.quest_desc: ["Copper, iron, gold, diamond and netherite tiers, each with more slots and more upgrade sockets. You can upgrade in place rather than moving everything."]
+	quest.128874E4D513AD5B.subtitle: "Upgrade in place"
+	quest.128874E4D513AD5B.title: "Upgrade the Box Itself"
+	quest.1A9AEDEE580B0762.quest_desc: [
+		"The starter tier - Blood Bottle, Willow Log, gold, wheat, and Mandrake Root, mixed in the cauldron. This is the actual rideable broom, an entity you mount like a boat, not just a held item."
+		""
+		"Two better tiers exist if you want to keep going: Witch Hazel Broom (a diamond in place of gold) and Mahogany Broom (netherite). Neither is required for this to work - the Willow tier flies just fine."
+	]
+	quest.1A9AEDEE580B0762.title: "Take Wing: the Willow Broom"
+	quest.1B3F7B1A728C10B1.quest_desc: [
+		"The cheapest generator in the book - copper and obsidian. Feed it Tidal Shards and it'll sublimate them into usable Essence."
+		""
+		"Inefficient, and someone has to keep coming back to refuel it, but it's a start."
+	]
+	quest.1B3F7B1A728C10B1.title: "First Spark"
+	quest.1B9935D8B2B6B37D.quest_desc: [
+		"Half the machines worth having in this pack - the Productive Bees incubator among them - want ordinary FE, not something exotic. There's more than one real way to get it here, and neither of them is a plain coal generator."
+		""
+		"Pick a path below. You only need to finish one to move on, but nothing stops you from doing both."
+	]
+	quest.1B9935D8B2B6B37D.title: "Running Dry"
+	quest.1BFD69E35416360E.quest_desc: ["Run the crude oil through the distillation setup. The exact fractional breakdown wasn't checked in detail here - the mod handles it with its own recipe type the tooling on hand couldn't fully introspect - but Diesel is the fuel the engines actually want."]
+	quest.1BFD69E35416360E.title: "Refined"
+	quest.1C5CDB5B549A3D89.quest_desc: ["A bearing and a cutting wheel turn a vehicle into a tunnel-boring machine. Optional, and the most Create thing in this chapter."]
+	quest.1C5CDB5B549A3D89.subtitle: "Tunnel-boring, basically"
+	quest.1C5CDB5B549A3D89.title: "Drive Through It Instead"
+	quest.21ECA7ABE57A692F.quest_desc: ["The default biome, and the safest place to put a first shelter. Lunar wood is the local timber - and Every Compat has already given it the full block set the rest of the pack expects."]
+	quest.21ECA7ABE57A692F.subtitle: "Where you land"
+	quest.21ECA7ABE57A692F.title: "Starlight Forest"
+	quest.22517395C5AADEDB.quest_desc: [
+		"Create Sky Village puts inhabited structures in the air - skyvillages and highwind villages, sitting above terrain you cannot reach on foot."
+		""
+		"This pack constrains where they generate: they are given explicit flatness checks and are blacklisted from #minecraft:is_mountain, so they will not spawn half-buried in a peak. Look over open ground."
+		""
+		"This completes when you set foot in one. Create Sky Village registers no items of its own, so a structure task is the only honest way to ask for this."
+	]
+	quest.22517395C5AADEDB.subtitle: "Somewhere to fly to"
+	quest.22517395C5AADEDB.title: "The Sky Villages"
+	quest.23E142C37B08BE05.quest_desc: ["Large and monstrous tires, for terrain that the ordinary ones simply stop at."]
+	quest.23E142C37B08BE05.subtitle: "For terrain that stops the rest"
+	quest.23E142C37B08BE05.title: "Bigger Wheels"
+	quest.2426024EE1D5C921.quest_desc: ["Compacting drawers hold nuggets, ingots and blocks of one metal as a single pool. Ender drawers share contents across any distance."]
+	quest.2426024EE1D5C921.subtitle: "Compacting and ender"
+	quest.2426024EE1D5C921.title: "The Odd Drawers"
+	quest.27F66C1C7E9C098B.quest_desc: ["Compost into rich soil and crops grow without water nearby. Worth it once you are feeding a colony rather than a person."]
+	quest.27F66C1C7E9C098B.subtitle: "Grow it faster"
+	quest.27F66C1C7E9C098B.title: "Rich Soil"
+	quest.2871C42EEF2BB8CD.quest_desc: ["Placing the Town Hall creates the colony and claims the land around it. Everything else in this chapter is a building you add to it."]
+	quest.2871C42EEF2BB8CD.subtitle: "The colony exists now"
+	quest.2871C42EEF2BB8CD.title: "Town Hall"
+	quest.297BD002F01604EA.quest_desc: ["An airlock. Optional until the first time you want to get out of the vessel without flooding it."]
+	quest.297BD002F01604EA.subtitle: "An airlock"
+	quest.297BD002F01604EA.title: "Decompression Chamber"
+	quest.2AF26E9EC51379F3.quest_desc: [
+		"Halcyon's Entropic Processor already knows how to break down Pastel's amethyst line - shard, buds, cluster, block. Feed it one and see what comes out the other side."
+		""
+		"This is a real, mod-native integration - not something bolted on for this quest."
+	]
+	quest.2AF26E9EC51379F3.title: "Petrified Light"
+	quest.2D113F133DD3DE88.quest_desc: ["The deep end of Tide's bait line. If you have opened Alex's Caves' Abyssal Chasm, that is the most interesting water in the pack to try it in."]
+	quest.2D113F133DD3DE88.subtitle: "For the deepest water you can find"
+	quest.2D113F133DD3DE88.title: "Abyss Bait"
+	quest.2D1ACDD638CFA16A.quest_desc: [
+		"4,566 registered items, generated at load time rather than shipped. It takes every host mod that adds a block type and every mod that adds a wood or stone, and fills in the grid."
+		""
+		"Tick this once you have built something out of a block that should not exist - a cupboard in a modded wood, a bookshelf in something from another dimension."
+		""
+		"One consequence worth knowing: it also generates the recipe collisions Polymorph asks you about. That is the cost of the coverage, and it was judged worth paying."
+	]
+	quest.2D1ACDD638CFA16A.subtitle: "The mod behind most of this"
+	quest.2D1ACDD638CFA16A.title: "Every Compat"
+	quest.2FA0BD3F63472FFC.quest_desc: ["Wood gets a light frame off the ground. Andesite is what carries something you actually built."]
+	quest.2FA0BD3F63472FFC.subtitle: "More bite than wood"
+	quest.2FA0BD3F63472FFC.title: "Andesite Propeller"
+	quest.2FCFF14A67D9CF72.quest_desc: ["A wheel to point it and a lever to make it go. Mount both somewhere you can reach while it is moving."]
+	quest.2FCFF14A67D9CF72.subtitle: "Point it, then go"
+	quest.2FCFF14A67D9CF72.title: "Controls"
+	quest.314849D1F8AF7232.quest_desc: ["Either path is enough. Whichever one you finished, you've got real FE now - enough to run a Productive Bees incubator, or anything else in the pack that wants it."]
+	quest.314849D1F8AF7232.title: "Keep the Bees Warm"
+	quest.32E7B61A5C1E677E.quest_desc: ["A proper service rifle. From here the mod branches into specialisations rather than straight upgrades."]
+	quest.32E7B61A5C1E677E.subtitle: "A proper service rifle"
+	quest.32E7B61A5C1E677E.title: "MK43 Rifle"
+	quest.330CCB8B12B283A9.quest_desc: [
+		"Hungry colonists stop working. The Farmer grows it and the Cook turns it into meals."
+		""
+		"The Food chapter matters here: the pack's unification means your colony's kitchen and your own use the same ingredients rather than two parallel sets."
+	]
+	quest.330CCB8B12B283A9.subtitle: "Farmer, Cook"
+	quest.330CCB8B12B283A9.title: "Feeding Them"
+	quest.3493FA0FF2F58CD6.quest_desc: [
+		"Something out there has been building. Not with hammers and stone, but with light and unfamiliar geometry."
+		""
+		"Go find a Halcyon structure - the ancient rock formations, the pearlescent sand fields, the makutuin ruins - and bring back a Data Tablet. It's the mod's own guidebook; read it before touching anything else."
+	]
+	quest.3493FA0FF2F58CD6.title: "Signals from Phenua"
+	quest.386474178E6F5ECC.quest_desc: ["Create's Engineer's Goggles for aircraft - shows you what your kinetic network and your flight surfaces are actually doing. Optional, and you will want them the first time something will not climb."]
+	quest.386474178E6F5ECC.subtitle: "See what the airframe is doing"
+	quest.386474178E6F5ECC.title: "Aviator's Goggles"
+	quest.3BE3FE071D494E36.quest_desc: ["Records what you have caught. Worth carrying early, because it is also the clearest in-game list of what there is to find."]
+	quest.3BE3FE071D494E36.subtitle: "Keeps score"
+	quest.3BE3FE071D494E36.title: "Fishing Journal"
+	quest.3FDCC1A76E5F3120.quest_desc: ["Mobs carry dormant Tidal Energy too. This device 'Awakens' them to get at it - a steadier supply than burning shards, at a cost the notes are a little evasive about."]
+	quest.3FDCC1A76E5F3120.title: "A Steady Diet"
+	quest.40A5198F067648E6.quest_desc: ["Build a Diesel Engine - Create brass and a fluid tank at its core, plus the mod's own engine pistons. Feed it Diesel and it makes FE."]
+	quest.40A5198F067648E6.title: "Ignition"
+	quest.411FD0F535E09554.quest_desc: [
+		"Eternal Starlight is a separate dimension, and nothing you can craft opens it. You have to find the door."
+		""
+		"Portal Ruins generate in the Overworld in five flavours - common, forest, desert, jungle and cold - built from polished deepslate and chiseled voidstone, strangled in vines. Reaching any one of them counts."
+		""
+		"Do not wander in casually. The ruin generates with a Gatekeeper spawner inside it."
+	]
+	quest.411FD0F535E09554.subtitle: "The way in is in the Overworld"
+	quest.411FD0F535E09554.title: "Portal Ruins"
+	quest.41690C38D820FC81.quest_desc: ["Keeps a vehicle upright without you constantly correcting it. The same idea as the Gyroscopic Propeller Bearing in the Aeronautics chapter, and just as much the difference between a toy and a vehicle."]
+	quest.41690C38D820FC81.subtitle: "Stops it rolling over"
+	quest.41690C38D820FC81.title: "Gyroscopic Mechanism"
+	quest.41CDAF47BD7AEF75.quest_desc: ["Speed, height, and a table to plan against. Optional until the first time you cannot tell how fast you are closing on something."]
+	quest.41CDAF47BD7AEF75.subtitle: "Speed, height, heading"
+	quest.41CDAF47BD7AEF75.title: "Instruments"
+	quest.438C7157F9BA4016.quest_desc: [
+		"The first working gun. Slow, loud, and genuinely dangerous to whatever it hits."
+		""
+		"Swap the barrel to change the weapon entirely: a Musket Barrel for range, a Blunderbuss Barrel for spread, a Mortar Barrel for something closer to artillery. The gun is a platform, not a fixed item."
+	]
+	quest.438C7157F9BA4016.subtitle: "One shot, then a long pause"
+	quest.438C7157F9BA4016.title: "The Flintlock"
+	quest.43F19D74005C28AE.quest_desc: [
+		"Aeronautics is a Create addon, so everything below assumes you already have rotation to spare. A propeller is just a kinetic sink until you point it at the sky."
+		""
+		"Start wooden. It is cheap and it is enough to learn what a contraption does when it leaves the ground."
+	]
+	quest.43F19D74005C28AE.subtitle: "Create Aeronautics starts here"
+	quest.43F19D74005C28AE.title: "Something That Spins"
+	quest.44C009AFF132D794.quest_desc: ["Envelopes come in every dye colour; white is the cheapest to recolour later. Build the balloon, light the burner, and go up."]
+	quest.44C009AFF132D794.subtitle: "Build the balloon"
+	quest.44C009AFF132D794.title: "An Envelope to Fill"
+	quest.45AE2BBE1BDFDFD6.quest_desc: ["Sustained fire, and an ammunition consumption rate that will make you go and automate round production properly. This is where Gunsmithing and the Create half of the pack finally become the same project."]
+	quest.45AE2BBE1BDFDFD6.subtitle: "Now it is a logistics problem"
+	quest.45AE2BBE1BDFDFD6.title: "Gatling"
+	quest.46C99458382E1016.quest_desc: ["The bigger cooking vessel. Several dishes that used to belong to other mods were rerouted here rather than deleted - Poor God Soup among them, which moved from the Farmer's Delight pot to this one and is still perfectly obtainable."]
+	quest.46C99458382E1016.subtitle: "Soups, at volume"
+	quest.46C99458382E1016.title: "The Stockpot"
+	quest.4867C3C2F91AD070.quest_desc: ["A passenger seat for the broom - a Small Satchel, string, leather, and Infused Fabric Block. Bring a friend."]
+	quest.4867C3C2F91AD070.title: "A Second Seat"
+	quest.49FE1CEF98ED97AB.quest_desc: ["Two mods add a cooking oil and the pack picks one. The Oil Pot stores it in bulk; the bottled form is what recipes actually take."]
+	quest.49FE1CEF98ED97AB.subtitle: "Bottled is canonical"
+	quest.49FE1CEF98ED97AB.title: "Cooking Oil"
+	quest.4DCB8B795BDC414A.quest_desc: ["The Farmer's Delight staple. A stove underneath, a pot on top, and most of the mod opens up."]
+	quest.4DCB8B795BDC414A.subtitle: "The Farmer's Delight staple"
+	quest.4DCB8B795BDC414A.title: "Cooking Pot"
+	quest.4F18D43862B8AF1A.quest_desc: ["The top of the ordinary progression. Beyond it the rods get strange rather than simply better - the Rod of Resonance, the Midas rod, the Beeline."]
+	quest.4F18D43862B8AF1A.subtitle: "Top of the ordinary ladder"
+	quest.4F18D43862B8AF1A.title: "Diamond Fishing Rod"
+	quest.4FAB4883910BD2B1.quest_desc: [
+		"The ruins are guarded. The Gatekeeper is the only source of the Orb of Prophecy in the entire pack - nothing else drops one, no chest contains one, and it cannot be crafted."
+		""
+		"Come prepared. This is a boss standing between you and a whole dimension, deliberately placed before you have any of that dimension's gear."
+	]
+	quest.4FAB4883910BD2B1.subtitle: "It is called that for a reason"
+	quest.4FAB4883910BD2B1.title: "The Gatekeeper"
+	quest.51B9161C7BB00DE1.quest_desc: ["A quiet corner of the mod. Tea leaves are unified across the pack too - though note that two Pastel petals were deliberately excluded from that, because they are a dye and a flower rather than tea."]
+	quest.51B9161C7BB00DE1.subtitle: "A quiet corner of the mod"
+	quest.51B9161C7BB00DE1.title: "Tea"
+	quest.53AEB18341380C89.quest_desc: [
+		"The ocean in this pack is not scenery. Create: Submarine turns it into somewhere you build machines for, and there is genuinely dangerous water waiting once you can reach it."
+		""
+		"Start by standing in deep ocean. Everything below is about being able to stay."
+	]
+	quest.53AEB18341380C89.subtitle: "Create: Submarine"
+	quest.53AEB18341380C89.title: "Down, Not Across"
+	quest.54EC1591B4AB0954.quest_desc: ["Everything in Halcyon's tech tree gets built here. It's not a normal crafting bench - recipes cost Essence to unlock, one time, before you can ever make them."]
+	quest.54EC1591B4AB0954.title: "The Fabricator"
+	quest.56B33FAA6195C3E8.quest_desc: [
+		"Pressurised glass is what lets a hull have windows. It comes in copper and iron grades - iron is the one worth building for depth."
+		""
+		"The Barometer tells you how much depth the hull is currently arguing with. Read it before you find out the other way."
+	]
+	quest.56B33FAA6195C3E8.subtitle: "Glass, and a barometer"
+	quest.56B33FAA6195C3E8.title: "Holding Pressure"
+	quest.5724EA30D37AB332.quest_desc: ["The part that turns a spinning propeller into thrust applied to a structure. This is the actual boundary between a Create machine and an aircraft."]
+	quest.5724EA30D37AB332.subtitle: "Thrust, applied to a structure"
+	quest.5724EA30D37AB332.title: "Propeller Bearing"
+	quest.575D4FA22E7E7EFE.quest_desc: ["A fluid, mixed rather than mined. Levitite is the material that makes serious airships possible, and the blend is the intermediate step toward it."]
+	quest.575D4FA22E7E7EFE.subtitle: "Mixed, not mined"
+	quest.575D4FA22E7E7EFE.title: "Levitite Blend"
+	quest.58ED522EBED004EF.quest_desc: ["An RF Node turns Tidal Energy into ordinary FE - the same energy every incubator, mixer, and machine in the rest of the pack runs on. Wire it up and Halcyon stops being its own island."]
+	quest.58ED522EBED004EF.title: "Powering the Rest of the World"
+	quest.5AA3A93E3709325D.quest_desc: [
+		"Eternal Starlight runs its own material ladder rather than borrowing the Overworld's. Amaramber first, then Deepsilver, then Aethersent at the top, with full armour and tool sets for each."
+		""
+		"None of these are in the pack's metal unification, deliberately. They are distinct materials, not another mod's copy of iron."
+	]
+	quest.5AA3A93E3709325D.subtitle: "Amaramber, Deepsilver, Aethersent"
+	quest.5AA3A93E3709325D.title: "Three Metals"
+	quest.5B7C2270D3305E61.quest_desc: ["Ferrous armour and tools get pulled around. Galena is the ore worth carrying out - it is also the pack's only real source of lead, which the gun work wants."]
+	quest.5B7C2270D3305E61.subtitle: "Everything metal you own is a liability"
+	quest.5B7C2270D3305E61.title: "The Magnetic Caves"
+	quest.5D23B195AA86CB0F.quest_desc: [
+		"Exposure takes real screenshots, stores them in the world save, and lets you hold them as items. Photographs survive as data - they are not a texture trick."
+		""
+		"The camera alone does nothing. It needs film to shoot onto and a Lightroom to develop in."
+	]
+	quest.5D23B195AA86CB0F.subtitle: "Exposure"
+	quest.5D23B195AA86CB0F.title: "The Camera"
+	quest.5D300243EDA18381.quest_desc: ["Lets a machine place an order itself when it runs low. The point where the network starts maintaining itself instead of waiting for you."]
+	quest.5D300243EDA18381.subtitle: "Automation that orders its own parts"
+	quest.5D300243EDA18381.title: "Redstone Requester"
+	quest.5E31A4FBC33C0E8D.quest_desc: [
+		"A propeller for thrust and thrusters for fine control. There is no rudder item - steering comes from how you arrange the thrusters, not from a part you craft."
+		""
+		"This is a Create contraption underwater, so it wants rotation like anything else. The Aeronautics chapter is the same problem pointed the other way."
+	]
+	quest.5E31A4FBC33C0E8D.subtitle: "Thrust and fine control"
+	quest.5E31A4FBC33C0E8D.title: "Propulsion"
+	quest.5FFA49EC93311099.quest_desc: ["Expanded adds filters that change how the shot is processed - blur, bits, art, and a Commodore 64 film stock that is exactly what it sounds like. Purely cosmetic, and the reason to keep a camera after the novelty wears off."]
+	quest.5FFA49EC93311099.subtitle: "Exposure: Expanded"
+	quest.5FFA49EC93311099.title: "Filters"
+	quest.6231B624D3F04F0C.quest_desc: [
+		"The cheapest generator in the book - copper and obsidian. Feed it Tidal Shards and it'll sublimate them into usable Essence."
+		""
+		"Inefficient, and someone has to keep coming back to refuel it, but it's a start."
+	]
+	quest.6231B624D3F04F0C.title: "First Spark"
+	quest.62D9631B9063ABB0.quest_desc: ["Self-stabilising. The difference between a craft you constantly correct and one that holds an attitude while you go do something else."]
+	quest.62D9631B9063ABB0.subtitle: "Stays where you put it"
+	quest.62D9631B9063ABB0.title: "Gyroscopic Propeller Bearing"
+	quest.62FA931B22D03641.quest_desc: ["A whistle to summon your broom instead of walking back for it. Mahogany planks, a stone button, and bamboo."]
+	quest.62FA931B22D03641.title: "Call of the Broom"
+	quest.633BF59C5B0E1239.quest_desc: ["Plant life carries Tidal Energy too, if you know how to draw it out. The rarer or more magical the plant, the more it gives - worth remembering if you're already keeping bees or a garden nearby."]
+	quest.633BF59C5B0E1239.title: "Tapping the Land"
+	quest.6417C3CAD11DC482.quest_desc: ["Halcyon's infusion process turns a pile of Runewood or Soulwood - logs, stripped logs, and the raw log-block form, six items at once - into Malum's own Arcane Charcoal. Bring a set of either wood and put the infusion setup to work."]
+	quest.6417C3CAD11DC482.title: "Ashes of the Arcane"
+	quest.6616B927F23C0476.quest_desc: ["Built up from an incomplete assembly, the way Create builds most of its serious components. This is what supplies motion once the structure is no longer bolted to the world."]
+	quest.6616B927F23C0476.subtitle: "Motion, once it is loose"
+	quest.6616B927F23C0476.title: "Engine Assembly"
+	quest.6667DB7EC1A77017.quest_desc: [
+		"The single biggest quality-of-life step in the mod. A Warehouse plus Couriers means workers request materials and get them delivered, instead of stalling."
+		""
+		"Build this earlier than feels necessary."
+	]
+	quest.6667DB7EC1A77017.subtitle: "Warehouse and Courier"
+	quest.6667DB7EC1A77017.title: "Moving It Around"
+	quest.675C0FF656B7191C.quest_desc: ["One of twenty-two biomes here. Worth the walk for the colour alone, and the mod tracks visiting all of them as its own achievement if you want a long-term goal."]
+	quest.675C0FF656B7191C.subtitle: "One of twenty-two biomes"
+	quest.675C0FF656B7191C.title: "The Scarlet Forest"
+	quest.67ACE76BCC1BBDE5.quest_desc: [
+		"This pack registers 5,334 compat blocks - about 23% of every block in the game - purely from Every Compat filling in combinations the individual mods never shipped."
+		""
+		"That is the answer to every time you have wondered why there is no cherry cupboard, or why a wood you like cannot be made into a bookshelf. Now it can, for essentially every wood and stone in the pack."
+		""
+		"Nothing here is a progression. This chapter exists so you know the blocks are there, because a recipe viewer full of five thousand variants is not a good way to discover them."
+	]
+	quest.67ACE76BCC1BBDE5.subtitle: "And why you have not seen them"
+	quest.67ACE76BCC1BBDE5.title: "Four Thousand Blocks You Have Not Seen"
+	quest.68DCC3EB23667B59.quest_desc: ["Solidified blend. This is the point where the mod stops being propellers bolted to a raft and starts being a way to move mass."]
+	quest.68DCC3EB23667B59.subtitle: "Weight, negotiated"
+	quest.68DCC3EB23667B59.title: "Levitite"
+	quest.6C76AD7C72997316.quest_desc: [
+		"Halcyon's Entropic Processor already knows how to break down amethyst into Pastel's Amethyst Powder - shard, cluster, or block, no Pastel items needed as input at all, just ordinary amethyst you'd have from mining anyway."
+		""
+		"This is a real, mod-native integration - not something bolted on for this quest."
+	]
+	quest.6C76AD7C72997316.title: "Petrified Light"
+	quest.6CCBC28E24D3848A.quest_desc: ["Mobs carry dormant Tidal Energy too. This device 'Awakens' them to get at it - a steadier supply than burning shards, at a cost the notes are a little evasive about."]
+	quest.6CCBC28E24D3848A.title: "A Steady Diet"
+	quest.6F88376BBB6F4D0E.quest_desc: ["Skips the Lightroom entirely - shoot onto an Instant Slide and the picture develops in your hand. Less flexible and much faster."]
+	quest.6F88376BBB6F4D0E.subtitle: "Exposure: Polaroid"
+	quest.6F88376BBB6F4D0E.title: "Instant Camera"
+	quest.717787205645E7BF.quest_desc: ["The University unlocks research, the Library speeds it up, the School raises the next generation's skills. This is where a colony stops being a village and starts compounding."]
+	quest.717787205645E7BF.subtitle: "University, Library, School"
+	quest.717787205645E7BF.title: "Research"
+	quest.71CD78BDDB007E9E.quest_desc: ["The silly one, and the most powerful thing in the mod. Optional."]
+	quest.71CD78BDDB007E9E.subtitle: "The silly one"
+	quest.71CD78BDDB007E9E.title: "Ballistazooka"
+	quest.747B6E721BC0CBA9.quest_desc: [
+		"The Halcyon path. Work through the Halcyon chapter up to its RF Node - that's Tidal Energy converted straight into FE. See the Halcyon chapter for the actual build order; this is just the checkpoint."
+		""
+		"Marks itself done once the RF Node quest over there is complete."
+	]
+	quest.747B6E721BC0CBA9.title: "Tidal Current"
+	quest.7547321E353E73A6.quest_desc: ["The most attachment-driven weapon in the mod - drums, long barrels, spreading barrels, an automatic loader. Flechette and incendiary rounds exist if the ordinary ones are not doing it."]
+	quest.7547321E353E73A6.subtitle: "The attachment platform"
+	quest.7547321E353E73A6.title: "Shotgun"
+	quest.76EDA9D674A50E1E.quest_desc: ["Starcatcher hooks are a material ladder of their own - iron, copper and its weathered stages, gold, amethyst, frozen, echoing."]
+	quest.76EDA9D674A50E1E.subtitle: "A material ladder of its own"
+	quest.76EDA9D674A50E1E.title: "Hooks"
+	quest.7847CE80B01735E2.quest_desc: [
+		"Quark quietly adds the variants vanilla skipped - vertical planks, hollow logs, posts, and bookshelves for woods that never had them."
+		""
+		"Every Compat has extended those across the modded woods too, which is the single biggest source of the block count above."
+	]
+	quest.7847CE80B01735E2.subtitle: "Quark"
+	quest.7847CE80B01735E2.title: "Vertical Planks and Bookshelves"
+	quest.78DF624F06512613.quest_desc: ["Structurize's gold scepter is how you place and preview every hut. The Clipboard tracks what your builders are currently waiting for - it saves an enormous amount of walking."]
+	quest.78DF624F06512613.subtitle: "Scepter and clipboard"
+	quest.78DF624F06512613.title: "The Build Tool"
+	quest.7977F22923E292C0.quest_desc: [
+		"The real gate in this tree. 1000 Essence and a handful of components you'll need to fabricate first - a transformative rod, a lensing crystal, an ecliptrum cog assembly."
+		""
+		"Everything past this point in Mod Integration is locked behind it."
+	]
+	quest.7977F22923E292C0.title: "Ascending to Lunarium"
+	quest.79A13EF87CBAB761.quest_desc: ["The Create Diesel Generators path. Source some Crude Oil - this mod builds out a whole refining chain (distillation, fermenting, cracking) on top of Create's own kinetic machines, not a bolt-on generator block."]
+	quest.79A13EF87CBAB761.title: "Crude Beginnings"
+	quest.7E0E149C6B317F50.quest_desc: ["Two ingredients nearly every broom recipe wants. Mandrake Root is foraged, not crafted. Blood Bottle comes from the cauldron itself, via a fill-and-empty interaction the tooling on hand couldn't fully trace - expect to look up the exact steps in-game rather than trust a recipe list for this one."]
+	quest.7E0E149C6B317F50.title: "Blood and Bramble"
+	quest.7E1CECEB3EDE38F1.quest_desc: [
+		"Kaleidoscope Grilling's grill cooks skewers from every mod that adds them - raw and grilled beef, lamb and mushroom are all unified to one set."
+		""
+		"Barbeque's Delight also added a grill. Its recipe is disabled and the block hidden from the recipe viewers, because this one does the same job. That is the pattern throughout this chapter: consolidate the station, keep the food."
+	]
+	quest.7E1CECEB3EDE38F1.subtitle: "One grill, not two"
+	quest.7E1CECEB3EDE38F1.title: "The Grill"
+	quest.7F60047CBFC4956A.quest_desc: [
+		"Halcyon's infusion process turns Malum's runewood and soulwood into Arcane Charcoal. Bring some of either and put the infusion setup to work."
+		""
+		"(The exact output item id wasn't confirmed - only the recipe file names, 'arcane_charcoal_runewood' and 'arcane_charcoal_soulwood'. Check JEI once this quest is in front of you.)"
+	]
+	quest.7F60047CBFC4956A.title: "Ashes of the Arcane"
+	quest.7F942E9F882D41E7.quest_desc: ["The mod's base component. Nothing pressurised gets built without it."]
+	quest.7F942E9F882D41E7.subtitle: "The material everything else needs"
+	quest.7F942E9F882D41E7.title: "Phycological Membrane"
+	quest.805A0BAEE7C9F680.quest_desc: ["Cooks in your hand and can be carried. The fastest way to eat well while travelling."]
+	quest.805A0BAEE7C9F680.subtitle: "Cooks in your hand"
+	quest.805A0BAEE7C9F680.title: "Skillet"
+	quest.8458165EDB51419A.quest_desc: ["The Packager boxes items into parcels that can travel on belts, through chutes, and onto trains. It is the piece that makes the rest of this chapter a network rather than a set of conveyors."]
+	quest.8458165EDB51419A.subtitle: "Create 6's actual logistics system"
+	quest.8458165EDB51419A.title: "The Packager"
+	quest.84BA06139BFA99BA.quest_desc: ["Turrets plus an Ammo Turret Module turn a defensive problem into a supply problem. Pairs well with anywhere you have left a base unattended."]
+	quest.84BA06139BFA99BA.subtitle: "Turrets and ammo modules"
+	quest.84BA06139BFA99BA.title: "Let It Shoot For You"
+	quest.866F70F0BCD5912D.quest_desc: ["Links a wall of storage into a single interface. Optional, and the moment a storage room becomes a system."]
+	quest.866F70F0BCD5912D.subtitle: "One interface for a wall"
+	quest.866F70F0BCD5912D.title: "One Access Point"
+	quest.86DA1EFEA02DC102.quest_desc: [
+		"Craft a blank map with the Tablet to get a map that leads to a specific biome. From here on you are choosing where to go rather than hoping."
+		""
+		"Note that Nature's Compass will not find these - the mod says so itself when you try. The Cave Biome Map is the only locator that works."
+	]
+	quest.86DA1EFEA02DC102.subtitle: "Now you can go looking on purpose"
+	quest.86DA1EFEA02DC102.title: "Cave Biome Map"
+	quest.87723C1E102332CE.quest_desc: [
+		"MineColonies starts with a supply camp or ship, placed once, that gives you the Town Hall and the Building Tool. You cannot craft your way past this step."
+		""
+		"Pick the spot carefully. A colony grows outward for a long time, and the camp fixes where the centre is."
+	]
+	quest.87723C1E102332CE.subtitle: "Place this before anything else"
+	quest.87723C1E102332CE.title: "The Supply Camp"
+	quest.87DC5F3F61DA5D5F.quest_desc: ["The first real upgrade over vanilla. Everything after this is a question of what you want to catch rather than whether you can."]
+	quest.87DC5F3F61DA5D5F.subtitle: "The first real upgrade"
+	quest.87DC5F3F61DA5D5F.title: "Iron Fishing Rod"
+	quest.89661E602B70E42C.quest_desc: ["Funnels move items on and off belts; tunnels split what is already on one. The andesite tier is enough to learn the shapes - brass adds filtering to both."]
+	quest.89661E602B70E42C.subtitle: "On, off, and along"
+	quest.89661E602B70E42C.title: "Funnels and Tunnels"
+	quest.8A3B4DD14F16200D.quest_desc: [
+		"Pickup puts new items straight into the chest. Magnet pulls them off the floor. Compacting turns nine into a block automatically."
+		""
+		"This is the mod's actual value - not the capacity, the fact that the box does work while you are elsewhere."
+	]
+	quest.8A3B4DD14F16200D.subtitle: "The box does the work"
+	quest.8A3B4DD14F16200D.title: "The Upgrades Are the Point"
+	quest.8EE6127DF14640A5.quest_desc: [
+		"Six biomes are hidden under this world, and none of them are anywhere near the surface. They do not generate in caves you have already explored - they are enormous, sealed, and deep."
+		""
+		"The Compendium is the mod's own guidebook. It is craftable from a book and a stone, and it is the only in-game source that explains what each biome does to you. Some of them are actively hostile in ways that are not obvious until you are already down there."
+	]
+	quest.8EE6127DF14640A5.subtitle: "Read this before you dig"
+	quest.8EE6127DF14640A5.title: "The Cave Compendium"
+	quest.928BC80D018AE06C.quest_desc: ["It looks like a joke biome. It is not - the inhabitants hit harder than the aesthetic suggests, and the terrain actively works against you."]
+	quest.928BC80D018AE06C.subtitle: "Not the safe one"
+	quest.928BC80D018AE06C.title: "The Candy Cavity"
+	quest.9430A62B66E429E3.quest_desc: ["Radiation is a real mechanic here, not set dressing. Uranium is the reason to come and the reason the biome is dangerous; read the Compendium entry before you go, because the damage is not something you can outheal by eating."]
+	quest.9430A62B66E429E3.subtitle: "Bring protection, not curiosity"
+	quest.9430A62B66E429E3.title: "The Toxic Caves"
+	quest.97A0807BEC9DCE3B.quest_desc: [
+		"This pack has two entirely separate firearm mods and they do not share a single component."
+		""
+		"Create Gunsmithing is black powder and machining. Everything is built from parts you make on Create machinery, every gun takes modular attachments, and the ammunition is a manufacturing problem. It fits the industrial half of the pack."
+		""
+		"Scorched Guns is modern and self-contained. A Gun Bench, a mould, and increasingly exotic rifles - much less infrastructure, much faster to a working weapon."
+		""
+		"Neither gates the other. Follow one line, or both."
+	]
+	quest.97A0807BEC9DCE3B.subtitle: "Pick a philosophy"
+	quest.97A0807BEC9DCE3B.title: "Two Gunsmiths"
+	quest.9987215682E6AE5B.quest_desc: ["The brass tier is where sorting starts. Every one of these takes a filter, and a filtered network is the difference between a factory and a pile."]
+	quest.9987215682E6AE5B.subtitle: "Where sorting starts"
+	quest.9987215682E6AE5B.title: "Filtered"
+	quest.9BA57A2CA0173F01.quest_desc: ["A tank you flood to sink and vent to rise. Everything up to here was survival gear; this is the first component that is about a vessel."]
+	quest.9BA57A2CA0173F01.subtitle: "The part that makes it a submarine"
+	quest.9BA57A2CA0173F01.title: "Ballast"
+	quest.9CED9541B9351858.quest_desc: ["Vampiric, gothic, and the most openly hostile of the six. The Forsaken Idol is the artefact at the centre of it."]
+	quest.9CED9541B9351858.subtitle: "Something is worshipped down here"
+	quest.9CED9541B9351858.title: "The Forlorn Hollows"
+	quest.9FEEAAF3D0E6A728.quest_desc: [
+		"There is no single questline here. Synesthesia is wide rather than long - a dozen mods deep enough to be their own game, sitting in one world."
+		""
+		"This chapter is a map, not a gate. Nothing in the book locks anything else; the other chapters are there so you know what exists and have a reason to go and look at it."
+		""
+		"Two things worth knowing before you start:"
+		""
+		"1. Duplicates have been unified. Five mods add an onion; you will only ever see one. The same is true of tomatoes, rice, flour, knives, cooking oil, silver, and a dozen more. If a recipe asks for one, any of them works."
+		""
+		"2. Some things are only findable on purpose. Alex's Caves biomes, Eternal Starlight, and the deep ocean all need a specific key. The chapters say which."
+	]
+	quest.9FEEAAF3D0E6A728.subtitle: "What this pack is, and where to go"
+	quest.9FEEAAF3D0E6A728.title: "Synesthesia"
+	quest.A065C942EF2A040A.quest_desc: [
+		"The Orb opens the portal in the ruins. Step through."
+		""
+		"A permanently night-lit world of luminous forests and shallow seas, with its own metals, its own mobs, and no sunrise coming."
+	]
+	quest.A065C942EF2A040A.subtitle: "A world with no sunrise"
+	quest.A065C942EF2A040A.title: "Through the Portal"
+	quest.A29D2B34E8752F33.quest_desc: ["A tripod. Takes you out of your own shot, which matters more than it sounds once you are photographing a build rather than a view."]
+	quest.A29D2B34E8752F33.subtitle: "A tripod"
+	quest.A29D2B34E8752F33.title: "Camera Stand"
+	quest.A29FB5CC8A2E7572.quest_desc: ["A warm, living cave system that did not get the message about the extinction. Amber is the signature material, and the things preserved in it are not decorative."]
+	quest.A29FB5CC8A2E7572.subtitle: "Amber, and what is inside it"
+	quest.A29FB5CC8A2E7572.title: "The Primordial Caves"
+	quest.A3597279603DEEB6.quest_desc: ["One of the dimension's signature weapons. Optional - by now you have already beaten the thing that was guarding the door."]
+	quest.A3597279603DEEB6.subtitle: "A signature weapon"
+	quest.A3597279603DEEB6.title: "Crystal Greatsword"
+	quest.A7CFFE5598D8F7DB.quest_desc: ["The Gauss Rifle is the marker for this tier; the Teslock and Rocket rifles sit alongside it. Any one of them counts as arriving - the task asks for the Gauss because it is the most representative."]
+	quest.A7CFFE5598D8F7DB.subtitle: "Gauss, Teslock, Rocket"
+	quest.A7CFFE5598D8F7DB.title: "Exotic Ordnance"
+	quest.A91425E6ACA77281.quest_desc: ["Wires a production chain together so upstream machines run to meet downstream demand. Optional, and the difference between a factory that runs constantly and one that runs when needed."]
+	quest.A91425E6ACA77281.subtitle: "Produce to demand"
+	quest.A91425E6ACA77281.title: "Factory Gauge"
+	quest.AD3BF264D39D9FB1.quest_desc: ["The step up from bamboo, and the point where Starcatcher's baits start mattering."]
+	quest.AD3BF264D39D9FB1.subtitle: "Where the baits start mattering"
+	quest.AD3BF264D39D9FB1.title: "Humble Rod"
+	quest.ADB17AD141D1E7E7.quest_desc: ["The finished article. Frame it, stack it, put it in an album, or hand it to someone else - the image travels with the item."]
+	quest.ADB17AD141D1E7E7.subtitle: "The finished article"
+	quest.ADB17AD141D1E7E7.title: "A Photograph"
+	quest.AE70E22D7EB47A2F.quest_desc: [
+		"Create contraptions normally move along a track you built for them. Simulated replaces that with real physics - a structure with mass, momentum and orientation that you steer."
+		""
+		"Both this and Offroad ship inside the Create Aeronautics bundle rather than as their own files, which is why you may not have noticed they were installed."
+	]
+	quest.AE70E22D7EB47A2F.subtitle: "Simulated, and Offroad"
+	quest.AE70E22D7EB47A2F.title: "Contraptions That Actually Move"
+	quest.AEB0C55667CCB554.quest_desc: ["Tide's rarer catches are biome-gated, and the deep ocean is the one worth rowing out to. Go and stand in it - or float over it - before complaining that the Diamond Rod pulls up the same fish as the iron one."]
+	quest.AEB0C55667CCB554.subtitle: "Where the good catches are"
+	quest.AEB0C55667CCB554.title: "Deep Water"
+	quest.AEC6504A34BFD48F.quest_desc: ["The odd one out - projects a photograph as a viewable image. There is a broken variant that suggests it is meant to be found rather than built; this was not verified in world, so treat the crafting route as the reliable one."]
+	quest.AEC6504A34BFD48F.subtitle: "The odd one out"
+	quest.AEC6504A34BFD48F.title: "Interplanar Projector"
+	quest.AEE6FBF8BBB444E0.quest_desc: ["Lift without thrust. A burner under an envelope gets you altitude with no propellers involved - slow, but it does not fight you."]
+	quest.AEE6FBF8BBB444E0.subtitle: "The lazy way up"
+	quest.AEE6FBF8BBB444E0.title: "Hot Air Burner"
+	quest.B0D15ACC871821F3.quest_desc: ["The Electrolyzer splits water into something you can breathe; the Oxygen Diffuser puts it where your head is. This is the first thing that makes the sea floor survivable rather than a timed visit."]
+	quest.B0D15ACC871821F3.subtitle: "Electrolyzer and diffuser"
+	quest.B0D15ACC871821F3.title: "Breathing"
+	quest.B0D72604D74B0764.quest_desc: [
+		"Raids scale with your colony. The Barracks and Archery train guards who will meet them so you do not have to."
+		""
+		"There are 52 hut blocks in this pack's MineColonies. This chapter covers the spine; the rest - Alchemist, Beekeeper, Blacksmith, Concrete Mixer, Florist and the others - are yours to add as the colony needs them."
+	]
+	quest.B0D72604D74B0764.subtitle: "Raids scale with the colony"
+	quest.B0D72604D74B0764.title: "Defence"
+	quest.B50AD8A268C02E6E.quest_desc: ["The first citizen worth having. Every other hut in this chapter is constructed by a Builder, so this is the real bottleneck early on - a second Builder is usually a better investment than anything else you could place."]
+	quest.B50AD8A268C02E6E.subtitle: "Nothing else gets built without one"
+	quest.B50AD8A268C02E6E.title: "The Builder"
+	quest.B57987263A0CF277.quest_desc: ["Houses set your population cap. Colonists will not arrive faster than you give them beds."]
+	quest.B57987263A0CF277.subtitle: "Houses set your population cap"
+	quest.B57987263A0CF277.title: "Somewhere to Live"
+	quest.B5AB4A57064A669A.quest_desc: ["Two framing styles. This is the entire point of the mod for most builds - a base decorated with pictures of places you actually went."]
+	quest.B5AB4A57064A669A.subtitle: "Two framing styles"
+	quest.B5AB4A57064A669A.title: "Put It On The Wall"
+	quest.B79603532C298F63.quest_desc: [
+		"One item type per slot, thousands of them, visible from the front. Drawers are for bulk in a way chests never are."
+		""
+		"Note that Every Compat has generated these for every wood in the pack, so use whatever matches the room."
+	]
+	quest.B79603532C298F63.subtitle: "Functional Storage"
+	quest.B79603532C298F63.title: "Drawers"
+	quest.B935C7ADD51B4F82.quest_desc: [
+		"Food - two cooking mods, unified into one pantry."
+		"MineColonies - stop doing the work yourself."
+		"Building and Decoration - the pack has over four thousand extra blocks. Genuinely."
+		"Fishing - Tide and Starcatcher, two whole tackle trees."
+	]
+	quest.B935C7ADD51B4F82.subtitle: "Farming, building, settling"
+	quest.B935C7ADD51B4F82.title: "Above Ground"
+	quest.B9CE85C5A284D6E0.quest_desc: ["The upgraded form. Optional - ordinary Levitite flies perfectly well, and this is a refinement rather than a gate."]
+	quest.B9CE85C5A284D6E0.subtitle: "The refined form"
+	quest.B9CE85C5A284D6E0.title: "Pearlescent Levitite"
+	quest.BD05CA1152A7BA9C.quest_desc: ["Re-splits and recombines parcels in transit. The last piece, and only worth it once you have enough traffic for it to matter."]
+	quest.BD05CA1152A7BA9C.subtitle: "Parcels, in transit"
+	quest.BD05CA1152A7BA9C.title: "Repackager"
+	quest.BD9CA681AA642405.quest_desc: ["Starcatcher's starting rod. Cheap, and the entry point to a completely separate tackle tree."]
+	quest.BD9CA681AA642405.subtitle: "Starcatcher"
+	quest.BD9CA681AA642405.title: "Bamboo Rod"
+	quest.C130CFB3B5CCE820.quest_desc: [
+		"Farmer's Delight and the Kaleidoscope suite both rebuild cooking, and this pack runs both on purpose. What it does NOT do is make you keep two of every ingredient."
+		""
+		"AlmostUnified collapses the duplicates: one canonical onion, tomato, rice, flour, cooking oil and knife across every mod that adds one. If a recipe wants an onion, any onion works, and the losing copies are hidden from the recipe viewers so you never see five of them."
+		""
+		"Kaleidoscope wins most of those ties, because the pack routes cooking through its stations where there is a choice. Both lines below are worth building - they do different things."
+	]
+	quest.C130CFB3B5CCE820.subtitle: "They are unified, not duplicated"
+	quest.C130CFB3B5CCE820.title: "Two Kitchens"
+	quest.C1872B77CD305C85.quest_desc: ["Tide splits a fishing rod into parts. Line and hook are the two you will replace most often as you go deeper."]
+	quest.C1872B77CD305C85.subtitle: "Tide"
+	quest.C1872B77CD305C85.title: "Line and Hook"
+	quest.C28E8A2928E704A8.quest_desc: ["The block that takes a structure and hands it to the physics engine. Everything below assumes you have one."]
+	quest.C28E8A2928E704A8.subtitle: "Turns a build into an object"
+	quest.C28E8A2928E704A8.title: "Physics Assembler"
+	quest.C80AB18EE87A7F2A.quest_desc: ["Every knife in the pack works on it. That is not the mod's doing - a KubeJS script completes the knife tag here, because Kaleidoscope Compat ships its own copy of that tag and was quietly winning the merge."]
+	quest.C80AB18EE87A7F2A.subtitle: "Farmer's Delight"
+	quest.C80AB18EE87A7F2A.title: "Cutting Board"
+	quest.C8E719AF2EDE5832.quest_desc: ["The second of the two sky structures, and the rarer one. Optional - finding either proves you can get up there and stay up there."]
+	quest.C8E719AF2EDE5832.subtitle: "The rarer sky structure"
+	quest.C8E719AF2EDE5832.title: "Highwind Village"
+	quest.C9FD0E0F63DCF30F.quest_desc: ["The controller gives a whole drawer wall one insertion point; the linking tool tells it which drawers belong to it."]
+	quest.C9FD0E0F63DCF30F.subtitle: "One insertion point"
+	quest.C9FD0E0F63DCF30F.title: "Drawer Controller"
+	quest.CCE84F2025294EF5.quest_desc: ["A mount and a tire. Offroad is a small mod - seven items - and every one of them is about getting a physics body to roll over terrain instead of sliding along it."]
+	quest.CCE84F2025294EF5.subtitle: "Offroad"
+	quest.CCE84F2025294EF5.title: "Put It On Wheels"
+	quest.CDA96B188BD5E6DF.quest_desc: ["Ordinary bait improves your odds; Lucky Bait skews them toward the rare end. Magnetic and Incandescent baits exist for specific catches."]
+	quest.CDA96B188BD5E6DF.subtitle: "Skewing the odds"
+	quest.CDA96B188BD5E6DF.title: "Bait"
+	quest.D3159EA3D8413307.quest_desc: ["The base tier. Both take the same upgrades, so pick whichever fits the wall."]
+	quest.D3159EA3D8413307.subtitle: "Sophisticated Storage"
+	quest.D3159EA3D8413307.title: "A Better Chest"
+	quest.D32E6F71B39E8A55.quest_desc: [
+		"Sophisticated Storage - chests and barrels that upgrade, filter, and pick things up for you."
+		"Functional Storage - drawers, for when you have ten thousand of one thing."
+		"Storage Delight - cabinets and drawers that are furniture first."
+		""
+		"They solve different problems and are worth having together. This chapter is the shortest useful path through each."
+	]
+	quest.D32E6F71B39E8A55.subtitle: "Three mods, three problems"
+	quest.D32E6F71B39E8A55.title: "Three Answers to One Problem"
+	quest.D3FA77F62132963E.quest_desc: ["Every Gunsmithing weapon is assembled from a barrel, a stock, and a firing mechanism. Making them separately is the point - the same barrel fits more than one weapon."]
+	quest.D3FA77F62132963E.subtitle: "Every gun is assembled"
+	quest.D3FA77F62132963E.title: "Barrel and Stock"
+	quest.D40B530CB6739061.quest_desc: ["Exposed film is not a picture yet. The Lightroom develops it, consuming dye for colour work - so colour photography has an ongoing cost that black and white does not."]
+	quest.D40B530CB6739061.subtitle: "Where film becomes a photograph"
+	quest.D40B530CB6739061.title: "The Lightroom"
+	quest.D5194141B699F844.quest_desc: ["The three that keep the Builder supplied. Without them you are personally hauling every log and stone the colony consumes."]
+	quest.D5194141B699F844.subtitle: "Lumberjack, Miner, Stonemason"
+	quest.D5194141B699F844.title: "Raw Materials"
+	quest.DA864F5148773237.quest_desc: [
+		"Tables, chairs, cupboards, benches, shelves and trims - 285 base items, then multiplied across every wood in the pack."
+		""
+		"If you have wondered why crafting three planks in a column sometimes offers you a choice, this is why: a Handcrafted pillar trim, a Quark vertical plank and a Youkai's vertical slab share that shape. Polymorph asks which one you meant."
+	]
+	quest.DA864F5148773237.subtitle: "Handcrafted"
+	quest.DA864F5148773237.title: "Furniture"
+	quest.DD133F1F8B35FEE1.quest_desc: ["Sulfur, charcoal dust, and the rest of the powder chain. Note that this pack canonicalises sulfur to the Scorched Guns item, so what comes out of your machines may carry that name - they are the same material and both mods accept it."]
+	quest.DD133F1F8B35FEE1.subtitle: "Sulfur and charcoal"
+	quest.DD133F1F8B35FEE1.title: "Powder"
+	quest.DF00516E9C76E2EC.quest_desc: [
+		"Stone Zone is Every Compat's counterpart for rock: 770 items filling in stairs, slabs, walls, pillars and bricks for stone types across the pack that only shipped as a raw block."
+		""
+		"A checkmark rather than an item, because there is no single Stone Zone block to ask for - it is all host-mod materials."
+	]
+	quest.DF00516E9C76E2EC.subtitle: "Stone Zone"
+	quest.DF00516E9C76E2EC.title: "Stone, Everywhere"
+	quest.E0836B93AA72BB3E.quest_desc: ["The mould is reusable; Gun Parts are the universal currency of every weapon in the mod. Make more than you think you need."]
+	quest.E0836B93AA72BB3E.subtitle: "The universal currency"
+	quest.E0836B93AA72BB3E.title: "Moulded Parts"
+	quest.E2C35653D915D867.quest_desc: [
+		"Alex's Caves is the big one. Six enormous sealed biomes that do not generate near anything you have already explored, and you will not find them by wandering."
+		""
+		"That chapter starts with how to get a map, which is the actual blocker. Everything else follows from it."
+	]
+	quest.E2C35653D915D867.subtitle: "The six hidden biomes"
+	quest.E2C35653D915D867.title: "Below Ground"
+	quest.E35C7BAB9268BEEB.quest_desc: [
+		"Nothing in this pack changes the first ten minutes. Wood, stone, a roof."
+		""
+		"Optional, and only here so the chapter has something to actually tick."
+	]
+	quest.E35C7BAB9268BEEB.subtitle: "Nothing here changes it"
+	quest.E35C7BAB9268BEEB.title: "The Usual First Night"
+	quest.E41D6B54E00E962C.quest_desc: [
+		"MineColonies' building blocks, and the cutter that makes them. Domum's blocks take two materials at once - a frame and a fill - so one recipe covers a very large space of results."
+		""
+		"Worth building even if you never start a colony."
+	]
+	quest.E41D6B54E00E962C.subtitle: "Domum Ornamentum"
+	quest.E41D6B54E00E962C.title: "The Architect's Cutter"
+	quest.E4A4B4B15554C43C.quest_desc: [
+		"Wandering the deep slice of the world hoping to fall into a biome is a bad plan. Underground Cabins are the intended way in: small buried shelters, each stocked for the biome it sits near, and each holding the Cave Tablet you actually need."
+		""
+		"There are three routes to a map, and all three are enabled in this pack:"
+		""
+		"1. Buy one. A Cartographer at Apprentice level sells an Underground Cabin Map for 5 emeralds and a compass, ten times. This is the reliable route - level a Cartographer and you can find every biome."
+		""
+		"2. Wandering Trader. Occasionally offers the same map for 8 emeralds and a compass, but only once."
+		""
+		"3. Loot it. Abandoned mineshaft chests have a 15% chance of containing one. Cheapest if you are already down there, and pure luck if you are not."
+		""
+		"The map points at the nearest cabin, not the nearest biome - but cabins are placed near biomes, so it amounts to the same thing."
+		""
+		"This quest completes when you reach a cabin, not when you hold the map. There is no Underground Cabin Map item to ask for: the trade builds an ordinary filled map and renames it, so it has no id of its own."
+	]
+	quest.E4A4B4B15554C43C.subtitle: "Three ways to find an Underground Cabin"
+	quest.E4A4B4B15554C43C.title: "Somebody Got Here First"
+	quest.E76E732267D31015.quest_desc: ["Exactly what it sounds like. If you have been building toward submarines in the Deep Sea chapter, this is the other water worth taking one into."]
+	quest.E76E732267D31015.subtitle: "The deep end of a deep dimension"
+	quest.E76E732267D31015.title: "The Abyss"
+	quest.E987094731F9E8F0.quest_desc: [
+		"Tide rebuilds fishing around rods, hooks, lines and baits that each change what you catch and where you can cast."
+		""
+		"Starcatcher adds its own parallel set of rods and tackle, with smithing templates for the higher tiers."
+		""
+		"They coexist rather than compete. Tide is the deeper progression; Starcatcher has the more interesting endgame tackle."
+	]
+	quest.E987094731F9E8F0.subtitle: "Tide and Starcatcher"
+	quest.E987094731F9E8F0.title: "Two Tackle Boxes"
+	quest.EA526AB05F33492F.quest_desc: ["Storage upgrades multiply what one drawer holds. Cheaper than building more walls."]
+	quest.EA526AB05F33492F.subtitle: "Multiply what each holds"
+	quest.EA526AB05F33492F.title: "More In Each"
+	quest.EB2281B124C9DA8E.quest_desc: ["Held together by intent. The first gun you can actually fire, and a real step up from a bow at close range."]
+	quest.EB2281B124C9DA8E.subtitle: "It works, mostly"
+	quest.EB2281B124C9DA8E.title: "Makeshift Rifle"
+	quest.EC7DB0FFDD5E32EB.quest_desc: ["Nothing in Gunsmithing is made of iron. Steel is the entry cost, and it is a processing chain rather than an ore - which is the mod telling you up front that this is the industrial route."]
+	quest.EC7DB0FFDD5E32EB.subtitle: "Create Gunsmithing"
+	quest.EC7DB0FFDD5E32EB.title: "Steel"
+	quest.ED45A0CEB3372AA3.quest_desc: ["One of the high-tier rods. Optional, like everything past the Humble Rod - Starcatcher is a wide mod rather than a gated one."]
+	quest.ED45A0CEB3372AA3.subtitle: "High-tier tackle"
+	quest.ED45A0CEB3372AA3.title: "Azure Crystal Rod"
+	quest.ED698675940BF870.quest_desc: [
+		"The drowned trench from the Alex's Caves chapter. You can reach it with potions and luck; you can also reach it in something built for the job, with lights and air and a hull between you and whatever lives down there."
+		""
+		"This is where the two chapters stop being separate. If you have not found a Cave Biome Map yet, that chapter explains the three ways to get one."
+	]
+	quest.ED698675940BF870.subtitle: "Alex's Caves, reached properly"
+	quest.ED698675940BF870.title: "The Abyssal Chasm"
+	quest.EF12BFAD8DEB05D7.quest_desc: [
+		"Create: Logistics - the fetch-and-deliver half of Create 6."
+		"Physics and Vehicles - contraptions that actually move, on wheels or on water."
+		"Aeronautics - the same idea, upward."
+		"Firearms - two entirely separate gun mods; pick a philosophy."
+		"Storage - somewhere to put the results."
+	]
+	quest.EF12BFAD8DEB05D7.subtitle: "Create, and what has been bolted to it"
+	quest.EF12BFAD8DEB05D7.title: "Machines"
+	quest.EFE7EBBA1DD7B890.quest_desc: [
+		"Grinds wheat into the pack's canonical flour, and pressed seeds into cooking oil."
+		""
+		"The millstone route to oil is deliberately cheap here - that was a balance decision, not an oversight."
+	]
+	quest.EFE7EBBA1DD7B890.subtitle: "Grain, and pressed seeds"
+	quest.EFE7EBBA1DD7B890.title: "Millstone and Flour"
+	quest.F22BB1685F58648E.quest_desc: ["Inside the cabin, past whatever is living in it. The Tablet is the key to the map system - it is what turns a blank Cave Biome Map into one that points somewhere."]
+	quest.F22BB1685F58648E.subtitle: "Inside the cabin"
+	quest.F22BB1685F58648E.title: "The Cave Tablet"
+	quest.F43AD8E49213BF45.quest_desc: ["Black and white film is cheaper; colour film is what you want for anything you intend to keep. High-sensitivity versions of both exist for shooting in low light, which in practice means caves and night."]
+	quest.F43AD8E49213BF45.subtitle: "Black and white, or colour"
+	quest.F43AD8E49213BF45.title: "Load It"
+	quest.F539F7446DEC5CDA.quest_desc: ["A structure with a resident that would rather you left. The forge is where this dimension's metalwork starts making sense."]
+	quest.F539F7446DEC5CDA.subtitle: "Where the metalwork starts"
+	quest.F539F7446DEC5CDA.title: "The Golem Forge"
+	quest.F66296B7B97BA1F0.quest_desc: [
+		"A drowned trench, pitch dark, full of things that glow because nothing else does. Bring something that lets you breathe and something that lets you see."
+		""
+		"This is the one that connects outward - the deep ocean work in the pack shares its water with this place. If you are building toward submarines, the Chasm is where that stops being a novelty."
+	]
+	quest.F66296B7B97BA1F0.subtitle: "Flooded, lightless, and inhabited"
+	quest.F66296B7B97BA1F0.title: "The Abyssal Chasm"
+	quest.F6BBDC366CAFE552.quest_desc: ["One block, and almost the whole mod runs through it. Scorched Guns asks for far less infrastructure than Gunsmithing does."]
+	quest.F6BBDC366CAFE552.subtitle: "Scorched Guns"
+	quest.F6BBDC366CAFE552.title: "The Gun Bench"
+	quest.F7A73D8D7C04C5BD.quest_desc: ["Vaults tile into arbitrarily large single inventories. This is the storage the rest of the chapter assumes you have."]
+	quest.F7A73D8D7C04C5BD.subtitle: "Somewhere to put it all"
+	quest.F7A73D8D7C04C5BD.title: "Item Vault"
+	quest.F84EC46FBEAD32A6.quest_desc: ["Starcatcher's endgame tackle is applied at a smithing table using templates - Clear, Colorful, Frog and others. This is the part of the mod worth staying for."]
+	quest.F84EC46FBEAD32A6.subtitle: "Smithing, for fish"
+	quest.F84EC46FBEAD32A6.title: "Tackle Templates"
+	quest.FA7307AC5BA89504.quest_desc: [
+		"A Stock Link publishes what a vault contains; the Stock Ticker collects those into one searchable index you can order from."
+		""
+		"This is the closest Create gets to a storage terminal, and it is built out of the same belts and funnels as everything else rather than a magic block."
+	]
+	quest.FA7307AC5BA89504.subtitle: "Ask for things by name"
+	quest.FA7307AC5BA89504.title: "Stock Links and the Ticker"
+	quest.FE9A429929A458C6.quest_desc: ["Connectors let two physics bodies latch together; the winch hauls one to the other. Between them you get moorings, tows, and trailers."]
+	quest.FE9A429929A458C6.subtitle: "Moorings, tows and trailers"
+	quest.FE9A429929A458C6.title: "Docking"
+	quest.FF46CD06CE87DB01.quest_desc: [
+		"Eternal Starlight - a full dimension, gated behind a boss standing in an Overworld ruin."
+		"The Deep Sea - submarines, pressure, and the Abyssal Chasm."
+		"Halcyon and Hexerei - the pack's two magic lines."
+		"Photography - for proving you went."
+	]
+	quest.FF46CD06CE87DB01.subtitle: "Other worlds and deep water"
+	quest.FF46CD06CE87DB01.title: "Elsewhere"
+	task.1D6A05224842EB2C.title: "Wired In"
+	task.20FA480E2A712219.title: "Place an Essence Burner"
+	task.222C14B644ADB982.title: "Power Secured"
+	task.33D1C0C008180C01.title: "Place an Essence Burner"
+	task.60BA0E7711BCBEC9.title: "Acknowledged"
+}

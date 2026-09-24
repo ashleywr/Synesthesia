@@ -1,0 +1,18 @@
+filename = 'selling_bin-1.6-NEOFORGE-1.21.1.jar'
+name = "wd's Selling Bin"
+side = 'both'
+x-prismlauncher-dependencies = []
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = '1.6-NEOFORGE-1.21.1'
+
+[download]
+hash = 'a53b3c6db647b1c9555b515df06b44ca1c5ae3a5182076ca5245bd52a4eb61173312412896fa5a3e17068cd9c6ea895ecd5bbaf294ee29c4932684a5bacfb040'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/niDbB1Li/versions/e5VBKVsh/selling_bin-1.6-NEOFORGE-1.21.1.jar'
+
+[update.modrinth]
+mod-id = 'niDbB1Li'
+version = 'e5VBKVsh'

@@ -1,0 +1,25 @@
+filename = 'entity_sound_features-0.8.2-1.21-neoforge.jar'
+name = '[ESF] Entity Sound Features'
+side = ''
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21', '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = '0.8.2-neoforge-1.21'
+
+[download]
+hash = '74932e01844b2524d5d7ad958d4bc638ac5743c1'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 8782839
+project-id = 1060324
+
+[[x-prismlauncher-dependencies]]
+addonId = '568563'
+type = 'REQUIRED'
+
+[[x-prismlauncher-dependencies]]
+addonId = '844662'
+type = 'REQUIRED'

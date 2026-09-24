@@ -1,0 +1,23 @@
+{
+  "neoforge:conditions": [
+    {
+      "type": "neoforge:mod_loaded",
+      "modid": "endermanoverhaul"
+    }
+  ],
+  "type": "neoforge:add_spawns",
+  "biomes": "#endermanoverhaul:soulsand_valley_spawns",
+  "spawners": {
+    "type": "endermanoverhaul:soulsand_valley_enderman",
+    "weight": 3,
+    "minCount": 1,
+    "maxCount": 2
+  },
+  "spawn_cost": {
+    "energy_budget": 0.7,
+    "charge": 0.15
+  },
+  "entity_types": [
+    "endermanoverhaul:soulsand_valley_enderman"
+  ]
+}

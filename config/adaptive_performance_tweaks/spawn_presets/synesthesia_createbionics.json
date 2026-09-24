@@ -1,0 +1,7 @@
+{
+  "mod_id": "createbionics",
+  "priority": 200,
+  "mode": "protect_namespace",
+  "category": "managed_living",
+  "reason": "Player-built Create Bionics constructs must not be counted or removed as ambient mob pressure."
+}

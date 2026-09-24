@@ -1,6 +1,6 @@
 {
   "config_version": "2.0.33",
-  "config_datetime": "2026-08-18_13-13-40",
+  "config_datetime": "2026-09-15_00-00-00",
   "general": {
     "disable_all_structures": false,
     "prevent_structure_overlap": true,
@@ -46,6 +46,17 @@
       ]
     }
   ],
-  "structure_sets": [],
+  "structure_sets": [
+    {
+      "name": "create_sky_village:skyvillage",
+      "spacing": 256,
+      "separation": 32
+    },
+    {
+      "name": "create_sky_village:highwind_village",
+      "spacing": 192,
+      "separation": 32
+    }
+  ],
   "structure_template_pools": []
 }

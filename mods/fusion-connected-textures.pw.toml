@@ -1,18 +1,18 @@
-filename = 'fusion-1.3.15-neoforge-mc1.21.1.jar'
+filename = 'fusion-1.3.15b-neoforge-mc1.21.1.jar'
 name = 'Fusion'
 side = ''
 x-prismlauncher-dependencies = []
 x-prismlauncher-loaders = [ 'neoforge' ]
 x-prismlauncher-mc-versions = [ '1.21', '1.21.1' ]
 x-prismlauncher-release-type = 'release'
-x-prismlauncher-version-number = '1.3.15-neoforge-mc1.21.1'
+x-prismlauncher-version-number = '1.3.15b-neoforge-mc1.21.1'
 
 [download]
-hash = 'e7303b3f38ff46b7cf4ed490c5d623e36f522d32b9765e9ccd26085b7397218bc339b5e62d86f12056f742d25c7ec93a7eddd5b24cb4e52e0fb291a9758ed30d'
+hash = 'e19d0b977118c45c29c577cfbdba4eeead8118334f0a118fb43bd13c6b48d477fa47811d367fc0e6078e340d3474b3f115540f1e0c1d6181eeb518184e98d246'
 hash-format = 'sha512'
 mode = 'url'
-url = 'https://cdn.modrinth.com/data/p19vrgc2/versions/LohuCdof/fusion-1.3.15-neoforge-mc1.21.1.jar'
+url = 'https://cdn.modrinth.com/data/p19vrgc2/versions/n2GBQ4li/fusion-1.3.15b-neoforge-mc1.21.1.jar'
 
 [update.modrinth]
 mod-id = 'p19vrgc2'
-version = 'LohuCdof'
+version = 'n2GBQ4li'

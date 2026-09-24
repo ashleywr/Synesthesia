@@ -1,0 +1,29 @@
+filename = 'voyager-0.3.5.jar'
+name = 'Voyager'
+side = 'server'
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21.1' ]
+x-prismlauncher-release-type = 'beta'
+x-prismlauncher-version-number = 'Voyager 0.3.5 (Beta)'
+
+[download]
+hash = '68f53ae9e29811ff3a69cd6b04cee8537d5d362e'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 8950561
+project-id = 1679603
+
+[[x-prismlauncher-dependencies]]
+addonId = '1674812'
+type = 'OPTIONAL'
+
+[[x-prismlauncher-dependencies]]
+addonId = '298744'
+type = 'REQUIRED'
+
+[[x-prismlauncher-dependencies]]
+addonId = '245506'
+type = 'REQUIRED'

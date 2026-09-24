@@ -1,18 +1,21 @@
-filename = 'betterloot-zibura-neoforge-1.21.1-1.0.7.jar'
-name = 'Better Loot Zibura'
-side = 'server'
-x-prismlauncher-dependencies = []
+filename = 'betterloot-zibura-neoforge-1.21.1-2.0.2-fix.jar'
+name = 'betterloot_zibura'
+side = ''
 x-prismlauncher-loaders = [ 'neoforge' ]
 x-prismlauncher-mc-versions = [ '1.21.1' ]
 x-prismlauncher-release-type = 'release'
-x-prismlauncher-version-number = '1.0.7'
+x-prismlauncher-version-number = '2.0.2-fix'
 
 [download]
-hash = 'd9bb930a5382633a0f71b92c8c6284a0bb146fca1c0ead26e6477f8916c4485d624999e19881310d544518680c8f4b4ee93e39337cf48c068779a1ee25f2afdb'
+hash = '145ac81bc966dccf91bf0d0973033305021a3f7342ac9cfbb41aade95fb0cb7efcbb336e0fc54f45ab645f92f7bfc070f1a66e5da1cf6d1ea015bab9981323f7'
 hash-format = 'sha512'
 mode = 'url'
-url = 'https://cdn.modrinth.com/data/XdmLK51k/versions/MSCLJFBU/betterloot-zibura-neoforge-1.21.1-1.0.7.jar'
+url = 'https://cdn.modrinth.com/data/XdmLK51k/versions/w22MALZq/betterloot-zibura-neoforge-1.21.1-2.0.2-fix.jar'
 
 [update.modrinth]
 mod-id = 'XdmLK51k'
-version = 'MSCLJFBU'
+version = 'w22MALZq'
+
+[[x-prismlauncher-dependencies]]
+addonId = 'tagwiZkJ'
+type = 'REQUIRED'

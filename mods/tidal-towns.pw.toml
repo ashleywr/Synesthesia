@@ -1,18 +1,43 @@
-filename = 'tidal-towns-1.3.4.jar'
+filename = 'tidal-towns-2.0.jar'
 name = 'Tidal Towns'
-side = 'both'
+side = ''
 x-prismlauncher-dependencies = []
 x-prismlauncher-loaders = [ 'neoforge', 'forge', 'quilt', 'fabric' ]
-x-prismlauncher-mc-versions = [ '1.21', '1.21.1', '1.21.2', '1.21.3', '1.21.4', '1.21.5', '1.21.6', '1.21.7' ]
+x-prismlauncher-mc-versions = [
+    '1.20',
+    '1.20.1',
+    '1.20.2',
+    '1.20.3',
+    '1.20.4',
+    '1.20.5',
+    '1.20.6',
+    '1.21',
+    '1.21.1',
+    '1.21.2',
+    '1.21.3',
+    '1.21.4',
+    '1.21.5',
+    '1.21.6',
+    '1.21.7',
+    '1.21.8',
+    '1.21.9',
+    '1.21.10',
+    '1.21.11',
+    '26.1',
+    '26.1.1',
+    '26.1.2',
+    '26.2',
+    '26.3'
+]
 x-prismlauncher-release-type = 'release'
-x-prismlauncher-version-number = '1.3.4+mod'
+x-prismlauncher-version-number = '2.0+mod'
 
 [download]
-hash = 'f40954849ed782fe262505c859bfee749eab57a2963d10d5e0b95b5eb1b1835729a98e76e7995f6ecfeba60141448203d3e0f36b1ae9f69db75aceff7175b607'
+hash = '05381c776c16a535cb2500ad062b2acd4261a0069a84c654fe2257f08adf549db198b7fe9d9cc9cf8a375e32f48108d5e3bb5691f80c57be1384f9b3d368e013'
 hash-format = 'sha512'
 mode = 'url'
-url = 'https://cdn.modrinth.com/data/EEIwvQVo/versions/xWUN0cml/tidal-towns-1.3.4.jar'
+url = 'https://cdn.modrinth.com/data/EEIwvQVo/versions/ahvrY85Y/tidal-towns-2.0.jar'
 
 [update.modrinth]
 mod-id = 'EEIwvQVo'
-version = 'xWUN0cml'
+version = 'ahvrY85Y'

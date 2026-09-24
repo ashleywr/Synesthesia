@@ -1,26 +1,25 @@
 filename = 'Halcyon-v0.4.3+aria-of-the-moon.jar'
-name = 'Halcyon'
-side = ''
+name = 'Halcyon | Data & Essence'
+side = 'server'
 x-prismlauncher-loaders = [ 'neoforge' ]
 x-prismlauncher-mc-versions = [ '1.21.1' ]
-x-prismlauncher-release-type = 'alpha'
-x-prismlauncher-version-number = '0.4.3+aria-of-the-moon'
+x-prismlauncher-release-type = 'beta'
+x-prismlauncher-version-number = 'Halcyon-v0.4.3+aria-of-the-moon.jar'
 
 [download]
-hash = '68605f1e8ce6df6b801de72ff633a3847eba1f187493e7e4ecf0ad2de4b642bce9140ba208b52158174de431b5001a234065414e2a14cb4c9674bcf651407d2e'
-hash-format = 'sha512'
-mode = 'url'
-url = 'https://cdn.modrinth.com/data/p2r7HYfw/versions/hXhaHeCf/Halcyon-v0.4.3%2Baria-of-the-moon.jar'
+hash = '1c53b3b23ef5f7e3011b4d1355d486b286515b7c'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
 
-[update.modrinth]
-mod-id = 'p2r7HYfw'
-version = 'hXhaHeCf'
-
-[[x-prismlauncher-dependencies]]
-addonId = '2Ct0NAxj'
-type = 'REQUIRED'
-version = 'btze5IVe'
+[update.curseforge]
+file-id = 8707602
+project-id = 1189360
 
 [[x-prismlauncher-dependencies]]
-addonId = 'fRiHVvU7'
+addonId = '580555'
 type = 'OPTIONAL'
+
+[[x-prismlauncher-dependencies]]
+addonId = '1181408'
+type = 'REQUIRED'

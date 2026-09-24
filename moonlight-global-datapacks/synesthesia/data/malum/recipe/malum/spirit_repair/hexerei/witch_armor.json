@@ -25,7 +25,9 @@
       "count": 8
     }
   ],
-  "itemIdRegex": "witch_.+",
-  "modIdRegex": "hexerei",
-  "inputs": []
+  "validItems": [
+    "hexerei:witch_boots",
+    "hexerei:witch_chestplate",
+    "hexerei:witch_helmet"
+  ]
 }

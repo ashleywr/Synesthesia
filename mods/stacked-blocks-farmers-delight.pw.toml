@@ -1,0 +1,25 @@
+filename = 'stackedblocksfarmersdelight-25.02.13-1.21-neoforge.jar'
+name = "Stacked Blocks: Farmer's Delight"
+side = 'server'
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = "Stacked Blocks: Farmer's Delight 25.02.13 - 1.21.1"
+
+[download]
+hash = 'cab4e2cb787943ed83b4a8805c0052e8a573bcc9'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 6189988
+project-id = 1171176
+
+[[x-prismlauncher-dependencies]]
+addonId = '1144737'
+type = 'REQUIRED'
+
+[[x-prismlauncher-dependencies]]
+addonId = '398521'
+type = 'REQUIRED'

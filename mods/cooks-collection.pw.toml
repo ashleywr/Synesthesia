@@ -1,0 +1,21 @@
+filename = 'cookscollection-0.6.1.jar'
+name = "Cook's Collection"
+side = 'server'
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = 'Cooks Collection 1.21.1 - 0.6.1'
+
+[download]
+hash = '46a4ec47cdb021ee2ecf9fdb5f54f7a6b6dc15dd'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 8937656
+project-id = 1222140
+
+[[x-prismlauncher-dependencies]]
+addonId = '398521'
+type = 'REQUIRED'

@@ -1,0 +1,23 @@
+{
+  "neoforge:conditions": [
+    {
+      "type": "neoforge:mod_loaded",
+      "modid": "endermanoverhaul"
+    }
+  ],
+  "type": "neoforge:add_spawns",
+  "biomes": "#endermanoverhaul:nether_wastes_spawns",
+  "spawners": {
+    "type": "endermanoverhaul:nether_wastes_enderman",
+    "weight": 2,
+    "minCount": 2,
+    "maxCount": 4
+  },
+  "spawn_cost": {
+    "energy_budget": 0.7,
+    "charge": 0.12
+  },
+  "entity_types": [
+    "endermanoverhaul:nether_wastes_enderman"
+  ]
+}

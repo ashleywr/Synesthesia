@@ -1,0 +1,18 @@
+filename = 'lightspeed-1.21.1-1.2.3.jar'
+name = 'LightSpeedRe - Launch optimizations'
+side = ''
+x-prismlauncher-dependencies = []
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = 'lightspeed-1.21.1-1.2.3.jar'
+
+[download]
+hash = '1b8e908326e9777d0c9865834dc357a8354f367c'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 8669671
+project-id = 1388941

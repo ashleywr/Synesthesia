@@ -1,18 +1,6 @@
 {
   "structures": [
     {
-      "structure": "cataclysm:burning_arena",
-      "weight": 1
-    },
-    {
-      "structure": "cataclysm:ruined_citadel",
-      "weight": 1
-    },
-    {
-      "structure": "cataclysm:soul_black_smith",
-      "weight": 1
-    },
-    {
       "structure": "mtr:nether_temple",
       "weight": 1
     },

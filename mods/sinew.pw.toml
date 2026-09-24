@@ -1,0 +1,18 @@
+filename = 'Sinew-1.21.1-1.1.3.jar'
+name = 'Sinew'
+side = 'server'
+x-prismlauncher-dependencies = []
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = 'Sinew-1.21.1-1.1.3.jar'
+
+[download]
+hash = 'f7a625a16d4137fe59528a18aeac4bc38631ca9b'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 8852980
+project-id = 1686754

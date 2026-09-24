@@ -1,0 +1,25 @@
+filename = 'Wayfinder-NeoForge-1.2.0-mc1.21.1.jar'
+name = 'Wayfinder'
+side = 'server'
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = 'Wayfinder-NeoForge-1.2.0-mc1.21.1'
+
+[download]
+hash = '15951dccaa9b866c95c33e71701c6f6f483fb63c'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 8282425
+project-id = 1204282
+
+[[x-prismlauncher-dependencies]]
+addonId = '388172'
+type = 'REQUIRED'
+
+[[x-prismlauncher-dependencies]]
+addonId = '1070751'
+type = 'OPTIONAL'

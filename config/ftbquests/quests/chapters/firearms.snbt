@@ -1,0 +1,221 @@
+{
+	default_hide_dependency_lines: false
+	default_min_width: 300
+	default_quest_shape: ""
+	filename: "firearms"
+	group: ""
+	icon: {
+		id: "cgs:flintlock"
+	}
+	id: "01DA3803DBA7D386"
+	images: [ ]
+	order_index: 6
+	quest_links: [ ]
+	quests: [
+		{
+			icon: {
+				id: "cgs:flintlock"
+			}
+			id: "43A09EB47D4136BD"
+			shape: "square"
+			size: 1.5d
+			tasks: [{
+				id: "1F1C708A004EF5D7"
+				type: "checkmark"
+			}]
+			x: 0.0d
+			y: 0.0d
+		}
+		{
+			id: "453E72BED73B2306"
+			rewards: [{
+				id: "00CFE70E239BE7E1"
+				type: "xp"
+				xp: 50
+			}]
+			tasks: [{
+				id: "1727B345867695CC"
+				item: { count: 1, id: "cgs:steel_ingot" }
+				type: "item"
+			}]
+			x: -3.0d
+			y: 2.0d
+		}
+		{
+			id: "4226D679E7E1F179"
+			tasks: [{
+				id: "4479E7B5911840E1"
+				item: { count: 1, id: "cgs:sulfur" }
+				type: "item"
+			}]
+			x: -4.5d
+			y: 4.0d
+		}
+		{
+			id: "606A1AE145F7FC57"
+			tasks: [
+				{
+					id: "1E59475A4A71D559"
+					item: { count: 1, id: "cgs:long_barrel" }
+					type: "item"
+				}
+				{
+					id: "0C33004834D1FBC5"
+					item: { count: 1, id: "cgs:stock" }
+					type: "item"
+				}
+			]
+			x: -3.0d
+			y: 4.0d
+		}
+		{
+			id: "438C7157F9BA4016"
+			rewards: [{
+				id: "6B3B6369AB601625"
+				type: "xp"
+				xp: 100
+			}]
+			tasks: [{
+				id: "6F3408BB90E5C07B"
+				item: { count: 1, id: "cgs:flintlock" }
+				type: "item"
+			}]
+			x: -3.0d
+			y: 6.0d
+		}
+		{
+			dependencies: ["438C7157F9BA4016"]
+			id: "0889F34FFA09626E"
+			tasks: [{
+				id: "5E10DD575DD34819"
+				item: { count: 1, id: "cgs:revolver" }
+				type: "item"
+			}]
+			x: -4.5d
+			y: 8.0d
+		}
+		{
+			dependencies: ["438C7157F9BA4016"]
+			id: "7547321E353E73A6"
+			tasks: [{
+				id: "23A82838372148AC"
+				item: { count: 1, id: "cgs:shotgun" }
+				type: "item"
+			}]
+			x: -3.0d
+			y: 8.0d
+		}
+		{
+			dependencies: [
+				"0889F34FFA09626E"
+				"7547321E353E73A6"
+			]
+			id: "45AE2BBE1BDFDFD6"
+			rewards: [{
+				id: "2372AE08EE0B68C7"
+				type: "xp"
+				xp: 200
+			}]
+			tasks: [{
+				id: "1A7B31988EED04A9"
+				item: { count: 1, id: "cgs:gatling" }
+				type: "item"
+			}]
+			x: -3.8d
+			y: 10.0d
+		}
+		{
+			dependencies: ["45AE2BBE1BDFDFD6"]
+			id: "71CD78BDDB007E9E"
+			optional: true
+			tasks: [{
+				id: "78310C5D0044EFFD"
+				item: { count: 1, id: "cgs:ballistazooka" }
+				type: "item"
+			}]
+			x: -3.8d
+			y: 12.0d
+		}
+		{
+			id: "54D58261E51BD602"
+			rewards: [{
+				id: "7FC7CAE17EEE12E3"
+				type: "xp"
+				xp: 50
+			}]
+			tasks: [{
+				id: "735D67E6011E75A8"
+				item: { count: 1, id: "scguns:gun_bench" }
+				type: "item"
+			}]
+			x: 3.0d
+			y: 2.0d
+		}
+		{
+			id: "3C4673B7AA568876"
+			tasks: [
+				{
+					id: "6BAEEE6179B51C93"
+					item: { count: 1, id: "scguns:gun_parts_mold" }
+					type: "item"
+				}
+				{
+					id: "0940E0FD453C8E22"
+					item: { count: 1, id: "scguns:gun_parts" }
+					type: "item"
+				}
+			]
+			x: 3.0d
+			y: 4.0d
+		}
+		{
+			id: "054511457962F65B"
+			rewards: [{
+				id: "33A77466902AA641"
+				type: "xp"
+				xp: 100
+			}]
+			tasks: [{
+				id: "01ADEB7958127E10"
+				item: { count: 1, id: "scguns:makeshift_rifle" }
+				type: "item"
+			}]
+			x: 3.0d
+			y: 6.0d
+		}
+		{
+			id: "32E7B61A5C1E677E"
+			tasks: [{
+				id: "1530F6DE77C0638A"
+				item: { count: 1, id: "scguns:mk43_rifle" }
+				type: "item"
+			}]
+			x: 3.0d
+			y: 8.0d
+		}
+		{
+			dependencies: ["32E7B61A5C1E677E"]
+			id: "73E6370A95BD2ABE"
+			optional: true
+			tasks: [{
+				id: "23B0291084D74240"
+				item: { count: 1, id: "scguns:gauss_rifle" }
+				type: "item"
+			}]
+			x: 4.5d
+			y: 10.0d
+		}
+		{
+			dependencies: ["32E7B61A5C1E677E"]
+			id: "77630C0076B6D5B6"
+			optional: true
+			tasks: [{
+				id: "75B11BCCFC127472"
+				item: { count: 1, id: "scguns:shotgun_turret" }
+				type: "item"
+			}]
+			x: 3.0d
+			y: 10.0d
+		}
+	]
+}

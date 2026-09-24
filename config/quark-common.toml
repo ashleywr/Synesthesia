@@ -802,6 +802,8 @@
 		#This is done to prevent content overlap.
 		#You can turn this on to force the feature to be loaded even if the above mods are also loaded.
 		"Ignore Anti Overlap" = false
+		#If true, the oak log in the vanilla azalea tree ConfiguredFeature will be replaced with Quark's azalea log. Disabling this makes Azalea unobtainable
+		"Replace Azalea Tree Log" = true
 
 	[world.big_stone_clusters]
 		#Blocks that stone clusters can replace. If you want to make it so it only replaces in one dimension,
@@ -1345,13 +1347,13 @@
 				"Is Blacklist" = false
 
 [mobs]
-	Crabs = true
-	Forgotten = true
-	Foxhound = true
-	Shiba = true
+	Crabs = false
+	Forgotten = false
+	Foxhound = false
+	Shiba = false
 	Stonelings = false
 	Toretoise = false
-	Wraith = true
+	Wraith = false
 
 	[mobs.crabs]
 		"Enable Brewing" = true
@@ -1380,8 +1382,8 @@
 
 	[mobs.forgotten]
 		#This is the probability of a Skeleton that spawns under the height threshold being replaced with a Forgotten.
-		"Forgotten Spawn Rate" = 0.05
-		"Max Height For Spawn" = 0
+		"Forgotten Spawn Rate" = 0.0
+		"Max Height For Spawn" = 20
 
 	[mobs.foxhound]
 		#The chance coal will tame a foxhound
@@ -1715,7 +1717,7 @@
 		"Village Spawn Nerf" = false
 		#Distance at which villages will spawn as normal. Effect scales linearly from world spawn
 		"Village Spawn Nerf Distance" = 7000
-		"Non Griefing Entities" = ["minecraft:creeper", "minecraft:enderman"]
+		"Non Griefing Entities" = ["minecraft:enderman"]
 		"Elytra Allowed Dimensions" = ["minecraft:the_end"]
 
 	[experimental.overlay_shader]
@@ -2009,3 +2011,5 @@
 		"Destroy Lost Items" = false
 		#Set this to false to only allow the owner of a totem to collect its items rather than any player
 		"Allow Anyone To Collect" = true
+		#Set this to true to make the totem drop everything when punched once
+		"Drop All Items On Hit" = false

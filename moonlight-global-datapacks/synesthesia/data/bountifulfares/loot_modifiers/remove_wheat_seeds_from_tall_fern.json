@@ -1,6 +1,0 @@
-{
-  "type": "bountifulfares:replace_item",
-  "conditions": [ { "condition": "minecraft:random_chance", "chance": 0.0 } ],
-  "removed_item": "minecraft:wheat_seeds",
-  "added_item": "bountifulfares:grass_seeds"
-}

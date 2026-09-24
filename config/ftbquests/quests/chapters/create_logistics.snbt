@@ -1,0 +1,167 @@
+{
+	default_hide_dependency_lines: false
+	default_min_width: 300
+	default_quest_shape: ""
+	filename: "create_logistics"
+	group: ""
+	icon: {
+		id: "create:stock_link"
+	}
+	id: "5797BD35B5846705"
+	images: [ ]
+	order_index: 13
+	quest_links: [ ]
+	quests: [
+		{
+			id: "07EFB6B3E13E5D76"
+			shape: "square"
+			size: 1.5d
+			tasks: [
+				{
+					id: "77BD89CCC814CE9B"
+					item: { count: 1, id: "create:depot" }
+					type: "item"
+				}
+				{
+					id: "28E09113A26A045C"
+					item: { count: 1, id: "create:chute" }
+					type: "item"
+				}
+			]
+			x: 0.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["07EFB6B3E13E5D76"]
+			id: "6D298F572878DC81"
+			rewards: [{
+				id: "07B2EEDBF74540B8"
+				type: "xp"
+				xp: 25
+			}]
+			tasks: [
+				{
+					id: "76F805AF9BC043C0"
+					item: { count: 1, id: "create:andesite_funnel" }
+					type: "item"
+				}
+				{
+					id: "157D871BB7EAB22C"
+					item: { count: 1, id: "create:andesite_tunnel" }
+					type: "item"
+				}
+			]
+			x: -2.0d
+			y: 2.0d
+		}
+		{
+			id: "5141821161D90CC9"
+			tasks: [
+				{
+					id: "1B70BD03218B24FA"
+					item: { count: 1, id: "create:brass_funnel" }
+					type: "item"
+				}
+				{
+					id: "1EBFE4633B56294D"
+					item: { count: 1, id: "create:brass_tunnel" }
+					type: "item"
+				}
+				{
+					id: "3FEB782784B00D31"
+					item: { count: 1, id: "create:smart_chute" }
+					type: "item"
+				}
+			]
+			x: -2.0d
+			y: 4.0d
+		}
+		{
+			dependencies: ["07EFB6B3E13E5D76"]
+			id: "5B800B473EFEDAC0"
+			rewards: [{
+				id: "0BE29FFC23475ED4"
+				type: "xp"
+				xp: 50
+			}]
+			tasks: [{
+				id: "576934FDC5FF9FD6"
+				item: { count: 1, id: "create:item_vault" }
+				type: "item"
+			}]
+			x: 2.0d
+			y: 2.0d
+		}
+		{
+			id: "5A5D19E1C44281F2"
+			rewards: [{
+				id: "4F0FD5819AFD2B6B"
+				type: "xp"
+				xp: 150
+			}]
+			shape: "diamond"
+			tasks: [{
+				id: "6D4996C52171F666"
+				item: { count: 1, id: "create:packager" }
+				type: "item"
+			}]
+			x: 0.0d
+			y: 6.0d
+		}
+		{
+			id: "6C65C85C7CBCD495"
+			rewards: [{
+				id: "70B1CA556CCB1025"
+				type: "xp"
+				xp: 200
+			}]
+			tasks: [
+				{
+					id: "5423AC1AA3683CF0"
+					item: { count: 1, id: "create:stock_link" }
+					type: "item"
+				}
+				{
+					id: "6EEFC7FECDB396EA"
+					item: { count: 1, id: "create:stock_ticker" }
+					type: "item"
+				}
+			]
+			x: 0.0d
+			y: 8.0d
+		}
+		{
+			id: "5D300243EDA18381"
+			tasks: [{
+				id: "3E2EA25243FFB49A"
+				item: { count: 1, id: "create:redstone_requester" }
+				type: "item"
+			}]
+			x: -2.0d
+			y: 10.0d
+		}
+		{
+			id: "12E63FAA79729AD0"
+			optional: true
+			tasks: [{
+				id: "36A6FA0BFBBA680F"
+				item: { count: 1, id: "create:factory_gauge" }
+				type: "item"
+			}]
+			x: 2.0d
+			y: 10.0d
+		}
+		{
+			dependencies: ["5D300243EDA18381"]
+			id: "74CF918A7B37F4A3"
+			optional: true
+			tasks: [{
+				id: "0212FA1C8BA329FB"
+				item: { count: 1, id: "create:repackager" }
+				type: "item"
+			}]
+			x: 0.0d
+			y: 12.0d
+		}
+	]
+}

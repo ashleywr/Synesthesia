@@ -1,6 +1,5 @@
 {
   "values": [
-    { "id": "bountifulfares:tea_leaves", "required": false },
     { "id": "youkaishomecoming:tea_leaves", "required": false }
   ]
 }

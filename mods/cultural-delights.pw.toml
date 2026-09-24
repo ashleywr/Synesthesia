@@ -1,0 +1,41 @@
+filename = 'culturaldelights-1.21.1-0.18.1.jar'
+name = 'Cultural Delights'
+side = 'server'
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = 'Cultural Delights 1.21.1 - 0.18.1'
+
+[download]
+hash = '0be069977520f620e9ff771399430e79b51c3640'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 8876969
+project-id = 574622
+
+[[x-prismlauncher-dependencies]]
+addonId = '238222'
+type = 'OPTIONAL'
+
+[[x-prismlauncher-dependencies]]
+addonId = '412082'
+type = 'OPTIONAL'
+
+[[x-prismlauncher-dependencies]]
+addonId = '248787'
+type = 'OPTIONAL'
+
+[[x-prismlauncher-dependencies]]
+addonId = '580555'
+type = 'OPTIONAL'
+
+[[x-prismlauncher-dependencies]]
+addonId = '398521'
+type = 'REQUIRED'
+
+[[x-prismlauncher-dependencies]]
+addonId = '1222140'
+type = 'REQUIRED'

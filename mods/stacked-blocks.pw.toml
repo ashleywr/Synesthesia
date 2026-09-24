@@ -1,0 +1,18 @@
+filename = 'stackedblocks-25.02.13-1.21-neoforge.jar'
+name = 'Stacked Blocks'
+side = 'server'
+x-prismlauncher-dependencies = []
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21', '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = 'Stacked Blocks 25.02.13 - 1.21+'
+
+[download]
+hash = 'd2da18787a298578dd16d2ddfef5c746080878c3'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 6189798
+project-id = 1144737

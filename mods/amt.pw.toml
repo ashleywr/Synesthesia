@@ -1,0 +1,37 @@
+filename = 'alex-mobs-tweaks-omni-1.3.1.jar'
+name = "Alex's Mobs: Tweaks [Performance Optimization]"
+side = ''
+x-prismlauncher-loaders = [ 'neoforge', 'forge', 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.20.1', '1.21.1', '1.21.11', '26.1', '26.1.1', '26.1.2', '26.2' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = 'alex-mobs-tweaks-omni-1.3.1.jar'
+
+[download]
+hash = 'd4b928affc7f1efb0d2f30a9390c0e434bdacf61'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 8824370
+project-id = 1611566
+
+[[x-prismlauncher-dependencies]]
+addonId = '1472153'
+type = 'OPTIONAL'
+
+[[x-prismlauncher-dependencies]]
+addonId = '1635121'
+type = 'OPTIONAL'
+
+[[x-prismlauncher-dependencies]]
+addonId = '1397967'
+type = 'OPTIONAL'
+
+[[x-prismlauncher-dependencies]]
+addonId = '1512535'
+type = 'OPTIONAL'
+
+[[x-prismlauncher-dependencies]]
+addonId = '426558'
+type = 'OPTIONAL'

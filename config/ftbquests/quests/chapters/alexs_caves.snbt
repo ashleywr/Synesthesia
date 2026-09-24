@@ -1,0 +1,184 @@
+{
+	default_hide_dependency_lines: false
+	default_min_width: 300
+	default_quest_shape: ""
+	filename: "alexs_caves"
+	group: ""
+	icon: {
+		id: "alexscaves:cave_book"
+	}
+	id: "76451DA125E21264"
+	images: [ ]
+	order_index: 3
+	quest_links: [ ]
+	quests: [
+		{
+			id: "48175A1C4C969FBA"
+			rewards: [{
+				id: "69B64C8DF5DC3692"
+				type: "xp"
+				xp: 50
+			}]
+			shape: "square"
+			size: 1.5d
+			tasks: [{
+				id: "22FADADD53C4ADAC"
+				item: { count: 1, id: "alexscaves:cave_book" }
+				type: "item"
+			}]
+			x: 0.0d
+			y: 0.0d
+		}
+		{
+			icon: {
+				id: "minecraft:filled_map"
+			}
+			id: "0335DCAADB6DC9D5"
+			rewards: [{
+				id: "6BCD1F6AA96DD587"
+				type: "xp"
+				xp: 100
+			}]
+			tasks: [{
+				id: "5346DFE4BC199E50"
+				structure: "alexscaves:underground_cabin"
+				type: "structure"
+			}]
+			x: 0.0d
+			y: 2.0d
+		}
+		{
+			id: "23F8BEDE9E366672"
+			rewards: [{
+				id: "53C709C76D644BEF"
+				type: "xp"
+				xp: 100
+			}]
+			tasks: [{
+				id: "242DD37F00BBAA34"
+				item: { count: 1, id: "alexscaves:cave_tablet" }
+				type: "item"
+			}]
+			x: 0.0d
+			y: 4.0d
+		}
+		{
+			id: "229573225EFA86AF"
+			rewards: [{
+				id: "02074AD2BAE5D45C"
+				type: "xp"
+				xp: 150
+			}]
+			shape: "diamond"
+			tasks: [{
+				id: "2D6A0D2D9782B33D"
+				item: { count: 1, id: "alexscaves:cave_map" }
+				type: "item"
+			}]
+			x: 0.0d
+			y: 6.0d
+		}
+		{
+			id: "5BE94363CAC419AB"
+			tasks: [
+				{
+					id: "3399EAD773ABE3AD"
+					item: { count: 1, id: "alexscaves:abyssmarine" }
+					type: "item"
+				}
+				{
+					biome: "alexscaves:abyssal_chasm"
+					id: "5DC352819FEB3AF8"
+					type: "biome"
+				}
+			]
+			x: -4.5d
+			y: 8.0d
+		}
+		{
+			id: "6E073D76075992F6"
+			tasks: [
+				{
+					id: "4303E09A4559AF18"
+					item: { count: 1, id: "alexscaves:amber" }
+					type: "item"
+				}
+				{
+					biome: "alexscaves:primordial_caves"
+					id: "5D488125FC42BD55"
+					type: "biome"
+				}
+			]
+			x: -2.7d
+			y: 8.0d
+		}
+		{
+			id: "1D5256B18F8771EF"
+			tasks: [
+				{
+					id: "2F2B8B3C8D41E1E8"
+					item: { count: 1, id: "alexscaves:uranium" }
+					type: "item"
+				}
+				{
+					biome: "alexscaves:toxic_caves"
+					id: "0FFD027355AD9B18"
+					type: "biome"
+				}
+			]
+			x: -0.9d
+			y: 8.0d
+		}
+		{
+			id: "5B7C2270D3305E61"
+			tasks: [
+				{
+					id: "44AC3DC0B49DF237"
+					item: { count: 1, id: "alexscaves:galena" }
+					type: "item"
+				}
+				{
+					biome: "alexscaves:magnetic_caves"
+					id: "3AA1D715D4D367A1"
+					type: "biome"
+				}
+			]
+			x: 0.9d
+			y: 8.0d
+		}
+		{
+			id: "5D930417B86C892A"
+			tasks: [
+				{
+					id: "61B4F5DB318FEBCE"
+					item: { count: 1, id: "alexscaves:forsaken_idol" }
+					type: "item"
+				}
+				{
+					biome: "alexscaves:forlorn_hollows"
+					id: "64A19D3B86B30F95"
+					type: "biome"
+				}
+			]
+			x: 2.7d
+			y: 8.0d
+		}
+		{
+			id: "5B2CAD7110DA27AD"
+			tasks: [
+				{
+					id: "339A6CC6CE54636B"
+					item: { count: 1, id: "alexscaves:candy_cane" }
+					type: "item"
+				}
+				{
+					biome: "alexscaves:candy_cavity"
+					id: "03703A8D0210AD98"
+					type: "biome"
+				}
+			]
+			x: 4.5d
+			y: 8.0d
+		}
+	]
+}

@@ -5,7 +5,7 @@ NeoForge 1.21.1 modpack, managed with [packwiz](https://packwiz.infra.link/).
 ## Versions
 
 - Minecraft 1.21.1
-- NeoForge 21.1.248
+- NeoForge 21.1.249
 
 ## Install
 
@@ -16,6 +16,7 @@ Use packwiz-installer or packwiz-installer-bootstrap with:
 ## Contents
 
 - `mods/` - packwiz mod metadata
+- `config/` - pack-specific runtime configuration, including the narrow Adaptive Performance Tweaks spawn-pressure profile
 - `disabled-mods.md` - local disabled-jar inventory; Packwiz tracks only the enabled install set
 - `kubejs/` - startup, server, and client scripts
 - `defaultconfigs/` - config applied to config/ on first launch, if not already present

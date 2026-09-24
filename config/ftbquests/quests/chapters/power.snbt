@@ -5,7 +5,7 @@
 	group: ""
 	id: "07138E247BCC75D0"
 	images: [ ]
-	order_index: 1
+	order_index: 2
 	quest_links: [ ]
 	quests: [
 		{
@@ -30,7 +30,7 @@
 			id: "79A13EF87CBAB761"
 			tasks: [{
 				id: "132A7FEAA36094EB"
-				item: { count: 1, id: "createdieselgenerators:crude_oil_bucket" }
+				item: { components: { "ftbquests:missing_item": "createdieselgenerators:crude_oil_bucket" }, count: 1, id: "ftbquests:missing_item" }
 				type: "item"
 			}]
 			x: 1.5d
@@ -40,7 +40,7 @@
 			id: "1BFD69E35416360E"
 			tasks: [{
 				id: "04C635F60227DA0B"
-				item: { count: 1, id: "createdieselgenerators:diesel_bucket" }
+				item: { components: { "ftbquests:missing_item": "createdieselgenerators:diesel_bucket" }, count: 1, id: "ftbquests:missing_item" }
 				type: "item"
 			}]
 			x: 1.5d
@@ -51,7 +51,7 @@
 			id: "40A5198F067648E6"
 			tasks: [{
 				id: "31000D1C302A6444"
-				item: { count: 1, id: "createdieselgenerators:diesel_engine" }
+				item: { components: { "ftbquests:missing_item": "createdieselgenerators:diesel_engine" }, count: 1, id: "ftbquests:missing_item" }
 				type: "item"
 			}]
 			x: 1.5d
@@ -70,8 +70,11 @@
 				{
 					id: "1E376188EE3F1982"
 					item: {
+						components: {
+							"ftbquests:missing_item": "productivebees:incubator"
+						}
 						count: 1
-						id: "productivebees:incubator"
+						id: "ftbquests:missing_item"
 					}
 					type: "item"
 				}

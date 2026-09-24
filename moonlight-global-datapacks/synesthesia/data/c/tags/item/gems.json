@@ -1,0 +1,26 @@
+{
+  "replace": true,
+  "values": [
+    "antarchy:tigers_eye",
+    "#c:gems/spinel",
+    "#c:gems/turquoise",
+    "#c:gems/zirconia",
+    "eternal_starlight:red_starlight_crystal_shard",
+    "eternal_starlight:blue_starlight_crystal_shard",
+    "#c:gems/thioquartz",
+    "#c:gems/glacite",
+    "#c:gems/starlit_diamond",
+    "#c:gems/malarite",
+    "#c:gems/starcore",
+    "#c:gems/arcane_crystal",
+    "#c:gems/corrupted_arcane_crystal",
+    "halcyon:lensing_crystal",
+    "malum:refined_soulstone",
+    "malum:blazing_quartz",
+    "malum:natural_quartz",
+    "malum:raw_brilliance",
+    "#regions_unexplored:prismarite_crystals",
+    "solarpunk:salt",
+    "#spectrum:gemstone_shards"
+  ]
+}

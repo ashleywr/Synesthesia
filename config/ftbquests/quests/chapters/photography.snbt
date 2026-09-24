@@ -1,0 +1,166 @@
+{
+	default_hide_dependency_lines: false
+	default_min_width: 300
+	default_quest_shape: ""
+	filename: "photography"
+	group: ""
+	icon: {
+		id: "exposure:camera"
+	}
+	id: "4CE7DD8E8BF153DF"
+	images: [ ]
+	order_index: 8
+	quest_links: [ ]
+	quests: [
+		{
+			id: "5D23B195AA86CB0F"
+			rewards: [{
+				id: "1EB56BD229BCD60B"
+				type: "xp"
+				xp: 50
+			}]
+			shape: "square"
+			size: 1.5d
+			tasks: [{
+				id: "7CC4C1C23C61F7BE"
+				item: { count: 1, id: "exposure:camera" }
+				type: "item"
+			}]
+			x: 0.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["5D23B195AA86CB0F"]
+			id: "2CAD9772E9160F3C"
+			rewards: [{
+				id: "2FFD2497D0E9E857"
+				type: "xp"
+				xp: 50
+			}]
+			tasks: [
+				{
+					id: "2996E976BEF07E02"
+					item: { count: 1, id: "exposure:black_and_white_film" }
+					type: "item"
+				}
+				{
+					id: "226176DEDF5613CF"
+					item: { count: 1, id: "exposure:color_film" }
+					type: "item"
+				}
+			]
+			x: 0.0d
+			y: 2.0d
+		}
+		{
+			id: "201C69825DE3A27F"
+			rewards: [{
+				id: "1B9A5824046548A0"
+				type: "xp"
+				xp: 100
+			}]
+			tasks: [{
+				id: "58AA12544664FB1C"
+				item: { count: 1, id: "exposure:lightroom" }
+				type: "item"
+			}]
+			x: 0.0d
+			y: 4.0d
+		}
+		{
+			id: "47FB3EEEB24F74BC"
+			rewards: [{
+				id: "0E75B5952E989170"
+				type: "xp"
+				xp: 150
+			}]
+			shape: "diamond"
+			tasks: [{
+				id: "36A261A475A1F709"
+				item: { count: 1, id: "exposure:photograph" }
+				type: "item"
+			}]
+			x: 0.0d
+			y: 6.0d
+		}
+		{
+			id: "52664CF7D1FB266E"
+			optional: true
+			tasks: [{
+				id: "6C81C1A5A9E3F9C1"
+				item: { count: 1, id: "exposure:camera_stand" }
+				type: "item"
+			}]
+			x: -3.0d
+			y: 8.0d
+		}
+		{
+			id: "10C991CE95BDB4E8"
+			tasks: [{
+				id: "7992EA4E9733BE4E"
+				item: { count: 1, id: "exposure:album" }
+				type: "item"
+			}]
+			x: -1.0d
+			y: 8.0d
+		}
+		{
+			id: "2902FD1877776CB0"
+			optional: true
+			tasks: [
+				{
+					id: "57B98AEDA3544BCE"
+					item: { count: 1, id: "exposure:photograph_frame" }
+					type: "item"
+				}
+				{
+					id: "0628FAED3CE06A6F"
+					item: { count: 1, id: "exposure:glass_photograph_frame" }
+					type: "item"
+				}
+			]
+			x: 1.0d
+			y: 8.0d
+		}
+		{
+			id: "6F88376BBB6F4D0E"
+			optional: true
+			tasks: [{
+				id: "07A613FFEA10175B"
+				item: { count: 1, id: "exposure_polaroid:instant_camera" }
+				type: "item"
+			}]
+			x: 3.0d
+			y: 8.0d
+		}
+		{
+			dependencies: ["10C991CE95BDB4E8"]
+			id: "5FFA49EC93311099"
+			optional: true
+			tasks: [{
+				id: "4E7DBF5482B52F39"
+				item: { count: 1, id: "exposure_expanded:art_filter" }
+				type: "item"
+			}]
+			x: 0.0d
+			y: 10.0d
+		}
+		{
+			dependencies: ["5FFA49EC93311099"]
+			id: "0C842852C20DB667"
+			optional: true
+			rewards: [{
+				id: "5459CA590385D708"
+				type: "xp"
+				xp: 200
+			}]
+			tasks: [{
+				id: "040452811B4D62B4"
+				item: { count: 1, id: "exposure:interplanar_projector" }
+				type: "item"
+			}]
+			x: 0.0d
+			y: 12.0d
+		}
+	]
+}

@@ -1,6 +1,26 @@
 {
   "pack": {
-    "description": "Synesthesia pack fixes and tweaks: worldgen deadlock fixes (regions_unexplored/bountifulfares, caverns_and_chasms rat spawns), waystones village compat, biome/structure tag compat across ~44 mods, buddycards loot integration, accessories slot tweaks, recovery command",
+    "description": "Synesthesia pack fixes and tweaks: worldgen deadlock fixes (regions_unexplored, caverns_and_chasms rat spawns), waystones village compat, biome/structure tag compat across ~44 mods, buddycards loot integration, accessories slot tweaks, recovery command",
     "pack_format": 48
+  },
+  "filter": {
+    "block": [
+      {
+        "namespace": "copycats",
+        "path": "physics_block_properties/copycat_catwalk\\.json"
+      },
+      {
+        "namespace": "spectrum",
+        "path": "recipe/mod_integration/gobber/anvil_crushing/globette_nether_from_buds\\.json"
+      },
+      {
+        "namespace": "amendments",
+        "path": "blueprint/structure_repaletters/(cauldron_to_potion_cauldron|water_cauldron_to_dye_cauldron|water_cauldron_to_potion_cauldron)\\.json"
+      },
+      {
+        "namespace": "kaleidoscope_cookery",
+        "path": "recipe/stockpot/donkey_soup\\.json"
+      }
+    ]
   }
 }

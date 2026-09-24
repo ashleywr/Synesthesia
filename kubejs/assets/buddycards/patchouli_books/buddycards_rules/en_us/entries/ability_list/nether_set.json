@@ -1,0 +1,233 @@
+{
+  "name": "nether Set Abilities",
+  "icon": "buddycards:buddycard_nether1",
+  "category": "buddycards:ability_list",
+  "sortnum": 1,
+  "pages": [
+    {
+      "type": "spotlight",
+      "item": "buddycards:buddycard_nether1",
+      "title": "Btick Toss",
+      "text": "A play ability that causes a direct attack for 2 damage. This does not cause the opponent to fight back, but will cause any fight or damaged triggers.",
+      "link_recipe": true
+    },
+    {
+      "type": "spotlight",
+      "item": "buddycards:buddycard_nether2",
+      "title": "Tough Stuff",
+      "text": "A turn ability that sets Obby's power to 3 if it is less than 3.",
+      "link_recipe": true
+    },
+    {
+      "type": "spotlight",
+      "item": "buddycards:buddycard_nether3",
+      "title": "Radiant Glow",
+      "text": "A turn ability that causes the power of buddies of the monster grouping to decrease by 1.",
+      "link_recipe": true
+    },
+    {
+      "type": "spotlight",
+      "item": "buddycards:buddycard_nether4",
+      "title": "Bounce Back",
+      "text": "A death ability that causes Slinky to return to your hand if there is space.",
+      "link_recipe": true
+    },
+    {
+      "type": "spotlight",
+      "item": "buddycards:buddycard_nether5",
+      "title": "Hearty Bacon",
+      "text": "A death ability that causes you to gain 2 life and gives your other buddies the strength status effect.",
+      "link_recipe": true
+    },
+    {
+      "type": "spotlight",
+      "item": "buddycards:buddycard_nether6",
+      "title": "Soul Steal",
+      "text": "A kill ability that causes you to gain 1 life.",
+      "link_recipe": true
+    },
+    {
+      "type": "spotlight",
+      "item": "buddycards:buddycard_nether7",
+      "title": "Igneous Extrusion",
+      "text": "A fight ability that increases Baisal's power by 2 while Baisal is on fire.",
+      "link_recipe": true
+    },
+    {
+      "type": "spotlight",
+      "item": "buddycards:buddycard_nether8",
+      "title": "Warped Growth",
+      "text": "A fight ability that increases Vinnie's power by 1 if you have another buddy in the fungal grouping in play.",
+      "link_recipe": true
+    },
+    {
+      "type": "spotlight",
+      "item": "buddycards:buddycard_nether9",
+      "title": "Warping Spores",
+      "text": "A death ability that gives an opposing buddy a sleep ability if there is an opposing buddy. Only triggers if there is an opposing buddy.",
+      "link_recipe": true
+    },
+    {
+      "type": "spotlight",
+      "item": "buddycards:buddycard_nether10",
+      "title": "Spreading Spores",
+      "text": "A play ability that draws you a card if you have another buddy in the fungal grouping in play.",
+      "link_recipe": true
+    },
+    {
+      "type": "spotlight",
+      "item": "buddycards:buddycard_nether11",
+      "title": "Spicy Flames",
+      "text": "A damaged ability gives any buddy that deals direct damage to Fyo the fire status effect.",
+      "link_recipe": true
+    },
+    {
+      "type": "spotlight",
+      "item": "buddycards:buddycard_nether12",
+      "title": "Meltdown",
+      "text": "A play ability that gives all buddies that are not in the fire grouping the fire status effect.",
+      "link_recipe": true
+    },
+    {
+      "type": "spotlight",
+      "item": "buddycards:buddycard_nether13",
+      "title": "Withering Strike",
+      "text": "A fight ability that gives any opposing buddies the withered status effect.",
+      "link_recipe": true
+    },
+    {
+      "type": "spotlight",
+      "item": "buddycards:buddycard_nether14",
+      "title": "Flaming Shot",
+      "text": "A 1 power activated ability that gives an opposing buddy a fire status effect and deals 1 damage to it. This damage is indirect and does not cause attack or damage triggers. Can only be activated when opposing a buddy.",
+      "link_recipe": true
+    },
+    {
+      "type": "spotlight",
+      "item": "buddycards:buddycard_nether15",
+      "title": "Subtraction",
+      "text": "A powered ability that deals 1 damage to an opposing buddy. This damage is indirect and does not cause attack or damage triggers. Will not happen if an opposing buddy is not found.",
+      "link_recipe": true
+    },
+    {
+      "type": "spotlight",
+      "item": "buddycards:buddycard_nether16",
+      "title": "Fire Resistance",
+      "text": "A death ability that goes through all of your other buddies with the fire status effect and gains them 2 power and clears them of their status effects.",
+      "link_recipe": true
+    },
+    {
+      "type": "spotlight",
+      "item": "buddycards:buddycard_nether17",
+      "title": "Tough Tears",
+      "text": "A damaged ability that causes Crybaby to gain 1 power. Not all power loss or attacks trigger it, but combat damage does.",
+      "link_recipe": true
+    },
+    {
+      "type": "spotlight",
+      "item": "buddycards:buddycard_nether18",
+      "title": "Spirit Flames",
+      "text": "A damaged ability gives any buddy that deals direct damage to Fya the fire status effect and causes them to lose 1 power.",
+      "link_recipe": true
+    },
+    {
+      "type": "spotlight",
+      "item": "buddycards:buddycard_nether19",
+      "title": "Soul Light",
+      "text": "A played ability that causes all enemy buddies in the monster grouping to lose 1 power.",
+      "link_recipe": true
+    },
+    {
+      "type": "spotlight",
+      "item": "buddycards:buddycard_nether20",
+      "title": "Fire Spitball",
+      "text": "A 2 power activated ability that gives an opposing buddy a fire status effect and deals 2 damage to it. This damage is indirect and does not cause attack or damage triggers. Can only be activated when opposing a buddy.",
+      "link_recipe": true
+    },
+    {
+      "type": "spotlight",
+      "item": "buddycards:buddycard_nether21",
+      "title": "Magmawalk",
+      "text": "A fight ability that will cancel the fight if you have a buddy from the fire grouping, instead dealing damage equal damage to its power to the opponent.",
+      "link_recipe": true
+    },
+    {
+      "type": "spotlight",
+      "item": "buddycards:buddycard_nether22",
+      "title": "Furious Cocktail",
+      "text": "A play ability that applies a random status effect to each of your buddies. Each of your buddies will either get strength, regeneration, or resistance.",
+      "link_recipe": true
+    },
+    {
+      "type": "spotlight",
+      "item": "buddycards:buddycard_nether22",
+      "title": "Splashy Potion",
+      "text": "A 5 energy activation ability that applies a random status effect to each of your opponent's buddies. Each of them will either get poison, weakness, or wither."
+    },
+    {
+      "type": "spotlight",
+      "item": "buddycards:buddycard_nether23",
+      "title": "Hellish Welcome",
+      "text": "A play ability that gives each of your buddycards from the nether set 1 power, including Port.",
+      "link_recipe": true
+    },
+    {
+      "type": "spotlight",
+      "item": "buddycards:buddycard_nether23",
+      "title": "Unwelcome Visitor",
+      "text": "A death ability that searches your deck at random 32 times for a buddycard from the nether set. If it finds one before running out of rolls, it will play it for free from your deck, otherwise it will do nothing."
+    },
+    {
+      "type": "spotlight",
+      "item": "buddycards:buddycard_nether24",
+      "title": "Withering Heights",
+      "text": "A play ability that gives Triple the Airborne status effect.",
+      "link_recipe": true
+    },
+    {
+      "type": "spotlight",
+      "item": "buddycards:buddycard_nether24",
+      "title": "Withering Shot",
+      "text": "A 2 energy activated ability that deals 2 damage to an opposing buddy and gives them the wither status effect. This is indirect and does not cause attack or damage triggers"
+    },
+    {
+      "type": "spotlight",
+      "item": "buddycards:buddycard_nether25",
+      "title": "Charged Respawn",
+      "text": "An observe death ability that will attempt to save one of your buddies from death by losing 1 power and setting the dying buddy's power to 1. Will only activate while Anker has 1 or more power.",
+      "link_recipe": true
+    },
+    {
+      "type": "spotlight",
+      "item": "buddycards:buddycard_nether25",
+      "title": "Respawn Recharge",
+      "text": "A 2 energy activated ability that will increase Anker's power by 1."
+    },
+    {
+      "type": "spotlight",
+      "item": "buddycards:buddycard_nether26",
+      "title": "Beacon Buff",
+      "text": "A play ability that increases each of your other buddies powers by 2.",
+      "link_recipe": true
+    },
+    {
+      "type": "spotlight",
+      "item": "buddycards:buddycard_nether26",
+      "title": "Color Shift",
+      "text": "A 4 energy activated ability that will choose a random effect between strength, regeneration, and resistance, then give all of your buddies that status effect."
+    },
+    {
+      "type": "spotlight",
+      "item": "buddycards:buddycard_nether27",
+      "title": "Ancient Coating",
+      "text": "A play ability that will increase each of your buddies' powers by 2, or by 4 if they have the fire status effect or are opposing a buddy in the fire grouping.",
+      "link_recipe": true
+    },
+    {
+      "type": "spotlight",
+      "item": "buddycards:buddycard_nether27",
+      "title": "Gear Upgrade",
+      "text": "A remove activated ability that will increase each of your other buddies power by 1, or by N-Rite's power if they are in the enchantable grouping. If no buddies would get a buff this way (such as if N-Rite is your only buddy) this will not trigger and N-Rite will not be removed."
+    }
+  ]
+}

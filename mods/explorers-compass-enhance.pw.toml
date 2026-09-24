@@ -1,0 +1,18 @@
+filename = "Explorer's Compass Enhance-1.21.1-neoforge-1.6.0.jar"
+name = "Explorer's Compass Enhance"
+side = 'server'
+x-prismlauncher-dependencies = []
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = "Explorer's Compass Enhance-1.21.1-neoforge-1.6.0.jar"
+
+[download]
+hash = 'cdd09ed4415b6174e662094c2f8bb9fa826c5c8b'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 8901823
+project-id = 1649198

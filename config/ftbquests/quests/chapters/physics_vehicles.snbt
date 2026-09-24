@@ -1,0 +1,199 @@
+{
+	default_hide_dependency_lines: false
+	default_min_width: 300
+	default_quest_shape: ""
+	filename: "physics_vehicles"
+	group: ""
+	icon: {
+		id: "simulated:physics_assembler"
+	}
+	id: "35248BDAFBC33F7B"
+	images: [ ]
+	order_index: 14
+	quest_links: [ ]
+	quests: [
+		{
+			icon: {
+				id: "offroad:tire"
+			}
+			id: "31C3C301FC209CCF"
+			shape: "square"
+			size: 1.5d
+			tasks: [{
+				id: "1C25C7293A90715F"
+				type: "checkmark"
+			}]
+			x: 0.0d
+			y: 0.0d
+		}
+		{
+			id: "1E7AC75B02BBD1CD"
+			rewards: [{
+				id: "5CF4FB6B7FEA0D19"
+				type: "xp"
+				xp: 100
+			}]
+			tasks: [{
+				id: "073C007915A760AE"
+				item: { count: 1, id: "simulated:physics_assembler" }
+				type: "item"
+			}]
+			x: 0.0d
+			y: 2.0d
+		}
+		{
+			id: "6616B927F23C0476"
+			rewards: [{
+				id: "77B43870287C70E8"
+				type: "xp"
+				xp: 100
+			}]
+			tasks: [{
+				id: "4970318FBB404175"
+				item: { count: 1, id: "simulated:engine_assembly" }
+				type: "item"
+			}]
+			x: -2.0d
+			y: 4.0d
+		}
+		{
+			id: "2FCFF14A67D9CF72"
+			tasks: [
+				{
+					id: "5135B00B5B0FD82D"
+					item: { count: 1, id: "simulated:steering_wheel" }
+					type: "item"
+				}
+				{
+					id: "61FF65D7BCE378C8"
+					item: { count: 1, id: "simulated:throttle_lever" }
+					type: "item"
+				}
+			]
+			x: 2.0d
+			y: 4.0d
+		}
+		{
+			dependencies: [
+				"6616B927F23C0476"
+				"2FCFF14A67D9CF72"
+			]
+			id: "41690C38D820FC81"
+			rewards: [{
+				id: "1F3E65A5FAA384AA"
+				type: "xp"
+				xp: 200
+			}]
+			shape: "diamond"
+			tasks: [{
+				id: "71D9A85F0170FCBF"
+				item: { count: 1, id: "simulated:gyroscopic_mechanism" }
+				type: "item"
+			}]
+			x: 0.0d
+			y: 6.0d
+		}
+		{
+			dependencies: ["41690C38D820FC81"]
+			id: "41CDAF47BD7AEF75"
+			optional: true
+			tasks: [
+				{
+					id: "0A68C87A99008319"
+					item: { count: 1, id: "simulated:velocity_sensor" }
+					type: "item"
+				}
+				{
+					id: "0EC003D1FDD0A7C0"
+					item: { count: 1, id: "simulated:altitude_sensor" }
+					type: "item"
+				}
+				{
+					id: "0918549012D9D8CF"
+					item: { count: 1, id: "simulated:navigation_table" }
+					type: "item"
+				}
+			]
+			x: -2.5d
+			y: 8.0d
+		}
+		{
+			dependencies: ["41690C38D820FC81"]
+			id: "7B4909EDDE0A862E"
+			rewards: [{
+				id: "1E196B9711972C8D"
+				type: "xp"
+				xp: 150
+			}]
+			tasks: [
+				{
+					id: "389A1C8697FF669E"
+					item: { count: 1, id: "offroad:wheel_mount" }
+					type: "item"
+				}
+				{
+					id: "13BAF7B59597970B"
+					item: { count: 1, id: "offroad:tire" }
+					type: "item"
+				}
+			]
+			x: 0.0d
+			y: 8.0d
+		}
+		{
+			id: "23E142C37B08BE05"
+			optional: true
+			tasks: [
+				{
+					id: "5363DA3D190C5E03"
+					item: { count: 1, id: "offroad:large_tire" }
+					type: "item"
+				}
+				{
+					id: "63B4F6875B1CF1AD"
+					item: { count: 1, id: "offroad:monstrous_tire" }
+					type: "item"
+				}
+			]
+			x: 0.0d
+			y: 10.0d
+		}
+		{
+			id: "1C5CDB5B549A3D89"
+			optional: true
+			tasks: [
+				{
+					id: "31420C52DDEE92A1"
+					item: { count: 1, id: "offroad:borehead_bearing" }
+					type: "item"
+				}
+				{
+					id: "21211AC9981B2B32"
+					item: { count: 1, id: "offroad:rockcutting_wheel" }
+					type: "item"
+				}
+			]
+			x: 2.5d
+			y: 10.0d
+		}
+		{
+			dependencies: ["41690C38D820FC81"]
+			id: "547AFC3576EE4B9E"
+			optional: true
+			tasks: [
+				{
+					id: "2E5754F20CA49BAB"
+					item: { count: 1, id: "simulated:docking_connector" }
+					type: "item"
+				}
+				{
+					id: "73A5D11D6AB65729"
+					item: { count: 1, id: "simulated:rope_winch" }
+					type: "item"
+				}
+			]
+			x: 2.5d
+			y: 8.0d
+		}
+	]
+}

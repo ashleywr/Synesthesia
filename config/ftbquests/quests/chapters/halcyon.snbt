@@ -5,7 +5,7 @@
 	group: ""
 	id: "28CCF30803B14A6E"
 	images: [ ]
-	order_index: 0
+	order_index: 1
 	quest_links: [ ]
 	quests: [
 		{
@@ -146,7 +146,7 @@
 			}]
 			tasks: [{
 				id: "58F6B9518DE8E825"
-				item: { count: 1, id: "pastel:amethyst_powder" }
+				item: { components: { "ftbquests:missing_item": "pastel:amethyst_powder" }, count: 1, id: "ftbquests:missing_item" }
 				type: "item"
 			}]
 			x: -2.0d

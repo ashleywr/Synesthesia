@@ -1,0 +1,18 @@
+filename = 'maps3d_1.2.1-1.21.1-neoforge.jar'
+name = '3D Maps'
+side = 'server'
+x-prismlauncher-dependencies = []
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = 'maps3d_1.2.1-1.21.1-neoforge.jar'
+
+[download]
+hash = '86541d4ebe7e418d74e51cb58ec77ef71dfdd2ae'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 8939342
+project-id = 1682523

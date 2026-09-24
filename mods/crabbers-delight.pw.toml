@@ -1,0 +1,21 @@
+filename = 'crabbersdelight-1.21.1-1.3.0.jar'
+name = "Crabber's Delight"
+side = 'server'
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = 'crabbersdelight-1.21.1-1.3.0.jar'
+
+[download]
+hash = 'fea69673b797c2ba9b825547960d1961b61012ce'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 8797361
+project-id = 892827
+
+[[x-prismlauncher-dependencies]]
+addonId = '398521'
+type = 'REQUIRED'

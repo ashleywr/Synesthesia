@@ -1,0 +1,25 @@
+filename = 'biology-dictionary-1.3.1-mc1.21.1-neoforge.jar'
+name = 'Biology Dictionary'
+side = 'server'
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = 'Biology Dictionary v1.3.1-mc1.21.1-neoforge'
+
+[download]
+hash = 'd3ebb0427905c40504927567d422382335a1257a'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 8958182
+project-id = 1426515
+
+[[x-prismlauncher-dependencies]]
+addonId = '419699'
+type = 'REQUIRED'
+
+[[x-prismlauncher-dependencies]]
+addonId = '348521'
+type = 'REQUIRED'

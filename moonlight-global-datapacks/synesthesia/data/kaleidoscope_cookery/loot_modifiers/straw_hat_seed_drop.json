@@ -1,5 +1,0 @@
-{
-  "type": "neoforge:add_table",
-  "conditions": [ { "condition": "minecraft:random_chance", "chance": 0.0 } ],
-  "table": "kaleidoscope_cookery:straw_hat_seed_drop"
-}

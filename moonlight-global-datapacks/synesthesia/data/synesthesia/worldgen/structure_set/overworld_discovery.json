@@ -5,24 +5,8 @@
       "weight": 1
     },
     {
-      "structure": "born_in_chaos_v1:infernal_pumpkin",
-      "weight": 1
-    },
-    {
-      "structure": "born_in_chaos_v1:mound_of_hounds",
-      "weight": 1
-    },
-    {
-      "structure": "born_in_chaos_v1:observation_tower_forest",
-      "weight": 1
-    },
-    {
-      "structure": "born_in_chaos_v1:observation_tower_plains",
-      "weight": 1
-    },
-    {
       "structure": "companions:companions_babayaga",
-      "weight": 1
+      "weight": 2
     },
     {
       "structure": "explorify:badlands_pyramid",

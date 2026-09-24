@@ -1,0 +1,21 @@
+filename = 'integrated_patches v1.1.0-1.21.1.jar'
+name = 'Integrated Patches'
+side = 'server'
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = 'v1.1.0 ~ Integrated Patches 1.21.1'
+
+[download]
+hash = '1d3e7baf33a5479526546020d86611adca6eb81e'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 8917411
+project-id = 1690092
+
+[[x-prismlauncher-dependencies]]
+addonId = '817709'
+type = 'REQUIRED'

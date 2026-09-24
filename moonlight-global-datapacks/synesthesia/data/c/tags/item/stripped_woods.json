@@ -13,34 +13,6 @@
       "required": false
     },
     {
-      "id": "bountifulfares:stripped_apple_wood",
-      "required": false
-    },
-    {
-      "id": "bountifulfares:stripped_hoary_wood",
-      "required": false
-    },
-    {
-      "id": "bountifulfares:stripped_lemon_wood",
-      "required": false
-    },
-    {
-      "id": "bountifulfares:stripped_orange_wood",
-      "required": false
-    },
-    {
-      "id": "bountifulfares:stripped_palm_wood",
-      "required": false
-    },
-    {
-      "id": "bountifulfares:stripped_plum_wood",
-      "required": false
-    },
-    {
-      "id": "bountifulfares:stripped_walnut_wood",
-      "required": false
-    },
-    {
       "id": "caverns_and_chasms:stripped_azalea_wood",
       "required": false
     },

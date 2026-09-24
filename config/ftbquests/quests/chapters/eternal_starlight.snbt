@@ -1,0 +1,175 @@
+{
+	default_hide_dependency_lines: false
+	default_min_width: 300
+	default_quest_shape: ""
+	filename: "eternal_starlight"
+	group: ""
+	icon: {
+		id: "eternal_starlight:orb_of_prophecy"
+	}
+	id: "5C480BA51E02E7E3"
+	images: [ ]
+	order_index: 9
+	quest_links: [ ]
+	quests: [
+		{
+			icon: {
+				id: "eternal_starlight:chiseled_voidstone"
+			}
+			id: "411FD0F535E09554"
+			rewards: [{
+				id: "5889F1B7FFBC1827"
+				type: "xp"
+				xp: 100
+			}]
+			shape: "square"
+			size: 1.5d
+			tasks: [{
+				id: "5904E05997E44CC2"
+				structure: "eternal_starlight:portal_ruins_common"
+				type: "structure"
+			}]
+			x: 0.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["411FD0F535E09554"]
+			id: "4FAB4883910BD2B1"
+			rewards: [{
+				id: "04EFD12499584E3F"
+				type: "xp"
+				xp: 300
+			}]
+			shape: "hexagon"
+			tasks: [{
+				id: "69BEA1B4F7910C0C"
+				item: { count: 1, id: "eternal_starlight:orb_of_prophecy" }
+				type: "item"
+			}]
+			x: 0.0d
+			y: 2.0d
+		}
+		{
+			dependencies: ["4FAB4883910BD2B1"]
+			icon: {
+				id: "eternal_starlight:orb_of_prophecy"
+			}
+			id: "2ECCD4CFC0E26F8E"
+			rewards: [{
+				id: "3685181F2F598661"
+				type: "xp"
+				xp: 400
+			}]
+			shape: "diamond"
+			tasks: [{
+				dimension: "eternal_starlight:starlight"
+				id: "07431E81615A84FF"
+				type: "dimension"
+			}]
+			x: 0.0d
+			y: 4.0d
+		}
+		{
+			id: "21ECA7ABE57A692F"
+			tasks: [
+				{
+					id: "3CBC9B28AF3AE2FD"
+					item: { count: 1, id: "eternal_starlight:lunar_log" }
+					type: "item"
+				}
+				{
+					biome: "eternal_starlight:starlight_forest"
+					id: "3D6D1F32D2E5BA06"
+					type: "biome"
+				}
+			]
+			x: -3.0d
+			y: 6.0d
+		}
+		{
+			icon: {
+				id: "eternal_starlight:scarlet_log"
+			}
+			id: "675C0FF656B7191C"
+			optional: true
+			tasks: [{
+				biome: "eternal_starlight:scarlet_forest"
+				id: "52A4396831058C38"
+				type: "biome"
+			}]
+			x: -1.0d
+			y: 6.0d
+		}
+		{
+			icon: {
+				id: "eternal_starlight:abysslate"
+			}
+			id: "1090C1B7BAFB5607"
+			optional: true
+			tasks: [{
+				biome: "eternal_starlight:the_abyss"
+				id: "287126D4E52D6ED5"
+				type: "biome"
+			}]
+			x: 1.0d
+			y: 6.0d
+		}
+		{
+			icon: {
+				id: "eternal_starlight:aethersent_ingot"
+			}
+			id: "42ECEA047E1179FB"
+			rewards: [{
+				id: "76B232E1AC953072"
+				type: "xp"
+				xp: 200
+			}]
+			tasks: [{
+				id: "4AEBCABEE56107AD"
+				structure: "eternal_starlight:golem_forge"
+				type: "structure"
+			}]
+			x: 3.0d
+			y: 6.0d
+		}
+		{
+			id: "5AA3A93E3709325D"
+			rewards: [{
+				id: "1F21629C4BC1180C"
+				type: "xp"
+				xp: 250
+			}]
+			tasks: [
+				{
+					id: "74AC519248625B8A"
+					item: { count: 1, id: "eternal_starlight:amaramber_ingot" }
+					type: "item"
+				}
+				{
+					id: "0A2DBD1EE3164DDB"
+					item: { count: 1, id: "eternal_starlight:deepsilver_ingot" }
+					type: "item"
+				}
+				{
+					id: "018219D93714CDE3"
+					item: { count: 1, id: "eternal_starlight:aethersent_ingot" }
+					type: "item"
+				}
+			]
+			x: 3.0d
+			y: 8.0d
+		}
+		{
+			dependencies: ["5AA3A93E3709325D"]
+			id: "1D5ECB0D72207DAA"
+			optional: true
+			tasks: [{
+				id: "7B055F56AAD191DF"
+				item: { count: 1, id: "eternal_starlight:crystal_greatsword" }
+				type: "item"
+			}]
+			x: 3.0d
+			y: 10.0d
+		}
+	]
+}

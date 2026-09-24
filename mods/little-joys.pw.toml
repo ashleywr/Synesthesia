@@ -1,0 +1,21 @@
+filename = 'littlejoys-neoforge-1.21.1-21.1.18.jar'
+name = 'Little Joys'
+side = 'both'
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = '21.1.18+neoforge-1.21.1'
+
+[download]
+hash = '5914203c79d78d72df8c2365c9d7f713138567a6fc1022b491560325f73c3ba7910d5d81b6aa9dbb14561bc4fb727a4672a8f0057efc71ca889c36abe448aa7b'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/v0j2ftEp/versions/r4Ul24sj/littlejoys-neoforge-1.21.1-21.1.18.jar'
+
+[update.modrinth]
+mod-id = 'v0j2ftEp'
+version = 'r4Ul24sj'
+
+[[x-prismlauncher-dependencies]]
+addonId = 'MBAkmtvl'
+type = 'REQUIRED'

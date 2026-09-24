@@ -1,0 +1,117 @@
+{
+	default_hide_dependency_lines: false
+	default_min_width: 300
+	default_quest_shape: ""
+	filename: "building"
+	group: ""
+	icon: {
+		id: "domum_ornamentum:architectscutter"
+	}
+	id: "696C37F39C9700F3"
+	images: [ ]
+	order_index: 16
+	quest_links: [ ]
+	quests: [
+		{
+			icon: {
+				id: "handcrafted:oak_cupboard"
+			}
+			id: "67ACE76BCC1BBDE5"
+			shape: "square"
+			size: 2.0d
+			tasks: [{
+				id: "286D1FE68680C0BD"
+				type: "checkmark"
+			}]
+			x: 0.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["67ACE76BCC1BBDE5"]
+			id: "3CB53FC53E3B3134"
+			rewards: [{
+				id: "7E6B59353F85C115"
+				type: "xp"
+				xp: 50
+			}]
+			tasks: [
+				{
+					id: "4DC3F1E7529B44FC"
+					item: { count: 1, id: "handcrafted:oak_table" }
+					type: "item"
+				}
+				{
+					id: "4442CC28F0173C6B"
+					item: { count: 1, id: "handcrafted:oak_chair" }
+					type: "item"
+				}
+				{
+					id: "045AD5AAF224F29E"
+					item: { count: 1, id: "handcrafted:oak_cupboard" }
+					type: "item"
+				}
+			]
+			x: -3.0d
+			y: 3.0d
+		}
+		{
+			dependencies: ["67ACE76BCC1BBDE5"]
+			id: "7847CE80B01735E2"
+			tasks: [{
+				id: "71DF8AAD84526EFB"
+				item: { count: 1, id: "quark:crate" }
+				type: "item"
+			}]
+			x: 0.0d
+			y: 3.0d
+		}
+		{
+			dependencies: ["67ACE76BCC1BBDE5"]
+			id: "6DD5B22573B56BCF"
+			rewards: [{
+				id: "2520005159C31BB9"
+				type: "xp"
+				xp: 100
+			}]
+			tasks: [{
+				id: "6BB51CAB3E92C572"
+				item: { count: 1, id: "domum_ornamentum:architectscutter" }
+				type: "item"
+			}]
+			x: 3.0d
+			y: 3.0d
+		}
+		{
+			dependencies: ["7847CE80B01735E2"]
+			icon: {
+				id: "quark:crate"
+			}
+			id: "4BDAB1B3CD80CB36"
+			optional: true
+			tasks: [{
+				id: "35C58A4C8B833873"
+				type: "checkmark"
+			}]
+			x: 0.0d
+			y: 6.0d
+		}
+		{
+			icon: {
+				id: "handcrafted:oak_table"
+			}
+			id: "2D1ACDD638CFA16A"
+			rewards: [{
+				id: "0CFC5F79AB7906B7"
+				type: "xp"
+				xp: 150
+			}]
+			shape: "diamond"
+			tasks: [{
+				id: "1C10F4EC8FEE14C9"
+				type: "checkmark"
+			}]
+			x: 0.0d
+			y: 9.0d
+		}
+	]
+}

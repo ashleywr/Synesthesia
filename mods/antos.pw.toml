@@ -1,0 +1,18 @@
+filename = 'antos-neoforge-1.21.1-1.1.1.jar'
+name = 'AntOS'
+side = 'server'
+x-prismlauncher-dependencies = []
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21.1' ]
+x-prismlauncher-release-type = 'beta'
+x-prismlauncher-version-number = 'antos-neoforge-1.21.1-1.1.1.jar'
+
+[download]
+hash = '7ac8f9278821bff09d952bcc170539438891ef3b'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 8944440
+project-id = 1700593

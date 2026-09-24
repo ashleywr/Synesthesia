@@ -1,0 +1,21 @@
+filename = 'Cocktails-Delight-1.21.1-NeoForge-1.1.11.jar'
+name = 'Cocktails Delight'
+side = 'server'
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = 'Cocktails-Delight-1.21.1-NeoForge-1.1.11.jar'
+
+[download]
+hash = '3d1ef17e00175bb698f2ee304931426944d3344a'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 8801627
+project-id = 1198178
+
+[[x-prismlauncher-dependencies]]
+addonId = '637808'
+type = 'REQUIRED'

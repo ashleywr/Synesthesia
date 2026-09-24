@@ -1,0 +1,8 @@
+{
+  "mod_id": "gravestone",
+  "priority": 210,
+  "mode": "protect_entity",
+  "category": "managed_living",
+  "entity_ids": ["gravestone:player_ghost"],
+  "reason": "Player death ghosts are persistent recovery entities and must not be limited as ambient mobs."
+}

@@ -1,29 +1,18 @@
 filename = 'zfastnoise-1.0.13+1.21.1+neoforge.jar'
 name = 'Fast Noise'
-side = 'both'
+side = ''
+x-prismlauncher-dependencies = []
 x-prismlauncher-loaders = [ 'neoforge' ]
 x-prismlauncher-mc-versions = [ '1.21.1', '1.21.2', '1.21.3', '1.21.4', '1.21.5', '1.21.6', '1.21.7', '1.21.8' ]
 x-prismlauncher-release-type = 'release'
-x-prismlauncher-version-number = '1.0.13+1.21.1+neoforge'
+x-prismlauncher-version-number = 'zfastnoise-1.0.13+1.21.1+neoforge.jar'
 
 [download]
-hash = '23c50dc3d75da96d87b065381e32a979528017f872d056bf1cb012e085122734ab218ea8af7b5570403d83c88ebfb53296969af47198fdb637058753d3974278'
-hash-format = 'sha512'
-mode = 'url'
-url = 'https://cdn.modrinth.com/data/OnlVIpq5/versions/9vSFkDAr/zfastnoise-1.0.13%2B1.21.1%2Bneoforge.jar'
+hash = '7b9f0b4d62a6e30505f8e64ebb58dfd2dc46c81e'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
 
-[update.modrinth]
-mod-id = 'OnlVIpq5'
-version = '9vSFkDAr'
-
-[[x-prismlauncher-dependencies]]
-addonId = 'sml2FMaA'
-type = 'INCOMPATIBLE'
-
-[[x-prismlauncher-dependencies]]
-addonId = 'KOHu7RCS'
-type = 'INCOMPATIBLE'
-
-[[x-prismlauncher-dependencies]]
-addonId = 'hasdd01q'
-type = 'INCOMPATIBLE'
+[update.curseforge]
+file-id = 8393202
+project-id = 1460602
