@@ -222,11 +222,15 @@ hash = "ee322fc40092bad19851d0344bb0554155ca025d95e975c52a0dd33fb0c5bc0b"
 
 [[files]]
 file = "config/quark-common.toml"
-hash = "4d04327db75e04c08fb25ae61728e7b3107833f38b7c9a115bb4218fc5907985"
+hash = "9c61748e72dccfbaaa807b24a047dfb157f664c47118148bbd84cf473f16cd0c"
 
 [[files]]
 file = "config/railways-server.toml"
 hash = "460613e68ae577f8adb599fe762dba276da5f08698d03ffe14f37d09cbee3ccd"
+
+[[files]]
+file = "config/rechanted-common.toml"
+hash = "8fbf24734e88ab0f157457cf7497c0dc0fc4d8c6cfe213bc7651b325dc791be7"
 
 [[files]]
 file = "config/sophisticatedbackpacks-server.toml"
@@ -305,6 +309,10 @@ file = "kubejs/assets/forbidden_arcanus/lang/en_us.json"
 hash = "f2ba1c14d16b5efe6ad1c017f2ccdc29a666370f66df6bf971f015b1929d9841"
 
 [[files]]
+file = "kubejs/assets/rechanted/lang/en_us.json"
+hash = "a5c7e1a32585ed6ef0cf49fabb3a6568127abf6a3ea32041572ba696e8a5a6b5"
+
+[[files]]
 file = "kubejs/assets/youkaishomecoming/lang/en_us.json"
 hash = "66e1927606a99371763b787d3153ba4da9c2a1f407e9e9939ab2ae49142cf478"
 
@@ -319,6 +327,10 @@ hash = "37ac12a8ee67bea9d4f56b4d512db1b917802b85136690e880017c87fbe08fe0"
 [[files]]
 file = "kubejs/server_scripts/douzhi_fix.js"
 hash = "1593d2cdb81410a26f1c9ebcb69894d1f69cec2bf3245708fdac7e75c6d2f834"
+
+[[files]]
+file = "kubejs/server_scripts/enchanting_compat.js"
+hash = "a6580fc5e42ecc151dad9e6b5a5322c8ebb6ecd6b98b16303ab429b003b604e6"
 
 [[files]]
 file = "kubejs/server_scripts/hide_extras.js"

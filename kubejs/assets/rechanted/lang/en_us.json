@@ -1,0 +1,8 @@
+{
+  "enchantment.antarchy.chronosphere.desc": "Creates a time-dilation field around the wearer; higher levels increase its radius.",
+  "enchantment.antarchy.feather_rising.desc": "Negates fall damage while worn.",
+  "enchantment.farmersdelight.backstabbing.desc": "Amplifies damage when striking a target from behind.",
+  "enchantment.forbidden_arcanus.soul_looting.desc": "Grants a 5% chance per level for a slain entity to spawn a Lost Soul.",
+  "enchantment.netherexp.longshot.desc": "Improves a shotgun's effectiveness at long range.",
+  "enchantment.netherexp.volley.desc": "Adds more pellets to each shotgun blast, but increases the weapon's cooldown."
+}
